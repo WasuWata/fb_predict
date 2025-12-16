@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Olivier Giroud,18.0,fr FRA,FW,33-145,70,1,0,0,0,4,2,0,0,39,1,1,0,0.3,0.3,0.0,1,0,21,32,65.6,1,23,0,0,0,Chelsea
+Tammy Abraham,9.0,eng ENG,FW,22-143,20,0,0,0,0,1,1,0,0,11,1,0,1,0.7,0.7,0.0,0,0,2,4,50.0,0,3,0,1,0,Chelsea
+Ross Barkley,8.0,eng ENG,AM,26-079,76,0,1,0,0,4,1,0,0,42,2,0,1,0.4,0.4,0.1,4,2,20,29,69.0,1,31,3,1,1,Chelsea
+Willian,10.0,br BRA,AM,31-197,14,0,0,0,0,1,1,0,0,17,2,0,0,0.1,0.1,0.0,1,0,12,14,85.7,0,13,3,1,1,Chelsea
+Mason Mount,19.0,eng ENG,AM,21-043,90,0,0,0,0,1,1,0,0,58,2,0,4,0.1,0.1,0.0,6,1,32,39,82.1,2,42,2,4,1,Chelsea
+Mateo Kovačić,17.0,hr CRO,CM,25-292,90,0,0,0,0,1,0,0,0,82,1,1,0,0.0,0.0,0.0,2,0,72,77,93.5,10,69,2,5,5,Chelsea
+Jorginho,5.0,it ITA,CM,28-064,90,0,0,0,0,0,0,0,0,86,4,4,2,0.0,0.0,0.1,5,0,65,74,87.8,5,64,1,1,1,Chelsea
+Marcos Alonso,3.0,es ESP,WB,29-056,90,1,0,0,0,3,1,0,0,76,3,1,3,0.2,0.2,0.1,3,0,39,52,75.0,5,49,3,1,0,Chelsea
+Reece James,24.0,eng ENG,WB,20-076,90,0,0,0,0,2,0,0,0,66,2,1,2,0.1,0.1,0.2,4,0,40,51,78.4,2,52,0,3,3,Chelsea
+Antonio Rüdiger,2.0,de GER,CB,26-356,90,0,0,0,0,0,0,0,0,61,0,1,0,0.0,0.0,0.1,2,0,45,56,80.4,1,46,0,0,0,Chelsea
+Andreas Christensen,4.0,dk DEN,CB,23-318,90,0,0,0,0,0,0,1,0,61,4,2,1,0.0,0.0,0.0,0,0,45,52,86.5,0,41,0,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,CB,30-178,90,0,0,0,0,0,0,0,0,88,4,4,2,0.0,0.0,0.0,1,0,71,77,92.2,4,58,2,0,0,Chelsea
+Willy Caballero,13.0,ar ARG,GK,38-147,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,18,33,54.5,0,26,0,0,0,Chelsea
+13 Players,,,,,990,2,1,0,0,17,7,1,0,723,26,15,16,1.8,1.8,0.6,29,3,482,590,81.7,31,517,16,17,12,Chelsea
+Steven Bergwijn,23.0,nl NED,FW,22-137,77,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.1,2,0,21,23,91.3,1,21,2,3,2,Tottenham Hotspur
+Dele Alli,20.0,eng ENG,FW,23-317,13,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,0,6,1,0,0,Tottenham Hotspur
+Lucas Moura,27.0,br BRA,"LM,AM",27-193,90,0,0,0,0,2,1,0,0,62,0,1,0,0.1,0.1,0.0,3,0,39,50,78.0,4,53,4,3,1,Tottenham Hotspur
+Harry Winks,8.0,eng ENG,CM,24-020,90,0,0,0,0,0,0,1,0,82,0,1,0,0.0,0.0,0.0,1,0,66,73,90.4,6,59,1,1,0,Tottenham Hotspur
+Tanguy Ndombele,28.0,fr FRA,CM,23-056,62,0,0,0,0,0,0,0,0,43,1,0,1,0.0,0.0,0.0,1,0,32,36,88.9,2,34,1,3,3,Tottenham Hotspur
+Érik Lamela,11.0,ar ARG,AM,27-355,28,0,0,0,0,1,0,0,0,28,1,0,0,0.1,0.1,0.0,1,0,22,27,81.5,0,25,2,2,2,Tottenham Hotspur
+Giovani Lo Celso,18.0,ar ARG,"RM,CM",23-319,90,0,0,0,0,0,0,1,0,83,8,0,1,0.0,0.0,0.0,2,0,52,69,75.4,3,56,5,5,5,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,"LB,WB",26-304,90,0,0,0,0,0,0,0,0,64,2,1,2,0.0,0.0,0.0,0,0,31,54,57.4,1,30,1,2,1,Tottenham Hotspur
+Jan Vertonghen,5.0,be BEL,CB,32-304,90,0,0,0,0,0,0,0,0,78,2,2,1,0.0,0.0,0.0,0,0,55,68,80.9,2,52,0,1,1,Tottenham Hotspur
+Toby Alderweireld,4.0,be BEL,CB,30-357,77,0,0,0,0,1,1,0,0,55,3,0,0,0.0,0.0,0.0,0,0,37,45,82.2,1,32,0,0,0,Tottenham Hotspur
+Serge Aurier,24.0,ci CIV,"WB,CB",27-060,13,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,0,0,13,18,72.2,1,18,1,1,0,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,23-255,90,0,0,0,0,1,1,0,0,82,6,1,0,0.0,0.0,0.0,0,0,57,68,83.8,1,52,0,1,0,Tottenham Hotspur
+Japhet Tanganga,39.0,eng ENG,"RB,WB,CB",20-328,90,0,0,0,0,0,0,0,0,59,0,2,1,0.0,0.0,0.0,0,0,39,47,83.0,4,40,1,1,1,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,33-058,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,32,38,84.2,0,24,0,0,0,Tottenham Hotspur
+14 Players,,,,,990,0,0,0,0,5,3,2,0,737,24,8,7,0.2,0.2,0.2,10,0,500,621,80.5,26,502,19,23,16,Tottenham Hotspur

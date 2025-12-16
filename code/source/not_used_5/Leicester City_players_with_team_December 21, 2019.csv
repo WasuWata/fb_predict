@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Gabriel Jesus,9.0,br BRA,FW,22-262,90,1,0,0,0,4,4,0,0,29,2,0,1,1.2,1.2,0.0,0,0,17,20,85.0,0,19,3,0,0,Leicester City
+Raheem Sterling,7.0,eng ENG,LW,25-013,88,0,0,0,0,2,1,0,0,51,0,0,1,0.3,0.3,0.2,6,1,31,38,81.6,4,39,7,4,1,Leicester City
+Phil Foden,47.0,eng ENG,"AM,LW",19-207,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Leicester City
+Riyad Mahrez,26.0,dz ALG,"RW,AM",28-303,90,1,0,0,0,10,4,0,0,71,2,1,1,0.6,0.6,0.8,12,1,40,52,76.9,8,54,7,5,3,Leicester City
+Kevin De Bruyne,17.0,be BEL,AM,28-176,89,0,1,0,0,4,2,1,0,56,5,0,0,0.2,0.2,1.1,10,2,32,41,78.0,6,36,5,3,2,Leicester City
+Sergio Agüero,10.0,ar ARG,"FW,RW",31-202,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Leicester City
+Bernardo Silva,20.0,pt POR,DM,25-133,90,0,0,0,0,0,0,0,0,104,2,1,2,0.0,0.0,0.1,4,0,90,98,91.8,6,79,0,0,0,Leicester City
+İlkay Gündoğan,8.0,de GER,DM,29-058,78,1,0,1,1,1,0,1,0,72,0,2,1,0.8,0.0,0.0,3,0,62,66,93.9,6,46,2,0,0,Leicester City
+Rodri,16.0,es ESP,DM,23-182,12,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,28,30,93.3,0,21,0,0,0,Leicester City
+Benjamin Mendy,22.0,fr FRA,LB,25-157,90,0,1,0,0,0,0,0,0,91,2,2,0,0.0,0.0,0.4,6,1,71,80,88.8,7,59,1,3,2,Leicester City
+Nicolás Otamendi,30.0,ar ARG,CB,31-312,90,0,0,0,0,1,0,0,0,101,1,3,0,0.2,0.2,0.0,0,0,85,93,91.4,3,76,0,0,0,Leicester City
+Fernandinho,25.0,br BRA,CB,34-231,90,0,0,0,0,0,0,0,0,97,4,0,0,0.0,0.0,0.0,0,0,85,93,91.4,8,76,2,0,0,Leicester City
+Kyle Walker,2.0,eng ENG,RB,29-207,90,0,0,0,0,0,0,0,0,82,1,1,0,0.0,0.0,0.1,2,1,66,76,86.8,5,48,1,2,2,Leicester City
+Ederson,31.0,br BRA,GK,26-126,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,37,40,92.5,0,31,0,0,0,Leicester City
+14 Players,,,,,990,3,2,1,1,22,11,2,0,829,19,10,6,3.3,2.5,2.6,44,6,647,730,88.6,53,585,28,17,10,Leicester City

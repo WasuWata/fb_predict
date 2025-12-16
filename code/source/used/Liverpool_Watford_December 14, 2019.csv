@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Mohamed Salah,11.0,eg EGY,FW,27-182,90,2,0,0,0,7,3,0,0,42,1,1,0,1.0,1.0,0.0,3,0,18,25,72.0,2,29,5,5,1,Liverpool
+Sadio Mané,10.0,sn SEN,"LW,RW",27-248,90,0,1,0,0,2,1,0,0,58,1,0,0,0.1,0.1,0.1,6,1,29,43,67.4,7,45,10,3,1,Liverpool
+Xherdan Shaqiri,23.0,ch SUI,RW,28-065,69,0,0,0,0,1,0,0,0,44,1,0,0,0.0,0.0,0.0,0,0,30,37,81.1,5,30,0,1,0,Liverpool
+Alex Oxlade-Chamberlain,15.0,eng ENG,"RW,RM",26-121,21,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,8,11,72.7,1,8,0,2,0,Liverpool
+Roberto Firmino,9.0,br BRA,AM,28-073,87,0,0,0,0,2,2,0,0,52,3,0,0,0.2,0.2,0.1,3,1,27,36,75.0,4,34,4,5,2,Liverpool
+Divock Origi,27.0,be BEL,LW,24-240,3,0,1,0,0,1,0,0,0,2,0,0,0,0.1,0.1,0.5,1,1,0,1,0.0,0,0,0,0,0,Liverpool
+Georginio Wijnaldum,5.0,nl NED,DM,29-033,58,0,0,0,0,0,0,0,0,52,2,1,0,0.0,0.0,0.0,1,0,34,40,85.0,2,37,4,3,1,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,25-278,32,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.1,1,0,19,22,86.4,2,12,1,0,0,Liverpool
+Jordan Henderson,14.0,eng ENG,"DM,CM",29-180,90,0,0,0,0,2,0,1,0,89,1,1,0,0.1,0.1,0.0,1,0,62,83,74.7,7,60,0,2,1,Liverpool
+James Milner,7.0,eng ENG,"LB,DM,LM",33-344,90,0,0,0,0,1,0,1,0,85,0,0,1,0.0,0.0,0.1,2,0,69,80,86.3,4,54,2,1,1,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,28-159,90,0,0,0,0,0,0,0,0,113,0,1,1,0.0,0.0,0.0,1,0,100,109,91.7,4,90,1,1,1,Liverpool
+Joe Gomez,12.0,eng ENG,CB,22-205,90,0,0,0,0,0,0,0,0,117,3,2,0,0.0,0.0,0.0,1,0,92,108,85.2,8,90,1,1,1,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,21-068,90,0,0,0,0,0,0,0,0,96,2,2,1,0.0,0.0,0.0,3,0,55,88,62.5,6,53,3,1,1,Liverpool
+Alisson,1.0,br BRA,GK,27-073,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,28,30,93.3,0,19,0,0,0,Liverpool
+14 Players,,,,,990,2,2,0,0,16,6,2,0,818,14,9,3,1.5,1.5,1.0,25,3,571,713,80.1,52,561,31,25,10,Liverpool
+Troy Deeney,9.0,eng ENG,FW,31-168,74,0,0,0,0,0,0,0,0,33,2,0,0,0.0,0.0,0.3,1,0,13,23,56.5,3,16,0,0,0,Watford
+Andre Gray,18.0,jm JAM,FW,28-171,16,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,2,5,40.0,1,5,0,1,1,Watford
+Gerard Deulofeu,7.0,es ESP,LW,25-276,90,0,0,0,0,1,1,0,0,42,1,1,0,0.3,0.3,0.0,3,0,22,36,61.1,1,31,6,1,1,Watford
+Ismaila Sarr,23.0,sn SEN,RW,21-292,90,0,0,0,0,3,1,0,0,27,1,1,0,0.5,0.5,0.1,5,0,13,15,86.7,1,22,4,4,3,Watford
+Abdoulaye Doucouré,16.0,ml MLI,AM,26-347,86,0,0,0,0,2,0,0,0,47,0,0,0,0.2,0.2,0.2,3,0,31,37,83.8,2,25,2,3,2,Watford
+Domingos Quina,20.0,pt POR,AM,20-026,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Watford
+Will Hughes,19.0,eng ENG,DM,24-241,90,0,0,0,0,1,0,1,0,57,3,2,7,0.0,0.0,0.0,0,0,31,39,79.5,1,19,0,0,0,Watford
+Étienne Capoue,29.0,fr FRA,DM,31-156,90,0,0,0,0,1,0,0,0,55,4,1,1,0.1,0.1,0.1,1,0,28,41,68.3,4,26,0,1,0,Watford
+Kiko Femenía,21.0,es ESP,LB,28-315,90,0,0,0,0,0,0,0,0,59,3,3,0,0.0,0.0,0.0,1,0,32,43,74.4,2,22,1,1,1,Watford
+Craig Cathcart,15.0,nir NIR,CB,30-311,90,0,0,0,0,0,0,0,0,42,4,2,1,0.0,0.0,0.0,0,0,10,22,45.5,0,14,0,0,0,Watford
+Christian Kabasele,27.0,be BEL,CB,28-293,90,0,0,0,0,0,0,0,0,33,3,3,1,0.0,0.0,0.0,0,0,6,14,42.9,0,9,0,2,2,Watford
+Adrian Mariappa,6.0,jm JAM,RB,33-072,90,0,0,0,0,0,0,0,0,35,0,0,2,0.0,0.0,0.0,0,0,12,25,48.0,2,10,0,0,0,Watford
+Ben Foster,26.0,eng ENG,GK,36-255,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,10,38,26.3,0,17,0,0,0,Watford
+13 Players,,,,,990,0,0,0,0,8,2,1,0,475,21,13,13,1.0,1.0,0.6,14,0,211,339,62.2,17,216,13,13,10,Watford

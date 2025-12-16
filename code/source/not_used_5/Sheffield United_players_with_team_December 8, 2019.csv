@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Lys Mousset,22.0,fr FRA,FW,23-303,64,0,0,0,0,2,0,0,0,22,1,0,0,0.1,0.1,0.0,1,0,9,13,69.2,1,15,1,6,4,Sheffield United
+Callum Robinson,11.0,ie IRL,"FW,RM",24-309,26,0,0,0,0,0,0,1,0,9,0,0,1,0.0,0.0,0.0,1,0,4,6,66.7,0,5,1,0,0,Sheffield United
+David McGoldrick,17.0,ie IRL,FW,32-009,82,0,0,0,0,3,1,0,0,54,2,2,0,0.5,0.5,0.1,3,0,22,40,55.0,1,20,3,1,1,Sheffield United
+Oliver McBurnie,9.0,sct SCO,FW,23-187,8,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,8,37.5,1,1,0,0,0,Sheffield United
+John Fleck,4.0,sct SCO,"CM,LM",28-106,90,0,0,0,0,0,0,0,0,56,3,1,2,0.0,0.0,0.0,3,0,39,46,84.8,11,27,0,1,1,Sheffield United
+Oliver Norwood,16.0,nir NIR,CM,28-240,64,0,0,0,0,1,0,1,0,39,1,0,2,0.0,0.0,0.0,0,0,26,34,76.5,6,12,0,0,0,Sheffield United
+Muhamed Bešić,27.0,ba BIH,CM,27-089,26,0,0,0,0,0,0,0,0,21,4,1,2,0.0,0.0,0.1,1,0,10,12,83.3,1,7,1,1,1,Sheffield United
+John Lundstram,7.0,eng ENG,CM,25-293,90,0,0,0,0,1,0,0,0,62,1,1,1,0.0,0.0,0.4,3,1,38,54,70.4,8,33,1,2,2,Sheffield United
+Enda Stevens,3.0,ie IRL,"WB,LB",29-152,90,1,0,0,0,1,1,0,0,57,0,0,1,0.1,0.1,0.0,2,0,35,51,68.6,5,28,4,4,3,Sheffield United
+George Baldock,2.0,gr GRE,"WB,RB",26-274,90,1,1,0,0,1,1,0,0,54,1,0,1,0.0,0.0,0.1,2,2,30,45,66.7,1,24,5,2,2,Sheffield United
+Jack O'Connell,5.0,eng ENG,CB,25-254,90,0,0,0,0,0,0,0,0,70,0,3,2,0.0,0.0,0.0,0,0,40,53,75.5,3,32,0,1,1,Sheffield United
+John Egan,12.0,ie IRL,CB,27-049,90,0,0,0,0,0,0,1,0,47,2,2,4,0.0,0.0,0.0,0,0,22,31,71.0,0,15,0,0,0,Sheffield United
+Chris Basham,6.0,eng ENG,CB,31-141,90,0,0,0,0,0,0,1,0,53,2,3,0,0.0,0.0,0.0,1,1,27,42,64.3,5,13,0,1,0,Sheffield United
+Dean Henderson,1.0,eng ENG,GK,22-271,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,14,32,43.8,0,22,0,0,0,Sheffield United
+14 Players,,,,,990,2,1,0,0,9,3,4,0,589,17,13,16,0.8,0.8,0.6,17,4,319,467,68.3,43,254,16,19,15,Sheffield United

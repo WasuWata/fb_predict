@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Teemu Pukki,22.0,fi FIN,FW,29-254,90,0,0,0,0,3,0,0,0,34,0,0,1,0.2,0.2,0.0,4,0,23,27,85.2,3,15,2,2,2,Norwich City
+Onel Hernández,11.0,cu CUB,LW,26-310,71,0,0,0,0,1,0,0,0,28,1,1,0,0.0,0.0,0.1,3,0,16,21,76.2,1,23,1,3,2,Norwich City
+Todd Cantwell,14.0,eng ENG,LW,21-284,19,0,0,0,0,1,1,0,0,16,1,0,0,0.1,0.1,0.0,2,0,11,13,84.6,0,12,2,0,0,Norwich City
+Emi Buendía,17.0,ar ARG,RW,22-348,90,0,0,0,0,1,0,0,0,103,4,3,0,0.0,0.0,0.3,9,1,65,89,73.0,13,68,5,5,3,Norwich City
+Kenny McLean,23.0,sct SCO,"AM,DM",27-334,90,0,0,0,0,0,0,0,0,57,1,0,1,0.0,0.0,0.1,3,0,36,50,72.0,2,40,3,4,2,Norwich City
+Mario Vrančić,8.0,ba BIH,DM,30-199,80,0,0,0,0,3,1,0,0,78,2,0,1,0.1,0.1,0.1,4,0,55,67,82.1,10,46,3,0,0,Norwich City
+Dennis Srbeny,32.0,de GER,AM,25-217,10,0,0,0,0,1,0,0,0,3,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,4,0,0,0,Norwich City
+Alexander Tettey,27.0,no NOR,DM,33-248,90,1,0,0,0,2,1,0,0,86,0,1,2,0.1,0.1,0.0,0,0,69,74,93.2,4,53,3,2,2,Norwich City
+Sam Byram,3.0,eng ENG,LB,26-083,71,0,0,0,0,0,0,0,0,54,2,0,0,0.0,0.0,0.0,1,0,35,43,81.4,3,24,2,0,0,Norwich City
+Jamal Lewis,12.0,nir NIR,LB,21-317,19,0,0,0,0,0,0,0,0,19,3,1,0,0.0,0.0,0.0,0,0,8,14,57.1,0,7,1,1,0,Norwich City
+Ben Godfrey,4.0,eng ENG,CB,21-327,90,0,0,0,0,2,1,0,0,72,0,0,0,0.1,0.1,0.0,0,0,47,67,70.1,1,41,1,0,0,Norwich City
+Christoph Zimmermann,6.0,de GER,CB,26-330,90,0,1,0,0,0,0,0,0,61,3,1,0,0.0,0.0,0.0,0,0,32,46,69.6,4,29,0,0,0,Norwich City
+Max Aarons,2.0,eng ENG,RB,19-338,90,0,0,0,0,0,0,0,0,69,0,1,1,0.0,0.0,0.0,0,0,48,59,81.4,1,48,1,1,1,Norwich City
+Tim Krul,1.0,nl NED,GK,31-249,90,0,0,0,0,0,0,0,0,62,0,0,0,0.0,0.0,0.0,0,0,42,62,67.7,0,39,0,0,0,Norwich City
+14 Players,,,,,990,1,1,0,0,14,4,0,0,742,17,8,6,0.7,0.7,0.6,26,1,489,634,77.1,42,449,24,18,12,Norwich City
+Lys Mousset,22.0,fr FRA,FW,23-303,64,0,0,0,0,2,0,0,0,22,1,0,0,0.1,0.1,0.0,1,0,9,13,69.2,1,15,1,6,4,Sheffield United
+Callum Robinson,11.0,ie IRL,"FW,RM",24-309,26,0,0,0,0,0,0,1,0,9,0,0,1,0.0,0.0,0.0,1,0,4,6,66.7,0,5,1,0,0,Sheffield United
+David McGoldrick,17.0,ie IRL,FW,32-009,82,0,0,0,0,3,1,0,0,54,2,2,0,0.5,0.5,0.1,3,0,22,40,55.0,1,20,3,1,1,Sheffield United
+Oliver McBurnie,9.0,sct SCO,FW,23-187,8,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,8,37.5,1,1,0,0,0,Sheffield United
+John Fleck,4.0,sct SCO,"CM,LM",28-106,90,0,0,0,0,0,0,0,0,56,3,1,2,0.0,0.0,0.0,3,0,39,46,84.8,11,27,0,1,1,Sheffield United
+Oliver Norwood,16.0,nir NIR,CM,28-240,64,0,0,0,0,1,0,1,0,39,1,0,2,0.0,0.0,0.0,0,0,26,34,76.5,6,12,0,0,0,Sheffield United
+Muhamed Bešić,27.0,ba BIH,CM,27-089,26,0,0,0,0,0,0,0,0,21,4,1,2,0.0,0.0,0.1,1,0,10,12,83.3,1,7,1,1,1,Sheffield United
+John Lundstram,7.0,eng ENG,CM,25-293,90,0,0,0,0,1,0,0,0,62,1,1,1,0.0,0.0,0.4,3,1,38,54,70.4,8,33,1,2,2,Sheffield United
+Enda Stevens,3.0,ie IRL,"WB,LB",29-152,90,1,0,0,0,1,1,0,0,57,0,0,1,0.1,0.1,0.0,2,0,35,51,68.6,5,28,4,4,3,Sheffield United
+George Baldock,2.0,gr GRE,"WB,RB",26-274,90,1,1,0,0,1,1,0,0,54,1,0,1,0.0,0.0,0.1,2,2,30,45,66.7,1,24,5,2,2,Sheffield United
+Jack O'Connell,5.0,eng ENG,CB,25-254,90,0,0,0,0,0,0,0,0,70,0,3,2,0.0,0.0,0.0,0,0,40,53,75.5,3,32,0,1,1,Sheffield United
+John Egan,12.0,ie IRL,CB,27-049,90,0,0,0,0,0,0,1,0,47,2,2,4,0.0,0.0,0.0,0,0,22,31,71.0,0,15,0,0,0,Sheffield United
+Chris Basham,6.0,eng ENG,CB,31-141,90,0,0,0,0,0,0,1,0,53,2,3,0,0.0,0.0,0.0,1,1,27,42,64.3,5,13,0,1,0,Sheffield United
+Dean Henderson,1.0,eng ENG,GK,22-271,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,14,32,43.8,0,22,0,0,0,Sheffield United
+14 Players,,,,,990,2,1,0,0,9,3,4,0,589,17,13,16,0.8,0.8,0.6,17,4,319,467,68.3,43,254,16,19,15,Sheffield United

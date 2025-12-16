@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Danny Ings,9.0,eng ENG,"LM,FW",27-228,90,0,0,0,0,1,0,0,0,22,4,0,2,0.1,0.1,0.0,1,0,6,13,46.2,2,7,0,1,0,Southampton
+Shane Long,7.0,ie IRL,FW,33-045,76,0,0,0,0,3,1,0,0,36,1,0,0,0.4,0.4,0.0,0,0,14,23,60.9,1,19,2,1,1,Southampton
+Che Adams,10.0,sct SCO,FW,23-238,14,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Southampton
+Moussa Djenepo,12.0,ml MLI,LM,21-266,27,0,0,0,0,0,0,0,1,16,1,1,3,0.0,0.0,0.0,0,0,2,7,28.6,0,10,3,0,0,Southampton
+Pierre Højbjerg,23.0,dk DEN,CM,24-215,90,0,0,0,0,0,0,0,0,50,2,2,1,0.0,0.0,0.1,2,0,31,42,73.8,6,22,1,0,0,Southampton
+James Ward-Prowse,16.0,eng ENG,CM,25-127,90,0,0,0,0,0,0,0,0,44,2,1,0,0.0,0.0,0.0,0,0,31,38,81.6,6,14,1,0,0,Southampton
+Sofiane Boufal,19.0,ma MAR,RM,26-172,84,0,0,0,0,1,1,0,0,40,3,1,3,0.0,0.0,0.0,1,0,17,26,65.4,1,22,2,8,6,Southampton
+Michael Obafemi,20.0,ie IRL,RM,19-245,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,1,1,Southampton
+Ryan Bertrand,21.0,eng ENG,LB,30-215,90,0,0,0,0,0,0,0,0,62,1,1,4,0.0,0.0,0.4,2,0,35,52,67.3,1,19,0,1,1,Southampton
+Jan Bednarek,35.0,pl POL,CB,23-330,90,0,0,0,0,0,0,0,0,53,1,1,1,0.0,0.0,0.0,1,0,29,43,67.4,4,16,0,0,0,Southampton
+Jack Stephens,5.0,eng ENG,CB,26-040,90,0,0,0,0,0,0,0,0,46,1,0,2,0.0,0.0,0.0,1,0,27,40,67.5,4,24,1,0,0,Southampton
+Yan Valery,43.0,tn TUN,RB,21-014,90,0,0,0,0,1,1,0,0,52,3,3,2,0.1,0.1,0.0,1,0,20,33,60.6,2,14,4,3,2,Southampton
+Alex McCarthy,1.0,eng ENG,GK,30-095,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,13,23,56.5,0,9,0,0,0,Southampton
+13 Players,,,,,927,0,0,0,0,6,3,0,1,458,19,10,18,0.6,0.6,0.6,10,0,227,344,66.0,27,180,14,15,11,Southampton
+Miguel Almirón,24.0,py PAR,FW,26-026,90,0,0,0,0,2,2,0,0,35,0,1,1,0.7,0.7,0.6,2,0,20,26,76.9,0,31,3,3,2,Newcastle United
+Dwight Gayle,12.0,eng ENG,FW,29-142,90,0,0,0,0,5,3,0,0,19,0,0,1,1.3,1.3,0.0,2,0,6,11,54.5,2,11,0,0,0,Newcastle United
+Allan Saint-Maximin,10.0,fr FRA,"LM,RM",22-361,90,1,0,0,0,1,1,0,0,46,2,1,1,0.1,0.1,0.5,4,1,20,26,76.9,3,34,4,11,7,Newcastle United
+Jonjo Shelvey,8.0,eng ENG,CM,28-009,90,0,0,0,0,0,0,0,0,101,3,1,1,0.0,0.0,0.3,3,0,74,90,82.2,14,73,4,0,0,Newcastle United
+Isaac Hayden,14.0,jm JAM,CM,24-351,78,0,0,0,0,1,0,0,0,62,1,2,1,0.1,0.1,0.0,3,0,44,53,83.0,2,41,1,2,2,Newcastle United
+Sean Longstaff,36.0,eng ENG,CM,22-129,12,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,2,10,0,0,0,Newcastle United
+Matt Ritchie,11.0,sct SCO,RM,30-179,60,0,0,0,1,1,0,1,0,31,2,0,0,0.8,0.0,0.1,3,0,12,20,60.0,0,13,0,2,1,Newcastle United
+Joelinton,9.0,br BRA,LM,23-206,30,0,0,0,0,1,0,1,0,20,0,0,0,0.1,0.1,0.0,1,0,11,14,78.6,2,15,1,4,2,Newcastle United
+Danny Rose,28.0,eng ENG,LB,29-249,90,0,0,0,0,0,0,0,0,65,1,0,1,0.0,0.0,0.0,2,0,47,58,81.0,7,42,1,1,0,Newcastle United
+Federico Fernández,18.0,ar ARG,CB,31-015,90,0,0,0,0,0,0,0,0,74,0,0,1,0.0,0.0,0.0,0,0,52,64,81.3,3,49,0,2,0,Newcastle United
+Jamaal Lascelles,6.0,eng ENG,CB,26-117,90,0,0,0,0,1,0,0,0,88,1,2,0,0.0,0.0,0.0,0,0,61,80,76.3,1,61,0,0,0,Newcastle United
+Javier Manquillo,19.0,es ESP,RB,25-307,71,0,0,0,0,0,0,1,0,62,4,0,0,0.0,0.0,0.0,0,0,36,50,72.0,2,37,0,1,0,Newcastle United
+Valentino Lazaro,23.0,at AUT,RB,23-349,19,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,1,0,16,18,88.9,0,14,0,2,1,Newcastle United
+Martin Dúbravka,1.0,sk SVK,GK,31-052,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,15,22,68.2,0,8,0,0,0,Newcastle United
+14 Players,,,,,990,1,0,0,1,13,6,3,0,662,15,7,7,3.2,2.4,1.6,22,1,425,544,78.1,38,439,14,28,15,Newcastle United

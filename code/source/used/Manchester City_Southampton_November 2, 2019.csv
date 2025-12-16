@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Sergio Agüero,10.0,ar ARG,FW,31-153,89,1,0,0,0,7,1,0,0,25,1,0,0,0.9,0.9,0.0,3,0,7,11,63.6,0,15,1,2,1,Manchester City
+Nicolás Otamendi,30.0,ar ARG,CB,31-263,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester City
+Raheem Sterling,7.0,eng ENG,"LM,LW",24-329,90,0,0,0,0,1,0,1,0,64,1,0,0,0.1,0.1,0.2,8,0,33,48,68.8,6,49,13,9,3,Manchester City
+Bernardo Silva,20.0,pt POR,"RW,RM",25-084,83,0,0,0,0,1,1,0,0,73,0,1,0,0.1,0.1,0.1,5,0,55,67,82.1,9,60,13,9,7,Manchester City
+Phil Foden,47.0,eng ENG,"RM,CM",19-158,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,1,4,4,100.0,2,4,0,0,0,Manchester City
+David Silva,21.0,es ESP,LM,33-298,45,0,0,0,0,4,0,0,0,43,2,0,0,0.2,0.2,0.0,5,0,27,34,79.4,8,32,4,2,2,Manchester City
+Gabriel Jesus,9.0,br BRA,FW,22-213,45,0,0,0,0,1,1,0,0,19,1,0,2,0.6,0.6,0.1,1,0,12,13,92.3,1,13,0,0,0,Manchester City
+İlkay Gündoğan,8.0,de GER,"CM,DM",29-009,90,0,0,0,0,6,0,1,0,88,0,1,0,0.2,0.2,0.3,8,1,64,76,84.2,8,62,0,3,3,Manchester City
+Kevin De Bruyne,17.0,be BEL,"CM,RM",28-127,90,0,0,0,0,4,0,0,0,108,1,0,0,0.2,0.2,0.7,10,1,71,98,72.4,20,72,7,5,4,Manchester City
+Angeliño,12.0,es ESP,LB,22-302,90,0,0,0,0,0,0,0,0,119,1,0,1,0.0,0.0,0.1,2,0,84,112,75.0,10,81,14,0,0,Manchester City
+John Stones,5.0,eng ENG,"CB,RB",25-158,90,0,0,0,0,1,0,0,0,105,1,1,1,0.2,0.2,0.0,2,0,91,98,92.9,17,73,2,2,2,Manchester City
+Fernandinho,25.0,br BRA,CB,34-182,90,0,0,0,0,0,0,0,0,73,1,0,1,0.0,0.0,0.0,1,0,60,68,88.2,19,53,0,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,"RB,RM",29-158,90,1,1,0,0,1,1,0,0,87,0,0,0,0.4,0.4,0.4,2,1,76,85,89.4,18,70,14,2,2,Manchester City
+Ederson,31.0,br BRA,GK,26-077,90,0,0,0,0,0,0,1,0,27,0,0,0,0.0,0.0,0.0,0,0,24,26,92.3,0,20,0,0,0,Manchester City
+14 Players,,,,,990,2,1,0,0,26,4,3,0,835,9,3,5,2.9,2.9,1.8,48,4,608,740,82.2,118,604,68,34,24,Manchester City
+Nathan Redmond,22.0,eng ENG,FW,25-241,90,0,0,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.1,2,0,14,22,63.6,2,20,2,6,3,Southampton
+Danny Ings,9.0,eng ENG,FW,27-102,83,0,0,0,0,1,1,0,0,22,1,1,2,0.0,0.0,0.0,2,0,6,13,46.2,1,10,0,0,0,Southampton
+Moussa Djenepo,12.0,ml MLI,"RB,FW",21-140,7,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,7,0,3,3,Southampton
+Stuart Armstrong,17.0,sct SCO,CM,27-217,90,0,0,0,0,1,1,0,0,29,1,1,1,0.0,0.0,0.0,1,1,13,16,81.3,2,12,1,1,1,Southampton
+Oriol Romeu,14.0,es ESP,CM,28-039,90,0,0,0,0,0,0,0,0,37,4,1,3,0.0,0.0,0.0,0,0,15,20,75.0,1,14,0,0,0,Southampton
+James Ward-Prowse,16.0,eng ENG,CM,25-001,90,1,0,0,0,1,1,0,0,41,3,3,2,0.9,0.9,0.0,0,0,13,22,59.1,0,11,0,1,1,Southampton
+Pierre Højbjerg,23.0,dk DEN,LB,24-089,90,0,0,0,0,0,0,1,0,44,3,0,0,0.0,0.0,0.0,0,0,18,28,64.3,1,19,0,4,4,Southampton
+Jannik Vestergaard,4.0,dk DEN,CB,27-091,90,0,0,0,0,0,0,0,0,40,2,1,2,0.0,0.0,0.0,0,0,12,16,75.0,1,11,0,1,1,Southampton
+Jack Stephens,5.0,eng ENG,CB,25-279,90,0,0,0,0,0,0,0,0,46,1,2,4,0.0,0.0,0.0,0,0,13,21,61.9,1,16,0,0,0,Southampton
+Jan Bednarek,35.0,pl POL,CB,23-204,87,0,0,0,0,0,0,0,0,39,2,2,3,0.0,0.0,0.0,0,0,12,16,75.0,2,7,0,0,0,Southampton
+Che Adams,10.0,sct SCO,FW,23-112,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Southampton
+Yan Valery,43.0,tn TUN,RB,20-253,74,0,0,0,0,0,0,0,0,39,1,0,2,0.0,0.0,0.0,0,0,11,23,47.8,0,15,0,3,1,Southampton
+Kevin Danso,38.0,at AUT,"RB,CB",21-044,16,0,0,0,0,0,0,0,0,9,1,0,1,0.0,0.0,0.0,0,0,6,7,85.7,1,4,0,1,1,Southampton
+Alex McCarthy,1.0,eng ENG,GK,29-334,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,13,34,38.2,0,15,0,0,0,Southampton
+14 Players,,,,,990,1,0,0,0,3,3,1,0,427,20,11,21,0.9,0.9,0.1,5,1,150,243,61.7,13,161,3,20,15,Southampton

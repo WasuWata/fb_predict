@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Joshua King,7.0,no NOR,FW,28-186,68,0,0,0,0,0,0,0,0,29,0,0,1,0.0,0.0,0.1,1,0,11,18,61.1,4,14,0,4,1,Bournemouth
+Lewis Cook,16.0,eng ENG,"CM,FW",23-167,22,0,0,0,0,0,0,1,0,12,1,0,0,0.0,0.0,0.0,0,0,8,10,80.0,2,5,0,1,1,Bournemouth
+Callum Wilson,13.0,eng ENG,"FW,LW",28-143,90,0,0,0,0,2,0,0,0,26,1,0,1,0.1,0.1,0.0,0,0,9,18,50.0,3,20,0,1,0,Bournemouth
+Junior Stanislas,19.0,eng ENG,LM,30-236,69,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.1,3,0,10,19,52.6,1,11,4,0,0,Bournemouth
+Dominic Solanke,9.0,eng ENG,"FW,LM",22-309,21,0,0,0,0,1,0,0,0,7,0,0,1,0.1,0.1,0.0,1,0,2,3,66.7,0,3,0,0,0,Bournemouth
+Philip Billing,29.0,dk DEN,CM,24-038,86,0,0,0,0,0,0,1,0,41,3,1,5,0.0,0.0,0.1,3,0,13,27,48.1,5,14,1,0,0,Bournemouth
+Dan Gosling,4.0,eng ENG,CM,30-169,4,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Bournemouth
+Jefferson Lerma,8.0,co COL,CM,25-268,81,0,0,0,0,1,0,0,0,44,3,1,1,0.1,0.1,0.0,1,0,21,33,63.6,4,15,0,0,0,Bournemouth
+Sam Surridge,44.0,eng ENG,RW,21-357,9,0,0,0,0,0,0,0,0,8,0,1,1,0.0,0.0,0.1,0,0,0,4,0.0,0,4,0,0,0,Bournemouth
+David Brooks,20.0,wls WAL,RM,23-011,45,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,4,9,44.4,2,9,1,0,0,Bournemouth
+Harry Wilson,22.0,wls WAL,"RM,LM",23-119,45,0,0,0,0,4,2,0,0,30,1,3,2,0.2,0.2,0.0,1,0,9,18,50.0,3,12,0,1,1,Bournemouth
+Diego Rico,21.0,es ESP,"LB,CB",27-147,90,0,0,0,0,1,0,0,0,73,5,1,1,0.0,0.0,0.2,3,0,37,63,58.7,10,16,1,0,0,Bournemouth
+Lloyd Kelly,26.0,eng ENG,CB,21-287,90,0,0,0,0,1,0,0,0,40,0,0,3,0.0,0.0,0.0,1,0,18,30,60.0,0,17,0,0,0,Bournemouth
+Steve Cook,3.0,eng ENG,CB,29-091,90,0,0,0,0,1,1,0,0,37,0,1,2,0.1,0.1,0.0,0,0,18,29,62.1,3,11,1,0,0,Bournemouth
+Jack Stacey,17.0,eng ENG,"RB,RM",24-104,90,0,0,0,0,0,0,0,0,45,1,1,2,0.0,0.0,0.0,0,0,22,39,56.4,3,15,0,1,0,Bournemouth
+Aaron Ramsdale,12.0,eng ENG,GK,22-066,90,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,0,0,16,32,50.0,0,24,0,0,0,Bournemouth
+16 Players,,,,,990,0,0,0,0,11,3,2,0,467,17,11,22,0.5,0.5,0.4,14,0,199,354,56.2,40,191,8,8,3,Bournemouth
+Danny Ings,9.0,eng ENG,FW,27-362,89,1,0,0,1,2,1,0,0,33,0,0,1,0.9,0.1,0.1,2,0,13,19,68.4,5,20,3,2,1,Southampton
+Michael Obafemi,20.0,ie IRL,FW,20-013,1,0,1,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.4,1,1,1,3,33.3,0,1,0,0,0,Southampton
+Shane Long,7.0,ie IRL,FW,33-179,65,0,0,0,0,0,0,0,0,27,2,0,0,0.0,0.0,0.0,0,0,10,20,50.0,0,11,1,0,0,Southampton
+Che Adams,10.0,sct SCO,FW,24-006,25,1,0,0,0,3,2,0,0,17,0,0,1,0.5,0.5,0.4,2,1,4,9,44.4,0,8,2,1,1,Southampton
+Nathan Redmond,22.0,eng ENG,LM,26-135,90,0,1,0,0,2,2,0,0,52,1,0,1,0.5,0.5,0.1,5,1,25,37,67.6,4,31,6,5,2,Southampton
+Oriol Romeu,14.0,es ESP,CM,28-299,76,0,0,0,0,1,0,0,0,52,3,1,1,0.0,0.0,0.3,5,0,24,38,63.2,0,22,0,0,0,Southampton
+Pierre Højbjerg,23.0,dk DEN,CM,24-349,14,0,0,0,0,1,0,0,0,13,0,0,0,0.1,0.1,0.0,1,0,9,11,81.8,2,7,1,0,0,Southampton
+James Ward-Prowse,16.0,eng ENG,CM,25-261,90,0,0,0,0,2,2,1,0,63,3,1,0,0.2,0.2,0.2,4,0,40,52,76.9,9,18,0,1,1,Southampton
+Stuart Armstrong,17.0,sct SCO,RM,28-111,90,0,0,0,0,2,0,0,0,43,2,0,1,0.1,0.1,0.0,5,1,22,30,73.3,3,25,4,2,0,Southampton
+Ryan Bertrand,21.0,eng ENG,LB,30-349,90,0,0,0,0,1,0,0,0,67,1,3,1,0.1,0.1,0.1,2,0,42,57,73.7,3,28,3,2,2,Southampton
+Jannik Vestergaard,4.0,dk DEN,CB,27-351,90,0,0,0,0,1,0,1,0,71,2,1,3,0.2,0.2,0.0,0,0,27,46,58.7,2,21,0,0,0,Southampton
+Jack Stephens,5.0,eng ENG,CB,26-174,90,0,0,0,0,0,0,0,0,54,4,2,1,0.0,0.0,0.0,0,0,30,40,75.0,1,25,0,0,0,Southampton
+Kyle Walker-Peters,24.0,eng ENG,RB,23-097,90,0,0,0,0,0,0,0,0,62,3,2,1,0.0,0.0,0.0,0,0,38,48,79.2,4,22,1,3,3,Southampton
+Alex McCarthy,1.0,eng ENG,GK,30-229,90,0,0,0,0,0,0,0,0,44,1,0,1,0.0,0.0,0.0,0,0,21,41,51.2,0,25,0,0,0,Southampton
+14 Players,,,,,990,2,2,0,1,15,7,2,0,601,22,10,12,2.5,1.7,1.6,27,4,306,451,67.8,33,264,21,16,10,Southampton

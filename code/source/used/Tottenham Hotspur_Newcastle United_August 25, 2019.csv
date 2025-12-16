@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Harry Kane,10.0,eng ENG,FW,26-028,90,0,0,0,0,1,0,0,0,21,0,0,0,0.1,0.1,0.0,0,0,11,18,61.1,2,19,2,1,1,Tottenham Hotspur
+Son Heung-min,7.0,kr KOR,"LW,RW",27-048,90,0,0,0,0,6,2,0,0,76,0,0,1,0.2,0.2,0.1,5,0,53,59,89.8,4,56,2,5,2,Tottenham Hotspur
+Lucas Moura,27.0,br BRA,"AM,RW",27-012,90,0,0,0,0,5,0,0,0,45,0,1,1,0.6,0.6,0.0,2,0,27,31,87.1,5,31,1,2,2,Tottenham Hotspur
+Érik Lamela,11.0,ar ARG,"AM,LW",27-174,61,0,0,0,0,1,0,0,0,46,1,0,0,0.1,0.1,0.0,1,0,28,40,70.0,1,35,0,2,1,Tottenham Hotspur
+Giovani Lo Celso,18.0,ar ARG,RW,23-138,29,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.1,5,0,16,18,88.9,0,16,0,0,0,Tottenham Hotspur
+Harry Winks,8.0,eng ENG,DM,23-204,90,0,0,0,0,0,0,1,0,141,3,0,1,0.0,0.0,0.0,3,0,127,136,93.4,19,119,6,3,3,Tottenham Hotspur
+Moussa Sissoko,17.0,fr FRA,"DM,RB",30-009,90,0,0,0,0,0,0,0,0,110,0,0,0,0.0,0.0,0.5,4,0,98,103,95.1,10,79,4,1,1,Tottenham Hotspur
+Danny Rose,3.0,eng ENG,LB,29-054,87,0,0,0,0,0,0,1,0,111,1,2,2,0.0,0.0,0.0,2,0,85,106,80.2,11,79,3,1,1,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,LB,26-123,3,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,12,3,0,0,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,23-074,90,0,0,0,0,0,0,0,0,78,2,2,0,0.0,0.0,0.0,0,0,64,71,90.1,4,59,1,0,0,Tottenham Hotspur
+Toby Alderweireld,4.0,be BEL,CB,30-176,90,0,0,0,0,0,0,0,0,101,2,1,0,0.0,0.0,0.0,2,0,87,98,88.8,9,78,6,0,0,Tottenham Hotspur
+Kyle Walker-Peters,16.0,eng ENG,RB,22-134,61,0,0,0,0,0,0,0,0,75,1,1,1,0.0,0.0,0.0,1,0,59,69,85.5,3,60,4,2,1,Tottenham Hotspur
+Christian Eriksen,23.0,dk DEN,DM,27-192,29,0,0,0,0,2,0,0,0,52,0,0,0,0.0,0.0,0.1,6,0,40,47,85.1,9,45,5,0,0,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,32-242,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,21,21,100.0,0,17,0,0,0,Tottenham Hotspur
+14 Players,,,,,990,0,0,0,0,17,2,2,0,910,10,7,6,1.1,1.1,0.8,31,0,724,828,87.4,77,705,37,17,12,Tottenham Hotspur
+Joelinton,9.0,br BRA,FW,23-011,87,1,0,0,0,2,2,1,0,37,0,0,0,0.5,0.5,0.1,3,0,23,26,88.5,1,21,0,1,0,Newcastle United
+Yoshinori Mutō,13.0,jp JPN,FW,27-041,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,1,0,Newcastle United
+Allan Saint-Maximin,10.0,fr FRA,LM,22-166,16,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Newcastle United
+Christian Atsu,30.0,gh GHA,LM,27-227,74,0,1,0,0,0,0,0,0,33,1,0,4,0.0,0.0,0.6,4,1,19,22,86.4,3,20,5,5,2,Newcastle United
+Sean Longstaff,36.0,eng ENG,CM,21-299,90,0,0,0,0,1,1,0,0,22,2,0,0,0.0,0.0,0.0,0,0,8,14,57.1,1,10,1,0,0,Newcastle United
+Isaac Hayden,14.0,jm JAM,CM,24-156,90,0,0,0,0,1,0,0,0,21,3,1,2,0.0,0.0,0.0,0,0,10,12,83.3,1,5,0,0,0,Newcastle United
+Miguel Almirón,24.0,py PAR,RM,25-196,90,0,0,0,0,2,0,0,0,38,1,2,2,0.2,0.2,0.0,2,0,11,17,64.7,1,27,3,1,0,Newcastle United
+Matt Ritchie,11.0,sct SCO,LB,29-349,90,0,0,0,0,0,0,1,0,48,1,0,2,0.0,0.0,0.1,5,1,33,41,80.5,0,23,0,1,1,Newcastle United
+Paul Dummett,3.0,wls WAL,CB,27-333,90,0,0,0,0,0,0,0,0,27,1,2,0,0.0,0.0,0.0,0,0,9,12,75.0,0,6,0,0,0,Newcastle United
+Jamaal Lascelles,6.0,eng ENG,CB,25-287,81,0,0,0,0,1,0,0,0,25,0,3,1,0.0,0.0,0.0,0,0,7,9,77.8,0,7,0,0,0,Newcastle United
+Federico Fernández,18.0,ar ARG,CB,30-185,9,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,27-248,90,0,0,0,0,1,0,0,0,36,4,2,4,0.0,0.0,0.0,2,0,13,17,76.5,0,14,0,0,0,Newcastle United
+Emil Krafth,17.0,se SWE,RB,25-023,90,0,0,0,0,0,0,0,0,39,2,0,1,0.0,0.0,0.0,0,0,18,23,78.3,0,10,0,0,0,Newcastle United
+Martin Dúbravka,1.0,sk SVK,GK,30-222,90,0,0,0,0,0,0,0,0,26,0,1,0,0.0,0.0,0.0,0,0,7,23,30.4,0,10,0,0,0,Newcastle United
+14 Players,,,,,990,1,1,0,0,8,3,2,0,363,15,11,17,0.8,0.8,0.8,16,2,160,219,73.1,7,157,9,9,3,Newcastle United

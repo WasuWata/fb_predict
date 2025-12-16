@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Gabriel Jesus,9.0,br BRA,FW,23-114,90,1,0,0,0,5,3,0,0,52,1,1,2,1.0,1.0,0.2,6,0,40,44,90.9,5,30,1,2,2,Manchester City
+Phil Foden,47.0,eng ENG,LW,20-059,45,0,0,0,0,3,1,0,0,51,0,2,0,0.1,0.1,0.2,4,0,39,45,86.7,5,37,5,3,2,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,29-156,45,1,0,0,0,5,1,0,0,36,2,0,1,0.3,0.3,0.1,4,1,24,27,88.9,6,29,7,3,2,Manchester City
+Raheem Sterling,7.0,eng ENG,"LW,RW",25-231,90,1,0,0,0,5,1,0,0,50,1,1,1,0.9,0.9,0.3,5,0,33,39,84.6,4,34,5,1,0,Manchester City
+David Silva,21.0,es ESP,LM,34-200,84,0,0,0,0,5,1,0,0,73,3,0,1,0.4,0.4,0.1,8,2,49,56,87.5,10,47,2,1,1,Manchester City
+Bernardo Silva,20.0,pt POR,LM,25-351,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Manchester City
+Rodri,16.0,es ESP,CM,24-034,45,0,0,0,0,0,0,0,0,49,0,0,1,0.0,0.0,0.0,3,0,45,48,93.8,4,31,0,0,0,Manchester City
+İlkay Gündoğan,8.0,de GER,CM,29-276,45,0,0,0,0,1,0,0,0,31,1,0,0,0.0,0.0,0.0,1,0,26,28,92.9,7,18,0,0,0,Manchester City
+Kevin De Bruyne,17.0,be BEL,RM,29-028,90,2,1,0,0,3,2,0,0,80,2,1,1,0.1,0.1,1.1,15,1,51,69,73.9,14,49,5,2,2,Manchester City
+João Cancelo,27.0,pt POR,LB,26-060,90,0,0,0,0,2,0,1,0,100,0,1,1,0.1,0.1,0.0,3,0,82,93,88.2,11,70,4,9,7,Manchester City
+Aymeric Laporte,14.0,es ESP,CB,26-060,90,0,0,0,0,0,0,0,0,102,0,1,0,0.0,0.0,0.0,0,0,93,99,93.9,13,79,3,0,0,Manchester City
+Eric García,50.0,es ESP,CB,19-199,45,0,0,0,0,0,0,0,0,51,1,1,0,0.0,0.0,0.0,1,0,47,47,100.0,5,38,0,0,0,Manchester City
+Fernandinho,25.0,br BRA,CB,35-083,45,0,0,0,0,2,0,0,0,61,1,1,0,0.2,0.2,0.0,0,0,53,56,94.6,12,50,2,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,30-059,90,0,1,0,0,0,0,0,0,91,0,1,0,0.0,0.0,0.1,5,1,82,88,93.2,9,58,7,3,3,Manchester City
+Ederson,31.0,br BRA,GK,26-344,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,26,29,89.7,0,20,0,0,0,Manchester City
+15 Players,,,,,990,5,2,0,0,31,9,1,0,860,12,10,8,3.3,3.3,2.2,55,5,691,770,89.7,105,591,41,24,19,Manchester City
+Teemu Pukki,22.0,fi FIN,FW,30-119,76,0,0,0,0,1,1,0,0,13,0,0,0,0.4,0.4,0.0,1,0,7,11,63.6,0,5,2,0,0,Norwich City
+Adam Idah,35.0,ie IRL,FW,19-166,14,0,0,0,0,1,1,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,0,0,Norwich City
+Onel Hernández,11.0,cu CUB,LW,27-176,86,0,0,0,0,1,1,0,0,25,2,3,0,0.4,0.4,0.0,2,0,10,15,66.7,1,16,3,5,3,Norwich City
+Josh Martin,56.0,eng ENG,LW,18-321,4,0,0,0,0,1,1,0,0,1,0,0,0,0.1,0.1,0.0,0,0,0,0,,0,1,0,0,0,Norwich City
+Todd Cantwell,14.0,eng ENG,RW,22-150,89,0,0,0,0,1,0,0,0,31,2,0,1,0.0,0.0,0.1,1,0,20,25,80.0,0,22,1,0,0,Norwich City
+Jordan Thomas,41.0,eng ENG,RW,19-206,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Norwich City
+Marco Stiepermann,18.0,de GER,AM,29-168,76,0,0,0,0,0,0,0,0,29,4,0,1,0.0,0.0,0.0,0,0,11,23,47.8,2,11,0,0,0,Norwich City
+Mario Vrančić,8.0,ba BIH,AM,31-064,14,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,10,50.0,1,6,1,0,0,Norwich City
+Kenny McLean,23.0,sct SCO,DM,28-200,89,0,0,0,0,0,0,0,0,32,0,0,1,0.0,0.0,0.4,0,0,18,26,69.2,1,20,1,0,0,Norwich City
+Akin Famewo,43.0,eng ENG,DM,21-260,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Norwich City
+Lukas Rupp,7.0,de GER,DM,29-200,90,0,0,0,0,0,0,0,0,41,1,5,0,0.0,0.0,0.5,2,0,27,31,87.1,5,19,0,0,0,Norwich City
+Jamal Lewis,12.0,nir NIR,LB,22-183,90,0,0,0,0,0,0,0,0,37,2,0,2,0.0,0.0,0.0,0,0,26,29,89.7,1,19,0,0,0,Norwich City
+Ben Godfrey,4.0,eng ENG,CB,22-193,90,0,0,0,0,0,0,0,0,44,0,2,3,0.0,0.0,0.0,0,0,20,28,71.4,0,23,0,0,0,Norwich City
+Christoph Zimmermann,6.0,de GER,CB,27-196,90,0,0,0,0,0,0,1,0,31,2,2,4,0.0,0.0,0.0,0,0,9,18,50.0,0,10,0,0,0,Norwich City
+Max Aarons,2.0,eng ENG,RB,20-204,90,0,0,0,0,0,0,0,0,33,1,2,2,0.0,0.0,0.0,1,0,16,20,80.0,1,13,0,1,1,Norwich City
+Tim Krul,1.0,nl NED,GK,32-114,90,0,0,0,0,0,0,0,0,56,0,0,1,0.0,0.0,0.0,1,0,35,50,70.0,0,19,0,0,0,Norwich City
+16 Players,,,,,990,0,0,0,0,5,4,1,0,390,14,14,15,1.0,1.0,1.0,8,0,209,292,71.6,12,187,8,6,4,Norwich City

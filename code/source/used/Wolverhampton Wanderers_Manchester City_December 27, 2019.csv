@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Raúl Jiménez,9.0,mx MEX,FW,28-236,89,1,1,0,0,5,2,0,0,47,0,1,0,0.8,0.8,0.6,2,0,22,30,73.3,2,25,0,3,0,Wolverhampton Wanderers
+Ryan Bennett,5.0,eng ENG,CB,29-296,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Wolverhampton Wanderers
+Diogo Jota,18.0,pt POR,LW,23-023,78,0,0,0,0,2,0,0,0,41,2,0,1,0.6,0.6,0.0,3,0,21,28,75.0,0,21,4,3,1,Wolverhampton Wanderers
+Pedro Neto,7.0,pt POR,"LW,FW",19-293,12,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,7,10,70.0,0,12,2,2,1,Wolverhampton Wanderers
+Adama Traoré,37.0,es ESP,RW,23-336,90,1,1,0,0,5,2,0,0,53,0,0,0,0.2,0.2,0.7,5,1,28,40,70.0,4,40,11,11,10,Wolverhampton Wanderers
+Jonny Castro,19.0,es ESP,LM,25-299,72,0,0,0,0,1,0,0,0,63,2,0,4,0.0,0.0,0.1,5,0,42,50,84.0,2,31,5,2,1,Wolverhampton Wanderers
+Rúben Vinagre,29.0,pt POR,"LM,WB",20-262,18,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,9,12,75.0,1,10,2,0,0,Wolverhampton Wanderers
+João Moutinho,28.0,pt POR,CM,33-110,90,0,0,0,0,1,1,0,0,91,1,0,0,0.1,0.1,0.6,10,0,79,89,88.8,13,59,3,0,0,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,CM,22-289,90,0,1,0,0,2,1,0,0,105,1,2,2,0.0,0.0,0.1,5,1,87,99,87.9,12,68,3,1,1,Wolverhampton Wanderers
+Matt Doherty,2.0,ie IRL,RM,27-345,90,1,0,0,0,2,1,0,0,65,1,0,0,0.4,0.4,0.0,4,2,52,60,86.7,3,38,4,2,2,Wolverhampton Wanderers
+Romain Saïss,27.0,ma MAR,CB,29-276,90,0,0,0,0,2,0,0,0,91,1,0,0,0.5,0.5,0.0,2,1,77,87,88.5,11,56,2,0,0,Wolverhampton Wanderers
+Conor Coady,16.0,eng ENG,CB,26-305,90,0,0,0,0,0,0,0,0,53,1,1,0,0.0,0.0,0.0,1,0,46,49,93.9,2,36,0,1,1,Wolverhampton Wanderers
+Leander Dendoncker,32.0,be BEL,CB,24-256,90,0,0,0,0,1,1,0,0,69,4,3,1,0.0,0.0,0.0,1,0,56,60,93.3,2,39,0,1,1,Wolverhampton Wanderers
+Rui Patrício,11.0,pt POR,GK,31-315,90,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,11,11,100.0,0,3,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,990,3,3,0,0,21,8,0,0,717,13,7,8,2.6,2.6,2.2,40,5,538,626,85.9,52,439,36,26,18,Wolverhampton Wanderers
+Sergio Agüero,10.0,ar ARG,FW,31-208,13,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Manchester City
+Claudio Bravo,1.0,cl CHI,GK,36-258,77,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,19,34,55.9,0,19,0,0,0,Manchester City
+Raheem Sterling,7.0,eng ENG,"FW,LW",25-019,90,2,0,0,1,4,2,0,0,35,1,1,0,1.4,0.5,0.0,2,1,14,22,63.6,0,14,3,5,1,Manchester City
+Riyad Mahrez,26.0,dz ALG,"RM,RW",28-309,45,0,0,0,0,0,0,0,0,18,2,2,0,0.0,0.0,0.0,1,0,8,11,72.7,0,11,3,3,2,Manchester City
+Eric García,50.0,es ESP,CB,18-352,45,0,0,0,0,0,0,0,0,25,1,0,1,0.0,0.0,0.0,0,0,15,18,83.3,1,9,0,0,0,Manchester City
+Kevin De Bruyne,17.0,be BEL,"CM,DM,AM",28-182,66,0,1,0,0,1,0,0,0,34,3,0,1,0.0,0.0,0.3,2,1,15,22,68.2,3,16,3,5,3,Manchester City
+İlkay Gündoğan,8.0,de GER,DM,29-064,24,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,12,14,85.7,1,5,0,0,0,Manchester City
+Bernardo Silva,20.0,pt POR,"DM,LM",25-139,90,0,0,0,0,1,0,0,0,67,0,2,0,0.0,0.0,0.0,1,0,51,54,94.4,2,44,1,1,1,Manchester City
+Rodri,16.0,es ESP,"DM,CM",23-188,90,0,0,0,0,0,0,0,0,72,1,1,1,0.0,0.0,0.0,3,1,62,65,95.4,4,37,0,0,0,Manchester City
+Benjamin Mendy,22.0,fr FRA,"WB,LB",25-163,90,0,0,0,0,0,0,0,0,36,1,4,0,0.0,0.0,0.0,1,0,18,22,81.8,3,19,0,2,1,Manchester City
+Fernandinho,25.0,br BRA,CB,34-237,90,0,0,0,0,0,0,0,0,48,2,1,1,0.0,0.0,0.0,1,0,29,37,78.4,2,33,0,0,0,Manchester City
+Nicolás Otamendi,30.0,ar ARG,CB,31-318,90,0,0,0,0,0,0,1,0,47,3,1,2,0.0,0.0,0.0,0,0,23,31,74.2,2,23,0,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,"WB,RB",29-213,90,0,0,0,0,0,0,0,0,64,2,2,2,0.0,0.0,0.0,1,0,31,48,64.6,0,21,1,1,1,Manchester City
+Ederson,31.0,br BRA,GK,26-132,11,0,0,0,0,0,0,0,1,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Manchester City
+14 Players,,,,,911,2,1,0,1,6,2,1,1,498,16,14,8,1.5,0.6,0.5,13,3,301,382,78.8,18,252,11,17,9,Manchester City

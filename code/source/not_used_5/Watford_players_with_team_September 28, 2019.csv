@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Danny Welbeck,10.0,eng ENG,FW,28-306,90,0,0,0,0,4,1,0,0,29,3,0,0,0.3,0.3,0.0,3,0,14,19,73.7,1,18,4,2,1,Watford
+Gerard Deulofeu,7.0,es ESP,LW,25-199,45,0,0,0,0,1,0,0,0,27,1,1,1,0.0,0.0,0.1,1,0,14,18,77.8,3,20,5,2,0,Watford
+Roberto Pereyra,37.0,ar ARG,"LW,AM",28-264,45,0,0,0,0,1,0,0,0,35,0,0,0,0.1,0.1,0.2,5,0,26,31,83.9,2,24,1,3,2,Watford
+Ismaila Sarr,23.0,sn SEN,RW,21-215,70,0,0,0,0,1,0,0,0,29,0,0,1,0.1,0.1,0.0,1,0,16,20,80.0,1,26,1,2,1,Watford
+Andre Gray,18.0,jm JAM,FW,28-094,20,0,0,0,0,2,1,0,0,10,1,0,0,0.1,0.1,0.1,3,0,5,7,71.4,0,8,0,0,0,Watford
+Étienne Capoue,29.0,fr FRA,"LM,DM",31-079,90,0,0,0,0,1,0,0,0,99,1,2,0,0.0,0.0,0.0,1,0,83,93,89.2,2,66,0,0,0,Watford
+Abdoulaye Doucouré,16.0,ml MLI,"CM,DM",26-270,90,0,0,0,0,1,1,0,0,112,1,1,2,0.0,0.0,0.0,1,0,92,103,89.3,6,75,1,1,1,Watford
+Tom Cleverley,8.0,eng ENG,"RM,AM",30-047,90,0,0,0,0,1,1,0,0,62,3,0,1,0.8,0.8,0.1,3,0,45,55,81.8,8,34,1,0,0,Watford
+José Holebas,25.0,gr GRE,LB,35-093,90,0,0,0,0,2,1,1,0,86,2,0,2,0.1,0.1,0.0,3,0,52,76,68.4,5,36,2,1,0,Watford
+Craig Cathcart,15.0,nir NIR,CB,30-234,90,0,0,0,0,0,0,0,0,69,2,1,0,0.0,0.0,0.0,0,0,59,63,93.7,4,39,0,0,0,Watford
+Craig Dawson,4.0,eng ENG,CB,29-145,90,0,0,0,0,0,0,0,0,82,0,0,1,0.0,0.0,0.0,1,0,71,79,89.9,4,62,0,1,1,Watford
+Daryl Janmaat,2.0,nl NED,RB,30-068,90,0,0,0,0,0,0,0,0,101,1,0,0,0.0,0.0,0.1,2,0,70,90,77.8,7,59,2,4,2,Watford
+Ben Foster,26.0,eng ENG,GK,36-178,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,17,29,58.6,0,17,0,0,0,Watford
+13 Players,,,,,990,0,0,0,0,14,5,1,0,770,15,5,8,1.5,1.5,0.6,24,0,564,683,82.6,43,484,17,16,8,Watford

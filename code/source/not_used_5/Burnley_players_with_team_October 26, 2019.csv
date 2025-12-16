@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ashley Barnes,10.0,eng ENG,FW,29-361,62,0,0,0,0,4,1,0,0,20,0,1,0,1.5,1.5,0.1,1,0,5,10,50.0,0,17,1,0,0,Burnley
+Matěj Vydra,27.0,cz CZE,FW,27-178,28,0,0,0,0,2,0,0,0,5,0,0,1,0.2,0.2,0.0,0,0,2,2,100.0,0,2,0,0,0,Burnley
+Jay Rodriguez,19.0,eng ENG,"FW,RM",30-089,90,1,0,0,0,3,2,0,0,26,2,0,2,0.2,0.2,0.0,1,1,9,14,64.3,1,16,1,0,0,Burnley
+Dwight McNeil,11.0,eng ENG,"LM,RM",19-338,90,1,0,0,0,2,1,0,0,47,0,0,1,0.1,0.1,0.1,5,1,24,31,77.4,0,31,5,9,6,Burnley
+Jack Cork,4.0,eng ENG,CM,30-123,90,0,0,0,0,0,0,0,0,47,1,2,0,0.0,0.0,0.4,2,0,34,42,81.0,7,31,0,1,1,Burnley
+Ashley Westwood,18.0,eng ENG,CM,29-208,90,0,0,0,0,1,0,0,0,60,3,0,0,0.1,0.1,0.0,3,0,39,55,70.9,5,30,0,0,0,Burnley
+Jeff Hendrick,13.0,ie IRL,"RM,FW",27-268,83,0,0,0,0,0,0,1,0,43,0,1,2,0.0,0.0,0.1,2,0,19,29,65.5,1,25,2,1,0,Burnley
+Robbie Brady,12.0,ie IRL,LM,27-285,7,0,2,0,0,0,0,1,0,11,1,0,0,0.0,0.0,0.2,3,2,7,10,70.0,1,9,0,0,0,Burnley
+Erik Pieters,23.0,nl NED,LB,31-080,90,0,0,0,0,1,1,1,0,62,1,0,1,0.0,0.0,0.0,0,0,39,55,70.9,1,37,0,0,0,Burnley
+Ben Mee,6.0,eng ENG,CB,30-035,90,0,0,0,0,0,0,0,0,63,2,0,2,0.0,0.0,0.6,1,0,36,53,67.9,2,35,0,0,0,Burnley
+James Tarkowski,5.0,eng ENG,CB,26-341,90,0,0,0,0,0,0,0,0,58,2,3,2,0.0,0.0,0.6,1,0,39,49,79.6,5,33,0,3,3,Burnley
+Matthew Lowton,2.0,eng ENG,RB,30-139,90,0,0,0,0,0,0,0,0,69,4,6,1,0.0,0.0,0.1,5,0,38,50,76.0,7,35,0,1,1,Burnley
+Nick Pope,1.0,eng ENG,GK,27-190,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,13,27,48.1,0,20,0,0,0,Burnley
+13 Players,,,,,990,2,2,0,0,13,5,3,0,539,16,13,12,2.1,2.1,2.0,24,4,304,427,71.2,30,321,9,15,11,Burnley

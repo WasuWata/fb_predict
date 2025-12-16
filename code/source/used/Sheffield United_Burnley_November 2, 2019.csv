@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Lys Mousset,22.0,fr FRA,FW,23-267,64,0,3,0,0,3,0,0,0,24,0,0,0,0.4,0.4,1.2,3,2,7,14,50.0,1,15,2,3,3,Sheffield United
+Billy Sharp,10.0,eng ENG,FW,33-270,26,0,0,0,0,1,1,0,0,12,0,0,0,0.4,0.4,0.3,2,0,6,9,66.7,1,10,1,1,1,Sheffield United
+David McGoldrick,17.0,ie IRL,FW,31-338,74,0,0,0,0,2,1,0,0,39,3,0,3,0.1,0.1,0.4,4,1,18,24,75.0,0,19,3,0,0,Sheffield United
+Oliver McBurnie,9.0,sct SCO,FW,23-151,16,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,5,1,0,0,Sheffield United
+John Fleck,4.0,sct SCO,CM,28-070,90,1,0,0,0,1,1,0,0,48,1,2,1,0.1,0.1,0.0,2,0,28,40,70.0,2,20,4,3,3,Sheffield United
+Oliver Norwood,16.0,nir NIR,CM,28-204,90,0,0,0,0,0,0,0,0,70,3,1,2,0.0,0.0,0.0,1,0,45,62,72.6,5,31,0,2,2,Sheffield United
+John Lundstram,7.0,eng ENG,CM,25-257,90,2,0,0,0,5,3,0,0,50,3,0,0,1.4,1.4,0.1,3,0,33,39,84.6,6,23,2,0,0,Sheffield United
+Enda Stevens,3.0,ie IRL,WB,29-116,90,0,0,0,0,1,0,0,0,43,2,0,0,0.1,0.1,0.4,2,0,28,37,75.7,6,22,4,2,2,Sheffield United
+George Baldock,2.0,gr GRE,WB,26-238,90,0,0,0,0,0,0,0,0,56,2,1,0,0.0,0.0,0.0,2,0,36,48,75.0,3,29,7,2,2,Sheffield United
+Jack O'Connell,5.0,eng ENG,CB,25-218,90,0,0,0,0,0,0,0,0,48,1,1,0,0.0,0.0,0.0,1,0,26,39,66.7,2,15,0,0,0,Sheffield United
+John Egan,12.0,ie IRL,CB,27-013,78,0,0,0,0,0,0,0,0,34,2,1,0,0.0,0.0,0.0,0,0,18,26,69.2,0,12,0,0,0,Sheffield United
+Phil Jagielka,15.0,eng ENG,CB,37-077,12,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,0,0,Sheffield United
+Chris Basham,6.0,eng ENG,CB,31-105,90,0,0,0,0,0,0,1,0,49,0,1,1,0.0,0.0,0.0,0,0,30,44,68.2,3,13,0,0,0,Sheffield United
+Dean Henderson,1.0,eng ENG,GK,22-235,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,8,39,20.5,0,20,0,0,0,Sheffield United
+14 Players,,,,,990,3,3,0,0,13,6,1,0,526,17,7,7,2.5,2.5,2.4,20,3,291,432,67.4,30,236,24,13,13,Sheffield United
+Jay Rodriguez,19.0,eng ENG,FW,30-096,77,0,0,0,0,1,0,0,0,24,0,0,1,0.1,0.1,0.0,0,0,11,15,73.3,2,13,1,2,1,Burnley
+Matěj Vydra,27.0,cz CZE,FW,27-185,13,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,1,0,0,0,,0,2,0,0,0,Burnley
+Ashley Barnes,10.0,eng ENG,FW,30-003,90,0,0,0,0,3,0,1,0,24,0,0,0,0.5,0.5,0.0,1,0,7,15,46.7,2,16,0,0,0,Burnley
+Dwight McNeil,11.0,eng ENG,LM,19-345,58,0,0,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,16,22,72.7,0,19,1,2,0,Burnley
+Robbie Brady,12.0,ie IRL,LM,27-292,32,0,0,0,0,1,0,0,0,16,1,1,0,0.1,0.1,0.0,0,0,8,12,66.7,1,6,0,0,0,Burnley
+Jack Cork,4.0,eng ENG,CM,30-130,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,32,44,72.7,1,25,1,0,0,Burnley
+Ashley Westwood,18.0,eng ENG,CM,29-215,90,0,0,0,0,0,0,0,0,85,0,0,0,0.0,0.0,0.0,3,0,68,81,84.0,8,50,3,0,0,Burnley
+Jeff Hendrick,13.0,ie IRL,RM,27-275,90,0,0,0,0,1,0,0,0,39,1,0,0,0.0,0.0,0.0,1,0,26,32,81.3,1,20,1,1,0,Burnley
+Erik Pieters,23.0,nl NED,LB,31-087,45,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,23,32,71.9,3,15,0,0,0,Burnley
+Charlie Taylor,3.0,eng ENG,LB,26-045,45,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.1,1,0,19,24,79.2,0,17,2,1,1,Burnley
+Ben Mee,6.0,eng ENG,CB,30-042,90,0,0,0,0,0,0,0,0,79,1,2,1,0.0,0.0,0.0,0,0,47,67,70.1,2,42,0,0,0,Burnley
+James Tarkowski,5.0,eng ENG,CB,26-348,90,0,0,0,0,0,0,1,0,65,0,1,2,0.0,0.0,0.0,0,0,45,56,80.4,5,31,0,0,0,Burnley
+Matthew Lowton,2.0,eng ENG,RB,30-146,90,0,0,0,0,0,0,0,0,84,2,0,1,0.0,0.0,0.0,0,0,54,76,71.1,6,41,3,1,0,Burnley
+Nick Pope,1.0,eng ENG,GK,27-197,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,1,0,21,42,50.0,0,23,0,0,0,Burnley
+14 Players,,,,,990,0,0,0,0,6,0,2,0,606,5,4,6,0.8,0.8,0.1,9,0,377,518,72.8,31,320,12,7,2,Burnley

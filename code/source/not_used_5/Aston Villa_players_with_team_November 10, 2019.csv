@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Wesley Moraes,9.0,br BRA,FW,22-349,90,0,0,0,0,2,1,0,0,31,1,0,0,0.1,0.1,0.0,2,0,13,20,65.0,1,14,0,2,1,Aston Villa
+Trézéguet,17.0,eg EGY,LW,25-040,90,1,0,0,0,2,1,0,0,38,2,2,0,0.1,0.1,0.0,4,1,13,21,61.9,2,25,4,5,3,Aston Villa
+Anwar El Ghazi,21.0,nl NED,RW,24-191,90,0,0,0,0,1,1,0,0,36,0,1,0,0.0,0.0,0.1,5,0,19,29,65.5,2,24,5,3,2,Aston Villa
+Douglas Luiz,6.0,br BRA,LM,21-185,90,0,0,0,0,2,1,0,0,63,0,0,0,0.1,0.1,0.0,1,0,50,57,87.7,5,38,1,0,0,Aston Villa
+Marvelous Nakamba,11.0,zw ZIM,CM,25-295,68,0,0,0,0,2,0,1,0,53,5,3,2,0.0,0.0,0.0,1,0,33,41,80.5,1,27,1,1,1,Aston Villa
+Henri Lansbury,8.0,eng ENG,CM,29-029,22,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.1,2,0,4,5,80.0,1,0,0,0,0,Aston Villa
+John McGinn,7.0,sct SCO,RM,25-023,90,0,0,0,0,2,0,0,0,45,2,0,0,0.1,0.1,0.2,4,0,27,38,71.1,2,23,2,6,5,Aston Villa
+Matt Targett,18.0,eng ENG,LB,24-053,44,0,0,0,0,0,0,0,0,29,1,0,2,0.0,0.0,0.0,1,0,15,22,68.2,2,11,0,1,0,Aston Villa
+Neil Taylor,3.0,wls WAL,LB,30-276,46,0,0,0,0,1,0,0,0,41,1,0,0,0.0,0.0,0.0,0,0,23,29,79.3,4,17,0,1,1,Aston Villa
+Tyrone Mings,40.0,eng ENG,CB,26-242,90,0,0,0,0,1,0,1,0,52,2,1,1,0.2,0.2,0.0,0,0,40,44,90.9,0,33,0,1,1,Aston Villa
+Ezri Konsa,15.0,eng ENG,CB,22-018,90,0,0,0,0,0,0,0,0,43,1,1,1,0.0,0.0,0.0,1,0,27,33,81.8,2,24,0,0,0,Aston Villa
+Frederic Guilbert,24.0,fr FRA,RB,24-321,90,0,0,0,0,0,0,1,0,76,5,1,1,0.0,0.0,0.0,4,1,39,58,67.2,4,30,6,4,3,Aston Villa
+Jed Steer,12.0,eng ENG,GK,27-048,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Aston Villa
+Ørjan Nyland,25.0,no NOR,GK,29-061,83,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,21,30,70.0,0,17,0,0,0,Aston Villa
+14 Players,,,,,990,1,0,0,0,13,4,3,0,547,20,9,8,0.6,0.6,0.4,25,2,325,429,75.8,26,283,19,24,17,Aston Villa

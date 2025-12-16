@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Alexandre Lacazette,9.0,fr FRA,FW,28-081,70,1,0,0,0,2,2,0,0,24,0,0,0,0.2,0.2,0.0,5,1,12,20,60.0,1,13,0,0,0,Arsenal
+Sead Kolašinac,31.0,ba BIH,WB,26-058,20,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0,Arsenal
+Reiss Nelson,24.0,eng ENG,LW,19-250,45,0,0,0,0,2,1,0,0,14,0,0,0,0.1,0.1,0.0,2,0,9,11,81.8,1,10,1,0,0,Arsenal
+Nicolas Pépé,19.0,ci CIV,"RW,FW",24-080,45,0,0,0,0,1,1,0,0,35,2,0,0,0.0,0.0,0.1,2,0,22,28,78.6,3,21,5,6,4,Arsenal
+Pierre-Emerick Aubameyang,14.0,ga GAB,"RW,LW,FW",30-060,90,1,0,0,0,3,2,1,0,40,1,0,1,0.2,0.2,0.1,1,0,16,29,55.2,1,29,2,2,0,Arsenal
+Dani Ceballos,8.0,es ESP,AM,23-010,82,0,2,0,0,3,1,0,0,88,2,0,0,0.1,0.1,0.2,7,2,65,76,85.5,8,58,6,4,4,Arsenal
+Lucas Torreira,11.0,uy URU,CM,23-187,8,0,0,0,0,1,1,0,0,7,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,0,4,0,0,0,Arsenal
+Mattéo Guendouzi,29.0,fr FRA,"DM,CM",20-125,90,0,0,0,0,1,1,0,0,69,2,4,1,0.1,0.1,0.0,0,0,55,59,93.2,6,41,4,0,0,Arsenal
+Joe Willock,28.0,eng ENG,"DM,AM,CM",19-362,90,0,0,0,0,1,0,0,0,75,1,1,2,0.0,0.0,0.1,3,0,56,65,86.2,8,54,8,3,3,Arsenal
+Nacho Monreal,18.0,es ESP,"LB,CB",33-172,90,0,0,0,0,0,0,0,0,74,0,0,1,0.0,0.0,0.1,3,0,53,64,82.8,3,40,3,2,2,Arsenal
+David Luiz,23.0,br BRA,CB,32-117,90,0,0,0,0,0,0,1,0,76,1,1,2,0.0,0.0,0.0,0,0,48,62,77.4,1,48,0,0,0,Arsenal
+Sokratis Papastathopoulos,5.0,gr GRE,CB,31-069,90,0,0,0,0,0,0,0,0,66,1,1,1,0.0,0.0,0.1,1,0,46,55,83.6,1,36,0,0,0,Arsenal
+Ainsley Maitland-Niles,15.0,eng ENG,"RB,WB",21-353,90,0,0,0,0,1,0,0,0,83,2,2,0,0.0,0.0,0.0,3,0,52,66,78.8,1,47,3,3,1,Arsenal
+Bernd Leno,1.0,de GER,GK,27-166,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,31,35,88.6,0,18,0,0,0,Arsenal
+14 Players,,,,,990,2,2,0,0,15,9,2,0,693,12,9,8,0.8,0.8,0.8,27,3,474,580,81.7,34,423,32,20,14,Arsenal
+Ashley Barnes,10.0,eng ENG,FW,29-291,90,1,0,0,0,5,3,1,0,29,0,1,0,0.9,0.9,0.0,0,0,9,18,50.0,0,13,0,0,0,Burnley
+Chris Wood,9.0,nz NZL,FW,27-253,60,0,0,0,0,0,0,0,0,20,0,0,2,0.0,0.0,0.0,2,0,11,12,91.7,1,8,1,0,0,Burnley
+Jay Rodriguez,19.0,eng ENG,FW,30-019,30,0,0,0,0,1,0,0,0,8,0,0,1,0.1,0.1,0.0,0,0,1,4,25.0,0,3,0,0,0,Burnley
+Dwight McNeil,11.0,eng ENG,LM,19-268,90,0,0,0,0,4,0,0,0,32,2,0,0,0.2,0.2,0.1,7,1,11,18,61.1,1,13,3,4,2,Burnley
+Jack Cork,4.0,eng ENG,CM,30-053,90,0,0,0,0,2,0,0,0,36,1,4,0,0.2,0.2,0.0,1,0,18,20,90.0,2,18,0,3,2,Burnley
+Ashley Westwood,18.0,eng ENG,CM,29-138,90,0,0,0,0,1,0,0,0,52,1,0,1,0.1,0.1,0.1,3,0,29,45,64.4,3,22,0,1,0,Burnley
+Jóhann Berg Guðmundsson,7.0,is ISL,RM,28-294,71,0,0,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.3,8,0,14,24,58.3,0,13,3,0,0,Burnley
+Aaron Lennon,25.0,eng ENG,RM,32-123,19,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,4,1,0,0,Burnley
+Erik Pieters,23.0,nl NED,LB,31-010,90,0,0,0,0,1,0,0,0,48,6,0,3,0.0,0.0,0.0,1,0,20,28,71.4,3,11,2,2,0,Burnley
+Ben Mee,6.0,eng ENG,CB,29-330,90,0,0,0,0,2,1,0,0,42,0,1,1,0.1,0.1,0.3,2,0,19,26,73.1,2,15,0,0,0,Burnley
+James Tarkowski,5.0,eng ENG,CB,26-271,90,0,0,0,0,1,0,0,0,26,3,0,0,0.0,0.0,0.0,0,0,13,20,65.0,2,9,0,0,0,Burnley
+Matthew Lowton,2.0,eng ENG,RB,30-069,90,0,0,0,0,1,0,0,0,46,2,0,0,0.0,0.0,0.0,3,0,17,35,48.6,2,14,2,0,0,Burnley
+Nick Pope,1.0,eng ENG,GK,27-120,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.1,2,0,13,28,46.4,0,15,0,0,0,Burnley
+13 Players,,,,,990,1,0,0,0,18,4,1,0,410,16,6,9,1.5,1.5,0.9,30,1,178,282,63.1,16,158,12,10,4,Burnley

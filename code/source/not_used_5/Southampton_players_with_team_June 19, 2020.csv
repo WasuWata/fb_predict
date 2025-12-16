@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Michael Obafemi,20.0,ie IRL,FW,19-349,81,0,1,0,0,3,0,0,0,28,2,0,0,0.2,0.2,0.1,4,1,10,13,76.9,0,20,2,1,1,Southampton
+Che Adams,10.0,sct SCO,FW,23-342,9,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.1,2,0,3,4,75.0,0,3,0,0,0,Southampton
+Danny Ings,9.0,eng ENG,FW,27-332,87,1,1,0,0,4,1,1,0,41,3,0,4,0.5,0.5,0.2,6,2,15,25,60.0,5,25,4,2,0,Southampton
+Nathan Tella,52.0,ng NGA,FW,20-350,3,0,0,0,0,1,1,0,0,2,0,0,0,0.0,0.0,0.0,1,0,0,1,0.0,0,1,1,0,0,Southampton
+Nathan Redmond,22.0,eng ENG,LM,26-105,88,1,0,0,0,2,1,0,0,32,0,1,2,0.1,0.1,0.2,3,0,16,20,80.0,5,24,5,13,9,Southampton
+Sofiane Boufal,19.0,ma MAR,LM,26-276,2,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,2,0,1,1,100.0,0,1,0,0,0,Southampton
+Pierre Højbjerg,23.0,dk DEN,CM,24-319,90,0,0,0,0,0,0,0,0,64,5,3,0,0.0,0.0,0.0,0,0,41,53,77.4,4,46,3,3,3,Southampton
+James Ward-Prowse,16.0,eng ENG,CM,25-231,90,0,0,0,0,4,2,0,0,60,1,6,3,0.6,0.6,0.1,4,0,31,47,66.0,6,31,0,0,0,Southampton
+Stuart Armstrong,17.0,sct SCO,RM,28-081,81,1,1,0,0,3,3,0,0,46,2,1,1,0.2,0.2,0.0,3,1,19,27,70.4,2,32,3,4,2,Southampton
+William Smallbone,27.0,ie IRL,RM,20-119,9,0,0,0,0,2,0,0,0,5,0,0,1,0.1,0.1,0.0,1,0,0,2,0.0,0,4,0,0,0,Southampton
+Ryan Bertrand,21.0,eng ENG,LB,30-319,90,0,0,0,0,3,0,0,0,66,4,1,0,0.1,0.1,0.1,4,0,41,53,77.4,2,33,0,3,1,Southampton
+Jan Bednarek,35.0,pl POL,CB,24-068,90,0,0,0,0,0,0,0,0,43,2,2,3,0.0,0.0,0.0,0,0,20,32,62.5,2,26,0,0,0,Southampton
+Jack Stephens,5.0,eng ENG,CB,26-144,90,0,0,0,0,0,0,0,0,44,2,2,1,0.0,0.0,0.3,2,0,22,37,59.5,7,28,2,1,0,Southampton
+Yan Valery,43.0,tn TUN,RB,21-118,89,0,0,0,0,0,0,0,0,43,2,1,0,0.0,0.0,0.0,3,0,22,35,62.9,2,22,3,3,2,Southampton
+Kyle Walker-Peters,24.0,eng ENG,RB,23-067,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,1,0,0,0,Southampton
+Alex McCarthy,1.0,eng ENG,GK,30-199,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,11,24,45.8,0,18,0,0,0,Southampton
+16 Players,,,,,990,3,3,0,0,22,8,1,0,511,24,17,16,1.7,1.7,1.1,35,4,255,379,67.3,35,315,23,30,18,Southampton

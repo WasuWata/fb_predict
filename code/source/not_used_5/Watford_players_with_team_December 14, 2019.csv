@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Troy Deeney,9.0,eng ENG,FW,31-168,74,0,0,0,0,0,0,0,0,33,2,0,0,0.0,0.0,0.3,1,0,13,23,56.5,3,16,0,0,0,Watford
+Andre Gray,18.0,jm JAM,FW,28-171,16,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,2,5,40.0,1,5,0,1,1,Watford
+Gerard Deulofeu,7.0,es ESP,LW,25-276,90,0,0,0,0,1,1,0,0,42,1,1,0,0.3,0.3,0.0,3,0,22,36,61.1,1,31,6,1,1,Watford
+Ismaila Sarr,23.0,sn SEN,RW,21-292,90,0,0,0,0,3,1,0,0,27,1,1,0,0.5,0.5,0.1,5,0,13,15,86.7,1,22,4,4,3,Watford
+Abdoulaye Doucouré,16.0,ml MLI,AM,26-347,86,0,0,0,0,2,0,0,0,47,0,0,0,0.2,0.2,0.2,3,0,31,37,83.8,2,25,2,3,2,Watford
+Domingos Quina,20.0,pt POR,AM,20-026,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Watford
+Will Hughes,19.0,eng ENG,DM,24-241,90,0,0,0,0,1,0,1,0,57,3,2,7,0.0,0.0,0.0,0,0,31,39,79.5,1,19,0,0,0,Watford
+Étienne Capoue,29.0,fr FRA,DM,31-156,90,0,0,0,0,1,0,0,0,55,4,1,1,0.1,0.1,0.1,1,0,28,41,68.3,4,26,0,1,0,Watford
+Kiko Femenía,21.0,es ESP,LB,28-315,90,0,0,0,0,0,0,0,0,59,3,3,0,0.0,0.0,0.0,1,0,32,43,74.4,2,22,1,1,1,Watford
+Craig Cathcart,15.0,nir NIR,CB,30-311,90,0,0,0,0,0,0,0,0,42,4,2,1,0.0,0.0,0.0,0,0,10,22,45.5,0,14,0,0,0,Watford
+Christian Kabasele,27.0,be BEL,CB,28-293,90,0,0,0,0,0,0,0,0,33,3,3,1,0.0,0.0,0.0,0,0,6,14,42.9,0,9,0,2,2,Watford
+Adrian Mariappa,6.0,jm JAM,RB,33-072,90,0,0,0,0,0,0,0,0,35,0,0,2,0.0,0.0,0.0,0,0,12,25,48.0,2,10,0,0,0,Watford
+Ben Foster,26.0,eng ENG,GK,36-255,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,10,38,26.3,0,17,0,0,0,Watford
+13 Players,,,,,990,0,0,0,0,8,2,1,0,475,21,13,13,1.0,1.0,0.6,14,0,211,339,62.2,17,216,13,13,10,Watford

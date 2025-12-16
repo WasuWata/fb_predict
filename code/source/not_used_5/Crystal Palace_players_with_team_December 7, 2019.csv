@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jordan Ayew,9.0,gh GHA,"FW,RW",28-087,90,0,0,0,0,1,0,0,0,35,3,0,0,0.1,0.1,0.0,1,0,16,20,80.0,0,19,1,2,2,Crystal Palace
+Wilfried Zaha,11.0,ci CIV,LW,27-027,90,0,0,0,0,0,0,1,0,44,0,0,1,0.0,0.0,0.1,1,0,26,35,74.3,1,41,5,7,6,Crystal Palace
+Andros Townsend,10.0,eng ENG,RW,28-144,72,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,14,24,58.3,4,20,1,3,2,Crystal Palace
+Christian Benteke,17.0,be BEL,FW,29-004,18,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,1,2,1,0,0,Crystal Palace
+James McArthur,18.0,sct SCO,CM,32-061,90,0,0,0,0,2,0,0,0,54,2,2,1,0.1,0.1,0.0,0,0,28,38,73.7,8,27,6,0,0,Crystal Palace
+Luka Milivojević,4.0,rs SRB,CM,28-244,90,0,0,0,0,0,0,0,0,68,2,0,0,0.0,0.0,0.1,2,0,45,57,78.9,5,26,0,0,0,Crystal Palace
+Cheikhou Kouyaté,8.0,sn SEN,CM,29-351,82,0,0,0,0,0,0,0,0,43,2,0,3,0.0,0.0,0.0,1,0,19,27,70.4,2,8,0,0,0,Crystal Palace
+James McCarthy,22.0,ie IRL,CM,29-025,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,3,0,0,0,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,LB,26-349,45,0,0,0,0,0,0,0,0,35,1,1,0,0.0,0.0,0.0,0,0,23,30,76.7,2,19,0,0,0,Crystal Palace
+Jaïro Riedewald,44.0,nl NED,LB,23-089,45,0,0,0,0,0,0,0,0,17,0,1,0,0.0,0.0,0.0,0,0,11,15,73.3,1,10,1,1,1,Crystal Palace
+Gary Cahill,24.0,eng ENG,CB,33-353,90,0,0,0,0,0,0,0,0,61,0,0,3,0.0,0.0,0.0,0,0,45,52,86.5,1,39,0,0,0,Crystal Palace
+James Tomkins,5.0,eng ENG,CB,30-253,90,0,0,0,0,0,0,1,0,48,1,1,0,0.0,0.0,0.0,0,0,33,40,82.5,1,24,0,0,0,Crystal Palace
+Martin Kelly,34.0,eng ENG,RB,29-224,90,0,0,0,0,0,0,0,0,60,2,2,0,0.0,0.0,0.0,0,0,29,47,61.7,1,22,0,1,1,Crystal Palace
+Vicente Guaita,31.0,es ESP,GK,32-331,90,0,0,0,0,0,0,0,0,37,1,0,0,0.0,0.0,0.0,0,0,19,36,52.8,0,22,0,0,0,Crystal Palace
+14 Players,,,,,990,0,0,0,0,3,0,2,0,543,14,7,8,0.2,0.2,0.1,6,0,311,431,72.2,27,282,15,14,12,Crystal Palace

@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Neal Maupay,7.0,fr FRA,FW,23-311,90,1,0,0,0,4,2,0,0,30,1,0,1,0.4,0.4,0.0,0,0,15,20,75.0,2,18,5,3,1,Brighton & Hove Albion
+Aaron Mooy,18.0,au AUS,LW,29-279,45,0,0,0,0,1,1,1,0,21,0,2,0,0.0,0.0,0.0,0,0,11,16,68.8,5,14,2,2,2,Brighton & Hove Albion
+Solly March,20.0,eng ENG,LW,25-336,45,0,0,0,0,0,0,0,0,27,1,1,1,0.0,0.0,0.0,3,1,14,20,70.0,3,11,1,0,0,Brighton & Hove Albion
+Pascal Groß,13.0,de GER,RW,29-005,70,0,0,0,0,0,0,0,0,37,5,1,0,0.0,0.0,0.0,1,0,18,28,64.3,3,12,0,1,0,Brighton & Hove Albion
+Aaron Connolly,44.0,ie IRL,RW,20-144,20,0,1,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.3,1,1,1,2,50.0,1,0,0,0,0,Brighton & Hove Albion
+Leandro Trossard,11.0,be BEL,AM,25-199,86,0,0,0,0,1,0,0,0,22,1,0,1,0.0,0.0,0.0,4,1,11,17,64.7,3,16,3,0,0,Brighton & Hove Albion
+Dale Stephens,6.0,eng ENG,AM,31-008,4,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Brighton & Hove Albion
+Yves Bissouma,8.0,ml MLI,DM,23-295,89,0,0,0,0,1,0,0,0,63,6,2,0,0.0,0.0,0.0,1,0,40,48,83.3,4,38,2,1,1,Brighton & Hove Albion
+Alexis Mac Allister,10.0,ar ARG,DM,21-179,1,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,1,1,2,2,100.0,1,2,0,0,0,Brighton & Hove Albion
+Davy Pröpper,24.0,nl NED,DM,28-292,90,0,0,0,0,0,0,0,0,48,0,1,3,0.0,0.0,0.0,2,0,34,41,82.9,7,26,1,0,0,Brighton & Hove Albion
+Dan Burn,33.0,eng ENG,LB,28-042,90,0,0,0,0,0,0,1,0,41,2,0,1,0.0,0.0,0.0,0,0,22,31,71.0,3,8,0,0,0,Brighton & Hove Albion
+Lewis Dunk,5.0,eng ENG,CB,28-212,90,1,0,0,0,1,1,0,0,44,1,0,2,0.5,0.5,0.0,0,0,33,37,89.2,0,27,0,0,0,Brighton & Hove Albion
+Adam Webster,15.0,eng ENG,CB,25-168,90,0,0,0,0,0,0,0,0,44,2,0,1,0.0,0.0,0.0,1,0,27,34,79.4,1,26,0,2,2,Brighton & Hove Albion
+Ezequiel Schelotto,21.0,it ITA,RB,31-028,70,0,0,0,0,1,1,0,0,33,1,1,0,0.0,0.0,0.0,0,0,19,28,67.9,0,17,4,0,0,Brighton & Hove Albion
+Martín Montoya,22.0,es ESP,RB,29-067,20,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,13,15,86.7,2,4,1,0,0,Brighton & Hove Albion
+Mathew Ryan,1.0,au AUS,GK,28-073,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,21,30,70.0,0,19,0,0,0,Brighton & Hove Albion
+16 Players,,,,,990,2,1,0,0,9,5,2,0,469,22,8,12,1.0,1.0,0.5,14,4,282,370,76.2,35,238,19,9,6,Brighton & Hove Albion
+Alexandre Lacazette,9.0,fr FRA,FW,29-023,77,0,0,0,0,2,1,1,0,27,0,0,1,0.1,0.1,0.0,0,0,18,20,90.0,1,14,0,0,0,Arsenal
+Eddie Nketiah,30.0,eng ENG,RW,21-021,13,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,6,1,0,0,Arsenal
+Pierre-Emerick Aubameyang,14.0,ga GAB,LW,31-002,90,0,0,0,0,7,3,0,0,35,1,0,1,0.5,0.5,0.1,3,0,15,21,71.4,5,26,6,3,1,Arsenal
+Nicolas Pépé,19.0,ci CIV,RW,25-022,86,1,0,0,0,1,1,0,0,38,0,0,0,0.0,0.0,0.2,1,0,22,27,81.5,2,28,2,5,1,Arsenal
+Reiss Nelson,24.0,eng ENG,RM,20-193,4,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,Arsenal
+Bukayo Saka,77.0,eng ENG,LM,18-289,86,0,1,0,0,2,0,0,0,41,0,0,0,0.1,0.1,0.0,4,1,25,31,80.6,3,31,3,5,3,Arsenal
+Kieran Tierney,3.0,sct SCO,LW,23-015,4,0,0,0,0,0,0,0,0,10,1,0,2,0.0,0.0,0.0,0,0,3,7,42.9,0,4,1,0,0,Arsenal
+Mattéo Guendouzi,29.0,fr FRA,CM,21-067,90,0,0,0,0,0,0,0,0,52,0,1,2,0.0,0.0,0.0,4,0,40,43,93.0,9,39,3,1,0,Arsenal
+Dani Ceballos,8.0,es ESP,RM,23-318,86,0,0,0,0,0,0,0,0,49,1,1,0,0.0,0.0,0.2,5,1,34,45,75.6,8,29,3,2,2,Arsenal
+Joe Willock,28.0,eng ENG,CM,20-305,4,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,7,0,0,0,Arsenal
+Sead Kolašinac,31.0,ba BIH,LB,27-000,90,0,0,0,0,0,0,0,0,77,1,0,1,0.0,0.0,0.0,1,0,63,69,91.3,4,50,2,0,0,Arsenal
+Rob Holding,16.0,eng ENG,CB,24-274,90,0,0,0,0,0,0,0,0,95,1,1,1,0.0,0.0,0.0,0,0,81,85,95.3,6,80,1,0,0,Arsenal
+Shkodran Mustafi,20.0,de GER,CB,28-064,90,0,0,0,0,1,1,0,0,89,0,0,0,0.0,0.0,0.1,2,0,68,82,82.9,9,61,1,1,1,Arsenal
+Héctor Bellerín,2.0,es ESP,RB,25-093,90,0,0,0,0,0,0,0,0,57,2,1,2,0.0,0.0,0.0,1,0,36,46,78.3,6,25,1,3,0,Arsenal
+Bernd Leno,1.0,de GER,GK,28-108,39,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,13,13,100.0,0,9,0,0,0,Arsenal
+Emiliano Martínez,26.0,ar ARG,GK,27-292,51,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,19,24,79.2,0,17,0,0,0,Arsenal
+16 Players,,,,,990,1,1,0,0,13,6,1,0,625,8,4,10,0.8,0.8,0.5,21,2,450,527,85.4,54,428,24,20,8,Arsenal

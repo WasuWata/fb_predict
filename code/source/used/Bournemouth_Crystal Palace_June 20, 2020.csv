@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Callum Wilson,13.0,eng ENG,FW,28-114,90,0,0,0,0,1,0,0,0,30,0,0,2,0.0,0.0,0.0,1,0,10,20,50.0,1,18,2,4,2,Bournemouth
+Joshua King,7.0,no NOR,"LM,FW",28-157,48,0,0,0,0,1,0,0,0,24,0,0,1,0.0,0.0,0.0,1,0,14,17,82.4,1,22,0,3,1,Bournemouth
+Dominic Solanke,9.0,eng ENG,FW,22-280,42,0,0,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,8,13,61.5,1,16,2,3,2,Bournemouth
+Lewis Cook,16.0,eng ENG,CM,23-138,90,0,0,0,0,1,0,1,0,78,5,1,2,0.0,0.0,0.0,3,0,56,66,84.8,9,50,4,5,4,Bournemouth
+David Brooks,20.0,wls WAL,"CM,RM",22-348,60,0,0,0,0,0,0,0,0,43,1,0,1,0.0,0.0,0.1,4,0,23,35,65.7,2,28,0,6,2,Bournemouth
+Junior Stanislas,19.0,eng ENG,RM,30-207,30,0,0,0,0,2,0,0,0,13,2,0,1,0.1,0.1,0.1,3,0,6,8,75.0,0,6,1,0,0,Bournemouth
+Harry Wilson,22.0,wls WAL,RM,23-090,45,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,0,0,15,22,68.2,2,22,1,0,0,Bournemouth
+Arnaut Danjuma,14.0,nl NED,LM,23-141,45,0,0,0,0,0,0,0,0,27,2,0,0,0.0,0.0,0.1,3,0,20,21,95.2,2,19,3,4,1,Bournemouth
+Jefferson Lerma,8.0,co COL,"CM,DM",25-239,90,0,0,0,0,3,0,0,0,75,0,2,1,0.1,0.1,0.0,1,0,58,69,84.1,4,56,1,2,1,Bournemouth
+Adam Smith,15.0,eng ENG,LB,29-052,90,0,0,0,0,0,0,1,0,71,4,0,0,0.0,0.0,0.0,1,0,50,56,89.3,7,49,7,3,0,Bournemouth
+Nathan Aké,5.0,nl NED,CB,25-123,90,0,0,0,0,2,1,0,0,77,4,0,1,0.1,0.1,0.0,0,0,60,65,92.3,10,57,1,0,0,Bournemouth
+Steve Cook,3.0,eng ENG,CB,29-062,90,0,0,0,0,1,0,1,0,73,0,4,1,0.0,0.0,0.0,1,0,51,65,78.5,4,49,1,0,0,Bournemouth
+Jack Stacey,17.0,eng ENG,RB,24-075,90,0,0,0,0,0,0,0,0,63,0,0,0,0.0,0.0,0.1,1,0,50,57,87.7,3,42,2,0,0,Bournemouth
+Aaron Ramsdale,12.0,eng ENG,GK,22-037,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,16,20,80.0,0,11,0,0,0,Bournemouth
+14 Players,,,,,990,0,0,0,0,12,1,3,0,639,18,7,11,0.5,0.5,0.4,19,0,437,534,81.8,46,445,25,30,13,Bournemouth
+Christian Benteke,17.0,be BEL,FW,29-200,75,0,0,0,0,0,0,0,0,34,1,0,1,0.0,0.0,0.1,1,0,10,20,50.0,0,11,0,0,0,Crystal Palace
+Andros Townsend,10.0,eng ENG,"RW,FW",28-340,15,0,0,0,0,0,0,0,0,17,3,0,0,0.0,0.0,0.0,0,0,9,11,81.8,2,8,2,1,0,Crystal Palace
+Wilfried Zaha,11.0,ci CIV,LW,27-223,90,0,0,0,0,2,0,0,0,44,1,1,1,0.1,0.1,0.0,2,2,22,28,78.6,2,38,6,7,5,Crystal Palace
+Jordan Ayew,9.0,gh GHA,"RW,FW",28-283,90,1,0,0,0,1,1,1,0,40,2,1,0,0.4,0.4,0.1,3,1,22,28,78.6,0,32,2,5,3,Crystal Palace
+James McArthur,18.0,sct SCO,LM,32-257,88,0,0,0,0,0,0,0,0,55,3,3,2,0.0,0.0,0.0,1,0,37,43,86.0,6,34,2,1,1,Crystal Palace
+Jaïro Riedewald,44.0,nl NED,LM,23-285,2,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Crystal Palace
+Luka Milivojević,4.0,rs SRB,CM,29-074,64,1,0,0,0,2,1,0,0,47,2,1,2,0.1,0.1,0.0,0,0,27,36,75.0,2,23,0,0,0,Crystal Palace
+James McCarthy,22.0,ie IRL,CM,29-221,26,0,0,0,0,0,0,0,0,17,2,0,0,0.0,0.0,0.1,1,0,7,11,63.6,0,5,0,0,0,Crystal Palace
+Cheikhou Kouyaté,8.0,sn SEN,RM,30-182,90,0,0,0,0,0,0,0,0,50,7,1,4,0.0,0.0,0.0,0,0,26,36,72.2,2,23,1,0,0,Crystal Palace
+Patrick van Aanholt,3.0,nl NED,LB,29-296,90,0,1,0,0,0,0,0,0,57,0,2,1,0.0,0.0,0.4,3,1,43,53,81.1,5,26,0,0,0,Crystal Palace
+Gary Cahill,24.0,eng ENG,CB,34-184,90,0,0,0,0,2,0,0,0,43,1,1,1,0.1,0.1,0.0,0,0,27,32,84.4,2,25,0,0,0,Crystal Palace
+Scott Dann,6.0,eng ENG,CB,33-127,90,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.0,0,0,16,21,76.2,2,15,0,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,RB,30-235,90,0,0,0,0,0,0,1,0,44,4,2,0,0.0,0.0,0.0,0,0,20,32,62.5,2,18,1,0,0,Crystal Palace
+Vicente Guaita,31.0,es ESP,GK,33-162,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,15,26,57.7,0,12,0,0,0,Crystal Palace
+14 Players,,,,,990,2,1,0,0,7,2,2,0,504,26,13,13,0.8,0.8,0.7,11,4,282,379,74.4,25,272,14,14,9,Crystal Palace

@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Anthony Martial,9.0,fr FRA,FW,24-217,78,0,1,0,0,2,1,0,0,33,2,3,0,0.1,0.1,0.0,3,1,18,23,78.3,2,23,2,5,3,Manchester United
+Odion Ighalo,25.0,ng NGA,FW,31-023,12,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Manchester United
+Marcus Rashford,10.0,eng ENG,LW,22-252,90,0,0,0,0,3,1,0,0,71,0,1,2,0.6,0.6,0.3,3,0,48,59,81.4,10,44,3,2,2,Manchester United
+Mason Greenwood,26.0,eng ENG,RW,18-282,78,1,0,0,0,3,2,0,0,48,0,0,1,0.2,0.2,0.0,3,1,38,41,92.7,6,30,4,2,1,Manchester United
+Daniel James,21.0,wls WAL,RW,22-242,12,0,0,0,0,1,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,0,3,2,0,0,Manchester United
+Bruno Fernandes,18.0,pt POR,AM,25-305,70,1,1,1,1,1,0,0,0,68,1,1,0,1.1,0.3,0.2,5,2,46,61,75.4,8,38,3,0,0,Manchester United
+Fred,17.0,br BRA,AM,27-126,20,0,0,0,0,1,0,1,0,34,1,0,0,0.1,0.1,0.0,1,0,28,30,93.3,2,21,1,1,1,Manchester United
+Nemanja Matić,31.0,rs SRB,DM,31-343,65,0,0,0,0,0,0,1,0,70,2,1,0,0.0,0.0,0.1,1,0,57,64,89.1,5,37,1,0,0,Manchester United
+Scott McTominay,39.0,sct SCO,DM,23-214,25,0,0,0,0,0,0,0,0,27,0,1,1,0.0,0.0,0.0,1,0,23,24,95.8,3,14,1,0,0,Manchester United
+Paul Pogba,6.0,fr FRA,DM,27-116,90,1,0,0,0,1,1,0,0,90,1,0,1,0.0,0.0,0.5,4,0,72,81,88.9,9,53,4,3,2,Manchester United
+Luke Shaw,23.0,eng ENG,LB,24-363,90,0,0,0,0,0,0,0,0,72,1,2,2,0.0,0.0,0.4,3,0,58,64,90.6,8,37,1,0,0,Manchester United
+Harry Maguire,5.0,eng ENG,CB,27-126,90,0,0,0,0,0,0,0,0,68,1,1,1,0.0,0.0,0.0,0,0,57,61,93.4,0,40,0,0,0,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,25-358,90,0,0,0,0,0,0,0,0,74,0,1,0,0.0,0.0,0.0,1,0,65,69,94.2,4,52,0,0,0,Manchester United
+Aaron Wan-Bissaka,29.0,cd COD,RB,22-226,65,0,0,0,0,1,0,1,0,51,2,0,0,0.3,0.3,0.0,0,0,35,43,81.4,2,21,1,0,0,Manchester United
+Brandon Williams,53.0,eng ENG,RB,19-310,25,0,0,0,0,0,0,0,0,21,0,1,1,0.0,0.0,0.0,0,0,15,19,78.9,2,10,0,0,0,Manchester United
+David de Gea,1.0,es ESP,GK,29-245,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,23,28,82.1,0,13,0,0,0,Manchester United
+16 Players,,,,,990,3,2,1,1,13,5,3,0,766,11,12,9,2.4,1.6,1.5,26,4,590,677,87.1,61,439,23,13,9,Manchester United

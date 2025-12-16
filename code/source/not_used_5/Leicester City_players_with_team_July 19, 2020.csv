@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Harry Kane,10.0,eng ENG,FW,26-357,90,2,0,0,0,4,2,0,0,23,2,0,1,0.6,0.6,0.1,1,0,7,12,58.3,1,15,3,0,0,Leicester City
+Son Heung-min,7.0,kr KOR,LW,28-011,88,0,0,0,0,2,1,0,0,26,0,0,0,0.2,0.2,0.0,1,0,11,14,78.6,0,17,2,3,2,Leicester City
+Gedson Fernandes,30.0,pt POR,LW,21-192,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,3,0,0,0,Leicester City
+Lucas Moura,27.0,br BRA,RW,27-341,76,0,2,0,0,0,0,1,0,24,2,0,1,0.0,0.0,0.5,5,3,11,14,78.6,4,13,2,4,3,Leicester City
+Steven Bergwijn,23.0,nl NED,AM,22-285,14,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,7,2,1,1,Leicester City
+Giovani Lo Celso,18.0,ar ARG,AM,24-101,76,0,0,0,0,0,0,0,0,42,5,1,3,0.0,0.0,0.0,3,1,16,28,57.1,2,24,3,3,2,Leicester City
+Érik Lamela,11.0,ar ARG,DM,28-137,14,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,1,0,Leicester City
+Harry Winks,8.0,eng ENG,DM,24-168,89,0,0,0,0,0,0,0,0,37,0,1,1,0.0,0.0,0.1,1,0,26,35,74.3,2,29,0,1,1,Leicester City
+Oliver Skipp,29.0,eng ENG,DM,19-307,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Leicester City
+Moussa Sissoko,17.0,fr FRA,DM,30-338,90,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.0,0,0,23,32,71.9,1,25,0,5,3,Leicester City
+Ben Davies,33.0,wls WAL,LB,27-086,90,0,0,0,0,0,0,0,0,47,3,1,3,0.0,0.0,0.0,0,0,21,34,61.8,2,19,3,1,0,Leicester City
+Toby Alderweireld,4.0,be BEL,CB,31-139,90,0,0,0,0,1,0,0,0,36,1,0,1,0.0,0.0,0.0,0,0,18,27,66.7,0,23,0,0,0,Leicester City
+Davinson Sánchez,6.0,co COL,CB,24-037,90,0,0,0,0,0,0,1,0,43,2,1,4,0.0,0.0,0.0,0,0,26,33,78.8,1,26,0,0,0,Leicester City
+Serge Aurier,24.0,ci CIV,RB,27-208,90,0,0,0,0,0,0,0,0,60,2,2,0,0.0,0.0,0.0,1,0,36,49,73.5,2,25,1,0,0,Leicester City
+Hugo Lloris,1.0,fr FRA,GK,33-206,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,16,25,64.0,0,16,0,0,0,Leicester City
+15 Players,,,,,990,2,2,0,0,7,3,2,0,428,17,7,14,0.8,0.8,0.8,12,4,222,318,69.8,16,246,16,19,12,Leicester City

@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Harry Kane,10.0,eng ENG,FW,26-083,90,0,0,0,0,3,0,0,0,24,1,1,1,0.1,0.1,0.0,0,0,10,14,71.4,2,19,2,1,1,Tottenham Hotspur
+Dele Alli,20.0,eng ENG,AM,23-191,90,1,0,0,0,2,2,1,0,74,1,2,3,0.6,0.6,0.1,4,0,43,53,81.1,6,52,2,5,3,Tottenham Hotspur
+Lucas Moura,27.0,br BRA,"AM,FW",27-067,62,0,0,0,0,2,0,0,0,28,1,0,0,0.1,0.1,0.0,2,0,16,20,80.0,3,15,2,2,2,Tottenham Hotspur
+Érik Lamela,11.0,ar ARG,"AM,FW",27-229,28,0,0,0,0,1,0,0,0,34,1,0,0,0.1,0.1,0.1,3,1,17,31,54.8,3,20,3,1,0,Tottenham Hotspur
+Harry Winks,8.0,eng ENG,"CM,DM",23-259,69,0,0,0,0,0,0,0,0,87,1,4,0,0.0,0.0,0.0,3,0,69,77,89.6,13,63,2,0,0,Tottenham Hotspur
+Tanguy Ndombele,28.0,fr FRA,DM,22-295,21,0,0,0,0,1,0,0,0,13,1,0,0,0.1,0.1,0.0,2,0,9,9,100.0,2,11,0,0,0,Tottenham Hotspur
+Moussa Sissoko,17.0,fr FRA,"DM,CM",30-064,90,0,0,0,0,1,0,1,0,82,1,1,0,0.0,0.0,0.1,2,0,65,69,94.2,6,54,0,1,0,Tottenham Hotspur
+Danny Rose,3.0,eng ENG,"LB,WB",29-109,90,0,0,0,0,0,0,1,0,76,1,0,1,0.0,0.0,0.0,1,0,55,71,77.5,8,55,3,2,2,Tottenham Hotspur
+Serge Aurier,24.0,ci CIV,"RB,WB",26-299,90,0,0,0,0,1,0,0,0,87,2,1,1,0.0,0.0,0.1,4,1,54,77,70.1,5,49,4,2,1,Tottenham Hotspur
+Jan Vertonghen,5.0,be BEL,CB,32-178,90,0,0,0,0,0,0,0,0,112,0,0,0,0.0,0.0,0.0,0,0,97,111,87.4,4,87,4,1,1,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,23-129,45,0,0,0,0,0,0,1,0,66,0,1,2,0.0,0.0,0.0,0,0,59,63,93.7,4,53,0,0,0,Tottenham Hotspur
+Son Heung-min,7.0,kr KOR,"AM,FW",27-103,45,0,0,0,0,1,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,21,24,87.5,3,21,3,4,2,Tottenham Hotspur
+Toby Alderweireld,4.0,be BEL,CB,30-231,90,0,0,0,0,0,0,0,0,128,1,1,1,0.0,0.0,0.1,2,0,97,122,79.5,10,94,1,0,0,Tottenham Hotspur
+Paulo Gazzaniga,22.0,ar ARG,GK,27-290,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,17,21,81.0,0,15,0,0,0,Tottenham Hotspur
+14 Players,,,,,990,1,0,0,0,12,2,4,0,865,11,11,9,1.0,1.0,0.4,23,2,629,762,82.5,69,608,26,19,12,Tottenham Hotspur
+Roberto Pereyra,37.0,ar ARG,FW,28-285,83,0,0,0,0,1,0,1,0,45,0,1,1,0.1,0.1,0.1,4,0,30,38,78.9,2,35,3,1,1,Watford
+Will Hughes,19.0,eng ENG,FW,24-185,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Watford
+Danny Welbeck,10.0,eng ENG,FW,28-327,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,1,0,0,Watford
+Gerard Deulofeu,7.0,es ESP,FW,25-220,87,0,0,0,0,3,1,0,0,31,1,0,0,0.2,0.2,0.1,2,0,23,25,92.0,1,22,3,2,2,Watford
+Abdoulaye Doucouré,16.0,ml MLI,CM,26-291,90,1,0,0,0,2,1,0,0,54,4,1,1,0.3,0.3,0.1,5,0,25,38,65.8,4,30,2,6,4,Watford
+Nathaniel Chalobah,14.0,eng ENG,CM,24-311,90,0,0,0,0,0,0,0,0,43,0,2,2,0.0,0.0,0.0,0,0,19,32,59.4,1,14,0,0,0,Watford
+Tom Cleverley,8.0,eng ENG,CM,30-068,90,0,0,0,0,0,0,0,0,48,4,4,1,0.0,0.0,0.0,0,0,23,33,69.7,2,23,1,2,2,Watford
+José Holebas,25.0,gr GRE,LB,35-114,90,0,0,0,0,0,0,1,0,38,1,0,1,0.0,0.0,0.0,0,0,19,31,61.3,3,13,2,2,2,Watford
+Craig Cathcart,15.0,nir NIR,CB,30-255,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,1,18,24,75.0,0,15,0,0,0,Watford
+Craig Dawson,4.0,eng ENG,CB,29-166,90,0,0,0,0,0,0,0,0,41,2,1,3,0.0,0.0,0.0,0,0,15,21,71.4,0,12,0,0,0,Watford
+Christian Kabasele,27.0,be BEL,CB,28-237,90,0,0,0,0,0,0,0,0,42,5,3,0,0.0,0.0,0.0,0,0,14,18,77.8,3,12,0,1,1,Watford
+Daryl Janmaat,2.0,nl NED,RB,30-089,70,0,1,0,0,1,0,0,0,37,1,2,0,0.1,0.1,0.2,1,1,22,31,71.0,3,20,3,1,1,Watford
+Kiko Femenía,21.0,es ESP,RB,28-259,20,0,0,0,0,0,0,1,0,10,2,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Watford
+Ben Foster,26.0,eng ENG,GK,36-199,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,9,39,23.1,0,21,0,1,1,Watford
+14 Players,,,,,990,1,1,0,0,7,2,3,0,469,20,14,9,0.7,0.7,0.5,13,2,222,337,65.9,19,224,15,16,14,Watford

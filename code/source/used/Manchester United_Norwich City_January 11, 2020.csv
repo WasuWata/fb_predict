@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Anthony Martial,9.0,fr FRA,FW,24-037,79,1,0,0,0,3,1,0,0,37,3,0,3,0.3,0.3,0.0,1,0,16,19,84.2,2,24,4,4,1,Manchester United
+Angel Gomes,28.0,eng ENG,AM,19-133,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,2,0,7,8,87.5,3,6,2,0,0,Manchester United
+Marcus Rashford,10.0,eng ENG,LW,22-072,58,2,0,1,1,2,2,0,0,41,0,0,0,1.6,0.8,0.0,1,1,23,33,69.7,4,23,4,5,4,Manchester United
+Daniel James,21.0,wls WAL,LW,22-062,32,0,0,0,0,1,0,0,0,14,0,0,1,0.1,0.1,0.0,0,0,9,11,81.8,1,8,2,1,1,Manchester United
+Juan Mata,8.0,es ESP,"RW,AM",31-258,90,0,2,0,0,1,0,0,0,81,1,0,0,0.0,0.0,0.8,5,2,68,75,90.7,10,44,1,1,0,Manchester United
+Andreas Pereira,15.0,br BRA,AM,24-010,70,0,0,0,0,1,1,0,0,63,1,0,0,0.0,0.0,1.0,6,1,42,56,75.0,6,40,3,4,3,Manchester United
+Mason Greenwood,26.0,eng ENG,"FW,RW",18-102,20,1,0,0,0,1,1,0,0,12,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,0,5,1,1,1,Manchester United
+Nemanja Matić,31.0,rs SRB,DM,31-163,90,0,0,0,0,0,0,0,0,81,4,1,1,0.0,0.0,0.0,2,0,65,75,86.7,11,34,0,2,2,Manchester United
+Fred,17.0,br BRA,DM,26-312,90,0,0,0,0,1,0,0,0,112,3,2,6,0.0,0.0,0.0,2,1,81,95,85.3,8,45,1,3,1,Manchester United
+Brandon Williams,53.0,eng ENG,LB,19-130,90,0,0,0,0,2,0,0,0,99,3,5,2,0.8,0.8,0.0,3,1,67,81,82.7,5,52,10,4,3,Manchester United
+Harry Maguire,5.0,eng ENG,CB,26-312,90,0,0,0,0,0,0,0,0,77,2,3,0,0.0,0.0,0.0,0,0,59,68,86.8,5,49,1,0,0,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,25-178,90,0,0,0,0,0,0,0,0,66,1,1,0,0.0,0.0,0.0,1,1,51,61,83.6,7,37,0,1,0,Manchester United
+Aaron Wan-Bissaka,29.0,cd COD,RB,22-046,90,0,0,0,0,0,0,0,0,91,3,2,2,0.0,0.0,0.0,1,1,70,83,84.3,3,47,4,1,1,Manchester United
+David de Gea,1.0,es ESP,GK,29-065,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,16,17,94.1,0,10,0,0,0,Manchester United
+14 Players,,,,,990,4,2,1,1,12,5,0,0,800,21,14,15,2.9,2.1,2.0,25,8,583,692,84.2,65,424,33,27,17,Manchester United
+Adam Idah,35.0,ie IRL,FW,18-334,64,0,0,0,0,0,0,0,0,16,1,0,1,0.0,0.0,0.0,0,0,2,5,40.0,0,9,0,1,0,Norwich City
+Onel Hernández,11.0,cu CUB,AM,26-344,26,0,0,0,0,1,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,5,0,2,2,Norwich City
+Todd Cantwell,14.0,eng ENG,"LW,AM",21-318,90,0,0,0,0,2,1,0,0,55,2,1,1,0.1,0.1,0.0,3,0,34,40,85.0,3,37,2,3,3,Norwich City
+Emi Buendía,17.0,ar ARG,"RW,FW",23-017,90,0,0,0,0,1,0,0,0,79,5,0,0,0.1,0.1,0.1,3,0,45,60,75.0,9,57,2,7,5,Norwich City
+Kenny McLean,23.0,sct SCO,"AM,CM",28-003,90,0,0,0,0,0,0,0,0,56,0,1,3,0.0,0.0,0.0,0,0,39,46,84.8,2,38,1,2,1,Norwich City
+Mario Vrančić,8.0,ba BIH,DM,30-233,64,0,0,0,0,1,0,0,0,54,2,1,1,0.0,0.0,0.0,1,0,32,42,76.2,2,38,0,3,3,Norwich City
+Ibrahim Amadou,24.0,fr FRA,CB,26-280,26,0,0,0,0,1,1,0,0,19,2,0,0,0.0,0.0,0.0,0,0,14,15,93.3,3,13,0,0,0,Norwich City
+Alexander Tettey,27.0,no NOR,"DM,CM",33-282,90,0,0,0,0,1,0,0,0,57,0,2,1,0.0,0.0,0.0,2,0,44,46,95.7,3,42,0,2,0,Norwich City
+Sam Byram,3.0,eng ENG,"LB,WB",26-117,90,0,0,0,0,0,0,0,0,67,3,2,0,0.0,0.0,0.0,2,0,46,54,85.2,1,33,0,1,1,Norwich City
+Grant Hanley,5.0,sct SCO,CB,28-052,79,0,0,0,0,0,0,0,0,49,2,4,2,0.0,0.0,0.0,0,0,26,37,70.3,1,28,0,1,1,Norwich City
+Jamal Lewis,12.0,nir NIR,CB,21-351,11,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Norwich City
+Christoph Zimmermann,6.0,de GER,CB,26-364,90,0,0,0,0,1,1,0,0,45,3,2,2,0.0,0.0,0.0,0,0,24,31,77.4,0,28,1,2,2,Norwich City
+Max Aarons,2.0,eng ENG,"RB,WB",20-007,90,0,0,0,0,0,0,0,0,59,1,0,1,0.0,0.0,0.0,0,0,39,50,78.0,5,34,5,2,1,Norwich City
+Tim Krul,1.0,nl NED,GK,31-283,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,19,38,50.0,0,23,0,0,0,Norwich City
+14 Players,,,,,990,0,0,0,0,8,3,0,0,603,22,13,12,0.3,0.3,0.1,11,0,368,468,78.6,29,386,11,26,19,Norwich City

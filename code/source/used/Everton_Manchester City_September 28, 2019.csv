@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Calvert-Lewin,9.0,eng ENG,FW,22-196,90,1,0,0,0,3,2,0,0,27,0,0,1,1.6,1.6,0.0,2,0,6,14,42.9,0,12,2,1,0,Everton
+Richarlison,7.0,br BRA,"RW,LW",22-141,90,0,0,0,0,2,1,0,0,36,6,0,0,0.1,0.1,0.0,3,0,14,22,63.6,2,23,2,2,1,Everton
+Theo Walcott,11.0,eng ENG,RW,30-196,6,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Everton
+Alex Iwobi,17.0,ng NGA,LW,23-148,67,0,0,0,0,0,0,0,0,30,0,1,0,0.0,0.0,0.1,3,0,22,23,95.7,4,19,0,2,1,Everton
+Moise Kean,27.0,it ITA,RW,19-212,17,0,0,0,0,0,0,0,0,8,0,1,1,0.0,0.0,0.0,0,0,0,3,0.0,0,7,2,0,0,Everton
+Gylfi Sigurðsson,10.0,is ISL,AM,30-020,90,0,0,0,0,2,1,0,0,41,3,1,0,0.1,0.1,0.7,5,0,24,33,72.7,6,25,0,3,2,Everton
+Fabian Delph,8.0,eng ENG,DM,29-311,90,0,0,0,0,0,0,0,0,52,1,2,1,0.0,0.0,0.0,1,0,43,47,91.5,3,32,0,2,2,Everton
+Morgan Schneiderlin,18.0,fr FRA,DM,29-324,80,0,0,0,0,0,0,1,0,39,1,2,0,0.0,0.0,0.0,2,0,28,33,84.8,4,20,0,0,0,Everton
+Tom Davies,26.0,eng ENG,DM,21-090,10,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,2,8,0,0,0,Everton
+Lucas Digne,12.0,fr FRA,LB,26-070,90,0,0,0,0,1,0,0,0,45,2,1,1,0.1,0.1,0.4,2,0,30,41,73.2,0,18,0,0,0,Everton
+Yerry Mina,13.0,co COL,CB,25-005,90,0,0,0,0,3,3,1,0,56,2,1,3,0.5,0.5,0.0,1,0,37,41,90.2,4,34,0,0,0,Everton
+Michael Keane,5.0,eng ENG,CB,26-260,90,0,0,0,0,0,0,0,0,52,1,1,1,0.0,0.0,0.0,0,0,39,48,81.3,1,37,0,0,0,Everton
+Séamus Coleman,23.0,ie IRL,RB,30-352,90,0,1,0,0,1,0,0,0,55,3,1,0,0.1,0.1,1.0,2,1,36,44,81.8,5,31,2,10,8,Everton
+Jordan Pickford,1.0,eng ENG,GK,25-205,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,1,0,27,39,69.2,0,20,0,0,0,Everton
+14 Players,,,,,990,1,1,0,0,12,7,2,0,496,19,11,8,2.5,2.5,2.2,22,1,313,396,79.0,31,286,8,20,14,Everton
+Gabriel Jesus,9.0,br BRA,FW,22-178,65,1,0,0,0,4,1,0,0,27,0,1,0,0.8,0.8,0.0,0,0,20,21,95.2,1,18,1,2,1,Manchester City
+Sergio Agüero,10.0,ar ARG,FW,31-118,25,0,0,0,0,2,0,0,0,12,0,0,1,0.1,0.1,0.0,4,1,8,8,100.0,1,9,2,3,3,Manchester City
+Raheem Sterling,7.0,eng ENG,LW,24-294,85,1,0,0,0,3,1,0,0,61,1,0,1,0.6,0.6,0.3,5,0,32,45,71.1,1,44,5,5,1,Manchester City
+David Silva,21.0,es ESP,RM,33-263,5,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,28-219,90,1,0,0,0,5,5,0,0,76,0,0,4,0.3,0.3,1.4,7,1,54,62,87.1,6,57,4,3,2,Manchester City
+İlkay Gündoğan,8.0,de GER,LM,28-339,90,0,0,0,0,3,1,0,0,81,2,0,0,0.9,0.9,0.0,1,0,60,69,87.0,9,58,3,0,0,Manchester City
+Rodri,16.0,es ESP,CM,23-098,90,0,0,0,0,0,0,1,0,70,1,1,0,0.0,0.0,0.1,3,0,56,60,93.3,4,51,1,2,2,Manchester City
+Kevin De Bruyne,17.0,be BEL,RM,28-092,79,0,1,0,0,2,0,0,0,47,0,0,1,0.1,0.1,0.6,9,2,32,40,80.0,8,41,2,2,1,Manchester City
+Bernardo Silva,20.0,pt POR,"LW,RM",25-049,11,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,1,0,0,Manchester City
+Oleksandr Zinchenko,11.0,ua UKR,LB,22-287,90,0,0,0,0,0,0,0,0,90,5,2,1,0.0,0.0,0.1,2,0,74,78,94.9,6,60,2,0,0,Manchester City
+Fernandinho,25.0,br BRA,CB,34-147,90,0,0,0,0,0,0,0,0,103,4,3,2,0.0,0.0,0.0,1,0,81,86,94.2,8,77,2,0,0,Manchester City
+Nicolás Otamendi,30.0,ar ARG,CB,31-228,90,0,0,0,0,0,0,1,0,93,1,1,0,0.0,0.0,0.0,2,0,80,86,93.0,6,79,2,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,29-123,90,0,0,0,0,0,0,0,0,74,0,0,0,0.0,0.0,0.0,2,1,64,68,94.1,2,49,2,0,0,Manchester City
+Ederson,31.0,br BRA,GK,26-042,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,0,25,0,0,0,Manchester City
+14 Players,,,,,990,3,1,0,0,19,8,2,0,779,15,8,10,2.8,2.8,2.6,36,5,592,662,89.4,52,573,27,17,10,Manchester City

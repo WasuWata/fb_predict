@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Gabriel Jesus,9.0,br BRA,FW,23-075,79,0,0,0,0,2,1,0,0,33,1,1,1,0.1,0.1,0.1,1,0,21,22,95.5,2,29,2,1,0,Manchester City
+Sergio Agüero,10.0,ar ARG,FW,32-015,11,0,0,0,0,3,1,0,0,7,0,0,0,0.4,0.4,0.0,2,1,4,4,100.0,1,7,2,0,0,Manchester City
+Raheem Sterling,7.0,eng ENG,LW,25-192,90,1,0,0,0,3,2,0,0,54,0,0,0,0.6,0.6,0.5,7,0,44,48,91.7,2,51,4,0,0,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,29-117,64,0,0,0,0,2,1,0,0,46,1,0,0,0.4,0.4,0.0,3,2,37,39,94.9,0,38,1,4,3,Manchester City
+Phil Foden,47.0,eng ENG,RW,20-020,26,1,0,0,0,1,1,0,0,22,1,0,1,0.1,0.1,0.1,2,0,16,17,94.1,2,15,4,0,0,Manchester City
+David Silva,21.0,es ESP,LM,34-161,64,0,0,0,0,1,1,0,0,45,0,0,1,0.1,0.1,0.0,2,0,39,41,95.1,7,37,2,1,0,Manchester City
+Bernardo Silva,20.0,pt POR,RM,25-312,26,0,0,0,0,1,0,0,0,29,1,0,1,0.1,0.1,0.0,0,0,24,25,96.0,3,26,1,1,1,Manchester City
+İlkay Gündoğan,8.0,de GER,CM,29-237,90,0,0,0,0,1,1,0,0,91,2,3,0,0.0,0.0,0.1,5,0,79,82,96.3,9,80,1,5,4,Manchester City
+Kevin De Bruyne,17.0,be BEL,"RM,LM",28-355,69,1,0,1,1,4,2,0,0,72,0,3,0,1.0,0.2,0.7,5,0,48,62,77.4,10,60,7,3,3,Manchester City
+Rodri,16.0,es ESP,"LM,CB",23-361,21,0,0,0,0,0,0,1,0,20,0,0,0,0.0,0.0,0.0,1,0,19,19,100.0,0,17,0,0,0,Manchester City
+Benjamin Mendy,22.0,fr FRA,LB,25-336,90,0,0,0,0,0,0,0,0,73,1,0,0,0.0,0.0,0.0,1,0,63,68,92.6,3,59,2,2,1,Manchester City
+Aymeric Laporte,14.0,es ESP,CB,26-021,69,0,0,0,0,0,0,0,0,87,0,1,0,0.0,0.0,0.0,0,0,80,85,94.1,7,80,3,0,0,Manchester City
+Fernandinho,25.0,br BRA,CB,35-044,21,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,19,19,100.0,0,18,0,0,0,Manchester City
+Eric García,50.0,es ESP,CB,19-160,90,0,0,0,0,0,0,0,0,62,0,1,0,0.0,0.0,0.0,1,1,58,60,96.7,3,55,0,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,30-020,90,0,0,0,0,1,1,0,0,98,0,4,0,0.0,0.0,0.1,4,1,73,88,83.0,6,67,3,3,1,Manchester City
+Ederson,31.0,br BRA,GK,26-305,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,1,0,40,45,88.9,0,36,0,0,0,Manchester City
+16 Players,,,,,990,3,0,1,1,19,11,1,0,805,7,13,4,2.8,2.1,1.5,35,5,664,724,91.7,55,675,32,20,13,Manchester City
+Eddie Nketiah,30.0,eng ENG,FW,21-018,66,0,0,0,0,1,0,0,0,25,2,0,3,0.1,0.1,0.0,1,0,11,15,73.3,2,18,0,1,1,Arsenal
+Alexandre Lacazette,9.0,fr FRA,FW,29-020,24,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,7,1,0,0,Arsenal
+Pierre-Emerick Aubameyang,14.0,ga GAB,"AM,LM",30-365,90,0,0,0,0,2,0,0,0,22,1,0,2,0.2,0.2,0.0,0,0,10,14,71.4,2,12,0,0,0,Arsenal
+Bukayo Saka,77.0,eng ENG,"AM,LB",18-286,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.1,1,0,23,29,79.3,4,22,3,1,0,Arsenal
+Granit Xhaka,34.0,ch SUI,LM,27-264,7,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Arsenal
+Dani Ceballos,8.0,es ESP,"CM,LM",23-315,83,0,0,0,0,0,0,0,0,41,2,3,0,0.0,0.0,0.0,0,0,27,33,81.8,3,31,1,0,0,Arsenal
+Mattéo Guendouzi,29.0,fr FRA,CM,21-064,66,0,0,0,0,0,0,0,0,27,1,1,0,0.0,0.0,0.0,0,0,18,21,85.7,0,20,0,1,0,Arsenal
+Ainsley Maitland-Niles,15.0,eng ENG,CM,22-293,24,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,10,10,100.0,1,7,0,0,0,Arsenal
+Joe Willock,28.0,eng ENG,RM,20-302,66,0,0,0,0,0,0,0,0,26,3,1,1,0.0,0.0,0.0,1,0,16,20,80.0,2,17,2,0,0,Arsenal
+Reiss Nelson,24.0,eng ENG,RM,20-190,24,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,6,2,1,1,Arsenal
+Kieran Tierney,3.0,sct SCO,"LB,CB",23-012,90,0,0,0,0,0,0,1,0,51,3,0,1,0.0,0.0,0.0,0,0,41,45,91.1,3,34,2,1,1,Arsenal
+Pablo Marí,22.0,es ESP,CB,26-291,23,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,0,0,14,16,87.5,0,15,0,0,0,Arsenal
+David Luiz,23.0,br BRA,CB,33-056,25,0,0,0,0,0,0,0,1,27,1,0,0,0.0,0.0,0.0,0,0,18,24,75.0,0,18,0,0,0,Arsenal
+Shkodran Mustafi,20.0,de GER,CB,28-061,90,0,0,0,0,0,0,0,0,42,0,0,2,0.0,0.0,0.0,0,0,32,39,82.1,0,34,0,0,0,Arsenal
+Héctor Bellerín,2.0,es ESP,RB,25-090,90,0,0,0,0,0,0,0,0,38,1,2,1,0.0,0.0,0.0,1,0,27,30,90.0,5,18,0,0,0,Arsenal
+Bernd Leno,1.0,de GER,GK,28-105,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.0,0,0,37,50,74.0,0,33,0,0,0,Arsenal
+16 Players,,,,,948,0,0,0,0,3,0,1,1,441,15,8,10,0.3,0.3,0.1,4,0,294,361,81.4,22,292,11,5,3,Arsenal

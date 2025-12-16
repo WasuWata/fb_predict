@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Roberto Firmino,9.0,br BRA,FW,28-266,73,0,0,0,0,1,1,0,0,37,3,1,0,0.1,0.1,0.0,3,1,20,25,80.0,2,29,3,2,0,Liverpool
+Takumi Minamino,18.0,jp JPN,FW,25-160,17,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,4,1,0,0,Liverpool
+Sadio Mané,10.0,sn SEN,LW,28-075,83,1,0,0,0,1,1,0,0,53,0,0,1,0.4,0.4,0.6,5,0,40,48,83.3,4,42,2,5,3,Liverpool
+Naby Keïta,8.0,gn GUI,LW,25-135,7,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,13,15,86.7,2,10,0,0,0,Liverpool
+Mohamed Salah,11.0,eg EGY,RW,28-009,90,1,1,0,0,5,1,0,0,77,0,0,0,0.7,0.7,0.4,6,1,52,68,76.5,11,65,5,2,1,Liverpool
+Georginio Wijnaldum,5.0,nl NED,LM,29-226,90,0,0,0,0,3,1,0,0,86,2,0,3,0.6,0.6,0.0,2,1,67,75,89.3,3,57,3,1,0,Liverpool
+Fabinho,3.0,br BRA,CM,26-245,90,1,1,0,0,2,1,0,0,107,6,3,0,0.1,0.1,0.4,4,1,92,94,97.9,4,68,0,0,0,Liverpool
+Jordan Henderson,14.0,eng ENG,RM,30-007,63,0,0,0,0,2,0,0,0,65,2,2,0,0.1,0.1,0.0,2,0,51,58,87.9,8,45,0,1,1,Liverpool
+Alex Oxlade-Chamberlain,15.0,eng ENG,RM,26-314,27,0,0,0,0,1,0,0,0,42,0,1,2,0.0,0.0,0.0,1,0,31,33,93.9,5,33,0,0,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,26-105,83,0,1,0,0,1,0,0,0,107,0,2,2,0.0,0.0,0.1,3,1,81,98,82.7,3,79,10,1,0,Liverpool
+Harvey Elliott,67.0,eng ENG,LB,17-081,7,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,11,15,73.3,2,11,0,2,1,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,28-352,90,0,0,0,0,2,0,0,0,143,0,2,0,0.3,0.3,0.0,3,1,130,140,92.9,12,109,2,0,0,Liverpool
+Joe Gomez,12.0,eng ENG,CB,23-032,90,0,0,0,0,0,0,0,0,130,0,3,0,0.0,0.0,0.0,2,1,115,126,91.3,11,97,0,0,0,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,21-261,73,1,0,0,0,1,1,0,0,82,1,1,0,0.1,0.1,0.0,2,0,58,74,78.4,4,50,1,1,0,Liverpool
+Neco Williams,76.0,wls WAL,RB,19-072,17,0,0,0,0,2,1,0,0,33,2,0,0,0.1,0.1,0.0,1,0,24,26,92.3,4,22,2,1,1,Liverpool
+Alisson,1.0,br BRA,GK,27-266,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,0,11,0,0,0,Liverpool
+16 Players,,,,,990,4,3,0,0,21,7,0,0,1026,17,15,8,2.4,2.4,1.7,35,7,815,928,87.8,76,732,29,16,7,Liverpool
+Jordan Ayew,9.0,gh GHA,FW,28-287,83,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,1,0,11,11,100.0,0,16,0,3,1,Crystal Palace
+Brandon Pierrick,40.0,eng ENG,FW,18-197,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Crystal Palace
+Wilfried Zaha,11.0,ci CIV,LM,27-227,14,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,5,0,1,1,Crystal Palace
+Max Meyer,7.0,de GER,LM,24-280,76,0,0,0,0,1,0,0,0,35,3,2,1,0.0,0.0,0.0,0,0,17,25,68.0,0,22,0,1,1,Crystal Palace
+James McArthur,18.0,sct SCO,CM,32-261,65,0,0,0,0,1,0,0,0,38,2,0,1,0.0,0.0,0.0,0,0,22,28,78.6,2,26,0,2,2,Crystal Palace
+Jaïro Riedewald,44.0,nl NED,CM,23-289,25,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,9,12,75.0,0,4,0,0,0,Crystal Palace
+Cheikhou Kouyaté,8.0,sn SEN,CM,30-186,65,0,0,0,0,0,0,0,0,34,1,4,0,0.0,0.0,0.0,1,0,15,25,60.0,2,18,0,1,1,Crystal Palace
+Luka Milivojević,4.0,rs SRB,"CM,DM",29-078,25,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,4,7,57.1,0,5,0,0,0,Crystal Palace
+Andros Townsend,10.0,eng ENG,RM,28-344,90,0,0,0,0,1,0,0,0,25,1,1,3,0.0,0.0,0.0,0,0,10,15,66.7,0,16,1,1,1,Crystal Palace
+James McCarthy,22.0,ie IRL,"DM,CM",29-225,90,0,0,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.0,0,0,23,27,85.2,1,23,0,1,1,Crystal Palace
+Patrick van Aanholt,3.0,nl NED,LB,29-300,90,0,0,0,0,0,0,0,0,67,5,2,2,0.0,0.0,0.0,1,0,41,51,80.4,0,42,3,3,1,Crystal Palace
+Mamadou Sakho,12.0,fr FRA,CB,30-132,90,0,0,0,0,0,0,0,0,56,1,2,2,0.0,0.0,0.0,0,0,34,44,77.3,1,35,0,0,0,Crystal Palace
+Gary Cahill,24.0,eng ENG,CB,34-188,90,0,0,0,0,0,0,0,0,42,1,2,1,0.0,0.0,0.0,0,0,27,33,81.8,0,29,0,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,RB,30-239,90,0,0,0,0,0,0,0,0,47,4,1,1,0.0,0.0,0.0,0,0,22,27,81.5,2,22,0,1,1,Crystal Palace
+Wayne Hennessey,13.0,wls WAL,GK,33-152,90,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.0,0,0,12,37,32.4,0,21,0,0,0,Crystal Palace
+15 Players,,,,,990,0,0,0,0,3,0,0,0,468,20,16,12,0.1,0.1,0.1,3,0,251,347,72.3,8,285,4,14,10,Crystal Palace

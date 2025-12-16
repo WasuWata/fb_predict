@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Danny Ings,9.0,eng ENG,FW,27-193,69,0,0,0,0,4,1,0,0,28,2,0,1,0.3,0.3,0.2,7,0,7,12,58.3,1,15,4,5,3,Southampton
+Che Adams,10.0,sct SCO,FW,23-203,21,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,6,0,0,0,Southampton
+Shane Long,7.0,ie IRL,FW,33-010,69,0,0,0,0,2,1,0,0,30,0,0,0,0.1,0.1,0.2,2,0,10,19,52.6,4,11,2,0,0,Southampton
+Michael Obafemi,20.0,ie IRL,FW,19-210,21,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Southampton
+Nathan Redmond,22.0,eng ENG,LM,25-332,90,0,0,0,0,3,0,0,0,46,0,0,3,0.1,0.1,0.0,1,0,19,33,57.6,3,24,4,2,1,Southampton
+Pierre Højbjerg,23.0,dk DEN,CM,24-180,90,0,0,0,0,3,1,0,0,65,1,2,3,0.1,0.1,0.0,3,0,38,50,76.0,6,28,2,1,1,Southampton
+Oriol Romeu,14.0,es ESP,CM,28-130,90,0,0,0,0,0,0,0,0,25,1,1,1,0.0,0.0,0.0,0,0,15,19,78.9,4,5,0,0,0,Southampton
+Moussa Djenepo,12.0,ml MLI,RM,21-231,81,0,0,0,0,2,1,0,0,31,1,1,1,0.1,0.1,0.0,2,0,9,15,60.0,0,14,0,2,2,Southampton
+Sofiane Boufal,19.0,ma MAR,RM,26-137,9,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,10,4,2,1,Southampton
+Ryan Bertrand,21.0,eng ENG,LB,30-180,90,0,0,0,0,0,0,0,0,55,2,1,2,0.0,0.0,0.0,5,0,37,47,78.7,10,24,3,1,1,Southampton
+Jan Bednarek,35.0,pl POL,CB,23-295,90,0,0,0,0,0,0,0,0,55,4,0,4,0.0,0.0,0.0,0,0,14,35,40.0,1,7,0,0,0,Southampton
+Jack Stephens,5.0,eng ENG,CB,26-005,90,0,0,0,0,0,0,1,0,39,3,1,0,0.0,0.0,0.0,1,0,20,32,62.5,3,23,1,0,0,Southampton
+James Ward-Prowse,16.0,eng ENG,RB,25-092,90,0,0,0,0,1,0,1,0,72,4,0,3,0.0,0.0,0.2,5,0,36,58,62.1,4,21,0,1,1,Southampton
+Alex McCarthy,1.0,eng ENG,GK,30-060,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,2,0,10,27,37.0,0,15,0,0,0,Southampton
+14 Players,,,,,990,0,0,0,0,17,4,2,0,505,18,6,18,0.8,0.8,0.5,28,0,227,363,62.5,38,206,20,14,10,Southampton

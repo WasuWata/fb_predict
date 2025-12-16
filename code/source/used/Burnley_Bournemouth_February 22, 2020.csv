@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Matěj Vydra,27.0,cz CZE,FW,27-297,81,1,0,0,0,4,3,0,0,24,1,0,0,1.6,1.6,0.0,3,1,6,10,60.0,1,14,3,1,1,Burnley
+Aaron Lennon,25.0,eng ENG,FW,32-312,9,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,1,0,0,Burnley
+Jay Rodriguez,19.0,eng ENG,FW,30-208,90,1,0,1,1,4,2,0,0,45,0,0,1,1.2,0.4,0.0,1,0,24,32,75.0,3,30,1,3,1,Burnley
+Dwight McNeil,11.0,eng ENG,LM,20-092,89,1,1,0,0,3,2,0,0,50,3,1,1,0.1,0.1,0.9,5,1,25,35,71.4,4,36,10,4,1,Burnley
+Josh Brownhill,8.0,eng ENG,"CM,FW",24-065,1,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Burnley
+Jack Cork,4.0,eng ENG,CM,30-242,89,0,0,0,0,2,1,0,0,40,0,1,2,0.1,0.1,0.1,4,1,20,30,66.7,1,8,0,0,0,Burnley
+Robbie Brady,12.0,ie IRL,LM,28-039,1,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Burnley
+Ashley Westwood,18.0,eng ENG,CM,29-327,90,0,0,0,0,1,1,0,0,55,2,1,0,0.0,0.0,0.4,4,0,29,46,63.0,5,24,1,0,0,Burnley
+Jeff Hendrick,13.0,ie IRL,RM,28-022,90,0,0,0,0,1,0,1,0,34,4,1,0,0.1,0.1,0.0,3,0,13,20,65.0,2,18,2,3,3,Burnley
+Charlie Taylor,3.0,eng ENG,LB,26-157,90,0,0,0,0,0,0,0,0,61,1,1,0,0.0,0.0,0.4,1,0,27,52,51.9,4,28,4,2,1,Burnley
+Ben Mee,6.0,eng ENG,CB,30-154,90,0,0,0,0,0,0,1,0,40,1,1,2,0.0,0.0,0.0,1,0,25,32,78.1,4,19,0,0,0,Burnley
+James Tarkowski,5.0,eng ENG,CB,27-095,90,0,0,0,0,0,0,0,0,44,3,0,3,0.0,0.0,0.0,0,0,20,31,64.5,1,18,0,0,0,Burnley
+Phil Bardsley,26.0,sct SCO,RB,34-239,90,0,1,0,0,0,0,1,0,41,5,3,1,0.0,0.0,0.1,2,1,23,33,69.7,4,11,0,0,0,Burnley
+Nick Pope,1.0,eng ENG,GK,27-309,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,10,27,37.0,0,15,0,0,0,Burnley
+14 Players,,,,,990,3,2,1,1,15,9,4,0,472,22,9,10,3.2,2.4,1.9,24,4,224,354,63.3,29,223,22,13,7,Burnley
+Callum Wilson,13.0,eng ENG,FW,27-360,90,0,0,0,0,3,1,0,0,24,0,0,1,0.8,0.8,0.0,0,0,10,18,55.6,0,17,1,1,1,Bournemouth
+Joshua King,7.0,no NOR,LW,28-038,69,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.7,4,0,27,32,84.4,4,37,5,4,2,Bournemouth
+Junior Stanislas,19.0,eng ENG,LW,30-088,21,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.0,1,0,12,13,92.3,3,10,1,0,0,Bournemouth
+Harry Wilson,22.0,wls WAL,"RW,AM",22-337,73,0,0,0,0,2,1,0,0,33,1,0,0,0.3,0.3,0.4,3,0,18,28,64.3,2,22,1,0,0,Bournemouth
+Dominic Solanke,9.0,eng ENG,AM,22-161,17,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,1,0,3,5,60.0,0,5,0,2,0,Bournemouth
+Dan Gosling,4.0,eng ENG,LM,30-021,69,0,0,0,0,1,1,0,0,27,1,0,2,0.1,0.1,0.0,3,0,16,18,88.9,4,19,2,3,2,Bournemouth
+Ryan Fraser,24.0,sct SCO,RW,25-363,21,0,0,0,0,0,0,0,0,15,2,0,0,0.0,0.0,0.0,0,0,11,14,78.6,1,12,0,0,0,Bournemouth
+Andrew Surman,6.0,eng ENG,"CM,DM",33-186,90,0,0,0,0,1,0,0,0,68,2,1,1,0.0,0.0,0.0,1,0,47,57,82.5,3,39,1,0,0,Bournemouth
+Philip Billing,29.0,dk DEN,"RM,DM",23-256,90,0,0,0,0,3,0,0,0,63,1,1,2,0.1,0.1,0.0,2,0,30,43,69.8,5,36,3,2,0,Bournemouth
+Adam Smith,15.0,eng ENG,LB,28-299,90,0,0,0,0,0,0,1,0,85,1,1,2,0.0,0.0,0.0,3,0,62,71,87.3,9,53,9,4,1,Bournemouth
+Steve Cook,3.0,eng ENG,CB,28-309,90,0,0,0,0,0,0,1,0,61,0,1,0,0.0,0.0,0.0,0,0,40,51,78.4,7,36,1,0,0,Bournemouth
+Simon Francis,2.0,eng ENG,CB,35-006,90,0,0,0,0,0,0,1,0,64,2,2,2,0.0,0.0,0.0,0,0,30,46,65.2,2,31,0,1,1,Bournemouth
+Jack Stacey,17.0,eng ENG,RB,23-322,90,0,0,0,0,1,1,0,0,68,2,0,2,0.3,0.3,0.5,2,0,47,58,81.0,3,45,2,1,1,Bournemouth
+Aaron Ramsdale,12.0,eng ENG,GK,21-284,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,20,30,66.7,0,23,0,0,0,Bournemouth
+14 Players,,,,,990,0,0,0,0,12,4,3,0,601,12,6,13,1.8,1.8,1.6,20,0,373,484,77.1,43,385,26,18,8,Bournemouth

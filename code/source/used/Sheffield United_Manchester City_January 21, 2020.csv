@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Oliver McBurnie,9.0,sct SCO,FW,23-231,90,0,0,0,0,1,0,1,0,44,1,1,3,0.5,0.5,0.0,0,0,25,34,73.5,4,14,1,0,0,Sheffield United
+Billy Sharp,10.0,eng ENG,FW,33-350,58,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,11,2,3,2,Sheffield United
+Lys Mousset,22.0,fr FRA,FW,23-347,32,0,0,0,0,1,1,0,0,13,0,0,1,0.1,0.1,0.0,0,0,6,8,75.0,1,6,0,0,0,Sheffield United
+John Fleck,4.0,sct SCO,"CM,LM",28-150,90,0,0,0,0,0,0,1,0,35,0,1,0,0.0,0.0,0.0,0,0,19,27,70.4,2,14,1,2,1,Sheffield United
+Oliver Norwood,16.0,nir NIR,CM,28-284,90,0,0,0,0,0,0,1,0,51,1,2,0,0.0,0.0,0.0,1,0,24,44,54.5,5,18,0,0,0,Sheffield United
+Muhamed Bešić,27.0,ba BIH,CM,27-133,77,0,0,0,0,0,0,1,0,34,0,0,1,0.0,0.0,0.0,2,0,22,27,81.5,2,15,0,2,2,Sheffield United
+John Lundstram,7.0,eng ENG,RM,25-337,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Sheffield United
+Enda Stevens,3.0,ie IRL,"WB,LB",29-196,90,0,0,0,0,0,0,0,0,51,4,0,0,0.0,0.0,0.5,2,0,27,40,67.5,1,22,1,3,3,Sheffield United
+George Baldock,2.0,gr GRE,"WB,RB",26-318,90,0,0,0,0,0,0,0,0,44,4,2,1,0.0,0.0,0.0,1,0,22,34,64.7,2,16,1,1,1,Sheffield United
+Jack O'Connell,5.0,eng ENG,CB,25-298,90,0,0,0,0,0,0,0,0,46,1,1,2,0.0,0.0,0.0,0,0,20,34,58.8,4,14,0,0,0,Sheffield United
+John Egan,12.0,ie IRL,CB,27-093,90,0,0,0,0,1,0,0,0,28,1,0,2,0.1,0.1,0.0,0,0,13,19,68.4,1,11,0,0,0,Sheffield United
+Chris Basham,6.0,eng ENG,CB,31-185,77,0,0,0,0,1,0,0,0,30,0,2,0,0.0,0.0,0.1,0,0,14,21,66.7,0,7,0,0,0,Sheffield United
+Callum Robinson,11.0,ie IRL,AM,24-353,13,0,0,0,0,0,0,0,0,2,1,1,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Sheffield United
+Dean Henderson,1.0,eng ENG,GK,22-315,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,10,33,30.3,0,11,0,0,0,Sheffield United
+14 Players,,,,,990,0,0,0,0,4,1,4,0,427,13,10,10,0.8,0.8,0.6,6,0,207,331,62.5,22,161,6,11,9,Sheffield United
+Gabriel Jesus,9.0,br BRA,FW,22-293,66,0,0,0,1,1,1,0,0,23,0,1,0,0.9,0.1,0.0,1,0,12,15,80.0,0,13,0,1,0,Manchester City
+Sergio Agüero,10.0,ar ARG,FW,31-233,24,1,0,0,0,1,1,1,0,9,0,0,0,0.7,0.7,0.1,3,0,7,8,87.5,1,8,1,1,1,Manchester City
+Raheem Sterling,7.0,eng ENG,AM,25-044,89,0,0,0,0,5,1,0,0,59,0,0,1,0.7,0.7,0.0,7,1,35,45,77.8,3,54,6,1,0,Manchester City
+Bernardo Silva,20.0,pt POR,AM,25-164,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Manchester City
+Riyad Mahrez,26.0,dz ALG,AM,28-334,90,0,0,0,0,3,0,0,0,69,0,0,1,0.2,0.2,0.6,9,0,45,56,80.4,6,46,8,6,4,Manchester City
+Rodri,16.0,es ESP,CM,23-213,90,0,0,0,0,3,0,1,0,80,2,0,0,0.1,0.1,0.1,2,0,64,73,87.7,8,60,1,2,2,Manchester City
+Kevin De Bruyne,17.0,be BEL,CM,28-207,90,0,1,0,0,2,0,0,0,82,1,1,1,0.1,0.1,0.9,5,1,57,74,77.0,6,55,5,1,1,Manchester City
+Oleksandr Zinchenko,11.0,ua UKR,WB,23-037,90,0,0,0,0,1,0,0,0,60,0,3,3,0.0,0.0,0.0,1,0,41,50,82.0,2,42,2,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,WB,29-238,90,0,0,0,0,0,0,0,0,73,0,2,0,0.0,0.0,0.0,2,0,55,64,85.9,3,47,4,1,0,Manchester City
+Aymeric Laporte,14.0,es ESP,CB,25-239,77,0,0,0,0,0,0,0,0,86,1,1,1,0.0,0.0,0.0,1,0,73,84,86.9,8,66,2,0,0,Manchester City
+Eric García,50.0,es ESP,CB,19-012,13,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Manchester City
+Nicolás Otamendi,30.0,ar ARG,CB,31-343,90,0,0,0,0,1,1,0,0,84,3,0,0,0.1,0.1,0.1,1,0,65,70,92.9,0,60,0,0,0,Manchester City
+Fernandinho,25.0,br BRA,CB,34-262,90,0,0,0,0,0,0,1,0,97,1,1,0,0.0,0.0,0.1,3,0,72,82,87.8,7,73,2,2,2,Manchester City
+Ederson,31.0,br BRA,GK,26-157,90,0,0,0,0,0,0,0,0,34,0,1,0,0.0,0.0,0.0,0,0,25,32,78.1,0,20,0,0,0,Manchester City
+14 Players,,,,,990,1,1,0,1,17,4,3,0,762,8,11,7,2.8,2.0,2.0,35,2,554,656,84.5,44,547,31,15,10,Manchester City

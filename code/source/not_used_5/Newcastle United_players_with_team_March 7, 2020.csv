@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Miguel Almirón,24.0,py PAR,FW,26-026,90,0,0,0,0,2,2,0,0,35,0,1,1,0.7,0.7,0.6,2,0,20,26,76.9,0,31,3,3,2,Newcastle United
+Dwight Gayle,12.0,eng ENG,FW,29-142,90,0,0,0,0,5,3,0,0,19,0,0,1,1.3,1.3,0.0,2,0,6,11,54.5,2,11,0,0,0,Newcastle United
+Allan Saint-Maximin,10.0,fr FRA,"LM,RM",22-361,90,1,0,0,0,1,1,0,0,46,2,1,1,0.1,0.1,0.5,4,1,20,26,76.9,3,34,4,11,7,Newcastle United
+Jonjo Shelvey,8.0,eng ENG,CM,28-009,90,0,0,0,0,0,0,0,0,101,3,1,1,0.0,0.0,0.3,3,0,74,90,82.2,14,73,4,0,0,Newcastle United
+Isaac Hayden,14.0,jm JAM,CM,24-351,78,0,0,0,0,1,0,0,0,62,1,2,1,0.1,0.1,0.0,3,0,44,53,83.0,2,41,1,2,2,Newcastle United
+Sean Longstaff,36.0,eng ENG,CM,22-129,12,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,2,10,0,0,0,Newcastle United
+Matt Ritchie,11.0,sct SCO,RM,30-179,60,0,0,0,1,1,0,1,0,31,2,0,0,0.8,0.0,0.1,3,0,12,20,60.0,0,13,0,2,1,Newcastle United
+Joelinton,9.0,br BRA,LM,23-206,30,0,0,0,0,1,0,1,0,20,0,0,0,0.1,0.1,0.0,1,0,11,14,78.6,2,15,1,4,2,Newcastle United
+Danny Rose,28.0,eng ENG,LB,29-249,90,0,0,0,0,0,0,0,0,65,1,0,1,0.0,0.0,0.0,2,0,47,58,81.0,7,42,1,1,0,Newcastle United
+Federico Fernández,18.0,ar ARG,CB,31-015,90,0,0,0,0,0,0,0,0,74,0,0,1,0.0,0.0,0.0,0,0,52,64,81.3,3,49,0,2,0,Newcastle United
+Jamaal Lascelles,6.0,eng ENG,CB,26-117,90,0,0,0,0,1,0,0,0,88,1,2,0,0.0,0.0,0.0,0,0,61,80,76.3,1,61,0,0,0,Newcastle United
+Javier Manquillo,19.0,es ESP,RB,25-307,71,0,0,0,0,0,0,1,0,62,4,0,0,0.0,0.0,0.0,0,0,36,50,72.0,2,37,0,1,0,Newcastle United
+Valentino Lazaro,23.0,at AUT,RB,23-349,19,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,1,0,16,18,88.9,0,14,0,2,1,Newcastle United
+Martin Dúbravka,1.0,sk SVK,GK,31-052,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,15,22,68.2,0,8,0,0,0,Newcastle United
+14 Players,,,,,990,1,0,0,1,13,6,3,0,662,15,7,7,3.2,2.4,1.6,22,1,425,544,78.1,38,439,14,28,15,Newcastle United

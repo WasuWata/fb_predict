@@ -1,0 +1,28 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jay Rodriguez,19.0,eng ENG,FW,30-174,90,0,0,0,0,1,1,0,0,42,4,1,0,0.0,0.0,0.0,1,1,16,26,61.5,2,19,2,3,1,Burnley
+Chris Wood,9.0,nz NZL,FW,28-043,89,1,0,0,0,4,2,0,0,25,0,0,0,1.0,1.0,0.0,1,1,12,19,63.2,1,13,0,1,1,Burnley
+Aaron Lennon,25.0,eng ENG,RW,32-278,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Burnley
+Dwight McNeil,11.0,eng ENG,LM,20-058,90,0,0,0,0,1,0,0,0,55,1,1,0,0.1,0.1,0.1,4,0,30,42,71.4,4,37,1,5,2,Burnley
+Jack Cork,4.0,eng ENG,CM,30-208,90,0,0,0,0,0,0,0,0,52,4,0,2,0.0,0.0,0.0,1,0,32,39,82.1,4,23,0,3,2,Burnley
+Ashley Westwood,18.0,eng ENG,CM,29-293,90,1,0,0,0,1,1,0,0,71,1,0,0,0.3,0.3,0.0,1,0,55,67,82.1,11,41,0,0,0,Burnley
+Jeff Hendrick,13.0,ie IRL,RM,27-353,90,0,0,0,0,0,0,0,0,44,0,1,2,0.0,0.0,0.0,1,0,18,28,64.3,1,26,3,8,2,Burnley
+Charlie Taylor,3.0,eng ENG,LB,26-123,90,0,0,0,0,0,0,0,0,85,1,3,4,0.0,0.0,0.1,2,0,46,63,73.0,0,29,4,5,4,Burnley
+Ben Mee,6.0,eng ENG,CB,30-120,90,0,0,0,0,1,1,1,0,54,0,1,2,0.1,0.1,0.0,2,1,35,46,76.1,2,24,0,1,1,Burnley
+James Tarkowski,5.0,eng ENG,CB,27-061,90,0,0,0,0,0,0,0,0,46,2,3,2,0.0,0.0,0.0,0,0,23,31,74.2,1,18,0,0,0,Burnley
+Phil Bardsley,26.0,sct SCO,RB,34-205,90,0,0,0,0,0,0,0,0,60,3,2,0,0.0,0.0,0.0,0,0,36,51,70.6,5,28,3,0,0,Burnley
+Nick Pope,1.0,eng ENG,GK,27-275,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,21,36,58.3,0,21,0,0,0,Burnley
+12 Players,,,,,990,2,0,0,0,8,5,1,0,574,16,12,12,1.5,1.5,0.2,13,3,324,448,72.3,31,279,13,26,13,Burnley
+Jay Rodriguez,19.0,eng ENG,FW,30-174,90,0,0,0,0,1,1,0,0,42,4,1,0,0.0,0.0,0.0,1,1,16,26,61.5,2,19,2,3,1,Leicester City
+Chris Wood,9.0,nz NZL,FW,28-043,89,1,0,0,0,4,2,0,0,25,0,0,0,1.0,1.0,0.0,1,1,12,19,63.2,1,13,0,1,1,Leicester City
+Aaron Lennon,25.0,eng ENG,RW,32-278,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Leicester City
+Dwight McNeil,11.0,eng ENG,LM,20-058,90,0,0,0,0,1,0,0,0,55,1,1,0,0.1,0.1,0.1,4,0,30,42,71.4,4,37,1,5,2,Leicester City
+Jack Cork,4.0,eng ENG,CM,30-208,90,0,0,0,0,0,0,0,0,52,4,0,2,0.0,0.0,0.0,1,0,32,39,82.1,4,23,0,3,2,Leicester City
+Ashley Westwood,18.0,eng ENG,CM,29-293,90,1,0,0,0,1,1,0,0,71,1,0,0,0.3,0.3,0.0,1,0,55,67,82.1,11,41,0,0,0,Leicester City
+Jeff Hendrick,13.0,ie IRL,RM,27-353,90,0,0,0,0,0,0,0,0,44,0,1,2,0.0,0.0,0.0,1,0,18,28,64.3,1,26,3,8,2,Leicester City
+Charlie Taylor,3.0,eng ENG,LB,26-123,90,0,0,0,0,0,0,0,0,85,1,3,4,0.0,0.0,0.1,2,0,46,63,73.0,0,29,4,5,4,Leicester City
+Ben Mee,6.0,eng ENG,CB,30-120,90,0,0,0,0,1,1,1,0,54,0,1,2,0.1,0.1,0.0,2,1,35,46,76.1,2,24,0,1,1,Leicester City
+James Tarkowski,5.0,eng ENG,CB,27-061,90,0,0,0,0,0,0,0,0,46,2,3,2,0.0,0.0,0.0,0,0,23,31,74.2,1,18,0,0,0,Leicester City
+Phil Bardsley,26.0,sct SCO,RB,34-205,90,0,0,0,0,0,0,0,0,60,3,2,0,0.0,0.0,0.0,0,0,36,51,70.6,5,28,3,0,0,Leicester City
+Nick Pope,1.0,eng ENG,GK,27-275,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,21,36,58.3,0,21,0,0,0,Leicester City
+12 Players,,,,,990,2,0,0,0,8,5,1,0,574,16,12,12,1.5,1.5,0.2,13,3,324,448,72.3,31,279,13,26,13,Leicester City

@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Lys Mousset,22.0,fr FRA,FW,23-289,67,1,0,0,0,1,1,0,0,19,0,0,0,0.1,0.1,0.4,2,1,7,10,70.0,0,8,1,2,1,Sheffield United
+Oliver McBurnie,9.0,sct SCO,FW,23-173,23,1,0,0,0,1,1,0,0,12,2,1,0,0.1,0.1,0.0,0,0,2,8,25.0,1,3,1,1,1,Sheffield United
+David McGoldrick,17.0,ie IRL,FW,31-360,77,0,0,0,0,3,3,0,0,31,2,1,0,0.2,0.2,0.0,1,0,15,23,65.2,1,18,1,2,2,Sheffield United
+Billy Sharp,10.0,eng ENG,FW,33-292,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Sheffield United
+John Fleck,4.0,sct SCO,"CM,LM",28-092,90,1,1,0,0,1,1,0,0,67,1,1,1,0.6,0.6,0.2,5,1,34,56,60.7,9,29,0,0,0,Sheffield United
+Oliver Norwood,16.0,nir NIR,CM,28-226,90,0,0,0,0,1,0,0,0,70,0,4,1,0.0,0.0,0.1,4,0,48,62,77.4,8,25,0,0,0,Sheffield United
+John Lundstram,7.0,eng ENG,"CM,RM",25-279,90,0,0,0,0,4,2,1,0,57,1,0,0,0.5,0.5,0.0,4,1,39,48,81.3,3,26,1,1,0,Sheffield United
+Enda Stevens,3.0,ie IRL,"WB,LB",29-138,90,0,0,0,0,0,0,0,0,55,0,2,1,0.0,0.0,0.1,2,1,36,50,72.0,8,30,3,2,2,Sheffield United
+George Baldock,2.0,gr GRE,"WB,RB",26-260,90,0,0,0,0,0,0,0,0,50,0,1,1,0.0,0.0,0.0,1,0,29,42,69.0,4,30,1,2,1,Sheffield United
+Jack O'Connell,5.0,eng ENG,CB,25-240,90,0,0,0,0,1,0,0,0,49,0,3,3,0.1,0.1,0.0,1,0,27,34,79.4,3,14,0,0,0,Sheffield United
+Phil Jagielka,15.0,eng ENG,CB,37-099,90,0,0,0,0,0,0,0,0,44,3,0,1,0.0,0.0,0.0,0,0,25,33,75.8,4,9,0,0,0,Sheffield United
+Chris Basham,6.0,eng ENG,CB,31-127,82,0,0,0,0,0,0,0,0,62,4,3,0,0.0,0.0,0.0,1,0,25,42,59.5,3,13,0,2,1,Sheffield United
+Callum Robinson,11.0,ie IRL,AM,24-295,8,0,1,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,1,1,3,5,60.0,0,4,1,0,0,Sheffield United
+Simon Moore,25.0,eng ENG,GK,29-189,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,6,22,27.3,0,9,0,0,0,Sheffield United
+14 Players,,,,,990,3,2,0,0,12,8,1,0,548,13,16,8,1.6,1.6,0.9,22,5,298,438,68.0,44,220,9,12,8,Sheffield United
+Anthony Martial,9.0,fr FRA,FW,23-354,84,0,0,0,0,2,1,0,0,40,0,1,1,0.1,0.1,0.0,4,2,22,25,88.0,2,20,2,2,1,Manchester United
+Axel Tuanzebe,38.0,cd COD,DM,22-010,6,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,4,0,1,0,Manchester United
+Marcus Rashford,10.0,eng ENG,"AM,LW,FW",22-024,90,1,1,0,0,3,1,0,0,37,1,0,0,0.5,0.5,0.5,3,1,20,23,87.0,4,21,4,5,2,Manchester United
+Daniel James,21.0,wls WAL,"AM,RW,LW",22-014,90,0,1,0,0,1,1,0,0,48,1,0,1,0.0,0.0,0.4,1,1,27,41,65.9,1,30,8,3,2,Manchester United
+Fred,17.0,br BRA,"DM,CM",26-264,90,0,0,0,0,0,0,0,0,93,1,3,0,0.0,0.0,0.0,2,0,68,82,82.9,5,50,0,1,1,Manchester United
+Andreas Pereira,15.0,br BRA,"CM,DM",23-327,72,0,0,0,0,0,0,0,0,81,2,0,1,0.0,0.0,0.0,1,1,50,76,65.8,7,51,2,2,2,Manchester United
+Mason Greenwood,26.0,eng ENG,"RW,AM",18-054,18,1,0,0,0,1,1,0,0,6,0,0,0,0.5,0.5,0.0,1,0,3,5,60.0,0,4,2,0,0,Manchester United
+Brandon Williams,53.0,eng ENG,"LB,WB",19-082,90,1,0,0,0,1,1,1,0,71,2,1,0,0.1,0.1,0.1,2,0,45,54,83.3,4,32,0,2,0,Manchester United
+Aaron Wan-Bissaka,29.0,cd COD,"RB,WB",21-363,90,0,0,0,0,0,0,1,0,100,1,1,3,0.0,0.0,0.0,1,1,73,86,84.9,7,50,1,1,1,Manchester United
+Phil Jones,4.0,eng ENG,CB,27-276,45,0,0,0,0,0,0,0,0,36,1,1,2,0.0,0.0,0.0,0,0,22,24,91.7,3,17,0,0,0,Manchester United
+Jesse Lingard,14.0,eng ENG,"AM,DM,LW",26-344,45,0,0,0,0,2,0,0,0,37,0,0,0,0.1,0.1,0.2,5,0,26,33,78.8,4,22,3,1,0,Manchester United
+Harry Maguire,5.0,eng ENG,CB,26-264,90,0,0,0,0,1,0,0,0,86,1,1,1,0.0,0.0,0.0,1,0,59,75,78.7,9,46,4,0,0,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,25-130,90,0,0,0,0,0,0,0,0,78,0,1,0,0.0,0.0,0.0,1,0,63,71,88.7,2,46,0,0,0,Manchester United
+David de Gea,1.0,es ESP,GK,29-017,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,24,30,80.0,0,17,0,0,0,Manchester United
+14 Players,,,,,990,3,2,0,0,11,5,2,0,755,10,9,9,1.3,1.3,1.2,22,6,508,632,80.4,48,410,26,18,9,Manchester United

@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Calvert-Lewin,9.0,eng ENG,FW,23-126,90,0,0,0,0,2,1,1,0,22,0,0,0,0.3,0.3,0.0,0,0,9,13,69.2,2,13,0,1,0,Everton
+Richarlison,7.0,br BRA,"LW,FW",23-071,90,1,0,0,0,1,1,1,0,48,1,1,2,0.0,0.0,0.0,0,0,19,31,61.3,3,22,2,6,2,Everton
+Theo Walcott,11.0,eng ENG,RW,31-126,83,0,0,0,0,1,0,0,0,33,0,1,4,0.0,0.0,0.2,2,0,15,21,71.4,0,15,2,4,2,Everton
+Anthony Gordon,42.0,eng ENG,"CM,RW",19-147,7,0,0,0,0,0,0,0,0,4,2,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,1,1,1,Everton
+Gylfi Sigurðsson,10.0,is ISL,AM,30-316,87,0,1,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.1,3,1,23,29,79.3,4,19,1,0,0,Everton
+Séamus Coleman,23.0,ie IRL,CB,31-283,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Everton
+André Gomes,21.0,pt POR,"DM,CM",26-356,90,0,0,0,0,1,0,0,0,49,0,1,1,0.0,0.0,0.0,2,1,38,45,84.4,4,24,0,1,1,Everton
+Tom Davies,26.0,eng ENG,"DM,CM",22-020,90,0,0,0,0,0,0,1,0,52,2,2,0,0.0,0.0,0.0,0,0,25,38,65.8,3,28,1,1,0,Everton
+Lucas Digne,12.0,fr FRA,LB,27-000,90,0,0,0,0,0,0,0,0,75,0,2,1,0.0,0.0,0.0,1,0,46,64,71.9,1,19,0,2,1,Everton
+Jarrad Branthwaite,32.0,eng ENG,CB,18-023,90,0,0,0,0,0,0,0,0,71,2,0,1,0.0,0.0,0.0,0,0,52,61,85.2,0,39,0,0,0,Everton
+Michael Keane,5.0,eng ENG,CB,27-191,90,0,0,0,0,0,0,0,0,92,1,0,2,0.0,0.0,0.0,1,0,62,74,83.8,0,46,0,0,0,Everton
+Djibril Sidibé,19.0,fr FRA,RB,27-357,90,0,0,0,0,0,0,0,0,86,2,2,1,0.0,0.0,0.0,0,0,67,77,87.0,3,51,5,0,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,26-135,90,0,0,0,0,0,0,0,0,60,0,0,0,0.0,0.0,0.1,1,0,43,58,74.1,0,42,0,0,0,Everton
+13 Players,,,,,990,1,1,0,0,5,2,3,0,631,10,9,12,0.4,0.4,0.4,10,2,400,515,77.7,20,320,12,16,7,Everton

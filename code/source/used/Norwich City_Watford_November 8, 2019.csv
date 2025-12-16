@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Teemu Pukki,22.0,fi FIN,"FW,LW",29-224,90,0,0,0,0,4,2,0,0,45,0,1,1,0.2,0.2,0.1,6,0,29,32,90.6,2,26,1,2,1,Norwich City
+Onel Hernández,11.0,cu CUB,"LW,RW",26-280,90,0,0,0,0,1,0,0,0,45,1,1,0,0.1,0.1,0.0,5,0,21,31,67.7,2,34,11,13,7,Norwich City
+Emi Buendía,17.0,ar ARG,RW,22-318,61,0,0,0,0,1,0,0,0,54,4,0,3,0.1,0.1,0.0,1,0,27,41,65.9,7,33,2,3,1,Norwich City
+Todd Cantwell,14.0,eng ENG,"RW,AM",21-254,29,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,4,0,22,32,68.8,3,26,2,4,3,Norwich City
+Marco Stiepermann,18.0,de GER,AM,28-272,61,0,0,0,0,0,0,0,0,30,2,1,1,0.0,0.0,0.0,3,0,11,19,57.9,2,22,3,4,3,Norwich City
+Josip Drmić,20.0,ch SUI,"AM,FW",27-092,29,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Norwich City
+Kenny McLean,23.0,sct SCO,"DM,LB",27-304,90,0,0,0,0,2,2,0,0,82,1,0,3,0.1,0.1,0.1,3,0,53,69,76.8,8,50,3,1,1,Norwich City
+Tom Trybull,19.0,de GER,DM,26-244,90,0,0,0,0,2,0,0,0,73,4,1,3,0.0,0.0,0.0,1,0,60,61,98.4,5,50,0,0,0,Norwich City
+Jamal Lewis,12.0,nir NIR,LB,21-287,80,0,0,0,0,2,1,0,0,82,1,1,1,0.0,0.0,0.0,0,0,65,75,86.7,6,61,6,1,1,Norwich City
+Mario Vrančić,8.0,ba BIH,DM,30-169,10,0,0,0,0,1,0,1,0,16,1,0,1,0.1,0.1,0.0,1,0,10,13,76.9,4,10,0,0,0,Norwich City
+Ben Godfrey,4.0,eng ENG,CB,21-297,90,0,0,0,0,2,0,0,0,111,4,0,1,0.1,0.1,0.0,1,0,95,99,96.0,9,95,1,0,0,Norwich City
+Alexander Tettey,27.0,no NOR,CB,33-218,90,0,0,0,0,1,0,0,0,92,0,2,0,0.1,0.1,0.0,2,0,75,85,88.2,2,68,3,0,0,Norwich City
+Max Aarons,2.0,eng ENG,RB,19-308,90,0,0,0,0,1,0,0,0,68,0,0,2,0.0,0.0,0.0,1,0,51,55,92.7,2,50,3,3,0,Norwich City
+Tim Krul,1.0,nl NED,GK,31-219,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,31,38,81.6,1,24,0,0,0,Norwich City
+14 Players,,,,,990,0,0,0,0,17,5,1,0,777,18,7,17,0.7,0.7,0.3,28,0,552,653,84.5,53,551,35,31,17,Norwich City
+Roberto Pereyra,37.0,ar ARG,FW,28-305,30,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,1,0,14,17,82.4,0,18,0,2,1,Watford
+Andre Gray,18.0,jm JAM,FW,28-135,60,1,0,0,0,3,1,0,0,24,0,0,1,0.4,0.4,0.0,1,0,8,14,57.1,2,16,1,0,0,Watford
+Gerard Deulofeu,7.0,es ESP,FW,25-240,69,1,1,0,0,3,1,0,0,40,1,2,0,0.5,0.5,0.1,4,3,21,30,70.0,3,29,4,7,5,Watford
+Adrian Mariappa,6.0,jm JAM,CB,33-036,21,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,1,0,0,0,Watford
+Will Hughes,19.0,eng ENG,CM,24-205,90,0,0,0,0,1,0,1,0,50,4,3,3,0.0,0.0,0.4,4,1,27,32,84.4,1,27,2,1,1,Watford
+Étienne Capoue,29.0,fr FRA,CM,31-120,90,0,0,0,0,1,0,0,0,49,4,3,2,0.0,0.0,0.0,1,0,27,33,81.8,3,25,0,2,1,Watford
+Abdoulaye Doucouré,16.0,ml MLI,CM,26-311,90,0,0,0,0,2,0,0,0,54,4,1,1,0.1,0.1,0.0,2,0,33,39,84.6,1,34,6,7,4,Watford
+José Holebas,25.0,gr GRE,LB,35-134,87,0,0,0,0,1,0,0,0,57,4,1,0,0.0,0.0,0.2,3,0,33,47,70.2,5,28,3,0,0,Watford
+Adam Masina,11.0,ma MAR,LB,25-310,3,0,0,0,0,0,0,1,0,4,1,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,Watford
+Craig Cathcart,15.0,nir NIR,CB,30-275,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,17,25,68.0,1,14,0,1,0,Watford
+Craig Dawson,4.0,eng ENG,CB,29-186,90,0,0,0,0,0,0,0,0,27,1,2,2,0.0,0.0,0.0,0,0,10,15,66.7,0,14,0,0,0,Watford
+Christian Kabasele,27.0,be BEL,CB,28-257,64,0,0,0,0,0,0,2,1,33,2,2,1,0.0,0.0,0.0,0,0,16,23,69.6,0,17,0,2,2,Watford
+Daryl Janmaat,2.0,nl NED,RB,30-109,90,0,0,0,0,1,0,0,0,49,3,1,2,0.1,0.1,0.0,2,0,26,30,86.7,2,21,2,0,0,Watford
+Ben Foster,26.0,eng ENG,GK,36-219,90,0,0,0,0,0,0,0,0,35,1,0,0,0.0,0.0,0.0,1,0,16,31,51.6,0,19,0,0,0,Watford
+14 Players,,,,,964,2,1,0,0,12,2,4,1,486,25,15,13,1.3,1.3,0.7,19,4,249,340,73.2,19,264,18,22,14,Watford

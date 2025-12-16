@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Alexandre Lacazette,9.0,fr FRA,FW,29-054,90,0,0,0,0,0,0,1,0,31,0,0,1,0.0,0.0,0.0,2,0,19,24,79.2,1,21,0,1,0,Arsenal
+Pierre-Emerick Aubameyang,14.0,ga GAB,"LW,LM",31-033,90,0,0,0,0,2,0,0,0,33,0,0,0,0.2,0.2,0.0,1,0,16,26,61.5,0,20,4,1,0,Arsenal
+Eddie Nketiah,30.0,eng ENG,"RW,FW",21-052,90,0,0,0,0,2,0,0,0,27,0,0,0,0.3,0.3,0.0,0,0,16,22,72.7,5,22,1,0,0,Arsenal
+Bukayo Saka,77.0,eng ENG,LM,18-320,59,0,0,0,0,1,0,0,0,39,0,2,0,0.1,0.1,0.1,1,0,28,34,82.4,1,22,2,0,0,Arsenal
+Kieran Tierney,3.0,sct SCO,LB,23-046,31,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,18,25,72.0,0,20,2,1,1,Arsenal
+Lucas Torreira,11.0,uy URU,CM,24-161,45,0,0,0,0,1,0,1,0,48,0,0,0,0.0,0.0,0.0,0,0,42,44,95.5,8,38,0,0,0,Arsenal
+Granit Xhaka,34.0,ch SUI,CM,27-298,45,0,0,0,0,0,0,0,0,48,0,0,1,0.0,0.0,0.0,1,0,42,47,89.4,7,37,1,1,1,Arsenal
+Dani Ceballos,8.0,es ESP,CM,23-349,90,0,0,0,0,1,0,0,0,124,2,1,0,0.0,0.0,0.0,2,0,96,115,83.5,18,90,2,2,0,Arsenal
+Cédric Soares,17.0,pt POR,"RM,RB",28-325,78,0,0,0,0,0,0,0,0,63,0,0,0,0.0,0.0,0.0,2,0,41,57,71.9,5,37,5,0,0,Arsenal
+Joe Willock,28.0,eng ENG,RB,20-336,12,0,0,0,0,0,0,1,0,10,0,0,1,0.0,0.0,0.0,0,0,7,9,77.8,1,5,0,0,0,Arsenal
+Sead Kolašinac,31.0,ba BIH,CB,27-031,90,0,0,0,0,0,0,1,0,96,0,1,1,0.0,0.0,0.0,1,0,75,88,85.2,3,67,2,2,2,Arsenal
+David Luiz,23.0,br BRA,CB,33-090,59,0,0,0,0,0,0,0,0,51,0,1,0,0.0,0.0,0.0,1,0,44,47,93.6,5,40,0,0,0,Arsenal
+Nicolas Pépé,19.0,ci CIV,RM,25-053,31,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.3,2,0,18,22,81.8,1,21,5,0,0,Arsenal
+Rob Holding,16.0,eng ENG,CB,24-305,90,0,0,0,0,0,0,0,0,92,0,0,1,0.0,0.0,0.0,0,0,79,84,94.0,4,70,1,0,0,Arsenal
+Emiliano Martínez,26.0,ar ARG,GK,27-323,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,25,25,100.0,0,17,0,0,0,Arsenal
+15 Players,,,,,990,0,0,0,0,7,0,4,0,742,3,5,5,0.6,0.6,0.4,13,0,566,669,84.6,59,527,25,8,4,Arsenal

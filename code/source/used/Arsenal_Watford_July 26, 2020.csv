@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Alexandre Lacazette,9.0,fr FRA,FW,29-059,56,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,1,5,11,45.5,0,9,1,2,1,Arsenal
+Eddie Nketiah,30.0,eng ENG,FW,21-057,34,0,0,0,0,0,0,0,0,23,2,0,3,0.0,0.0,0.4,4,0,12,13,92.3,4,13,2,4,3,Arsenal
+Pierre-Emerick Aubameyang,14.0,ga GAB,LW,31-038,90,2,1,1,1,3,2,0,0,42,1,2,2,1.6,0.8,0.1,2,1,20,28,71.4,3,27,3,1,1,Arsenal
+Nicolas Pépé,19.0,ci CIV,RW,25-058,71,0,0,0,0,1,0,0,0,35,1,0,1,0.0,0.0,0.2,7,1,25,28,89.3,2,27,3,3,2,Arsenal
+Reiss Nelson,24.0,eng ENG,RW,20-229,19,0,0,0,0,1,0,0,0,10,1,0,0,0.1,0.1,0.1,3,0,5,7,71.4,0,10,4,4,3,Arsenal
+Joe Willock,28.0,eng ENG,AM,20-341,56,0,0,0,0,1,0,0,0,20,1,0,0,0.1,0.1,0.0,0,0,11,16,68.8,2,16,3,0,0,Arsenal
+Sead Kolašinac,31.0,ba BIH,CB,27-036,34,0,0,0,0,0,0,0,0,20,1,0,2,0.0,0.0,0.1,1,0,14,17,82.4,1,11,0,0,0,Arsenal
+Granit Xhaka,34.0,ch SUI,"DM,CM",27-303,90,0,0,0,0,0,0,1,0,70,0,1,1,0.0,0.0,0.0,0,0,56,61,91.8,6,47,1,3,2,Arsenal
+Dani Ceballos,8.0,es ESP,"DM,CM",23-354,71,0,0,0,0,0,0,0,0,63,1,2,2,0.0,0.0,0.1,2,0,49,56,87.5,5,46,0,2,2,Arsenal
+Lucas Torreira,11.0,uy URU,CM,24-166,19,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,7,0,0,0,Arsenal
+Kieran Tierney,3.0,sct SCO,"LB,LM",23-051,90,1,1,0,0,2,1,0,0,48,3,1,0,0.1,0.1,0.4,2,2,25,34,73.5,1,31,1,2,1,Arsenal
+David Luiz,23.0,br BRA,CB,33-095,90,0,0,0,0,1,0,0,0,48,1,0,2,0.1,0.1,0.0,1,1,32,39,82.1,3,25,2,0,0,Arsenal
+Rob Holding,16.0,eng ENG,CB,24-310,90,0,0,0,0,2,0,1,0,74,0,0,3,0.2,0.2,0.0,1,0,42,50,84.0,4,39,1,0,0,Arsenal
+Ainsley Maitland-Niles,15.0,eng ENG,"RB,RM",22-332,90,0,0,0,0,1,1,0,0,75,2,1,0,0.1,0.1,0.1,1,0,57,69,82.6,7,50,3,1,1,Arsenal
+Emiliano Martínez,26.0,ar ARG,GK,27-328,90,0,0,0,0,0,0,1,0,38,0,0,0,0.0,0.0,0.0,0,0,26,33,78.8,0,23,0,0,0,Arsenal
+15 Players,,,,,990,3,2,1,1,12,4,3,0,593,14,7,16,2.3,1.5,1.4,25,6,387,470,82.3,38,381,24,22,16,Arsenal
+Troy Deeney,9.0,eng ENG,FW,32-027,90,1,0,1,1,3,0,0,0,47,0,0,0,1.1,0.3,0.4,6,0,24,39,61.5,6,26,2,1,1,Watford
+Danny Welbeck,10.0,eng ENG,FW,29-243,90,1,0,0,0,6,3,0,0,28,0,1,1,1.5,1.5,0.0,3,1,15,18,83.3,0,16,1,0,0,Watford
+Roberto Pereyra,37.0,ar ARG,AM,29-201,87,0,0,0,0,2,1,1,0,60,0,2,2,0.5,0.5,0.1,2,0,41,48,85.4,4,42,2,3,2,Watford
+João Pedro,17.0,br BRA,AM,18-304,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,2,2,2,Watford
+Ismaila Sarr,23.0,sn SEN,AM,22-152,90,0,1,0,0,2,1,0,0,55,1,1,0,0.1,0.1,1.2,6,1,34,41,82.9,2,41,9,2,0,Watford
+Abdoulaye Doucouré,16.0,ml MLI,DM,27-207,80,0,0,0,0,2,0,0,0,66,1,1,1,0.2,0.2,0.5,7,1,44,60,73.3,7,33,4,2,1,Watford
+Tom Cleverley,8.0,eng ENG,DM,30-349,10,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,5,8,62.5,1,6,0,0,0,Watford
+Will Hughes,19.0,eng ENG,DM,25-100,80,0,0,0,0,0,0,1,0,49,0,0,1,0.0,0.0,0.1,3,0,34,41,82.9,5,28,0,2,1,Watford
+Nathaniel Chalobah,14.0,eng ENG,DM,25-227,10,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.2,1,0,11,14,78.6,2,9,1,1,1,Watford
+Adam Masina,11.0,ma MAR,LB,26-206,90,0,0,0,0,2,0,0,0,46,0,1,1,0.3,0.3,0.0,2,0,33,40,82.5,4,18,0,0,0,Watford
+Craig Dawson,4.0,eng ENG,CB,30-081,90,0,0,0,0,1,0,1,0,56,2,2,0,0.1,0.1,0.0,1,0,41,46,89.1,4,28,0,0,0,Watford
+Christian Kabasele,27.0,be BEL,CB,29-153,90,0,0,0,0,0,0,0,0,40,2,2,2,0.0,0.0,0.0,0,0,31,31,100.0,1,21,0,0,0,Watford
+Kiko Femenía,21.0,es ESP,RB,29-175,44,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.1,4,0,18,22,81.8,3,10,1,1,1,Watford
+Adrian Mariappa,6.0,jm JAM,RB,33-297,46,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.0,1,1,26,35,74.3,4,10,0,0,0,Watford
+Ben Foster,26.0,eng ENG,GK,37-114,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,13,22,59.1,0,13,0,0,0,Watford
+15 Players,,,,,990,2,1,1,1,18,5,3,0,560,7,10,9,3.7,2.9,2.5,37,4,371,467,79.4,43,304,22,14,9,Watford

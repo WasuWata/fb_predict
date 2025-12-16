@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Sébastien Haller,22.0,ci CIV,FW,25-105,90,1,0,0,0,3,2,1,0,32,0,1,1,0.7,0.7,0.0,0,0,13,22,59.1,0,13,0,0,0,West Ham United
+Felipe Anderson,8.0,br BRA,LM,26-173,90,0,0,0,0,2,1,0,0,73,6,3,1,0.1,0.1,0.1,2,0,40,54,74.1,4,44,5,4,3,West Ham United
+Manuel Lanzini,10.0,ar ARG,CM,26-232,67,0,0,0,0,1,0,0,0,42,1,0,0,0.1,0.1,0.0,1,0,34,37,91.9,0,26,1,1,0,West Ham United
+Pablo Fornals,18.0,es ESP,"RM,CM",23-225,23,0,0,0,0,0,0,0,0,12,0,0,2,0.0,0.0,0.0,0,0,6,10,60.0,0,7,0,0,0,West Ham United
+Mark Noble,16.0,eng ENG,CM,32-150,90,0,0,0,0,1,0,0,0,64,1,0,0,0.0,0.0,0.2,2,0,52,60,86.7,11,44,2,0,0,West Ham United
+Andriy Yarmolenko,7.0,ua UKR,RM,29-347,77,0,0,0,0,0,0,1,0,39,1,0,0,0.0,0.0,0.5,4,1,26,35,74.3,3,31,2,1,1,West Ham United
+Jack Wilshere,19.0,eng ENG,CM,27-277,13,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,2,8,2,1,1,West Ham United
+Declan Rice,41.0,eng ENG,DM,20-264,90,0,0,0,0,0,0,0,0,69,3,1,0,0.0,0.0,0.0,1,0,59,64,92.2,4,45,2,0,0,West Ham United
+Aaron Cresswell,3.0,eng ENG,LB,29-294,83,0,0,0,0,0,0,0,0,52,3,2,2,0.0,0.0,0.0,0,0,31,41,75.6,2,18,1,0,0,West Ham United
+Pablo Zabaleta,5.0,ar ARG,LB,34-262,7,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,0,4,0,1,1,West Ham United
+Angelo Ogbonna,21.0,it ITA,CB,31-135,90,0,0,0,0,1,0,0,0,75,1,0,2,0.3,0.3,0.0,0,0,50,62,80.6,5,41,2,0,0,West Ham United
+Issa Diop,23.0,fr FRA,CB,22-269,90,0,0,0,0,1,1,0,0,75,0,2,0,0.2,0.2,0.0,1,0,62,69,89.9,4,50,2,0,0,West Ham United
+Ryan Fredericks,24.0,eng ENG,RB,26-360,90,0,1,0,0,0,0,1,0,72,3,0,1,0.0,0.0,0.3,4,1,54,65,83.1,2,36,2,0,0,West Ham United
+Roberto,13.0,es ESP,GK,33-237,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,16,26,61.5,0,11,0,0,0,West Ham United
+14 Players,,,,,990,1,1,0,0,9,4,3,0,652,19,9,9,1.4,1.4,1.1,16,2,455,560,81.3,37,378,21,8,6,West Ham United
+Jordan Ayew,9.0,gh GHA,FW,28-024,89,1,0,0,0,2,1,0,0,37,2,0,1,0.6,0.6,0.0,1,0,16,22,72.7,1,19,0,2,2,Crystal Palace
+Christian Benteke,17.0,be BEL,FW,28-306,1,0,0,0,0,0,0,1,0,5,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,1,1,1,1,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,"LW,LM",26-286,90,0,0,0,0,1,0,0,0,52,0,1,2,0.6,0.6,0.0,1,0,38,45,84.4,4,22,1,1,0,Crystal Palace
+Wilfried Zaha,11.0,ci CIV,"RW,FW",26-329,90,0,0,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.6,2,0,23,27,85.2,4,32,4,7,6,Crystal Palace
+Cheikhou Kouyaté,8.0,sn SEN,CM,29-288,90,0,0,0,0,0,0,0,0,46,0,1,1,0.0,0.0,0.0,1,1,31,37,83.8,4,25,3,2,1,Crystal Palace
+James McArthur,18.0,sct SCO,CM,31-363,90,0,0,0,0,1,0,0,0,84,1,1,1,0.0,0.0,0.0,1,0,59,75,78.7,6,47,0,3,2,Crystal Palace
+James McCarthy,22.0,ie IRL,CM,28-327,80,0,0,0,0,1,1,0,0,50,2,1,1,0.0,0.0,0.0,1,0,33,39,84.6,2,16,1,1,1,Crystal Palace
+Andros Townsend,10.0,eng ENG,RM,28-081,10,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,1,1,2,4,50.0,1,5,1,1,0,Crystal Palace
+Patrick van Aanholt,3.0,nl NED,LB,29-037,90,1,0,1,1,0,0,0,0,60,0,2,0,0.8,0.0,0.1,1,0,43,53,81.1,2,23,1,0,0,Crystal Palace
+Gary Cahill,24.0,eng ENG,CB,33-290,90,0,0,0,0,1,0,0,0,69,1,1,0,0.1,0.1,0.0,1,0,57,60,95.0,2,32,0,0,0,Crystal Palace
+Martin Kelly,34.0,eng ENG,CB,29-161,90,0,1,0,0,0,0,0,0,64,0,0,1,0.0,0.0,0.6,1,1,49,56,87.5,2,39,0,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,RB,29-341,90,0,0,0,0,0,0,1,0,77,2,2,0,0.0,0.0,0.0,0,0,52,70,74.3,3,28,1,0,0,Crystal Palace
+Vicente Guaita,31.0,es ESP,GK,32-268,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,13,31,41.9,0,20,0,0,0,Crystal Palace
+13 Players,,,,,990,2,1,1,1,6,2,2,0,627,10,9,9,2.2,1.4,1.3,11,3,416,522,79.7,31,309,13,18,13,Crystal Palace

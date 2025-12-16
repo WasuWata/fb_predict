@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Danny Ings,9.0,eng ENG,FW,27-144,90,0,0,0,0,1,0,0,0,38,1,1,5,0.1,0.1,0.0,3,0,12,26,46.2,1,17,1,4,1,Southampton
+Shane Long,7.0,ie IRL,"FW,RW",32-326,83,0,0,0,0,2,1,0,0,40,0,0,2,0.4,0.4,0.0,1,0,14,27,51.9,1,10,1,1,0,Southampton
+Stuart Armstrong,17.0,sct SCO,"AM,RW",27-259,7,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,2,0,5,7,71.4,2,4,0,0,0,Southampton
+Nathan Redmond,22.0,eng ENG,LM,25-283,45,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,0,0,10,19,52.6,0,16,1,1,0,Southampton
+Oriol Romeu,14.0,es ESP,CM,28-081,45,0,0,0,0,0,0,0,0,55,1,2,1,0.0,0.0,0.0,0,0,33,46,71.7,5,24,2,1,1,Southampton
+Pierre Højbjerg,23.0,dk DEN,"CM,LM",24-131,90,0,0,0,0,3,0,1,0,84,1,2,0,0.1,0.1,0.2,5,0,54,71,76.1,9,38,0,2,0,Southampton
+James Ward-Prowse,16.0,eng ENG,"CM,RM,WB",25-043,90,0,0,0,0,2,1,0,0,66,0,0,0,0.2,0.2,0.0,0,0,45,61,73.8,4,21,1,1,1,Southampton
+Moussa Djenepo,12.0,ml MLI,"RM,LW,WB",21-182,90,0,0,0,0,1,0,0,0,43,4,1,1,0.0,0.0,0.1,2,0,16,25,64.0,2,26,2,3,1,Southampton
+Ryan Bertrand,21.0,eng ENG,"LB,CB",30-131,90,0,0,0,0,0,0,0,0,52,1,1,0,0.0,0.0,0.0,1,0,36,47,76.6,5,27,1,0,0,Southampton
+Jan Bednarek,35.0,pl POL,CB,23-246,90,0,0,0,0,0,0,0,0,68,0,3,1,0.0,0.0,0.0,1,0,50,53,94.3,3,38,0,0,0,Southampton
+Jack Stephens,5.0,eng ENG,CB,25-321,90,0,0,0,0,1,0,0,0,79,3,0,2,0.1,0.1,0.0,1,0,45,64,70.3,6,37,2,4,3,Southampton
+Cédric Soares,2.0,pt POR,RB,28-105,86,0,0,0,0,1,0,0,0,70,3,0,1,0.0,0.0,0.2,3,0,38,55,69.1,1,28,2,1,1,Southampton
+Che Adams,10.0,sct SCO,FW,23-154,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Southampton
+Alex McCarthy,1.0,eng ENG,GK,30-011,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,18,32,56.3,0,16,0,0,0,Southampton
+14 Players,,,,,990,0,0,0,0,11,2,1,0,666,15,10,13,0.9,0.9,0.5,19,0,376,534,70.4,39,302,13,18,8,Southampton

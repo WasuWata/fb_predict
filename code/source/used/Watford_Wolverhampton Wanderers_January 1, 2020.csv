@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Troy Deeney,9.0,eng ENG,FW,31-186,90,0,0,0,0,0,0,1,0,40,0,0,2,0.0,0.0,0.5,2,0,17,31,54.8,2,16,0,3,0,Watford
+Gerard Deulofeu,7.0,es ESP,LW,25-294,72,1,1,0,0,3,1,0,0,38,2,1,0,0.4,0.4,0.2,4,1,26,29,89.7,2,28,2,3,3,Watford
+Adam Masina,11.0,ma MAR,RB,25-364,18,0,0,0,0,0,0,0,0,12,1,1,1,0.0,0.0,0.0,0,0,3,5,60.0,2,3,0,0,0,Watford
+Ismaila Sarr,23.0,sn SEN,"RW,RM",21-310,89,0,1,0,0,2,1,0,0,32,0,1,0,0.5,0.5,0.3,5,1,17,20,85.0,1,24,5,9,3,Watford
+Roberto Pereyra,37.0,ar ARG,RM,28-359,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Watford
+Abdoulaye Doucouré,16.0,ml MLI,"AM,CM",27-000,90,1,0,0,0,1,1,0,0,58,1,0,4,0.1,0.1,0.1,2,0,36,46,78.3,7,32,2,3,2,Watford
+Étienne Capoue,29.0,fr FRA,"DM,CM",31-174,90,0,0,0,0,1,0,0,0,57,1,1,0,0.0,0.0,0.0,0,0,33,44,75.0,3,28,0,3,1,Watford
+Nathaniel Chalobah,14.0,eng ENG,"DM,LM",25-020,90,0,0,0,0,2,0,0,0,53,4,3,2,0.1,0.1,0.0,1,1,25,36,69.4,4,25,0,1,0,Watford
+Kiko Femenía,21.0,es ESP,LB,28-333,59,0,0,0,0,0,0,0,0,36,1,1,0,0.0,0.0,0.0,0,0,25,32,78.1,1,15,2,0,0,Watford
+José Holebas,25.0,gr GRE,LB,35-188,31,0,0,0,0,0,0,0,0,12,1,0,1,0.0,0.0,0.0,0,0,1,8,12.5,0,1,0,0,0,Watford
+Craig Cathcart,15.0,nir NIR,CB,30-329,90,0,0,0,0,0,0,0,0,39,1,1,0,0.0,0.0,0.0,0,0,24,31,77.4,2,22,0,1,1,Watford
+Christian Kabasele,27.0,be BEL,CB,28-311,70,0,0,0,0,0,0,0,1,27,1,1,0,0.0,0.0,0.0,0,0,16,21,76.2,0,14,0,0,0,Watford
+Craig Dawson,4.0,eng ENG,"RB,CB",29-240,90,0,0,0,0,0,0,1,0,51,0,2,1,0.0,0.0,0.0,1,0,24,35,68.6,3,21,0,0,0,Watford
+Ben Foster,26.0,eng ENG,GK,36-273,90,0,0,0,0,0,0,1,0,33,0,0,0,0.0,0.0,0.0,0,0,18,31,58.1,0,13,0,0,0,Watford
+14 Players,,,,,970,2,2,0,0,9,3,3,1,489,13,12,11,1.1,1.1,1.0,15,3,265,370,71.6,27,242,11,23,10,Watford
+Raúl Jiménez,9.0,mx MEX,FW,28-241,90,0,0,0,0,4,0,0,0,27,0,0,0,0.2,0.2,0.0,3,0,15,19,78.9,1,13,2,1,1,Wolverhampton Wanderers
+Pedro Neto,7.0,pt POR,LW,19-298,65,1,0,0,0,2,1,1,0,42,2,0,0,0.1,0.1,0.0,3,0,24,33,72.7,2,31,5,1,1,Wolverhampton Wanderers
+Diogo Jota,18.0,pt POR,LW,23-028,25,0,0,0,0,1,0,0,0,13,1,0,0,0.1,0.1,0.1,2,0,8,9,88.9,1,10,1,0,0,Wolverhampton Wanderers
+Adama Traoré,37.0,es ESP,RW,23-341,90,0,0,0,0,0,0,0,0,47,0,0,1,0.0,0.0,0.1,4,0,17,38,44.7,5,38,11,20,16,Wolverhampton Wanderers
+Jonny Castro,19.0,es ESP,LM,25-304,53,0,0,0,0,0,0,0,0,35,4,1,0,0.0,0.0,0.0,0,0,22,28,78.6,2,19,3,2,1,Wolverhampton Wanderers
+Rúben Vinagre,29.0,pt POR,LM,20-267,37,0,0,0,0,1,0,0,0,33,2,1,0,0.1,0.1,0.3,2,0,22,25,88.0,1,19,3,1,0,Wolverhampton Wanderers
+João Moutinho,28.0,pt POR,CM,33-115,90,0,1,0,0,2,1,0,0,92,2,3,1,0.1,0.1,0.1,4,1,70,86,81.4,12,50,3,0,0,Wolverhampton Wanderers
+Leander Dendoncker,32.0,be BEL,"CM,CB",24-261,90,0,0,0,0,0,0,0,0,67,2,0,1,0.0,0.0,0.1,2,0,51,61,83.6,7,32,0,0,0,Wolverhampton Wanderers
+Matt Doherty,2.0,ie IRL,RM,27-350,90,0,0,0,0,3,2,0,0,69,3,0,1,0.6,0.6,0.0,2,0,47,56,83.9,7,29,2,0,0,Wolverhampton Wanderers
+Romain Saïss,27.0,ma MAR,CB,29-281,90,0,0,0,0,0,0,0,0,97,3,3,0,0.0,0.0,0.0,0,0,70,85,82.4,12,49,1,0,0,Wolverhampton Wanderers
+Conor Coady,16.0,eng ENG,CB,26-310,90,0,0,0,0,0,0,0,0,88,3,1,0,0.0,0.0,0.3,2,0,73,81,90.1,6,49,0,0,0,Wolverhampton Wanderers
+Ryan Bennett,5.0,eng ENG,CB,29-301,53,0,0,0,0,0,0,0,0,39,0,0,1,0.0,0.0,0.0,1,0,30,36,83.3,1,27,0,0,0,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,CM,22-294,37,0,0,0,0,3,0,0,0,50,1,0,1,0.1,0.1,0.0,1,0,38,43,88.4,4,29,0,0,0,Wolverhampton Wanderers
+Rui Patrício,11.0,pt POR,GK,31-320,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,25,28,89.3,0,11,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,990,1,1,0,0,16,4,1,0,727,23,9,6,1.2,1.2,1.0,26,1,512,628,81.5,61,406,31,25,19,Wolverhampton Wanderers
