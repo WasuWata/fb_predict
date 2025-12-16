@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Bruno Fernandes,8.0,pt POR,FW,29-177,90,0,1,0,0,0,0,0,0,51,2,1,1,0.0,0.0,0.2,3,1,29,40,72.5,3,25,5,0,0,Manchester United
+Scott McTominay,39.0,sct SCO,FW,27-086,90,0,0,0,0,0,0,0,0,33,1,0,2,0.0,0.0,0.0,0,0,18,22,81.8,3,15,1,0,0,Manchester United
+Marcus Rashford,10.0,eng ENG,LW,26-124,74,1,0,0,0,2,1,0,0,22,0,1,0,0.2,0.2,0.0,0,0,8,12,66.7,0,16,1,0,0,Manchester United
+Antony,21.0,br BRA,RW,24-008,16,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,1,0,Manchester United
+Alejandro Garnacho,17.0,ar ARG,"RW,LW",19-246,81,0,0,0,0,0,0,0,0,26,1,1,1,0.0,0.0,0.0,0,0,12,15,80.0,0,17,1,0,0,Manchester United
+Omari Forson,62.0,eng ENG,LW,19-227,9,0,0,0,0,0,0,0,0,6,2,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Manchester United
+Kobbie Mainoo,37.0,eng ENG,CM,18-319,81,0,0,0,0,0,0,0,0,27,3,1,2,0.0,0.0,0.0,0,0,14,18,77.8,3,13,2,0,0,Manchester United
+Sofyan Amrabat,4.0,ma MAR,FW,27-195,9,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,1,0,Manchester United
+Casemiro,18.0,br BRA,CM,32-009,90,0,0,0,0,1,0,0,0,51,4,1,6,0.0,0.0,0.0,0,0,31,34,91.2,1,17,0,2,2,Manchester United
+Victor Lindelöf,2.0,se SWE,"LB,CB",29-230,90,0,0,0,0,0,0,0,0,37,0,2,1,0.0,0.0,0.0,0,0,21,30,70.0,2,20,0,0,0,Manchester United
+Jonny Evans,35.0,nir NIR,CB,36-060,68,0,0,0,0,0,0,0,0,29,3,2,3,0.0,0.0,0.0,1,0,12,15,80.0,1,15,0,1,1,Manchester United
+Willy Kambwala,53.0,fr FRA,RB,19-191,22,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,0,0,Manchester United
+Raphaël Varane,19.0,fr FRA,CB,30-313,90,0,0,0,0,0,0,1,0,42,0,1,2,0.0,0.0,0.0,0,0,26,29,89.7,1,19,0,0,0,Manchester United
+Diogo Dalot,20.0,pt POR,"RB,LB",24-351,90,0,0,0,0,0,0,0,0,57,3,0,3,0.0,0.0,0.0,1,0,34,43,79.1,0,33,2,3,3,Manchester United
+André Onana,24.0,cm CMR,GK,27-336,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,1,1,28,44,63.6,1,36,0,0,0,Manchester United
+15 Players,,,,,990,1,1,0,0,3,1,1,0,447,19,10,21,0.2,0.2,0.2,6,2,247,318,77.7,15,239,12,8,6,Manchester United

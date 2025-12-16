@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Erling Haaland,9.0,no NOR,FW,22-206,45,0,1,0,0,1,0,0,0,6,0,0,0,0.2,0.2,0.6,1,1,4,4,100.0,0,3,0,0,0,Manchester City
+Julián Álvarez,19.0,ar ARG,FW,23-012,45,0,0,0,0,2,0,0,0,18,0,0,1,0.2,0.2,0.6,2,0,12,12,100.0,0,12,1,0,0,Manchester City
+Jack Grealish,10.0,eng ENG,LW,27-155,68,0,0,0,0,2,1,0,0,37,0,0,0,0.1,0.1,0.1,4,1,23,30,76.7,2,31,8,3,0,Manchester City
+Phil Foden,47.0,eng ENG,LW,22-260,22,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,0,0,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,31-356,84,1,1,1,1,2,0,0,0,49,1,0,1,1.2,0.4,0.1,4,1,34,39,87.2,2,35,3,3,0,Manchester City
+Nathan Aké,6.0,nl NED,LB,27-359,6,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,Manchester City
+İlkay Gündoğan,8.0,de GER,"CM,DM",32-111,90,1,0,0,0,4,4,0,0,45,0,0,0,1.3,1.3,0.0,3,0,35,38,92.1,5,31,0,1,0,Manchester City
+Kevin De Bruyne,17.0,be BEL,"CM,AM",31-229,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.1,7,0,33,50,66.0,9,36,6,1,1,Manchester City
+Bernardo Silva,20.0,pt POR,"DM,RW",28-186,90,0,0,0,0,1,0,0,0,108,3,0,0,0.0,0.0,0.0,1,1,88,99,88.9,6,74,2,3,1,Manchester City
+Rodri,16.0,es ESP,DM,26-235,90,1,0,0,0,3,2,0,0,113,1,1,1,0.3,0.3,0.7,5,0,94,104,90.4,7,66,3,2,2,Manchester City
+Aymeric Laporte,14.0,es ESP,"LB,CB",28-261,90,0,0,0,0,0,0,0,0,88,0,1,2,0.0,0.0,0.0,1,0,77,82,93.9,4,54,3,0,0,Manchester City
+Rúben Dias,3.0,pt POR,CB,25-274,45,0,0,0,0,1,0,1,0,45,1,0,0,0.1,0.1,0.0,2,1,43,43,100.0,3,41,0,1,1,Manchester City
+Manuel Akanji,25.0,ch SUI,CB,27-208,45,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,28,30,93.3,3,24,0,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,32-260,90,0,0,0,0,0,0,0,0,94,0,0,1,0.0,0.0,0.0,2,0,78,90,86.7,11,66,2,1,1,Manchester City
+Ederson,31.0,br BRA,GK,29-179,90,0,0,0,0,0,0,0,0,31,0,1,0,0.0,0.0,0.0,0,0,28,29,96.6,0,21,0,0,0,Manchester City
+15 Players,,,,,990,3,2,1,1,16,7,1,0,727,7,3,7,3.4,2.6,2.4,32,5,582,658,88.4,52,498,28,15,6,Manchester City
+Ollie Watkins,11.0,eng ENG,FW,27-044,90,1,0,0,0,1,1,0,0,16,0,1,0,0.1,0.1,0.2,5,0,8,11,72.7,2,4,2,0,0,Aston Villa
+Leon Bailey,31.0,jm JAM,FW,25-187,59,0,0,0,0,2,0,0,0,15,0,0,0,0.1,0.1,0.0,0,0,5,8,62.5,0,9,0,3,1,Aston Villa
+Álex Moreno,15.0,es ESP,LB,29-249,31,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,1,0,12,14,85.7,1,8,1,3,3,Aston Villa
+Emi Buendía,10.0,ar ARG,LM,26-049,59,0,0,0,0,0,0,0,0,17,0,2,1,0.0,0.0,0.0,0,0,12,14,85.7,1,11,1,0,0,Aston Villa
+John McGinn,7.0,sct SCO,"RM,LM",28-117,31,0,0,0,0,0,0,0,0,15,0,1,1,0.0,0.0,0.0,0,0,9,13,69.2,1,8,0,1,1,Aston Villa
+Douglas Luiz,6.0,br BRA,CM,24-279,90,0,1,0,0,0,0,0,0,46,2,2,0,0.0,0.0,0.1,4,2,34,42,81.0,3,21,1,0,0,Aston Villa
+Boubacar Kamara,44.0,fr FRA,CM,23-081,90,0,0,0,0,0,0,0,0,43,0,1,4,0.0,0.0,0.0,0,0,32,36,88.9,1,21,0,0,0,Aston Villa
+Jacob Ramsey,41.0,eng ENG,RM,21-260,75,0,0,0,0,0,0,0,0,17,2,0,1,0.0,0.0,0.0,0,0,6,7,85.7,1,8,2,1,0,Aston Villa
+Matty Cash,2.0,pl POL,RB,25-189,15,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,6,0,0,0,Aston Villa
+Lucas Digne,27.0,fr FRA,LB,29-207,59,0,0,0,0,0,0,1,0,20,1,1,0,0.0,0.0,0.0,1,0,14,18,77.8,3,13,1,1,1,Aston Villa
+Jáder Durán,22.0,co COL,FW,19-061,31,0,0,0,0,2,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,3,6,50.0,1,7,0,0,0,Aston Villa
+Calum Chambers,16.0,eng ENG,CB,28-023,90,0,0,0,0,0,0,0,0,44,0,3,1,0.0,0.0,0.0,0,0,29,38,76.3,0,27,0,0,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,CB,25-112,90,0,0,0,0,0,0,1,0,39,0,1,3,0.0,0.0,0.0,0,0,31,33,93.9,0,17,0,1,1,Aston Villa
+Ashley Young,18.0,eng ENG,RB,37-218,75,0,0,0,0,0,0,0,0,31,1,1,0,0.0,0.0,0.0,0,0,18,25,72.0,0,11,0,1,0,Aston Villa
+Philippe Coutinho,23.0,br BRA,LM,30-245,15,0,0,0,0,1,1,0,0,16,1,1,1,0.0,0.0,0.0,0,0,7,9,77.8,3,8,0,3,2,Aston Villa
+Emiliano Martínez,1.0,ar ARG,GK,30-163,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,1,0,34,45,75.6,0,26,0,0,0,Aston Villa
+16 Players,,,,,990,1,1,0,0,6,2,2,0,409,7,16,12,0.3,0.3,0.2,12,2,262,329,79.6,17,205,8,14,9,Aston Villa

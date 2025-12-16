@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Julián Álvarez,19.0,ar ARG,FW,23-333,90,1,0,0,0,4,1,0,0,51,0,0,1,1.2,1.2,0.0,1,0,40,45,88.9,1,27,0,0,0,Manchester City
+Jack Grealish,10.0,eng ENG,LW,28-111,51,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,4,0,20,31,64.5,1,29,6,0,0,Manchester City
+Oscar Bobb,52.0,no NOR,LW,20-171,39,0,0,0,0,1,0,0,0,35,1,1,1,0.1,0.1,0.0,3,1,26,29,89.7,1,19,1,2,1,Manchester City
+Bernardo Silva,20.0,pt POR,RW,29-142,90,0,0,0,0,1,1,0,0,82,2,0,1,0.2,0.2,0.2,4,0,70,76,92.1,2,50,2,2,2,Manchester City
+Phil Foden,47.0,eng ENG,AM,23-216,90,0,2,0,0,3,1,0,0,99,0,0,2,0.2,0.2,1.5,6,1,84,87,96.6,4,64,5,5,2,Manchester City
+Rodri,16.0,es ESP,DM,27-191,90,1,0,0,0,4,1,0,0,178,0,0,0,0.2,0.2,0.1,3,1,157,169,92.9,23,121,6,1,1,Manchester City
+Mateo Kovačić,8.0,hr CRO,DM,29-238,67,0,0,0,0,0,0,1,0,103,3,0,1,0.0,0.0,0.0,2,0,93,99,93.9,5,61,0,0,0,Manchester City
+Rúben Dias,3.0,pt POR,CB,26-230,23,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,39,42,92.9,2,34,0,0,0,Manchester City
+Joško Gvardiol,24.0,hr CRO,LB,21-341,90,0,0,0,0,0,0,0,0,100,1,0,1,0.0,0.0,0.0,3,0,86,92,93.5,7,70,5,1,0,Manchester City
+Nathan Aké,6.0,nl NED,CB,28-315,90,0,0,0,0,3,0,0,0,118,0,0,0,0.3,0.3,0.0,1,0,108,110,98.2,5,87,0,1,0,Manchester City
+Manuel Akanji,25.0,ch SUI,"CB,DM",28-164,90,0,0,0,0,0,0,0,0,144,0,1,1,0.0,0.0,0.0,4,1,132,139,95.0,9,94,3,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,33-216,67,0,0,0,0,2,0,0,0,72,0,0,0,0.0,0.0,0.0,0,0,61,66,92.4,1,39,0,0,0,Manchester City
+Rico Lewis,82.0,eng ENG,RB,19-039,23,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,0,0,19,19,100.0,2,14,1,1,0,Manchester City
+Ederson,31.0,br BRA,GK,30-135,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,24,24,100.0,0,21,0,0,0,Manchester City
+14 Players,,,,,990,2,2,0,0,18,4,1,0,1103,7,2,9,2.2,2.2,1.9,31,4,959,1028,93.3,63,730,29,13,6,Manchester City
+William Osula,32.0,dk DEN,FW,20-148,66,0,0,0,0,2,1,0,0,7,0,1,0,0.1,0.1,0.0,2,0,1,3,33.3,0,5,1,1,1,Sheffield United
+Cameron Archer,10.0,eng ENG,FW,22-162,24,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,1,0,4,5,80.0,1,5,1,1,1,Sheffield United
+Andre Brooks,35.0,eng ENG,AM,20-132,79,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,1,6,0,0,0,Sheffield United
+Ben Osborn,23.0,eng ENG,AM,29-147,11,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,Sheffield United
+Anis Ben Slimane,25.0,tn TUN,AM,22-289,66,0,0,0,0,0,0,0,0,15,0,1,2,0.0,0.0,0.0,0,0,8,9,88.9,1,9,0,1,0,Sheffield United
+Rhian Brewster,7.0,eng ENG,AM,23-273,24,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,4,0,0,0,Sheffield United
+Vinicius Souza,21.0,br BRA,CM,24-196,90,0,0,0,0,0,0,0,0,24,3,1,1,0.0,0.0,0.0,0,0,13,17,76.5,0,9,0,0,0,Sheffield United
+Oliver Norwood,16.0,nir NIR,CM,32-262,90,0,0,0,0,0,0,0,0,38,0,2,1,0.0,0.0,0.0,1,0,16,32,50.0,0,18,0,0,0,Sheffield United
+Luke Thomas,14.0,eng ENG,WB,22-203,89,0,0,0,0,0,0,0,0,27,2,0,1,0.0,0.0,0.0,0,0,15,20,75.0,0,10,0,0,0,Sheffield United
+Rhys Norrington-Davies,33.0,wls WAL,WB,24-252,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Sheffield United
+Jayden Bogle,20.0,eng ENG,WB,23-156,90,0,0,0,0,2,1,1,0,48,3,0,2,0.2,0.2,0.1,1,0,23,28,82.1,0,21,2,2,2,Sheffield United
+Auston Trusty,5.0,us USA,CB,25-140,90,0,0,0,0,0,0,0,0,32,2,0,2,0.0,0.0,0.0,1,0,21,25,84.0,1,15,0,0,0,Sheffield United
+Jack Robinson,19.0,eng ENG,CB,30-120,90,0,0,0,0,0,0,0,0,33,2,0,1,0.0,0.0,0.0,1,0,23,25,92.0,0,21,0,1,0,Sheffield United
+George Baldock,2.0,gr GRE,CB,30-296,90,0,0,0,0,0,0,0,0,47,2,1,2,0.0,0.0,0.0,1,0,31,36,86.1,1,22,0,0,0,Sheffield United
+Wes Foderingham,18.0,eng ENG,GK,32-350,90,0,0,0,0,0,0,0,0,47,1,0,0,0.0,0.0,0.0,0,0,29,44,65.9,0,25,0,0,0,Sheffield United
+15 Players,,,,,990,0,0,0,0,4,2,1,0,346,15,7,12,0.3,0.3,0.3,8,0,193,259,74.5,6,174,4,6,4,Sheffield United

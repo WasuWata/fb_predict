@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Danny Welbeck,18.0,eng ENG,FW,32-163,45,0,0,0,0,1,0,0,0,15,0,1,0,0.2,0.2,0.0,0,0,7,8,87.5,0,6,0,1,0,Brighton & Hove Albion
+Evan Ferguson,28.0,ie IRL,FW,18-201,45,0,0,0,0,3,2,0,0,22,0,1,0,0.6,0.6,0.2,6,0,12,16,75.0,0,13,1,2,1,Brighton & Hove Albion
+Kaoru Mitoma,22.0,jp JPN,LW,25-353,90,0,0,0,0,2,0,0,0,70,1,1,1,0.3,0.3,0.6,6,1,38,53,71.7,3,54,4,9,4,Brighton & Hove Albion
+Facundo Buonanotte,40.0,ar ARG,RW,18-136,45,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,14,18,77.8,0,17,0,2,0,Brighton & Hove Albion
+Solly March,7.0,eng ENG,RW,28-292,32,0,0,0,0,2,1,0,0,35,1,0,0,0.2,0.2,0.2,3,0,22,30,73.3,5,25,3,7,4,Brighton & Hove Albion
+Billy Gilmour,27.0,sct SCO,DM,21-331,13,0,0,0,0,2,0,0,0,37,0,0,0,0.1,0.1,0.0,4,0,29,35,82.9,4,27,1,0,0,Brighton & Hove Albion
+Deniz Undav,21.0,de GER,AM,26-293,45,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,8,11,72.7,0,6,0,0,0,Brighton & Hove Albion
+Julio Enciso,20.0,py PAR,"AM,RW",19-105,45,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.1,4,0,12,15,80.0,3,16,2,5,4,Brighton & Hove Albion
+Alexis Mac Allister,10.0,ar ARG,"DM,AM",24-135,90,1,0,0,0,4,2,0,0,92,3,0,0,1.1,1.1,0.3,2,0,67,80,83.8,7,57,5,2,2,Brighton & Hove Albion
+Moisés Caicedo,25.0,ec ECU,DM,21-187,90,0,0,0,0,2,0,0,0,99,0,0,0,0.1,0.1,0.1,4,0,88,93,94.6,14,73,0,3,1,Brighton & Hove Albion
+Pervis Estupiñán,30.0,ec ECU,LB,25-107,90,0,0,0,0,1,0,0,0,99,2,0,3,0.0,0.0,0.0,1,0,72,92,78.3,4,63,0,1,0,Brighton & Hove Albion
+Lewis Dunk,5.0,eng ENG,CB,31-168,90,0,0,0,0,1,0,1,0,111,0,1,1,0.1,0.1,0.0,1,0,100,106,94.3,16,79,4,0,0,Brighton & Hove Albion
+Adam Webster,4.0,eng ENG,CB,28-124,45,0,0,0,0,0,0,0,0,72,1,0,3,0.0,0.0,0.0,0,0,60,66,90.9,8,54,2,0,0,Brighton & Hove Albion
+Levi Colwill,6.0,eng ENG,CB,20-071,45,0,0,0,0,3,0,0,0,51,0,2,0,0.7,0.7,0.0,0,0,38,45,84.4,8,38,3,0,0,Brighton & Hove Albion
+Pascal Groß,13.0,de GER,RB,31-327,90,0,0,0,0,2,0,0,0,129,2,0,0,0.1,0.1,0.6,10,0,102,121,84.3,20,81,7,0,0,Brighton & Hove Albion
+Jason Steele,23.0,eng ENG,GK,32-263,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,27,28,96.4,0,18,0,0,0,Brighton & Hove Albion
+16 Players,,,,,990,1,0,0,0,23,5,1,0,916,11,6,9,3.5,3.5,2.1,41,1,696,817,85.2,92,627,32,32,16,Brighton & Hove Albion

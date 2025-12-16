@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ollie Watkins,11.0,eng ENG,FW,27-050,77,1,0,0,0,1,1,0,0,23,2,1,1,0.1,0.1,0.0,1,0,8,12,66.7,1,9,3,3,0,Aston Villa
+Jáder Durán,22.0,co COL,FW,19-067,13,0,0,0,0,1,1,0,0,6,0,0,0,0.1,0.1,0.0,1,0,3,4,75.0,1,4,1,0,0,Aston Villa
+Emi Buendía,10.0,ar ARG,FW,26-055,66,0,0,0,0,0,0,0,0,33,3,1,0,0.0,0.0,0.0,2,0,19,27,70.4,3,21,0,2,2,Aston Villa
+Leon Bailey,31.0,jm JAM,FW,25-193,24,0,0,0,0,1,1,0,0,14,0,0,1,0.1,0.1,0.0,0,0,3,7,42.9,2,11,5,6,2,Aston Villa
+Philippe Coutinho,23.0,br BRA,LM,30-251,61,1,0,0,0,1,1,0,0,26,5,0,3,0.2,0.2,0.0,1,0,11,14,78.6,0,13,1,1,0,Aston Villa
+Jacob Ramsey,41.0,eng ENG,LM,21-266,29,0,0,0,0,0,0,0,0,9,1,0,1,0.0,0.0,0.1,2,0,6,6,100.0,0,5,0,1,1,Aston Villa
+Boubacar Kamara,44.0,fr FRA,CM,23-087,90,0,0,0,0,0,0,0,0,48,3,2,4,0.0,0.0,0.1,2,1,28,30,93.3,5,25,2,2,2,Aston Villa
+Douglas Luiz,6.0,br BRA,CM,24-285,66,0,0,0,0,2,0,1,0,42,3,2,4,0.1,0.1,0.0,0,0,26,28,92.9,1,17,0,0,0,Aston Villa
+Leander Dendoncker,32.0,be BEL,CM,27-309,24,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,6,7,85.7,0,4,0,0,0,Aston Villa
+John McGinn,7.0,sct SCO,RM,28-123,90,0,0,0,0,1,1,0,0,32,4,1,3,0.1,0.1,0.0,1,0,15,20,75.0,3,14,1,2,2,Aston Villa
+Álex Moreno,15.0,es ESP,LB,29-255,77,0,1,0,0,0,0,0,0,36,3,1,4,0.0,0.0,0.3,2,1,14,21,66.7,1,9,1,0,0,Aston Villa
+Lucas Digne,27.0,fr FRA,LB,29-213,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,1,0,0,0,Aston Villa
+Tyrone Mings,5.0,eng ENG,CB,29-342,90,0,0,0,0,0,0,0,0,39,0,1,1,0.0,0.0,0.0,0,0,26,31,83.9,0,21,1,1,1,Aston Villa
+Ezri Konsa,4.0,eng ENG,CB,25-118,90,0,0,0,0,0,0,0,0,38,0,1,4,0.0,0.0,0.0,0,0,25,27,92.6,1,23,0,1,1,Aston Villa
+Matty Cash,2.0,pl POL,RB,25-195,90,0,1,0,0,0,0,0,0,46,1,3,0,0.0,0.0,0.1,2,2,24,34,70.6,2,23,1,1,0,Aston Villa
+Emiliano Martínez,1.0,ar ARG,GK,30-169,90,0,0,0,0,0,0,1,0,45,0,0,0,0.0,0.0,0.0,0,0,21,43,48.8,0,28,0,0,0,Aston Villa
+16 Players,,,,,990,2,2,0,0,7,5,2,0,450,25,13,27,0.5,0.5,0.5,14,4,239,316,75.6,20,228,16,20,11,Aston Villa
+Eddie Nketiah,14.0,eng ENG,FW,23-264,90,0,0,0,0,5,0,0,0,25,1,0,1,1.1,1.1,0.3,4,0,11,14,78.6,0,10,2,1,1,Arsenal
+Leandro Trossard,19.0,be BEL,LW,28-076,67,0,0,0,0,0,0,0,0,37,1,0,2,0.0,0.0,0.0,2,0,24,31,77.4,6,24,7,1,1,Arsenal
+Gabriel Martinelli,11.0,br BRA,"LW,LM",21-245,23,1,0,0,0,1,1,0,0,12,0,0,0,1.0,1.0,0.1,2,0,6,9,66.7,0,10,3,2,1,Arsenal
+Bukayo Saka,7.0,eng ENG,"RW,RM",21-166,90,1,0,0,0,6,2,1,0,74,4,0,1,0.3,0.3,0.0,2,1,29,51,56.9,4,39,5,11,4,Arsenal
+Granit Xhaka,34.0,ch SUI,LM,30-144,78,0,0,0,0,1,0,0,0,48,0,0,1,0.1,0.1,0.0,2,0,35,43,81.4,4,24,1,2,0,Arsenal
+Fabio Vieira,21.0,pt POR,"LM,CM",22-264,12,0,1,0,0,0,0,0,0,7,0,0,0,0.0,0.0,1.0,1,1,6,7,85.7,2,6,0,0,0,Arsenal
+Jorginho,20.0,it ITA,CM,31-060,90,0,0,0,0,1,0,0,0,86,3,0,0,0.1,0.1,0.1,5,1,71,81,87.7,15,54,2,1,0,Arsenal
+Martin Ødegaard,8.0,no NOR,RM,24-063,89,0,1,0,0,1,0,0,0,69,1,0,0,0.3,0.3,0.9,11,1,56,65,86.2,12,42,5,3,3,Arsenal
+Rob Holding,16.0,eng ENG,CB,27-151,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Arsenal
+Oleksandr Zinchenko,35.0,ua UKR,LB,26-065,89,1,0,0,0,3,2,0,0,98,2,0,1,0.1,0.1,0.0,2,0,75,89,84.3,8,43,6,2,0,Arsenal
+Kieran Tierney,3.0,sct SCO,LB,25-258,1,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,25-061,90,0,0,0,0,2,0,0,0,66,1,0,0,0.3,0.3,0.0,1,1,58,62,93.5,7,41,1,0,0,Arsenal
+William Saliba,12.0,fr FRA,CB,21-331,90,0,0,0,0,0,0,0,0,81,2,0,0,0.0,0.0,0.0,0,0,70,75,93.3,3,49,0,0,0,Arsenal
+Ben White,4.0,eng ENG,RB,25-133,78,0,0,0,0,0,0,0,0,85,2,0,0,0.0,0.0,0.2,2,0,59,77,76.6,5,43,3,4,0,Arsenal
+Takehiro Tomiyasu,18.0,jp JPN,RB,24-105,12,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,12,16,75.0,2,12,1,0,0,Arsenal
+Aaron Ramsdale,1.0,eng ENG,GK,24-280,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,18,23,78.3,0,17,0,0,0,Arsenal
+16 Players,,,,,990,3,2,0,0,20,5,1,0,730,18,0,6,3.2,3.2,2.6,35,5,530,643,82.4,68,414,36,27,10,Arsenal

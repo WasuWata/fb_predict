@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jean-Philippe Mateta,14.0,fr FRA,FW,26-236,90,0,1,0,0,2,0,0,0,29,0,0,0,0.1,0.1,0.3,2,0,10,16,62.5,1,15,1,4,1,Crystal Palace
+Odsonne Édouard,22.0,fr FRA,AM,26-034,71,0,0,0,0,2,1,0,0,38,2,0,0,0.2,0.2,0.0,1,1,13,22,59.1,4,20,2,4,1,Crystal Palace
+Naouirou Ahamada,29.0,fr FRA,AM,21-327,19,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Crystal Palace
+Jordan Ayew,9.0,gh GHA,AM,32-161,90,1,0,0,0,1,1,1,0,47,2,0,1,0.0,0.0,0.0,2,0,22,30,73.3,2,24,1,6,2,Crystal Palace
+Adam Wharton,20.0,eng ENG,CM,20-013,87,0,0,0,0,0,0,0,0,51,3,1,0,0.0,0.0,0.1,4,0,28,46,60.9,3,14,1,1,0,Crystal Palace
+David Ozoh,52.0,eng ENG,CM,18-264,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Crystal Palace
+Jefferson Lerma,8.0,co COL,CM,29-117,90,0,0,0,0,1,0,1,0,40,0,1,1,0.2,0.2,0.0,0,0,26,32,81.3,3,11,0,0,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,WB,24-171,90,0,0,0,0,1,1,0,0,70,4,1,4,0.1,0.1,0.0,1,0,27,47,57.4,2,13,0,1,1,Crystal Palace
+Daniel Muñoz,12.0,co COL,WB,27-269,90,0,0,0,0,0,0,0,0,54,1,0,0,0.0,0.0,0.2,2,0,30,43,69.8,1,22,0,0,0,Crystal Palace
+Chris Richards,26.0,us USA,CB,23-328,90,0,0,0,0,3,0,0,0,43,1,1,1,0.1,0.1,0.1,2,0,18,27,66.7,0,11,0,0,0,Crystal Palace
+Joachim Andersen,16.0,dk DEN,CB,27-264,90,0,0,0,0,0,0,0,0,51,2,0,1,0.0,0.0,0.0,1,0,25,37,67.6,2,18,0,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,CB,34-113,90,0,0,0,0,0,0,0,0,43,0,0,2,0.0,0.0,0.0,0,0,21,34,61.8,3,16,0,0,0,Crystal Palace
+Sam Johnstone,1.0,eng ENG,GK,30-331,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,1,9,36,25.0,0,17,0,0,0,Crystal Palace
+13 Players,,,,,990,1,1,0,0,10,3,2,0,509,15,4,10,0.7,0.7,0.7,16,2,232,374,62.0,21,182,5,16,5,Crystal Palace

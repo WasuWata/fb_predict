@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Raúl Jiménez,7.0,mx MEX,FW,32-134,61,0,0,0,0,1,0,0,0,20,0,0,0,0.1,0.1,0.0,0,0,10,13,76.9,0,12,0,0,0,Fulham
+Carlos Vinícius,30.0,br BRA,FW,28-175,29,1,0,0,0,1,1,0,0,13,1,0,1,0.3,0.3,0.0,1,0,5,8,62.5,0,5,0,0,0,Fulham
+Willian,20.0,br BRA,LW,35-038,89,0,0,0,0,2,0,0,0,58,2,2,1,0.1,0.1,0.1,4,0,39,45,86.7,7,43,6,5,1,Fulham
+Calvin Bassey,3.0,ng NGA,LW,23-259,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Fulham
+Harry Wilson,8.0,wls WAL,RW,26-178,80,0,0,0,0,2,1,0,0,50,0,0,0,0.1,0.1,0.1,3,0,40,45,88.9,2,37,0,0,0,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,RW,30-226,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,7,8,87.5,1,6,1,2,1,Fulham
+Andreas Pereira,18.0,br BRA,LM,27-258,80,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.3,5,1,33,48,68.8,6,29,0,0,0,Fulham
+Tom Cairney,10.0,sct SCO,LM,32-239,10,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,1,4,1,0,0,Fulham
+João Palhinha,26.0,pt POR,CM,28-069,90,0,0,0,0,3,0,0,0,96,5,1,2,0.1,0.1,0.0,2,0,73,82,89.0,6,55,0,0,0,Fulham
+Harrison Reed,6.0,eng ENG,RM,28-232,61,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,1,0,46,50,92.0,2,32,1,0,0,Fulham
+Alex Iwobi,22.0,ng NGA,RM,27-136,29,0,0,0,0,2,0,0,0,33,1,0,0,0.1,0.1,0.0,3,1,26,31,83.9,3,19,1,1,0,Fulham
+Timothy Castagne,21.0,be BEL,LB,27-285,90,0,0,0,0,1,0,1,0,85,4,2,1,0.0,0.0,0.0,2,0,65,72,90.3,4,46,1,1,1,Fulham
+Tim Ream,13.0,us USA,CB,35-346,90,0,0,0,0,0,0,0,0,155,3,0,0,0.0,0.0,0.0,1,0,140,148,94.6,13,115,3,1,0,Fulham
+Issa Diop,31.0,fr FRA,CB,26-250,90,0,0,0,0,0,0,1,0,167,1,0,1,0.0,0.0,0.0,1,0,157,164,95.7,13,137,1,0,0,Fulham
+Kenny Tete,2.0,nl NED,RB,27-342,90,0,0,0,0,1,0,0,0,113,0,2,0,0.2,0.2,0.0,1,0,92,105,87.6,10,77,4,4,1,Fulham
+Bernd Leno,17.0,de GER,GK,31-196,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,19,24,79.2,0,16,0,0,0,Fulham
+16 Players,,,,,990,1,0,0,0,13,2,2,0,947,17,7,6,1.0,1.0,0.5,25,2,765,858,89.2,68,634,19,14,4,Fulham
+Carlton Morris,9.0,eng ENG,FW,27-274,73,0,0,0,0,1,0,0,0,23,1,0,0,0.1,0.1,0.0,0,0,11,18,61.1,1,13,1,1,0,Luton Town
+Chiedozie Ogbene,7.0,ie IRL,"CM,FW",26-138,17,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,2,0,4,7,57.1,0,5,0,2,1,Luton Town
+Jacob Brown,19.0,sct SCO,FW,25-159,73,0,0,0,0,1,0,0,0,24,3,2,2,0.3,0.3,0.3,2,0,5,8,62.5,0,10,2,3,1,Luton Town
+Alfie Doughty,45.0,eng ENG,"LM,FW",23-269,17,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,3,8,37.5,0,1,1,0,0,Luton Town
+Tahith Chong,14.0,cw CUW,CM,23-286,73,0,0,0,0,1,1,1,0,18,1,0,0,0.1,0.1,0.0,0,0,8,12,66.7,1,9,1,0,0,Luton Town
+Elijah Adebayo,11.0,eng ENG,"FW,CM",25-252,17,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,2,0,4,4,100.0,0,4,0,0,0,Luton Town
+Marvelous Nakamba,13.0,zw ZIM,CM,29-240,90,0,0,0,0,0,0,0,0,30,6,1,2,0.0,0.0,0.0,0,0,17,20,85.0,0,11,0,0,0,Luton Town
+Albert Sambi Lokonga,28.0,be BEL,CM,23-329,73,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.1,2,0,18,25,72.0,1,20,0,2,0,Luton Town
+Pelly Ruddock Mpanzu,17.0,cd COD,"RM,CM",30-061,17,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,2,4,50.0,2,4,0,0,0,Luton Town
+Amari'i Bell,29.0,jm JAM,LB,29-134,90,0,0,0,0,1,1,0,0,29,3,1,2,0.2,0.2,0.0,0,0,8,14,57.1,0,12,0,0,0,Luton Town
+Mads Juel Andersen,5.0,dk DEN,CB,25-263,90,0,0,0,0,0,0,0,0,39,0,3,1,0.0,0.0,0.0,0,0,25,31,80.6,2,16,0,0,0,Luton Town
+Tom Lockyer,4.0,wls WAL,CB,28-287,90,0,0,0,0,1,0,0,0,38,2,2,0,0.2,0.2,0.0,1,0,20,30,66.7,3,23,0,1,1,Luton Town
+Reece Burke,16.0,eng ENG,CB,27-014,80,0,0,0,0,0,0,0,0,27,2,0,2,0.0,0.0,0.0,0,0,11,18,61.1,1,13,0,0,0,Luton Town
+Cauley Woodrow,10.0,eng ENG,FW,28-288,10,0,0,0,0,1,0,0,0,2,0,0,0,0.1,0.1,0.0,0,0,0,0,,0,2,0,0,0,Luton Town
+Issa Kaboré,12.0,bf BFA,RB,22-127,90,0,0,0,0,1,0,0,0,44,2,1,1,0.0,0.0,0.7,5,0,25,32,78.1,3,14,2,3,1,Luton Town
+Thomas Kaminski,24.0,be BEL,GK,30-328,90,0,0,0,0,0,0,1,0,30,0,0,0,0.0,0.0,0.0,0,0,15,29,51.7,0,13,0,0,0,Luton Town
+16 Players,,,,,990,0,0,0,0,7,2,2,0,366,20,11,11,1.1,1.1,1.1,14,0,176,260,67.7,14,170,7,12,4,Luton Town

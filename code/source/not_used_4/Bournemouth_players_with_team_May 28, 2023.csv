@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Solanke,9.0,eng ENG,FW,25-256,90,0,0,0,0,1,0,1,0,34,0,0,1,0.1,0.1,0.0,0,0,13,18,72.2,2,20,2,0,0,Bournemouth
+Dango Ouattara,11.0,bf BFA,"LW,RW",21-106,90,0,0,0,0,1,0,0,0,32,0,0,1,0.1,0.1,0.0,1,0,14,21,66.7,2,17,2,4,1,Bournemouth
+David Brooks,7.0,wls WAL,RW,25-324,55,0,0,0,0,1,0,0,0,40,0,1,1,0.0,0.0,0.1,5,0,19,28,67.9,7,25,4,6,2,Bournemouth
+Matías Viña,18.0,uy URU,LW,25-200,35,0,0,0,0,1,1,0,0,12,2,0,0,0.1,0.1,0.0,0,0,4,6,66.7,2,3,0,0,0,Bournemouth
+Ryan Christie,10.0,sct SCO,AM,28-095,64,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,0,0,22,26,84.6,4,26,1,6,1,Bournemouth
+Kieffer Moore,21.0,wls WAL,AM,30-293,26,0,0,0,0,1,0,0,0,12,0,0,1,0.1,0.1,0.1,1,0,6,8,75.0,0,6,0,0,0,Bournemouth
+Philip Billing,29.0,dk DEN,DM,26-351,90,0,0,0,0,0,0,0,0,73,3,0,0,0.0,0.0,0.0,1,0,51,62,82.3,3,43,0,3,2,Bournemouth
+Jefferson Lerma,8.0,co COL,DM,28-215,90,0,0,0,0,1,0,0,0,64,0,0,0,0.1,0.1,0.0,1,0,54,61,88.5,5,36,2,0,0,Bournemouth
+Lloyd Kelly,5.0,eng ENG,LB,24-234,90,0,0,0,0,0,0,0,0,95,0,3,1,0.0,0.0,0.1,2,0,65,83,78.3,5,52,3,0,0,Bournemouth
+Marcos Senesi,25.0,ar ARG,CB,26-018,90,0,0,0,0,1,0,1,0,101,1,1,0,0.1,0.1,0.0,0,0,82,92,89.1,5,66,0,0,0,Bournemouth
+Illia Zabarnyi,27.0,ua UKR,CB,20-269,90,0,0,0,0,0,0,0,0,84,2,1,2,0.0,0.0,0.0,0,0,67,73,91.8,3,55,0,0,0,Bournemouth
+Adam Smith,15.0,eng ENG,RB,32-029,82,0,0,0,0,0,0,1,0,52,2,0,0,0.0,0.0,0.1,1,0,34,45,75.6,2,25,1,0,0,Bournemouth
+Jaidon Anthony,32.0,eng ENG,RB,23-178,8,0,0,0,0,0,0,0,0,13,1,0,1,0.0,0.0,0.0,0,0,7,9,77.8,0,7,0,1,0,Bournemouth
+Mark Travers,1.0,ie IRL,GK,24-010,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,37,44,84.1,0,23,0,0,0,Bournemouth
+14 Players,,,,,990,0,0,0,0,7,1,3,0,700,12,6,8,0.5,0.5,0.3,12,0,475,576,82.5,40,404,15,20,6,Bournemouth

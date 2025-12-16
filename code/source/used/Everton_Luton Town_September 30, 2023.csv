@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Calvert-Lewin,9.0,eng ENG,FW,26-198,90,1,0,0,0,6,2,0,0,40,0,0,1,1.4,1.4,0.0,1,0,12,22,54.5,0,24,2,4,0,Everton
+Abdoulaye Doucouré,16.0,ml MLI,FW,30-272,59,0,0,0,0,1,1,0,0,51,0,0,2,0.4,0.4,0.2,5,1,36,41,87.8,4,27,4,1,1,Everton
+Beto,14.0,gw GNB,FW,25-242,31,0,0,0,0,4,0,0,0,14,0,0,0,0.4,0.4,0.0,0,0,3,4,75.0,1,8,0,1,1,Everton
+Dwight McNeil,7.0,eng ENG,LM,23-312,83,0,0,0,0,3,0,0,0,69,2,0,5,0.1,0.1,0.7,7,0,36,51,70.6,4,40,3,5,2,Everton
+Arnaut Danjuma,10.0,nl NED,LM,26-242,7,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,3,6,50.0,0,7,0,0,0,Everton
+Idrissa Gana Gueye,27.0,sn SEN,CM,34-004,45,0,0,0,0,1,0,0,0,50,2,0,0,0.1,0.1,0.0,0,0,36,43,83.7,1,35,0,1,1,Everton
+Jack Harrison,11.0,eng ENG,RM,26-314,45,0,0,0,0,0,0,0,0,24,2,1,1,0.0,0.0,0.2,2,0,10,16,62.5,1,14,4,1,0,Everton
+Amadou Onana,8.0,be BEL,CM,22-045,90,0,0,0,0,3,1,0,0,104,3,1,1,0.5,0.5,0.0,6,0,71,86,82.6,8,49,2,7,2,Everton
+James Garner,37.0,eng ENG,"CM,RM",22-201,90,0,0,0,0,4,0,0,0,57,0,0,2,0.7,0.7,0.6,6,0,33,47,70.2,6,37,0,2,0,Everton
+Vitaliy Mykolenko,19.0,ua UKR,LB,24-124,90,0,0,0,0,0,0,0,0,114,8,0,4,0.0,0.0,0.3,6,0,75,98,76.5,3,48,0,1,1,Everton
+Jarrad Branthwaite,32.0,eng ENG,CB,21-095,90,0,0,0,0,0,0,0,0,65,4,2,0,0.0,0.0,0.0,1,0,46,55,83.6,4,29,0,0,0,Everton
+James Tarkowski,6.0,eng ENG,CB,30-315,90,0,0,0,0,0,0,0,0,78,1,0,2,0.0,0.0,0.1,2,0,56,68,82.4,9,34,0,1,1,Everton
+Ashley Young,18.0,eng ENG,RB,38-083,77,0,0,0,0,1,0,0,0,59,1,1,2,0.0,0.0,0.0,4,0,42,51,82.4,6,28,3,2,0,Everton
+Nathan Patterson,2.0,sct SCO,RB,21-349,13,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.0,2,0,12,14,85.7,2,8,1,2,1,Everton
+Jordan Pickford,1.0,eng ENG,GK,29-207,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,31,47,66.0,0,30,0,0,0,Everton
+15 Players,,,,,990,1,0,0,0,23,4,0,0,801,23,5,22,3.7,3.7,2.2,42,1,502,649,77.3,49,418,19,28,10,Everton
+Carlton Morris,9.0,eng ENG,FW,27-288,77,1,0,0,0,3,1,0,0,31,0,0,0,0.3,0.3,0.0,4,2,10,17,58.8,2,10,0,3,0,Luton Town
+Elijah Adebayo,11.0,eng ENG,FW,25-266,13,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,1,0,Luton Town
+Chiedozie Ogbene,7.0,ie IRL,AM,26-152,90,0,0,0,0,1,0,0,0,32,2,0,0,0.0,0.0,0.0,2,0,11,19,57.9,0,13,5,6,2,Luton Town
+Jacob Brown,19.0,sct SCO,AM,25-173,90,0,0,0,0,1,0,0,0,51,0,1,2,0.0,0.0,0.0,0,0,13,34,38.2,2,22,1,2,0,Luton Town
+Marvelous Nakamba,13.0,zw ZIM,CM,29-254,90,0,0,0,0,1,0,0,0,45,6,2,2,0.0,0.0,0.0,2,0,23,31,74.2,5,15,0,3,1,Luton Town
+Pelly Ruddock Mpanzu,17.0,cd COD,CM,30-075,90,0,0,0,0,0,0,0,0,29,2,1,0,0.0,0.0,0.0,1,0,9,22,40.9,3,12,1,1,1,Luton Town
+Alfie Doughty,45.0,eng ENG,WB,23-283,82,0,1,0,0,0,0,0,0,50,1,1,1,0.0,0.0,0.5,6,1,23,40,57.5,3,16,0,0,0,Luton Town
+Cauley Woodrow,10.0,eng ENG,WB,28-302,8,0,0,0,0,0,0,0,0,8,2,0,0,0.0,0.0,0.0,0,0,0,5,0.0,0,2,0,1,1,Luton Town
+Issa Kaboré,12.0,bf BFA,WB,22-141,90,0,0,0,0,0,0,1,0,66,5,2,3,0.0,0.0,0.0,0,0,24,44,54.5,3,17,1,1,0,Luton Town
+Amari'i Bell,29.0,jm JAM,CB,29-148,90,0,0,0,0,0,0,0,0,24,3,0,2,0.0,0.0,0.0,1,0,8,17,47.1,1,10,0,1,0,Luton Town
+Tom Lockyer,4.0,wls WAL,CB,28-301,55,1,0,0,0,2,1,0,0,22,0,0,3,0.5,0.5,0.0,0,0,9,14,64.3,0,9,0,0,0,Luton Town
+Teden Mengi,15.0,eng ENG,CB,21-153,35,0,0,0,0,0,0,0,0,12,2,1,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0,Luton Town
+Reece Burke,16.0,eng ENG,CB,27-028,45,0,0,0,0,0,0,0,0,22,1,2,2,0.0,0.0,0.0,0,0,5,15,33.3,1,4,0,0,0,Luton Town
+Mads Juel Andersen,5.0,dk DEN,CB,25-277,45,0,0,0,0,1,0,0,0,31,0,0,2,0.1,0.1,0.0,0,0,12,17,70.6,0,7,0,1,0,Luton Town
+Thomas Kaminski,24.0,be BEL,GK,30-342,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,21,41,51.2,0,17,0,0,0,Luton Town
+15 Players,,,,,990,2,1,0,0,9,2,1,0,474,24,10,17,0.9,0.9,0.5,16,3,172,321,53.6,20,158,8,20,5,Luton Town

@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Evanilson,9.0,br BRA,FW,25-071,79,0,0,0,0,2,1,0,0,22,0,0,0,0.2,0.2,0.1,3,0,11,13,84.6,2,13,1,0,0,Bournemouth
+Enes Ünal,26.0,tr TUR,FW,27-220,11,1,0,0,0,2,1,0,0,6,0,0,0,0.1,0.1,0.0,1,1,1,3,33.3,0,3,0,0,0,Bournemouth
+Dango Ouattara,11.0,bf BFA,LW,22-309,90,0,0,0,0,5,2,0,0,56,4,1,2,0.4,0.4,0.4,5,0,25,37,67.6,5,23,3,1,0,Bournemouth
+Antoine Semenyo,24.0,gh GHA,RW,24-344,67,0,0,0,0,5,2,0,0,37,0,0,1,0.4,0.4,0.0,4,0,17,24,70.8,4,23,6,3,1,Bournemouth
+David Brooks,7.0,wls WAL,RW,27-161,23,0,0,0,0,2,0,0,0,17,0,0,0,0.1,0.1,0.0,2,0,7,13,53.8,1,10,1,2,1,Bournemouth
+Justin Kluivert,19.0,nl NED,AM,25-225,79,0,0,0,0,3,1,0,0,36,0,2,0,0.1,0.1,0.0,3,0,22,29,75.9,3,21,2,0,0,Bournemouth
+Philip Billing,29.0,dk DEN,AM,28-188,11,0,0,0,0,1,0,0,0,9,0,1,1,0.3,0.3,0.1,5,0,4,6,66.7,2,4,0,0,0,Bournemouth
+Lewis Cook,4.0,eng ENG,"DM,RB",27-317,90,0,0,0,0,0,0,0,0,70,4,2,0,0.0,0.0,0.1,5,0,40,58,69.0,7,15,3,0,0,Bournemouth
+Ryan Christie,10.0,sct SCO,DM,29-298,90,0,0,0,0,6,2,0,0,77,3,1,0,0.2,0.2,0.4,13,0,44,57,77.2,12,39,2,4,1,Bournemouth
+Milos Kerkez,3.0,hu HUN,LB,21-039,90,0,0,0,0,1,0,0,0,50,0,0,1,0.0,0.0,0.1,5,0,31,42,73.8,5,22,1,0,0,Bournemouth
+Dean Huijsen,2.0,es ESP,CB,19-246,90,0,0,0,0,0,0,0,0,76,0,2,2,0.0,0.0,0.0,3,1,49,65,75.4,2,34,0,0,0,Bournemouth
+Illia Zabarnyi,27.0,ua UKR,CB,22-106,90,0,0,0,0,1,0,0,0,63,1,0,3,0.1,0.1,0.0,0,0,41,54,75.9,2,37,1,0,0,Bournemouth
+Adam Smith,15.0,eng ENG,RB,33-231,67,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,21,29,72.4,2,16,2,0,0,Bournemouth
+Tyler Adams,12.0,us USA,DM,25-306,23,0,0,0,0,1,0,0,0,28,1,1,0,0.0,0.0,0.0,1,0,21,22,95.5,3,14,0,1,0,Bournemouth
+Kepa Arrizabalaga,13.0,es ESP,GK,30-074,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,28,39,71.8,0,25,0,0,0,Bournemouth
+15 Players,,,,,990,1,0,0,0,29,9,0,0,622,13,10,10,2.0,2.0,1.2,50,2,362,491,73.7,50,299,22,11,3,Bournemouth
+Jarrod Bowen,20.0,eng ENG,"FW,RM",27-362,90,0,0,0,0,3,1,0,0,38,0,1,1,0.3,0.3,0.3,3,0,22,30,73.3,3,23,3,3,1,West Ham United
+Mohammed Kudus,14.0,gh GHA,LM,24-136,74,0,0,0,0,1,0,0,0,47,1,0,1,0.1,0.1,0.2,6,0,27,34,79.4,6,31,3,9,3,West Ham United
+Oliver Scarles,57.0,eng ENG,LB,19-004,16,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,6,12,50.0,1,5,0,0,0,West Ham United
+Carlos Soler,4.0,es ESP,CM,27-349,55,0,0,0,0,1,0,1,0,43,0,0,2,0.0,0.0,0.2,4,0,30,37,81.1,1,21,2,0,0,West Ham United
+Niclas Füllkrug,11.0,de GER,FW,31-311,35,0,0,0,0,1,0,0,0,15,1,0,0,0.1,0.1,0.2,2,0,7,9,77.8,1,6,1,1,0,West Ham United
+Tomáš Souček,28.0,cz CZE,CM,29-293,90,0,0,0,0,1,0,0,0,42,1,2,1,0.0,0.0,0.0,0,0,18,32,56.3,2,16,0,1,1,West Ham United
+Lucas Paquetá,10.0,br BRA,"RM,CM",27-111,90,1,0,1,1,2,0,0,0,50,0,1,0,0.9,0.1,0.2,4,0,29,41,70.7,4,26,0,0,0,West Ham United
+Edson Álvarez,19.0,mx MEX,DM,27-053,74,0,0,0,0,1,0,1,0,46,0,0,1,0.0,0.0,0.0,1,0,32,42,76.2,4,24,2,2,2,West Ham United
+Crysencio Summerville,7.0,nl NED,LM,23-047,16,0,0,0,0,0,0,0,0,7,1,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,0,0,West Ham United
+Aaron Wan-Bissaka,29.0,cd COD,"LB,RB",27-020,89,0,0,0,0,0,0,0,0,50,1,3,0,0.0,0.0,0.0,4,0,35,43,81.4,2,23,6,2,1,West Ham United
+Kaelan Casey,42.0,eng ENG,CB,20-049,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,West Ham United
+Max Kilman,26.0,eng ENG,CB,27-207,90,0,0,0,0,2,1,0,0,62,3,0,5,0.4,0.4,0.0,1,0,34,43,79.1,4,25,0,0,0,West Ham United
+Konstantinos Mavropanos,15.0,gr GRE,CB,27-005,90,0,0,0,0,1,0,0,0,61,1,1,2,0.0,0.0,0.0,1,0,40,51,78.4,2,34,0,1,0,West Ham United
+Vladimír Coufal,5.0,cz CZE,"RB,CB",32-116,90,0,0,0,0,2,0,0,0,58,2,0,2,0.1,0.1,0.1,1,0,25,43,58.1,4,18,2,2,2,West Ham United
+Łukasz Fabiański,1.0,pl POL,GK,39-242,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,19,41,46.3,0,29,0,0,0,West Ham United
+15 Players,,,,,990,1,0,1,1,15,2,2,0,579,12,8,16,2.1,1.3,1.2,27,0,326,461,70.7,34,285,19,21,10,West Ham United

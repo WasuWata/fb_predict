@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Teemu Pukki,22.0,fi FIN,FW,31-152,72,1,0,1,1,1,1,0,0,15,0,0,0,0.9,0.1,0.1,1,0,7,12,58.3,1,8,0,0,0,Leicester City
+Josh Sargent,24.0,us USA,FW,21-189,18,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.1,1,0,4,6,66.7,0,5,0,0,0,Leicester City
+Milot Rashica,17.0,xk KVX,"LW,LM",25-061,90,0,0,0,0,1,0,0,0,53,1,3,0,0.0,0.0,0.0,3,0,22,39,56.4,1,25,4,5,1,Leicester City
+Todd Cantwell,14.0,eng ENG,"RW,RM",23-182,90,0,0,0,0,3,0,1,0,46,4,1,0,0.1,0.1,0.0,2,1,29,34,85.3,2,26,0,3,2,Leicester City
+Kenny McLean,23.0,sct SCO,"LM,CM",29-232,90,0,0,0,0,1,1,0,0,47,0,1,0,0.0,0.0,0.0,0,0,27,37,73.0,1,32,1,1,1,Leicester City
+Billy Gilmour,8.0,sct SCO,CM,20-078,78,0,0,0,0,1,0,0,0,43,2,1,0,0.1,0.1,0.0,2,0,28,35,80.0,4,26,2,0,0,Leicester City
+Adam Idah,35.0,ie IRL,FW,20-198,12,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,0,5,0,1,0,Leicester City
+Pierre Lees-Melou,20.0,fr FRA,RM,28-095,72,0,0,0,0,2,1,1,0,28,0,0,1,0.1,0.1,0.0,3,1,16,22,72.7,5,18,1,1,0,Leicester City
+Lukas Rupp,7.0,de GER,"CM,RM",30-232,18,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.1,1,0,8,8,100.0,2,7,0,1,1,Leicester City
+Brandon Williams,21.0,eng ENG,LB,20-359,90,0,0,0,0,0,0,0,0,63,4,4,1,0.0,0.0,0.0,3,0,42,49,85.7,4,35,1,1,0,Leicester City
+Ben Gibson,4.0,eng ENG,CB,28-225,90,0,0,0,0,0,0,0,0,65,1,4,2,0.0,0.0,0.0,0,0,38,52,73.1,1,42,0,0,0,Leicester City
+Grant Hanley,5.0,sct SCO,CB,29-281,90,0,0,0,0,0,0,0,0,47,1,0,0,0.0,0.0,0.0,0,0,31,40,77.5,2,25,0,0,0,Leicester City
+Max Aarons,2.0,eng ENG,RB,21-236,90,0,0,0,0,1,0,0,0,63,5,1,2,0.0,0.0,0.2,6,0,31,46,67.4,3,31,4,1,1,Leicester City
+Tim Krul,1.0,nl NED,GK,33-147,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,25,37,67.6,0,21,0,0,0,Leicester City
+14 Players,,,,,990,1,0,1,1,13,3,2,0,533,18,15,6,1.5,0.7,0.5,22,2,311,421,73.9,26,306,13,14,6,Leicester City

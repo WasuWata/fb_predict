@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Darwin Núñez,9.0,uy URU,FW,24-238,45,1,0,0,0,1,1,0,0,18,0,0,0,0.6,0.6,0.0,0,0,9,15,60.0,1,14,2,1,0,Liverpool
+Cody Gakpo,18.0,nl NED,FW,24-286,45,1,1,0,0,2,1,0,0,23,1,0,1,0.6,0.6,0.1,1,1,12,16,75.0,3,17,1,0,0,Liverpool
+Luis Díaz,7.0,co COL,LW,27-035,90,0,1,0,0,2,0,0,0,62,0,0,0,0.1,0.1,0.7,8,1,48,53,90.6,4,50,4,5,4,Liverpool
+Diogo Jota,20.0,pt POR,RW,27-075,43,0,1,0,0,2,2,0,0,28,1,0,2,0.3,0.3,0.6,1,1,11,17,64.7,0,18,1,1,0,Liverpool
+Mohamed Salah,11.0,eg EGY,RW,31-247,47,1,1,0,0,2,1,0,0,30,0,0,1,0.5,0.5,0.4,3,2,21,23,91.3,2,27,5,2,2,Liverpool
+Curtis Jones,17.0,eng ENG,LM,23-018,33,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,19,20,95.0,2,17,1,0,0,Liverpool
+Ryan Gravenberch,38.0,nl NED,LM,21-277,57,0,0,0,0,0,0,0,0,46,3,0,0,0.0,0.0,0.0,1,0,31,38,81.6,5,29,4,3,2,Liverpool
+Wataru Endo,3.0,jp JPN,CM,31-008,90,0,0,0,0,1,0,1,0,88,1,1,0,0.0,0.0,0.0,0,0,69,80,86.3,2,57,2,0,0,Liverpool
+Alexis Mac Allister,10.0,ar ARG,RM,25-055,82,1,0,0,0,1,1,0,0,72,1,0,2,0.3,0.3,0.1,2,1,52,63,82.5,3,47,1,2,1,Liverpool
+Harvey Elliott,19.0,eng ENG,RM,20-319,8,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,0,0,6,7,85.7,2,6,0,1,1,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,29-343,90,0,0,0,0,0,0,0,0,94,4,1,0,0.0,0.0,0.1,2,0,71,87,81.6,6,59,4,1,1,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,32-224,90,0,0,0,0,1,0,0,0,79,0,1,2,0.1,0.1,0.4,3,1,62,69,89.9,6,49,1,0,0,Liverpool
+Ibrahima Konaté,5.0,fr FRA,CB,24-268,90,0,0,0,0,0,0,0,0,52,0,4,1,0.0,0.0,0.0,1,0,33,45,73.3,2,35,0,0,0,Liverpool
+Conor Bradley,84.0,nir NIR,RB,20-223,82,0,0,0,0,2,1,0,0,75,1,1,0,0.2,0.2,0.0,2,0,57,70,81.4,3,53,5,2,1,Liverpool
+Joe Gomez,2.0,eng ENG,RB,26-270,8,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,1,9,9,100.0,0,6,0,0,0,Liverpool
+Caoimhín Kelleher,62.0,ie IRL,GK,25-086,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,18,39,46.2,0,28,0,0,0,Liverpool
+16 Players,,,,,990,4,4,0,0,15,8,1,0,747,12,8,9,2.9,2.9,2.4,26,8,528,651,81.1,41,512,31,18,12,Liverpool

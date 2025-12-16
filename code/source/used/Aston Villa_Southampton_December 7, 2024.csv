@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jáder Durán,9.0,co COL,FW,20-360,57,1,0,0,0,3,2,0,0,20,2,0,0,0.6,0.6,0.0,3,1,11,15,73.3,1,9,1,1,0,Aston Villa
+Ollie Watkins,11.0,eng ENG,FW,28-343,33,0,0,0,0,4,0,0,0,13,1,0,0,0.4,0.4,0.5,3,0,4,7,57.1,0,11,3,0,0,Aston Villa
+Morgan Rogers,27.0,eng ENG,LW,22-134,90,0,0,0,0,3,0,1,0,42,2,0,0,0.2,0.2,0.3,5,0,22,28,78.6,6,25,4,4,1,Aston Villa
+Leon Bailey,31.0,jm JAM,RW,27-120,58,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,17,21,81.0,1,18,2,4,0,Aston Villa
+Jaden Philogene Bidace,19.0,eng ENG,RW,22-303,32,0,0,0,0,1,0,0,0,28,1,0,1,0.0,0.0,0.0,2,0,14,20,70.0,1,13,3,3,1,Aston Villa
+John McGinn,7.0,sct SCO,AM,30-050,90,0,0,0,0,3,2,0,0,41,1,0,0,0.4,0.4,0.2,5,0,24,30,80.0,7,27,2,2,0,Aston Villa
+Youri Tielemans,8.0,be BEL,DM,27-214,58,0,0,0,0,0,0,0,0,49,4,0,0,0.0,0.0,0.2,1,0,36,41,87.8,4,27,0,1,0,Aston Villa
+Ross Barkley,6.0,eng ENG,DM,31-002,32,0,0,0,0,1,0,0,0,20,2,0,0,0.5,0.5,0.3,2,0,14,16,87.5,2,10,0,0,0,Aston Villa
+Boubacar Kamara,44.0,fr FRA,DM,25-014,90,0,0,0,0,0,0,0,0,52,2,4,1,0.0,0.0,0.1,2,0,41,45,91.1,4,19,2,2,0,Aston Villa
+Ian Maatsen,22.0,nl NED,LB,22-272,57,0,0,0,0,1,0,0,0,40,5,2,0,0.0,0.0,0.1,1,0,25,32,78.1,3,25,2,1,0,Aston Villa
+Lucas Digne,12.0,fr FRA,LB,31-140,33,0,0,0,0,0,0,0,0,25,2,2,0,0.0,0.0,0.2,4,0,14,24,58.3,2,7,1,0,0,Aston Villa
+Pau Torres,14.0,es ESP,CB,27-326,90,0,0,0,0,1,0,0,0,54,2,0,0,0.0,0.0,0.0,0,0,46,49,93.9,2,30,0,1,1,Aston Villa
+Diego Carlos,3.0,br BRA,CB,31-267,90,0,0,0,0,1,0,0,0,58,1,0,3,0.1,0.1,0.0,0,0,43,51,84.3,0,23,0,0,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,RB,27-045,90,0,0,0,0,0,0,0,0,64,2,0,1,0.0,0.0,0.0,2,1,49,55,89.1,1,26,1,2,2,Aston Villa
+Emiliano Martínez,23.0,ar ARG,GK,32-096,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,23,28,82.1,0,18,0,0,0,Aston Villa
+15 Players,,,,,990,1,0,0,0,18,4,1,0,562,27,8,6,2.3,2.3,1.7,31,2,383,462,82.9,34,288,21,21,5,Aston Villa
+Cameron Archer,19.0,eng ENG,FW,23-139,72,0,0,0,0,2,0,0,0,22,0,0,1,0.2,0.2,0.0,2,0,10,14,71.4,0,9,1,3,1,Southampton
+Samuel Amo-Ameyaw,27.0,eng ENG,"RW,FW",18-142,18,0,0,0,0,0,0,1,0,10,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,1,4,0,Southampton
+Adam Armstrong,9.0,eng ENG,"FW,LW,LB",27-301,90,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.1,1,0,13,16,81.3,2,12,0,0,0,Southampton
+Mateus Fernandes,18.0,pt POR,"CM,LM",20-150,90,0,0,0,0,1,0,0,0,50,0,1,2,0.1,0.1,0.0,2,0,31,38,81.6,4,25,2,4,1,Southampton
+Flynn Downes,4.0,eng ENG,CM,25-322,78,0,0,0,0,0,0,1,0,50,2,3,0,0.0,0.0,0.0,0,0,36,40,90.0,2,20,2,2,0,Southampton
+Ben Brereton,17.0,cl CHI,"LW,FW",25-233,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,2,0,0,0,Southampton
+Tyler Dibling,33.0,eng ENG,"CM,RW,RM",18-270,90,0,0,0,0,0,0,0,0,49,2,0,2,0.0,0.0,0.1,1,0,28,37,75.7,3,31,6,5,1,Southampton
+Ryan Manning,3.0,ie IRL,LB,28-176,89,0,0,0,0,1,0,0,0,57,2,2,0,0.1,0.1,0.0,1,0,44,49,89.8,0,25,1,2,0,Southampton
+Kamaldeen Sulemana,20.0,gh GHA,LW,22-296,1,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Southampton
+Kyle Walker-Peters,2.0,eng ENG,"RB,CB",27-238,90,0,0,0,0,0,0,0,0,63,0,1,1,0.0,0.0,0.1,1,0,56,57,98.2,7,46,6,2,1,Southampton
+Nathan Wood-Gordon,15.0,eng ENG,CB,22-190,90,0,0,0,0,0,0,1,0,85,1,1,4,0.0,0.0,0.0,0,0,71,74,95.9,2,52,1,0,0,Southampton
+Taylor Harwood-Bellis,6.0,eng ENG,CB,22-312,90,0,0,0,0,0,0,0,0,103,1,2,4,0.0,0.0,0.0,0,0,83,91,91.2,8,55,1,0,0,Southampton
+James Bree,14.0,eng ENG,RB,27-057,45,0,0,0,0,0,0,0,0,43,3,1,0,0.0,0.0,0.0,0,0,33,37,89.2,1,22,0,1,0,Southampton
+Joe Aribo,7.0,ng NGA,"RM,LM",28-139,45,0,0,0,0,0,0,0,0,32,2,1,1,0.0,0.0,0.0,0,0,19,22,86.4,2,18,1,4,0,Southampton
+Joe Lumley,13.0,eng ENG,GK,29-296,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,24,38,63.2,0,22,0,0,0,Southampton
+15 Players,,,,,990,0,0,0,0,4,0,3,0,635,15,12,16,0.3,0.3,0.2,8,0,456,524,87.0,32,345,22,27,4,Southampton

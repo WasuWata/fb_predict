@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Carlos Alcaraz,26.0,ar ARG,"FW,AM,CM",20-148,90,0,0,0,0,1,0,0,0,33,0,0,0,0.1,0.1,0.0,0,0,18,24,75.0,4,22,1,2,1,Southampton
+Theo Walcott,32.0,eng ENG,"FW,AM",34-042,60,0,0,0,0,3,1,0,0,21,0,1,1,0.2,0.2,0.0,0,0,7,10,70.0,1,12,1,3,1,Southampton
+Che Adams,10.0,sct SCO,"FW,AM",26-288,30,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,14,16,87.5,2,11,0,0,0,Southampton
+Adam Armstrong,9.0,eng ENG,"LM,FW",26-076,75,0,0,0,0,3,1,0,0,27,1,0,0,0.2,0.2,0.0,4,0,13,16,81.3,1,15,1,8,4,Southampton
+Kamaldeen Sulemana,20.0,gh GHA,CM,21-071,15,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,5,1,0,0,Southampton
+Roméo Lavia,45.0,be BEL,CM,19-111,90,0,0,0,0,1,0,0,0,53,3,1,4,0.1,0.1,0.1,2,0,35,40,87.5,4,33,1,2,1,Southampton
+James Ward-Prowse,8.0,eng ENG,CM,28-177,45,0,0,0,0,0,0,0,0,42,0,3,0,0.0,0.0,0.0,2,0,33,39,84.6,2,28,0,0,0,Southampton
+Lyanco,4.0,br BRA,CB,26-085,45,0,0,0,0,0,0,0,0,45,0,0,3,0.0,0.0,0.0,2,0,32,40,80.0,5,31,2,2,2,Southampton
+Mohamed Elyounoussi,24.0,no NOR,"RM,WB",28-266,60,0,0,0,0,0,0,0,0,34,3,1,1,0.0,0.0,0.1,1,0,17,24,70.8,1,17,1,2,1,Southampton
+Stuart Armstrong,17.0,sct SCO,AM,31-028,30,0,0,0,0,0,0,0,0,40,3,1,0,0.0,0.0,0.0,2,0,23,37,62.2,6,21,4,2,2,Southampton
+Romain Perraud,15.0,fr FRA,LB,25-217,35,0,0,0,0,1,0,0,0,23,3,1,0,0.0,0.0,0.0,0,0,11,16,68.8,2,12,1,0,0,Southampton
+Ainsley Maitland-Niles,3.0,eng ENG,"WB,CM,RB",25-241,55,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,2,0,34,42,81.0,5,27,1,2,2,Southampton
+Duje Ćaleta-Car,6.0,hr CRO,CB,26-222,90,0,0,0,0,1,0,0,0,90,2,0,4,0.0,0.0,0.0,1,0,65,79,82.3,5,62,2,2,2,Southampton
+Jan Bednarek,35.0,pl POL,CB,27-015,90,0,0,0,0,0,0,0,0,70,1,4,2,0.0,0.0,0.0,1,0,49,57,86.0,1,41,0,0,0,Southampton
+Kyle Walker-Peters,2.0,eng ENG,"WB,RB,LB",26-014,90,0,0,0,0,1,0,0,0,81,3,1,2,0.0,0.0,0.1,3,0,51,65,78.5,9,37,3,3,1,Southampton
+Alex McCarthy,1.0,eng ENG,GK,33-145,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,35,46,76.1,0,32,0,0,0,Southampton
+16 Players,,,,,990,0,0,0,0,11,2,0,0,678,19,13,17,0.5,0.5,0.3,21,0,442,557,79.4,49,406,19,28,17,Southampton
+Dominic Solanke,9.0,eng ENG,FW,25-225,89,0,1,0,0,2,0,0,0,35,0,0,2,0.1,0.1,0.2,3,1,9,17,52.9,2,23,4,4,3,Bournemouth
+Kieffer Moore,21.0,wls WAL,FW,30-262,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,Bournemouth
+Ryan Christie,10.0,sct SCO,AM,28-064,90,0,0,0,0,4,0,0,0,51,2,0,0,0.2,0.2,0.2,6,0,26,34,76.5,4,22,1,6,4,Bournemouth
+Philip Billing,29.0,dk DEN,AM,26-320,89,0,0,0,0,3,0,0,0,51,1,1,0,0.2,0.2,0.0,3,0,29,39,74.4,3,20,1,1,1,Bournemouth
+Dango Ouattara,11.0,bf BFA,AM,21-075,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Bournemouth
+Jefferson Lerma,8.0,co COL,CM,28-184,90,0,0,0,0,1,0,1,0,57,2,3,0,0.0,0.0,0.0,2,1,38,49,77.6,6,24,0,0,0,Bournemouth
+Joe Rothwell,14.0,eng ENG,CM,28-106,90,0,0,0,0,1,1,0,0,64,5,2,4,0.0,0.0,0.0,4,0,44,52,84.6,3,25,2,2,2,Bournemouth
+Matías Viña,18.0,uy URU,WB,25-169,90,0,0,0,0,2,0,1,0,51,2,0,3,0.1,0.1,0.1,1,0,18,29,62.1,2,17,2,3,1,Bournemouth
+Marcus Tavernier,16.0,eng ENG,WB,24-036,77,1,0,0,0,3,1,0,0,54,1,0,2,0.3,0.3,0.1,5,0,30,42,71.4,8,30,7,9,6,Bournemouth
+Adam Smith,15.0,eng ENG,WB,31-363,13,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Bournemouth
+Lloyd Kelly,5.0,eng ENG,CB,24-203,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,1,0,29,38,76.3,5,27,2,0,0,Bournemouth
+Marcos Senesi,25.0,ar ARG,CB,25-352,67,0,0,0,0,0,0,1,0,49,0,0,1,0.0,0.0,0.0,1,0,39,44,88.6,1,31,0,0,0,Bournemouth
+Illia Zabarnyi,27.0,ua UKR,CB,20-238,23,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,4,0,0,0,Bournemouth
+Chris Mepham,6.0,wls WAL,CB,25-173,90,0,0,0,0,0,0,0,0,59,7,0,0,0.0,0.0,0.0,0,0,40,45,88.9,2,20,0,2,0,Bournemouth
+Neto,13.0,br BRA,GK,33-282,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,21,29,72.4,0,13,0,0,0,Bournemouth
+15 Players,,,,,990,1,1,0,0,16,2,3,0,566,21,6,12,1.0,1.0,0.7,26,2,328,427,76.8,37,257,19,27,17,Bournemouth

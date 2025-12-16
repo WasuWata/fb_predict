@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Christopher Nkunku,18.0,fr FRA,FW,26-082,71,0,0,0,0,2,1,0,0,23,0,1,1,0.5,0.5,0.0,3,0,12,13,92.3,2,12,2,2,1,Chelsea
+Carney Chukwuemeka,17.0,eng ENG,"AM,FW",20-107,19,0,0,0,0,1,1,0,0,16,0,0,0,0.0,0.0,0.0,0,0,12,13,92.3,3,14,1,1,0,Chelsea
+Raheem Sterling,7.0,eng ENG,LW,29-058,71,0,0,0,0,2,0,0,0,30,0,0,0,0.2,0.2,0.0,0,0,20,23,87.0,5,24,1,2,1,Chelsea
+Mykhailo Mudryk,10.0,ua UKR,LW,23-030,19,0,1,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,1,1,16,26,61.5,5,19,4,2,0,Chelsea
+Cole Palmer,20.0,eng ENG,RW,21-274,90,1,0,0,0,4,1,0,0,60,0,0,0,0.5,0.5,0.0,4,0,37,51,72.5,6,46,4,7,3,Chelsea
+Conor Gallagher,23.0,eng ENG,"AM,DM",23-363,90,0,0,0,0,2,0,0,0,80,1,1,2,0.2,0.2,0.1,4,1,62,67,92.5,9,60,1,1,1,Chelsea
+Enzo Fernández,8.0,ar ARG,DM,23-018,90,0,0,0,0,1,0,0,0,98,5,1,1,0.0,0.0,0.3,5,0,77,87,88.5,11,74,3,1,1,Chelsea
+Moisés Caicedo,25.0,ec ECU,DM,22-094,62,0,1,0,0,0,0,1,0,59,0,0,3,0.0,0.0,0.4,2,1,47,53,88.7,4,44,0,1,0,Chelsea
+Nicolas Jackson,15.0,sn SEN,"DM,FW",22-229,28,0,0,0,0,1,0,0,0,11,0,0,0,0.2,0.2,0.0,0,0,8,10,80.0,0,7,0,0,0,Chelsea
+Ben Chilwell,21.0,eng ENG,LB,27-045,80,0,0,0,0,0,0,1,0,73,5,1,2,0.0,0.0,0.3,3,0,48,63,76.2,4,47,2,0,0,Chelsea
+Benoît Badiashile,5.0,fr FRA,LB,22-315,10,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,1,20,24,83.3,4,19,1,0,0,Chelsea
+Thiago Silva,6.0,br BRA,CB,39-135,90,1,0,0,0,2,1,0,0,97,1,2,1,0.1,0.1,0.0,0,0,83,88,94.3,5,74,1,0,0,Chelsea
+Axel Disasi,2.0,fr FRA,CB,25-330,90,0,0,0,0,0,0,0,0,87,0,0,0,0.0,0.0,0.0,0,0,72,82,87.8,4,70,2,5,5,Chelsea
+Malo Gusto,27.0,fr FRA,RB,20-261,80,0,0,0,0,0,0,1,0,67,0,1,2,0.0,0.0,0.2,2,0,50,57,87.7,2,47,0,3,0,Chelsea
+Alfie Gilchrist,42.0,eng ENG,RB,20-068,10,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,10,12,83.3,0,9,1,0,0,Chelsea
+Đorđe Petrović,28.0,rs SRB,GK,24-119,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,23,24,95.8,0,19,0,0,0,Chelsea
+16 Players,,,,,990,2,2,0,0,15,4,3,0,794,13,7,12,1.7,1.7,1.3,26,4,597,693,86.1,64,585,23,25,12,Chelsea
+Pedro Neto,7.0,pt POR,FW,23-332,71,0,1,0,0,4,2,1,0,33,0,0,1,0.3,0.3,0.3,4,1,20,22,90.9,0,19,5,4,1,Wolverhampton Wanderers
+Jean-Ricner Bellegarde,27.0,ht HAI,FW,25-222,19,0,0,0,0,1,1,0,0,18,0,1,2,0.2,0.2,0.0,0,0,9,9,100.0,2,9,0,2,0,Wolverhampton Wanderers
+Matheus Cunha,12.0,br BRA,AM,24-253,90,3,0,1,1,4,3,0,0,47,0,0,1,1.2,0.4,0.1,5,2,26,32,81.3,1,40,9,6,2,Wolverhampton Wanderers
+Pablo Sarabia,21.0,es ESP,AM,31-269,71,0,0,0,0,2,0,0,0,35,0,0,1,0.2,0.2,0.1,4,0,20,32,62.5,0,26,1,0,0,Wolverhampton Wanderers
+Tommy Doyle,20.0,eng ENG,AM,22-110,19,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,7,0,0,0,Wolverhampton Wanderers
+João Gomes,8.0,br BRA,CM,22-357,89,0,1,0,0,0,0,0,0,36,6,2,4,0.0,0.0,0.1,1,1,18,22,81.8,1,15,0,0,0,Wolverhampton Wanderers
+Matt Doherty,2.0,ie IRL,CM,32-019,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Wolverhampton Wanderers
+Mario Lemina,5.0,ga GAB,CM,30-156,90,0,0,0,0,0,0,0,0,44,2,0,2,0.0,0.0,0.1,1,0,31,36,86.1,1,21,0,0,0,Wolverhampton Wanderers
+Rayan Aït-Nouri,3.0,dz ALG,WB,22-243,86,0,0,0,0,1,0,0,0,49,4,1,2,0.1,0.1,0.0,1,0,25,32,78.1,3,27,1,3,1,Wolverhampton Wanderers
+Hugo Bueno,17.0,es ESP,WB,21-139,4,0,0,0,0,0,0,0,0,8,2,1,0,0.0,0.0,0.0,1,0,5,6,83.3,0,5,0,0,0,Wolverhampton Wanderers
+Nélson Semedo,22.0,pt POR,WB,30-080,90,0,0,0,0,1,0,1,0,57,1,2,1,0.0,0.0,0.0,4,0,36,45,80.0,4,29,0,4,1,Wolverhampton Wanderers
+Toti Gomes,24.0,pt POR,CB,25-019,90,0,0,0,0,0,0,0,0,55,1,0,3,0.0,0.0,0.0,1,0,36,46,78.3,1,34,1,3,3,Wolverhampton Wanderers
+Craig Dawson,15.0,eng ENG,CB,33-274,90,0,0,0,0,0,0,0,0,37,2,0,2,0.0,0.0,0.0,0,0,24,25,96.0,0,23,0,0,0,Wolverhampton Wanderers
+Max Kilman,23.0,eng ENG,CB,26-257,90,0,0,0,0,0,0,0,0,46,0,1,1,0.0,0.0,0.0,0,0,30,39,76.9,0,33,0,0,0,Wolverhampton Wanderers
+José Sá,1.0,pt POR,GK,31-018,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,17,32,53.1,0,15,0,0,0,Wolverhampton Wanderers
+15 Players,,,,,990,3,2,1,1,13,6,2,0,512,18,8,20,2.0,1.2,0.7,22,4,305,386,79.0,13,303,17,22,8,Wolverhampton Wanderers

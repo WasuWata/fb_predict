@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ollie Watkins,11.0,eng ENG,FW,27-116,90,0,0,0,0,4,1,0,0,27,1,0,1,0.3,0.3,0.0,1,1,7,15,46.7,0,13,1,3,0,Aston Villa
+Jacob Ramsey,41.0,eng ENG,LW,21-332,76,0,0,0,0,1,0,0,0,28,2,0,1,0.0,0.0,0.2,2,0,13,16,81.3,3,15,1,2,1,Aston Villa
+Bertrand Traoré,9.0,bf BFA,LW,27-231,14,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,1,0,0,Aston Villa
+John McGinn,7.0,sct SCO,RW,28-189,90,0,1,0,0,2,1,0,0,35,1,0,0,0.1,0.1,0.4,4,1,18,24,75.0,2,20,1,6,2,Aston Villa
+Emi Buendía,10.0,ar ARG,AM,26-121,90,0,0,0,0,2,0,0,0,42,1,0,2,0.2,0.2,0.0,2,0,21,26,80.8,3,27,0,4,1,Aston Villa
+Douglas Luiz,6.0,br BRA,DM,24-351,90,0,0,0,0,1,0,0,0,56,3,2,0,0.1,0.1,0.1,5,0,36,45,80.0,5,30,2,2,1,Aston Villa
+Leander Dendoncker,32.0,be BEL,DM,28-010,90,0,0,0,0,0,0,0,0,41,1,0,2,0.0,0.0,0.0,1,0,33,38,86.8,2,24,0,0,0,Aston Villa
+Álex Moreno,15.0,es ESP,LB,29-321,76,0,0,0,0,1,0,0,0,49,0,0,0,0.0,0.0,0.1,1,0,32,39,82.1,2,31,3,3,1,Aston Villa
+Lucas Digne,27.0,fr FRA,LB,29-279,14,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Aston Villa
+Tyrone Mings,5.0,eng ENG,CB,30-043,90,1,0,0,0,1,1,0,0,85,0,0,0,0.1,0.1,0.0,0,0,69,79,87.3,8,60,0,0,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,CB,25-184,90,0,0,0,0,1,0,0,0,82,0,0,0,0.2,0.2,0.0,1,0,71,74,95.9,1,62,0,0,0,Aston Villa
+Ashley Young,18.0,eng ENG,RB,37-290,84,0,0,0,0,1,0,1,0,52,2,0,0,0.0,0.0,0.0,3,0,34,47,72.3,3,35,0,1,0,Aston Villa
+Calum Chambers,16.0,eng ENG,RB,28-095,6,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,0,2,0,0,0,Aston Villa
+Emiliano Martínez,1.0,ar ARG,GK,30-235,90,0,0,0,0,0,0,1,0,54,0,0,0,0.0,0.0,0.0,1,0,44,53,83.0,0,38,0,0,0,Aston Villa
+14 Players,,,,,990,1,1,0,0,14,3,3,0,571,11,2,7,1.0,1.0,0.8,21,2,386,469,82.3,29,363,9,21,6,Aston Villa

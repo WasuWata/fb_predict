@@ -1,0 +1,15 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Bernardo Silva,20.0,pt POR,FW,27-138,90,0,0,0,0,0,0,0,0,65,1,0,0,0.0,0.0,0.3,6,2,51,57,89.5,5,36,5,6,2,Manchester City
+Raheem Sterling,7.0,eng ENG,LW,27-018,90,2,0,1,1,2,2,0,0,56,2,0,1,1.8,1.0,0.0,2,1,39,43,90.7,0,42,3,6,5,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,30-308,90,1,1,1,1,4,0,0,0,67,0,0,2,1.1,0.4,0.3,4,1,41,54,75.9,5,42,6,3,2,Manchester City
+İlkay Gündoğan,8.0,de GER,LM,31-063,90,1,0,0,0,2,2,0,0,51,1,0,1,0.2,0.2,0.0,1,1,41,46,89.1,3,39,0,2,2,Manchester City
+Fernandinho,25.0,br BRA,CM,36-236,90,0,1,0,0,1,0,1,0,68,2,1,0,0.0,0.0,0.1,2,1,62,64,96.9,4,50,0,2,2,Manchester City
+Kevin De Bruyne,17.0,be BEL,RM,30-181,70,1,0,0,0,3,1,0,0,50,1,0,0,0.2,0.2,0.2,7,1,32,44,72.7,6,28,1,1,1,Manchester City
+Phil Foden,47.0,eng ENG,RM,21-212,20,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,9,0,0,0,Manchester City
+Oleksandr Zinchenko,11.0,ua UKR,LB,25-011,90,0,0,0,0,0,0,0,0,100,0,0,0,0.0,0.0,0.0,1,0,93,99,93.9,9,77,3,0,0,Manchester City
+Aymeric Laporte,14.0,es ESP,CB,27-213,90,1,0,0,0,1,1,0,0,113,0,0,0,0.1,0.1,0.0,1,1,109,109,100.0,4,91,0,0,0,Manchester City
+Rúben Dias,3.0,pt POR,CB,24-226,90,0,1,0,0,1,0,0,0,133,0,2,0,0.2,0.2,0.7,2,1,125,128,97.7,4,111,1,0,0,Manchester City
+João Cancelo,27.0,pt POR,RB,27-213,90,0,0,0,0,1,0,0,0,121,0,0,1,0.0,0.0,0.0,1,0,103,114,90.4,6,88,2,3,2,Manchester City
+Ederson,31.0,br BRA,GK,28-131,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,17,17,100.0,0,11,0,0,0,Manchester City
+12 Players,,,,,990,6,3,2,2,15,6,1,0,854,7,3,5,3.7,2.1,1.7,27,9,722,785,92.0,46,624,21,23,16,Manchester City

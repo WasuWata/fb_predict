@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ivan Toney,17.0,eng ENG,FW,26-060,90,0,0,0,0,3,1,0,0,29,2,0,0,0.5,0.5,0.0,2,0,12,17,70.6,3,12,0,0,0,Brentford
+Yoane Wissa,11.0,cd COD,"LW,FW",25-254,74,1,0,0,0,4,1,0,0,25,0,0,0,0.1,0.1,0.0,0,0,14,19,73.7,0,10,0,1,1,Brentford
+Mads Roerslev,30.0,dk DEN,"FW,CB",22-325,16,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,4,0,0,0,Brentford
+Bryan Mbeumo,19.0,cm CMR,"RW,WB,FW",22-281,90,0,0,0,0,2,1,0,0,49,1,0,0,0.1,0.1,0.0,5,1,28,38,73.7,2,27,7,0,0,Brentford
+Christian Eriksen,21.0,dk DEN,"CM,LM",30-090,90,0,1,0,0,3,0,0,0,90,0,0,0,0.2,0.2,0.7,7,1,68,84,81.0,19,62,4,0,0,Brentford
+Christian Nørgaard,6.0,dk DEN,"CM,CB",28-066,90,0,1,0,0,0,0,1,0,84,3,2,0,0.0,0.0,0.1,2,1,69,75,92.0,6,45,0,0,0,Brentford
+Mathias Jensen,8.0,dk DEN,"CM,RM",26-134,90,0,0,0,0,3,0,0,0,65,4,1,2,0.4,0.4,0.1,8,1,49,53,92.5,11,36,2,0,0,Brentford
+Rico Henry,3.0,jm JAM,"WB,LB",24-311,90,1,0,0,0,3,3,0,0,84,0,1,1,0.2,0.2,0.0,1,0,57,76,75.0,6,45,6,3,3,Brentford
+Mads Bech Sørensen,29.0,dk DEN,CB,23-128,45,0,0,0,0,0,0,1,0,33,0,0,0,0.0,0.0,0.0,0,0,27,31,87.1,5,21,0,0,0,Brentford
+Vitaly Janelt,27.0,de GER,CB,24-005,45,0,0,0,0,0,0,0,0,65,0,0,0,0.0,0.0,0.0,3,0,59,65,90.8,7,41,3,1,1,Brentford
+Pontus Jansson,18.0,se SWE,CB,31-091,90,0,0,0,0,0,0,0,0,67,2,2,0,0.0,0.0,0.0,0,0,53,59,89.8,3,33,0,0,0,Brentford
+Kristoffer Ajer,20.0,no NOR,"RB,CB",24-028,58,0,0,0,0,0,0,1,0,53,1,0,0,0.0,0.0,0.0,1,0,38,47,80.9,3,31,3,0,0,Brentford
+Josh Dasilva,10.0,eng ENG,"CM,WB",23-204,32,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,2,0,15,17,88.2,2,12,5,3,3,Brentford
+David Raya,1.0,es ESP,GK,26-242,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,43,49,87.8,1,32,0,0,0,Brentford
+14 Players,,,,,990,2,2,0,0,18,6,3,0,722,14,6,3,1.4,1.4,1.0,31,4,535,636,84.1,68,411,30,8,8,Brentford

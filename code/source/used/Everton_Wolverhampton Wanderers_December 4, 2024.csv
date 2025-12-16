@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Calvert-Lewin,9.0,eng ENG,FW,27-263,82,0,0,0,0,2,1,0,0,26,0,0,1,0.3,0.3,0.0,1,1,13,18,72.2,1,18,1,0,0,Everton
+Armando Broja,22.0,al ALB,FW,23-085,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,6,3,3,1,Everton
+Dwight McNeil,7.0,eng ENG,LW,25-012,73,0,0,0,0,2,0,0,0,40,0,0,0,0.1,0.1,0.3,4,0,19,36,52.8,2,18,4,2,1,Everton
+Jack Harrison,11.0,eng ENG,"RW,AM",28-014,17,0,0,0,0,3,0,0,0,10,1,0,0,0.4,0.4,0.0,0,0,1,4,25.0,0,6,0,1,0,Everton
+Iliman Ndiaye,10.0,sn SEN,"RW,LW",24-273,90,0,0,0,0,1,0,0,0,32,3,1,0,0.0,0.0,0.0,1,0,16,16,100.0,1,17,2,8,3,Everton
+Abdoulaye Doucouré,16.0,ml MLI,AM,31-338,82,0,0,0,0,1,0,0,0,37,1,0,0,0.0,0.0,0.0,2,0,24,32,75.0,1,18,2,3,2,Everton
+Jesper Lindstrøm,29.0,dk DEN,"AM,RW",24-279,8,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,2,0,7,8,87.5,2,2,1,1,1,Everton
+Orel Mangala,8.0,be BEL,DM,26-261,88,1,0,0,0,1,1,1,0,44,0,1,3,0.1,0.1,0.0,2,0,28,29,96.6,1,18,0,3,1,Everton
+Harrison Armstrong,45.0,eng ENG,DM,17-320,2,0,0,0,0,0,0,1,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Everton
+Idrissa Gana Gueye,27.0,sn SEN,DM,35-069,90,0,0,0,0,0,0,0,0,53,3,1,1,0.0,0.0,0.0,2,0,43,45,95.6,4,20,0,3,1,Everton
+Vitaliy Mykolenko,19.0,ua UKR,LB,25-189,90,0,0,0,0,1,0,0,0,53,1,1,1,0.0,0.0,0.0,2,1,31,41,75.6,3,13,0,0,0,Everton
+Jarrad Branthwaite,32.0,eng ENG,CB,22-160,90,0,0,0,0,0,0,0,0,51,2,4,1,0.0,0.0,0.0,0,0,36,40,90.0,2,23,0,0,0,Everton
+James Tarkowski,6.0,eng ENG,CB,32-015,90,0,0,0,0,1,1,0,0,47,2,1,1,0.0,0.0,0.0,2,1,26,31,83.9,1,11,0,0,0,Everton
+Ashley Young,18.0,eng ENG,RB,39-148,90,1,0,0,0,1,1,0,0,72,7,4,1,0.1,0.1,0.0,1,0,37,53,69.8,3,25,1,1,1,Everton
+Jordan Pickford,1.0,eng ENG,GK,30-272,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,1,0,33,50,66.0,0,27,0,0,0,Everton
+15 Players,,,,,990,2,0,0,0,13,4,2,0,535,20,13,9,1.0,1.0,0.6,21,3,317,407,77.9,21,224,14,25,11,Everton
+Jørgen Strand Larsen,9.0,no NOR,FW,24-302,90,0,0,0,0,2,1,0,0,24,0,0,0,0.6,0.6,0.1,1,0,8,12,66.7,0,12,1,1,0,Wolverhampton Wanderers
+Matheus Cunha,10.0,br BRA,"AM,LW",25-191,90,0,0,0,0,2,1,0,0,54,3,0,0,0.1,0.1,0.0,3,0,20,37,54.1,3,31,4,6,2,Wolverhampton Wanderers
+Gonçalo Guedes,29.0,pt POR,AM,28-005,56,0,0,0,0,1,0,0,0,17,1,0,1,0.0,0.0,0.0,1,0,7,12,58.3,0,8,1,0,0,Wolverhampton Wanderers
+Hwang Hee-chan,11.0,kr KOR,"AM,RW",28-313,34,0,0,0,0,0,0,0,0,23,2,0,1,0.0,0.0,0.0,0,0,16,17,94.1,1,10,0,1,0,Wolverhampton Wanderers
+João Gomes,8.0,br BRA,CM,23-296,84,0,0,0,0,1,0,0,0,72,4,1,0,0.0,0.0,0.0,2,0,50,64,78.1,5,36,2,1,1,Wolverhampton Wanderers
+Tommy Doyle,20.0,eng ENG,LM,23-048,6,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,6,0,1,1,Wolverhampton Wanderers
+André,7.0,br BRA,"CM,RM",23-141,90,0,0,0,0,0,0,0,0,81,7,2,3,0.0,0.0,0.0,2,0,67,73,91.8,9,38,1,2,1,Wolverhampton Wanderers
+Rayan Aït-Nouri,3.0,dz ALG,"WB,LB",23-181,90,0,0,0,0,0,0,0,0,56,4,1,1,0.0,0.0,0.0,0,0,39,42,92.9,6,32,3,7,4,Wolverhampton Wanderers
+Matt Doherty,2.0,ie IRL,WB,32-323,76,0,0,0,0,0,0,0,0,66,0,0,1,0.0,0.0,0.7,2,0,49,58,84.5,3,33,1,1,0,Wolverhampton Wanderers
+Rodrigo Gomes,19.0,pt POR,"RB,WB",21-150,14,0,0,0,0,0,0,0,0,14,3,0,1,0.0,0.0,0.0,0,0,8,10,80.0,0,7,0,1,0,Wolverhampton Wanderers
+Santiago Bueno,4.0,uy URU,CB,26-025,76,0,0,0,0,0,0,0,0,59,1,0,1,0.0,0.0,0.0,1,0,41,54,75.9,2,36,0,0,0,Wolverhampton Wanderers
+Toti Gomes,24.0,pt POR,CB,25-323,14,0,0,0,0,0,0,0,0,12,2,0,1,0.0,0.0,0.0,0,0,5,8,62.5,0,2,0,0,0,Wolverhampton Wanderers
+Craig Dawson,15.0,eng ENG,CB,34-212,90,0,0,0,0,0,0,0,0,54,1,1,0,0.0,0.0,0.0,0,0,41,46,89.1,3,31,1,0,0,Wolverhampton Wanderers
+Mario Lemina,5.0,ga GAB,"CB,CM",31-094,90,0,0,0,0,0,0,0,0,60,2,1,2,0.0,0.0,0.0,0,0,39,50,78.0,3,31,2,1,0,Wolverhampton Wanderers
+José Sá,1.0,pt POR,GK,31-322,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,17,29,58.6,0,15,0,1,1,Wolverhampton Wanderers
+15 Players,,,,,990,0,0,0,0,6,2,0,0,632,30,6,12,0.8,0.8,0.8,12,0,415,521,79.7,36,328,16,23,10,Wolverhampton Wanderers

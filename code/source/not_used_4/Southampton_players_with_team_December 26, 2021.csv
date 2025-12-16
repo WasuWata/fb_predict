@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Armando Broja,18.0,al ALB,FW,20-107,80,0,0,0,0,1,0,1,0,26,0,0,1,0.0,0.0,0.0,3,2,9,15,60.0,1,21,5,7,6,Southampton
+Che Adams,10.0,sct SCO,FW,25-166,10,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,2,0,0,0,Southampton
+Theo Walcott,32.0,eng ENG,LM,32-285,88,0,0,0,0,1,0,0,0,31,1,1,1,0.0,0.0,0.0,1,0,15,21,71.4,2,13,1,0,0,Southampton
+Stuart Armstrong,17.0,sct SCO,CM,29-271,2,0,0,0,0,1,0,0,0,9,1,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,1,0,0,0,Southampton
+Mohamed Elyounoussi,24.0,no NOR,"CM,LM",27-144,90,1,0,0,0,2,2,0,0,39,1,1,1,0.2,0.2,0.0,3,1,23,26,88.5,1,8,3,1,1,Southampton
+James Ward-Prowse,8.0,eng ENG,CM,27-055,90,1,1,1,1,0,0,0,0,35,1,0,0,0.8,0.0,0.1,2,1,20,29,69.0,0,6,0,1,0,Southampton
+Nathan Redmond,11.0,eng ENG,RM,27-295,90,0,0,0,0,2,2,0,0,55,2,1,0,0.0,0.0,0.1,2,0,35,44,79.5,3,26,3,0,0,Southampton
+Oriol Romeu,6.0,es ESP,DM,30-093,89,0,0,0,0,1,0,0,0,60,4,3,2,0.0,0.0,0.0,1,0,38,43,88.4,2,24,1,0,0,Southampton
+Ibrahima Diallo,27.0,fr FRA,DM,22-293,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,1,0,0,0,Southampton
+Kyle Walker-Peters,2.0,eng ENG,LB,24-257,90,0,1,0,0,1,0,1,0,48,3,3,0,0.1,0.1,0.1,5,2,29,36,80.6,5,22,6,1,1,Southampton
+Mohammed Salisu,22.0,gh GHA,CB,22-253,90,0,0,0,0,0,0,0,0,54,6,2,1,0.0,0.0,0.0,0,0,24,39,61.5,1,20,2,0,0,Southampton
+Jan Bednarek,35.0,pl POL,CB,25-258,90,1,0,0,0,1,1,1,0,64,0,2,3,0.1,0.1,0.0,2,0,39,48,81.3,3,27,0,0,0,Southampton
+Valentino Livramento,21.0,eng ENG,RB,19-044,90,0,0,0,0,0,0,0,0,57,0,0,2,0.0,0.0,0.0,0,0,36,46,78.3,2,23,2,2,1,Southampton
+Fraser Forster,44.0,eng ENG,GK,33-284,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,30,47,63.8,0,16,0,0,0,Southampton
+14 Players,,,,,990,3,2,1,1,10,5,3,0,537,19,13,11,1.2,0.4,0.3,21,6,309,407,75.9,21,210,23,12,9,Southampton

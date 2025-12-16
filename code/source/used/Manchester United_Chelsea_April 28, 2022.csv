@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Cristiano Ronaldo,7.0,pt POR,FW,37-082,90,1,0,0,0,3,1,0,0,57,0,0,1,0.4,0.4,0.0,1,0,29,42,69.0,4,36,3,2,2,Manchester United
+Marcus Rashford,10.0,eng ENG,LW,24-179,78,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,0,0,13,16,81.3,0,21,1,0,0,Manchester United
+Juan Mata,8.0,es ESP,RM,34-000,12,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,1,0,9,9,100.0,3,6,1,1,0,Manchester United
+Anthony Elanga,36.0,se SWE,"RW,LM",20-001,89,0,0,0,0,1,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,16,20,80.0,0,16,1,2,1,Manchester United
+Alejandro Garnacho,75.0,ar ARG,LM,17-301,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester United
+Bruno Fernandes,18.0,pt POR,"AM,CM",27-232,90,0,0,0,0,1,1,0,0,50,3,2,1,0.1,0.1,0.0,1,0,27,38,71.1,6,33,2,1,0,Manchester United
+Nemanja Matić,31.0,rs SRB,DM,33-270,78,0,1,0,0,0,0,0,0,50,2,2,1,0.0,0.0,0.3,3,1,35,44,79.5,5,34,1,2,2,Manchester United
+Phil Jones,4.0,eng ENG,CB,30-066,12,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Manchester United
+Scott McTominay,39.0,sct SCO,"DM,CM",25-141,90,0,0,0,0,0,0,0,0,41,2,1,1,0.0,0.0,0.0,1,0,24,30,80.0,5,27,2,3,2,Manchester United
+Alex Telles,27.0,br BRA,LB,29-134,90,0,0,0,0,0,0,0,0,56,3,4,2,0.0,0.0,0.1,3,0,29,41,70.7,4,27,1,2,1,Manchester United
+Raphaël Varane,19.0,fr FRA,CB,29-003,90,0,0,0,0,0,0,0,0,33,1,3,2,0.0,0.0,0.1,1,0,20,25,80.0,1,14,0,0,0,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,27-285,90,0,0,0,0,1,1,0,0,39,1,1,1,0.1,0.1,0.0,1,1,26,28,92.9,0,22,0,0,0,Manchester United
+Diogo Dalot,20.0,pt POR,RB,23-041,90,0,0,0,0,0,0,0,0,66,2,1,3,0.0,0.0,0.0,0,0,42,51,82.4,4,36,0,0,0,Manchester United
+David de Gea,1.0,es ESP,GK,31-172,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,16,28,57.1,0,17,0,0,0,Manchester United
+14 Players,,,,,990,1,1,0,0,6,3,0,0,488,16,14,13,0.5,0.5,0.5,12,2,287,375,76.5,32,291,12,13,8,Manchester United
+Kai Havertz,29.0,de GER,FW,22-321,69,0,1,0,0,5,2,0,0,41,0,0,1,1.0,1.0,0.2,6,1,26,30,86.7,3,25,3,1,0,Chelsea
+Romelu Lukaku,9.0,be BEL,FW,28-350,21,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,1,0,Chelsea
+Timo Werner,11.0,de GER,FW,26-053,70,0,0,0,0,1,1,0,0,34,0,0,0,0.0,0.0,0.0,0,0,22,30,73.3,3,18,4,0,0,Chelsea
+Christian Pulisic,10.0,us USA,AM,23-222,20,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,6,9,66.7,1,8,2,1,1,Chelsea
+Mason Mount,19.0,eng ENG,AM,23-108,90,0,0,0,0,3,0,0,0,71,0,0,0,0.1,0.1,0.3,5,0,49,63,77.8,10,43,2,0,0,Chelsea
+N'Golo Kanté,7.0,fr FRA,CM,31-030,81,0,0,0,0,1,1,0,0,69,3,1,1,0.1,0.1,0.5,5,0,55,62,88.7,6,44,4,2,2,Chelsea
+Ruben Loftus-Cheek,12.0,eng ENG,CM,26-095,9,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,2,2,1,0,0,Chelsea
+Jorginho,5.0,it ITA,CM,30-129,90,0,0,0,0,1,0,0,0,89,2,3,1,0.0,0.0,0.1,6,0,76,81,93.8,10,53,2,1,1,Chelsea
+Marcos Alonso,3.0,es ESP,WB,31-121,90,1,0,0,0,2,1,0,0,81,1,1,0,0.2,0.2,0.2,6,0,60,73,82.2,8,38,3,1,0,Chelsea
+Reece James,24.0,eng ENG,WB,22-141,90,0,0,0,0,4,1,0,0,105,4,0,1,0.2,0.2,0.5,7,0,72,89,80.9,9,67,7,5,4,Chelsea
+Antonio Rüdiger,2.0,de GER,CB,29-056,90,0,0,0,0,4,0,1,0,80,1,0,0,0.2,0.2,0.0,0,0,61,70,87.1,6,51,1,0,0,Chelsea
+Thiago Silva,6.0,br BRA,CB,37-218,90,0,0,0,0,0,0,0,0,76,1,0,1,0.0,0.0,0.0,1,0,69,72,95.8,6,48,0,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,CB,32-243,90,0,0,0,0,0,0,0,0,90,0,4,2,0.0,0.0,0.0,1,0,69,76,90.8,6,53,1,1,1,Chelsea
+Edouard Mendy,16.0,sn SEN,GK,30-058,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,14,18,77.8,0,15,0,0,0,Chelsea
+14 Players,,,,,990,1,1,0,0,21,6,1,0,774,12,9,8,1.9,1.9,1.8,38,1,584,680,85.9,70,468,30,13,9,Chelsea

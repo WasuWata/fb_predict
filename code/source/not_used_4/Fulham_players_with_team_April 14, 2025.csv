@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Rodrigo Muniz,9.0,br BRA,FW,23-345,56,0,0,0,0,3,2,0,0,10,0,0,0,0.3,0.3,0.0,3,0,3,5,60.0,1,3,1,0,0,Fulham
+Raúl Jiménez,7.0,mx MEX,FW,33-344,34,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.1,1,0,9,11,81.8,0,8,0,0,0,Fulham
+Alex Iwobi,17.0,ng NGA,"LW,DM",28-346,90,0,0,0,0,2,1,0,0,53,1,1,1,0.2,0.2,0.2,2,0,36,45,80.0,10,32,4,2,1,Fulham
+Ryan Sessegnon,30.0,eng ENG,RW,24-331,56,0,0,0,0,3,1,0,0,33,1,0,2,0.4,0.4,0.0,3,0,11,15,73.3,1,16,1,1,0,Fulham
+Adama Traoré,11.0,es ESP,RW,29-079,34,0,0,0,0,0,0,0,0,21,2,0,0,0.0,0.0,0.0,0,0,10,15,66.7,1,6,0,2,2,Fulham
+Andreas Pereira,18.0,br BRA,AM,29-103,68,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.4,4,0,22,30,73.3,1,18,4,2,1,Fulham
+Emile Smith Rowe,32.0,eng ENG,AM,24-260,22,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,1,0,16,20,80.0,3,11,0,0,0,Fulham
+Saša Lukić,20.0,rs SRB,DM,28-244,84,0,0,0,0,2,1,0,0,55,3,1,0,0.1,0.1,0.0,2,0,37,41,90.2,6,26,2,4,2,Fulham
+Willian,22.0,br BRA,LW,36-248,6,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,7,10,70.0,4,7,0,0,0,Fulham
+Sander Berge,16.0,no NOR,DM,27-059,58,0,0,0,0,0,0,0,0,44,0,1,1,0.0,0.0,0.0,0,0,36,37,97.3,5,31,4,3,1,Fulham
+Tom Cairney,10.0,sct SCO,DM,34-084,32,0,0,0,0,1,1,1,0,50,0,0,1,0.0,0.0,0.1,1,0,35,46,76.1,2,26,0,0,0,Fulham
+Antonee Robinson,33.0,us USA,LB,27-249,90,0,0,0,0,0,0,1,0,74,1,2,1,0.0,0.0,0.0,1,0,42,59,71.2,3,35,3,2,0,Fulham
+Calvin Bassey,3.0,ng NGA,CB,25-104,90,0,0,0,0,0,0,0,0,65,1,0,1,0.0,0.0,0.0,0,0,49,58,84.5,5,37,1,1,1,Fulham
+Joachim Andersen,5.0,dk DEN,CB,28-318,90,0,0,0,0,1,1,0,0,76,0,2,3,0.0,0.0,0.0,1,0,43,63,68.3,3,35,1,2,0,Fulham
+Timothy Castagne,21.0,be BEL,RB,29-130,90,0,0,0,0,0,0,0,0,65,1,2,2,0.0,0.0,0.0,0,0,37,49,75.5,3,17,0,2,1,Fulham
+Bernd Leno,1.0,de GER,GK,33-041,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,26,30,86.7,0,20,0,0,0,Fulham
+16 Players,,,,,990,0,0,0,0,12,7,2,0,659,12,9,13,1.1,1.1,0.8,19,0,419,534,78.5,48,328,21,21,9,Fulham

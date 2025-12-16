@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Armando Broja,18.0,al ALB,FW,20-168,80,0,0,0,0,3,1,0,0,31,0,0,0,0.2,0.2,0.3,2,0,19,27,70.4,2,13,1,1,1,Southampton
+Jack Stephens,5.0,eng ENG,"CB,FW",28-029,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Southampton
+Che Adams,10.0,sct SCO,FW,25-227,82,1,0,0,0,4,1,0,0,24,0,0,1,1.0,1.0,0.0,4,0,10,14,71.4,1,11,1,1,0,Southampton
+Shane Long,7.0,ie IRL,FW,35-034,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,1,0,Southampton
+Mohamed Elyounoussi,24.0,no NOR,"LM,AM",27-205,90,0,0,0,0,3,2,0,0,54,1,0,1,0.4,0.4,0.2,2,1,29,42,69.0,5,27,3,2,0,Southampton
+Oriol Romeu,6.0,es ESP,CM,30-154,90,1,0,0,0,1,1,0,0,83,2,2,1,0.0,0.0,0.0,2,0,65,72,90.3,2,38,2,0,0,Southampton
+James Ward-Prowse,8.0,eng ENG,CM,27-116,90,0,0,0,0,2,0,0,0,91,2,2,0,0.1,0.1,0.3,9,0,67,80,83.8,6,24,1,0,0,Southampton
+Stuart Armstrong,17.0,sct SCO,"RM,AM",29-332,89,0,0,0,0,7,1,0,0,80,0,0,0,0.4,0.4,0.4,7,0,53,60,88.3,8,41,6,4,1,Southampton
+Moussa Djenepo,19.0,ml MLI,CM,23-255,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Southampton
+Kyle Walker-Peters,2.0,eng ENG,"LB,WB",24-318,90,0,0,0,0,3,2,0,0,85,2,1,0,0.2,0.2,0.1,5,0,56,73,76.7,6,46,8,8,6,Southampton
+Mohammed Salisu,22.0,gh GHA,CB,22-314,90,0,0,0,0,1,0,1,0,70,1,0,2,0.0,0.0,0.0,0,0,36,54,66.7,4,26,0,1,1,Southampton
+Jan Bednarek,35.0,pl POL,CB,25-319,90,0,0,0,0,3,1,0,0,57,1,2,4,0.4,0.4,0.2,2,0,36,43,83.7,0,22,0,0,0,Southampton
+Valentino Livramento,21.0,eng ENG,"RB,WB",19-105,90,0,0,0,0,0,0,0,0,72,0,3,1,0.0,0.0,0.1,6,1,48,62,77.4,2,34,4,1,1,Southampton
+Fraser Forster,44.0,eng ENG,GK,33-345,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,16,30,53.3,0,11,0,0,0,Southampton
+14 Players,,,,,990,2,0,0,0,27,9,1,0,685,9,10,10,2.7,2.7,1.6,40,2,438,561,78.1,36,296,26,19,10,Southampton

@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Teemu Pukki,22.0,fi FIN,FW,31-173,90,1,0,0,0,4,1,0,0,22,2,0,0,0.5,0.5,0.0,0,0,8,12,66.7,1,11,1,0,0,Norwich City
+Milot Rashica,17.0,xk KVX,LW,25-082,87,0,0,0,0,2,2,0,0,36,0,1,0,0.2,0.2,0.0,0,0,16,28,57.1,4,16,0,3,1,Norwich City
+Adam Idah,35.0,ie IRL,FW,20-219,3,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,1,3,1,0,0,Norwich City
+Josh Sargent,24.0,us USA,RW,21-210,69,0,0,0,0,1,0,0,0,30,1,1,1,0.1,0.1,0.1,4,1,14,18,77.8,1,17,1,1,1,Norwich City
+Christos Tzolis,18.0,gr GRE,"RW,AM",19-231,21,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.2,1,0,7,10,70.0,1,5,0,0,0,Norwich City
+Kenny McLean,23.0,sct SCO,"LM,DM",29-253,90,0,0,0,0,3,1,0,0,42,1,0,1,0.1,0.1,0.0,0,0,25,30,83.3,3,24,2,2,2,Norwich City
+Mathias Normann,16.0,no NOR,CM,25-113,69,0,1,0,0,2,1,0,0,44,2,2,2,0.0,0.0,0.3,1,1,24,34,70.6,8,13,1,0,0,Norwich City
+Todd Cantwell,14.0,eng ENG,"CM,AM",23-203,21,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,12,14,85.7,2,11,0,0,0,Norwich City
+Billy Gilmour,8.0,sct SCO,"RM,DM",20-099,90,0,0,0,0,0,0,0,0,65,5,1,1,0.0,0.0,0.2,4,0,42,56,75.0,6,35,2,2,2,Norwich City
+Brandon Williams,21.0,eng ENG,LB,21-015,90,0,0,0,0,0,0,1,0,51,1,2,1,0.0,0.0,0.0,0,0,27,40,67.5,5,31,5,2,1,Norwich City
+Grant Hanley,5.0,sct SCO,CB,29-302,90,0,0,0,0,0,0,0,0,58,3,4,0,0.0,0.0,0.1,1,0,40,42,95.2,3,37,0,0,0,Norwich City
+Ozan Kabak,15.0,tr TUR,CB,21-177,90,0,0,0,0,0,0,0,0,66,0,3,2,0.0,0.0,0.0,1,0,49,57,86.0,2,44,0,2,1,Norwich City
+Max Aarons,2.0,eng ENG,RB,21-257,90,0,0,0,0,0,0,0,0,55,1,0,0,0.0,0.0,0.1,4,0,38,47,80.9,7,28,1,2,1,Norwich City
+Tim Krul,1.0,nl NED,GK,33-168,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,28,33,84.8,0,20,0,0,0,Norwich City
+14 Players,,,,,990,1,1,0,0,12,5,1,0,537,17,15,8,1.0,1.0,0.9,18,2,332,424,78.3,44,295,14,14,9,Norwich City

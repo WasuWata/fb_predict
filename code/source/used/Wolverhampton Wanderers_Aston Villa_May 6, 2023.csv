@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Diego Costa,29.0,es ESP,FW,34-211,82,0,0,0,0,1,1,1,0,14,0,0,0,0.4,0.4,0.2,2,0,8,12,66.7,0,11,2,0,0,Wolverhampton Wanderers
+Nathan Collins,4.0,ie IRL,CB,22-006,8,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Wolverhampton Wanderers
+Matheus Cunha,12.0,br BRA,FW,23-344,67,0,0,0,0,2,0,0,0,24,2,2,1,0.2,0.2,0.0,0,0,9,14,64.3,0,11,1,7,7,Wolverhampton Wanderers
+Hwang Hee-chan,11.0,kr KOR,FW,27-100,23,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,1,1,0,Wolverhampton Wanderers
+Pedro Neto,7.0,pt POR,LM,23-058,82,0,0,0,0,0,0,0,0,27,1,1,2,0.0,0.0,0.4,2,0,13,18,72.2,3,12,1,1,0,Wolverhampton Wanderers
+Adama Traoré,37.0,es ESP,AM,27-101,8,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Wolverhampton Wanderers
+Mario Lemina,5.0,ga GAB,CM,29-247,90,0,0,0,0,1,0,0,0,42,3,2,4,0.0,0.0,0.0,0,0,22,30,73.3,1,18,0,1,0,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,CM,26-054,90,0,1,0,0,0,0,0,0,36,2,0,1,0.0,0.0,0.1,2,1,18,30,60.0,2,11,0,1,1,Wolverhampton Wanderers
+Matheus Nunes,27.0,pt POR,"RM,AM",24-252,89,0,0,0,0,1,0,0,0,37,2,1,2,0.1,0.1,0.0,3,0,17,25,68.0,3,17,2,4,3,Wolverhampton Wanderers
+João Moutinho,28.0,pt POR,AM,36-240,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Wolverhampton Wanderers
+Toti Gomes,24.0,pt POR,"LB,WB",24-110,90,1,0,0,0,1,1,1,0,38,3,1,1,0.1,0.1,0.0,0,0,20,26,76.9,0,10,0,3,2,Wolverhampton Wanderers
+Max Kilman,23.0,eng ENG,CB,25-348,90,0,0,0,0,0,0,0,0,43,0,0,3,0.0,0.0,0.0,0,0,26,34,76.5,0,27,1,1,1,Wolverhampton Wanderers
+Craig Dawson,15.0,eng ENG,CB,33-000,90,0,0,0,0,0,0,0,0,45,0,1,2,0.0,0.0,0.0,1,0,29,36,80.6,1,32,0,1,1,Wolverhampton Wanderers
+Nélson Semedo,22.0,pt POR,"RB,WB",29-171,90,0,0,0,0,0,0,1,0,51,0,1,4,0.0,0.0,0.0,1,1,32,41,78.0,2,23,1,0,0,Wolverhampton Wanderers
+José Sá,1.0,pt POR,GK,30-109,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,14,27,51.9,0,13,0,0,0,Wolverhampton Wanderers
+15 Players,,,,,990,1,1,0,0,6,2,3,0,393,13,9,20,0.8,0.8,0.7,12,2,211,297,71.0,12,189,9,20,15,Wolverhampton Wanderers
+Ollie Watkins,11.0,eng ENG,FW,27-127,90,0,0,0,0,3,1,1,0,25,0,0,0,0.4,0.4,0.1,1,0,9,12,75.0,0,10,1,1,0,Aston Villa
+Emi Buendía,10.0,ar ARG,FW,26-132,80,0,0,0,0,5,1,0,0,39,0,0,2,0.4,0.4,0.0,6,0,18,27,66.7,2,25,4,4,4,Aston Villa
+Jáder Durán,22.0,co COL,FW,19-144,10,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,2,0,1,1,100.0,1,2,0,0,0,Aston Villa
+Jacob Ramsey,41.0,eng ENG,LM,21-343,90,0,0,0,0,1,0,0,0,26,1,1,0,0.0,0.0,0.2,3,0,17,21,81.0,2,22,7,1,0,Aston Villa
+Douglas Luiz,6.0,br BRA,CM,24-362,85,0,0,0,0,1,0,1,0,59,0,0,0,0.0,0.0,0.4,2,0,45,56,80.4,2,40,2,0,0,Aston Villa
+Boubacar Kamara,44.0,fr FRA,CM,23-164,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Aston Villa
+John McGinn,7.0,sct SCO,CM,28-200,90,0,0,0,0,0,0,0,0,56,3,0,0,0.0,0.0,0.0,5,0,42,50,84.0,11,31,4,0,0,Aston Villa
+Bertrand Traoré,9.0,bf BFA,RM,27-242,45,0,0,0,0,2,1,0,0,27,0,1,2,0.1,0.1,0.0,0,0,13,17,76.5,2,24,1,1,0,Aston Villa
+Leon Bailey,31.0,jm JAM,RM,25-270,45,0,0,0,0,1,0,0,0,22,0,0,1,0.0,0.0,0.1,3,0,9,15,60.0,0,14,3,4,0,Aston Villa
+Álex Moreno,15.0,es ESP,LB,29-332,84,0,0,0,0,0,0,0,0,58,2,0,1,0.0,0.0,0.1,3,0,35,46,76.1,5,32,5,5,1,Aston Villa
+Lucas Digne,27.0,fr FRA,LB,29-290,6,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,3,5,60.0,1,2,0,0,0,Aston Villa
+Tyrone Mings,5.0,eng ENG,CB,30-054,90,0,0,0,0,1,0,1,0,76,0,3,0,0.4,0.4,0.0,3,0,63,68,92.6,7,58,5,2,1,Aston Villa
+Ezri Konsa,4.0,eng ENG,"CB,RB",25-195,90,0,0,0,0,0,0,0,0,74,2,2,1,0.0,0.0,0.0,1,0,58,66,87.9,6,41,0,2,1,Aston Villa
+Ashley Young,18.0,eng ENG,RB,37-301,64,0,0,0,0,2,0,0,0,48,1,0,0,0.1,0.1,0.1,2,0,40,46,87.0,2,25,2,0,0,Aston Villa
+Diego Carlos,3.0,br BRA,CB,30-052,26,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,11,14,78.6,1,8,1,0,0,Aston Villa
+Emiliano Martínez,1.0,ar ARG,GK,30-246,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,30,32,93.8,0,22,0,0,0,Aston Villa
+16 Players,,,,,990,0,0,0,0,16,3,3,0,571,10,8,7,1.5,1.5,1.2,32,0,396,478,82.8,42,358,35,20,7,Aston Villa

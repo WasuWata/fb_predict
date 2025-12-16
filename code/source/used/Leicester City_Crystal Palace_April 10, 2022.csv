@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jean-Philippe Mateta,14.0,fr FRA,FW,24-286,90,0,0,0,0,2,1,0,0,20,2,0,1,0.2,0.2,0.0,1,0,6,10,60.0,0,9,1,0,0,Leicester City
+Wilfried Zaha,11.0,ci CIV,LW,29-151,90,1,0,0,1,4,1,0,0,41,0,0,1,1.1,0.2,0.1,6,1,23,24,95.8,4,30,5,5,3,Leicester City
+Jordan Ayew,9.0,gh GHA,RW,30-211,90,0,0,0,0,2,0,0,0,41,2,1,1,0.0,0.0,0.0,3,0,21,30,70.0,1,27,5,1,1,Leicester City
+Conor Gallagher,23.0,eng ENG,AM,22-063,57,0,0,0,0,0,0,0,0,26,1,1,0,0.0,0.0,0.1,1,0,15,19,78.9,1,11,1,0,0,Leicester City
+Eberechi Eze,10.0,eng ENG,AM,23-285,33,0,0,0,0,0,0,0,0,20,0,1,0,0.0,0.0,0.0,5,0,15,18,83.3,3,10,2,1,1,Leicester City
+Jeffrey Schlupp,15.0,gh GHA,DM,29-108,90,0,0,0,0,1,0,0,0,56,2,1,4,0.1,0.1,0.2,2,0,31,37,83.8,6,26,1,8,5,Leicester City
+Cheikhou Kouyaté,8.0,sn SEN,DM,32-110,57,0,0,0,0,0,0,0,0,26,3,0,1,0.0,0.0,0.0,0,0,16,17,94.1,0,11,0,1,0,Leicester City
+James McArthur,18.0,sct SCO,DM,34-185,33,0,0,0,0,0,0,0,0,33,0,3,0,0.0,0.0,0.0,0,0,25,30,83.3,3,21,3,0,0,Leicester City
+Tyrick Mitchell,3.0,eng ENG,LB,22-221,33,0,0,0,0,0,0,1,0,22,1,1,1,0.0,0.0,0.0,0,0,11,16,68.8,0,7,1,0,0,Leicester City
+Joel Ward,2.0,eng ENG,LB,32-163,57,0,0,0,0,0,0,0,0,40,1,2,3,0.0,0.0,0.0,0,0,26,33,78.8,3,15,0,1,1,Leicester City
+Marc Guéhi,6.0,eng ENG,CB,21-271,90,0,0,0,0,0,0,0,0,87,0,1,1,0.0,0.0,0.0,0,0,71,81,87.7,1,60,0,1,1,Leicester City
+Joachim Andersen,16.0,dk DEN,CB,25-314,90,0,0,0,0,1,0,0,0,114,2,2,1,0.1,0.1,0.2,2,0,86,104,82.7,3,75,0,0,0,Leicester City
+Nathaniel Clyne,17.0,eng ENG,RB,31-005,90,0,0,0,0,0,0,0,0,70,3,1,0,0.0,0.0,0.0,1,0,55,62,88.7,2,31,1,1,0,Leicester City
+Vicente Guaita,13.0,es ESP,GK,35-090,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,37,45,82.2,0,28,0,0,0,Leicester City
+14 Players,,,,,990,1,0,0,1,10,2,1,0,641,17,14,14,1.5,0.6,0.6,21,1,438,526,83.3,27,361,20,19,12,Leicester City
+Jean-Philippe Mateta,14.0,fr FRA,FW,24-286,90,0,0,0,0,2,1,0,0,20,2,0,1,0.2,0.2,0.0,1,0,6,10,60.0,0,9,1,0,0,Crystal Palace
+Wilfried Zaha,11.0,ci CIV,LW,29-151,90,1,0,0,1,4,1,0,0,41,0,0,1,1.1,0.2,0.1,6,1,23,24,95.8,4,30,5,5,3,Crystal Palace
+Jordan Ayew,9.0,gh GHA,RW,30-211,90,0,0,0,0,2,0,0,0,41,2,1,1,0.0,0.0,0.0,3,0,21,30,70.0,1,27,5,1,1,Crystal Palace
+Conor Gallagher,23.0,eng ENG,AM,22-063,57,0,0,0,0,0,0,0,0,26,1,1,0,0.0,0.0,0.1,1,0,15,19,78.9,1,11,1,0,0,Crystal Palace
+Eberechi Eze,10.0,eng ENG,AM,23-285,33,0,0,0,0,0,0,0,0,20,0,1,0,0.0,0.0,0.0,5,0,15,18,83.3,3,10,2,1,1,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,DM,29-108,90,0,0,0,0,1,0,0,0,56,2,1,4,0.1,0.1,0.2,2,0,31,37,83.8,6,26,1,8,5,Crystal Palace
+Cheikhou Kouyaté,8.0,sn SEN,DM,32-110,57,0,0,0,0,0,0,0,0,26,3,0,1,0.0,0.0,0.0,0,0,16,17,94.1,0,11,0,1,0,Crystal Palace
+James McArthur,18.0,sct SCO,DM,34-185,33,0,0,0,0,0,0,0,0,33,0,3,0,0.0,0.0,0.0,0,0,25,30,83.3,3,21,3,0,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,LB,22-221,33,0,0,0,0,0,0,1,0,22,1,1,1,0.0,0.0,0.0,0,0,11,16,68.8,0,7,1,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,LB,32-163,57,0,0,0,0,0,0,0,0,40,1,2,3,0.0,0.0,0.0,0,0,26,33,78.8,3,15,0,1,1,Crystal Palace
+Marc Guéhi,6.0,eng ENG,CB,21-271,90,0,0,0,0,0,0,0,0,87,0,1,1,0.0,0.0,0.0,0,0,71,81,87.7,1,60,0,1,1,Crystal Palace
+Joachim Andersen,16.0,dk DEN,CB,25-314,90,0,0,0,0,1,0,0,0,114,2,2,1,0.1,0.1,0.2,2,0,86,104,82.7,3,75,0,0,0,Crystal Palace
+Nathaniel Clyne,17.0,eng ENG,RB,31-005,90,0,0,0,0,0,0,0,0,70,3,1,0,0.0,0.0,0.0,1,0,55,62,88.7,2,31,1,1,0,Crystal Palace
+Vicente Guaita,13.0,es ESP,GK,35-090,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,37,45,82.2,0,28,0,0,0,Crystal Palace
+14 Players,,,,,990,1,0,0,1,10,2,1,0,641,17,14,14,1.5,0.6,0.6,21,1,438,526,83.3,27,361,20,19,12,Crystal Palace

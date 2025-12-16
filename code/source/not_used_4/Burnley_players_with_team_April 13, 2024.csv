@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+David Datro Fofana,23.0,ci CIV,FW,21-113,61,0,0,0,0,2,0,0,0,24,2,0,0,0.7,0.7,0.0,0,0,14,16,87.5,5,13,2,1,0,Burnley
+Jay Rodriguez,9.0,eng ENG,FW,34-259,29,0,0,0,0,1,1,0,0,10,2,0,0,0.1,0.1,0.0,0,0,4,5,80.0,0,2,0,1,0,Burnley
+Wilson Odobert,47.0,fr FRA,FW,19-137,90,0,0,0,0,2,0,0,0,44,0,0,0,0.1,0.1,1.2,4,0,23,29,79.3,5,29,6,5,2,Burnley
+Jacob Bruun Larsen,34.0,dk DEN,LM,25-207,85,0,0,0,0,1,0,0,0,27,0,0,1,0.4,0.4,0.1,1,0,13,21,61.9,1,15,6,3,1,Burnley
+Mike Trésor,31.0,be BEL,LM,24-321,5,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,0,5,1,2,1,Burnley
+Sander Berge,16.0,no NOR,"CM,CB",26-059,90,0,0,0,0,1,0,0,0,53,1,0,1,0.0,0.0,0.0,4,0,45,45,100.0,4,32,3,1,0,Burnley
+Josh Cullen,24.0,ie IRL,CM,28-006,90,0,0,0,0,1,0,1,0,64,1,1,1,0.1,0.1,0.1,5,0,50,58,86.2,9,32,3,0,0,Burnley
+Lyle Foster,17.0,za RSA,RM,23-223,90,0,0,0,0,0,0,0,0,34,0,0,1,0.0,0.0,0.0,1,0,18,24,75.0,3,16,1,0,0,Burnley
+Vitinho,22.0,br BRA,LB,24-265,45,0,0,0,0,0,0,0,0,24,3,0,1,0.0,0.0,0.0,0,0,14,19,73.7,1,9,0,1,0,Burnley
+Charlie Taylor,3.0,eng ENG,LB,30-208,45,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,11,19,57.9,0,9,1,1,1,Burnley
+Maxime Estève,33.0,fr FRA,CB,21-323,90,0,0,0,0,0,0,0,0,90,3,1,1,0.0,0.0,0.0,1,0,61,77,79.2,4,51,1,1,0,Burnley
+Hjalmar Ekdal,18.0,se SWE,CB,25-175,66,0,0,0,0,0,0,0,0,44,2,2,6,0.0,0.0,0.0,0,0,27,30,90.0,1,24,1,2,1,Burnley
+Josh Brownhill,8.0,eng ENG,CM,28-116,24,1,0,0,0,2,2,0,0,22,4,0,1,0.2,0.2,0.0,0,0,14,16,87.5,2,8,0,1,1,Burnley
+Lorenz Assignon,20.0,tg TOG,RB,23-296,90,0,0,0,0,1,0,0,0,56,4,1,2,0.0,0.0,0.0,1,0,32,39,82.1,2,20,3,1,0,Burnley
+Arijanet Muric,49.0,xk KVX,GK,25-158,90,0,0,0,0,0,0,0,0,89,0,0,0,0.0,0.0,0.0,0,0,57,81,70.4,0,60,0,0,0,Burnley
+15 Players,,,,,990,1,0,0,0,11,3,1,0,609,22,5,15,1.7,1.7,1.5,18,0,385,483,79.7,37,325,28,20,7,Burnley

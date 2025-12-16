@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Tyrique George,32.0,eng ENG,FW,19-101,80,0,0,0,0,0,0,0,0,14,0,1,1,0.0,0.0,0.0,1,0,5,8,62.5,1,8,0,1,0,Chelsea
+Roméo Lavia,45.0,be BEL,DM,21-130,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Chelsea
+Noni Madueke,11.0,eng ENG,LW,23-067,90,0,0,0,0,2,0,0,0,38,1,1,0,0.5,0.5,0.0,1,0,20,27,74.1,2,20,6,5,2,Chelsea
+Pedro Neto,7.0,pt POR,RW,25-068,89,0,0,0,0,1,1,0,0,47,1,0,0,0.0,0.0,0.0,1,0,27,35,77.1,1,30,4,3,1,Chelsea
+Malo Gusto,27.0,fr FRA,RW,21-362,1,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Chelsea
+Cole Palmer,20.0,eng ENG,"AM,FW",23-010,90,0,0,0,0,2,1,1,0,46,3,0,1,0.1,0.1,0.5,6,0,30,36,83.3,9,35,7,1,0,Chelsea
+Moisés Caicedo,25.0,ec ECU,DM,23-195,90,0,0,0,0,1,0,0,0,68,3,0,2,0.0,0.0,0.0,2,0,50,58,86.2,10,38,3,4,2,Chelsea
+Enzo Fernández,8.0,ar ARG,"DM,AM",24-119,90,0,0,0,0,1,0,0,0,55,1,0,4,0.0,0.0,0.0,2,0,31,42,73.8,4,24,0,3,1,Chelsea
+Marc Cucurella,3.0,es ESP,LB,26-298,90,1,0,0,0,1,1,0,0,53,3,3,1,0.2,0.2,0.0,2,0,31,41,75.6,1,22,0,1,0,Chelsea
+Levi Colwill,6.0,eng ENG,CB,22-079,90,0,0,0,0,0,0,0,0,54,2,0,1,0.0,0.0,0.0,0,0,36,47,76.6,3,24,0,2,0,Chelsea
+Tosin Adarabioyo,4.0,eng ENG,CB,27-234,90,0,0,0,0,1,0,0,0,57,3,0,0,0.0,0.0,0.0,2,0,40,44,90.9,2,20,0,0,0,Chelsea
+Reece James,24.0,eng ENG,RB,25-159,90,0,1,0,0,2,0,0,0,77,0,0,0,0.1,0.1,0.2,2,2,57,70,81.4,3,37,1,1,1,Chelsea
+Robert Sánchez,1.0,es ESP,GK,27-179,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,17,30,56.7,0,21,0,0,0,Chelsea
+13 Players,,,,,990,1,1,0,0,11,3,1,0,548,18,5,10,0.8,0.8,0.7,19,2,346,441,78.5,36,281,21,21,7,Chelsea

@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Kamaldeen Sulemana,20.0,gh GHA,FW,21-052,68,0,0,0,0,1,0,0,0,17,0,1,1,0.1,0.1,0.0,0,0,5,9,55.6,0,12,2,2,1,Southampton
+Sekou Mara,18.0,fr FRA,FW,20-252,22,1,0,0,0,1,1,0,0,7,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,4,0,3,2,Southampton
+Carlos Alcaraz,26.0,ar ARG,FW,20-129,68,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,1,0,11,14,78.6,1,10,0,1,1,Southampton
+Moussa Djenepo,19.0,ml MLI,"AM,LW",24-297,22,0,1,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.1,2,2,3,5,60.0,0,2,1,5,3,Southampton
+Mohamed Elyounoussi,24.0,no NOR,LM,28-247,60,0,0,0,0,1,0,0,0,20,3,1,2,0.0,0.0,0.0,1,0,7,10,70.0,2,8,1,2,0,Southampton
+Stuart Armstrong,17.0,sct SCO,"AM,LM,CM",31-009,30,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,6,8,75.0,0,3,0,0,0,Southampton
+Roméo Lavia,45.0,be BEL,"CM,RM",19-092,79,0,0,0,0,0,0,0,0,28,1,1,2,0.0,0.0,0.1,2,0,17,19,89.5,4,15,1,2,2,Southampton
+Ibrahima Diallo,27.0,fr FRA,"CM,RM",24-031,11,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Southampton
+James Ward-Prowse,8.0,eng ENG,CM,28-158,90,0,0,0,0,0,0,0,0,39,2,0,2,0.0,0.0,0.2,1,0,25,30,83.3,1,11,0,1,1,Southampton
+Theo Walcott,32.0,eng ENG,"RM,RW",34-023,79,0,0,0,0,0,0,0,0,16,0,1,1,0.0,0.0,0.0,1,0,9,11,81.8,1,10,1,0,0,Southampton
+Romain Perraud,15.0,fr FRA,WB,25-198,11,0,0,0,0,0,0,0,0,8,1,0,2,0.0,0.0,0.0,0,0,4,7,57.1,1,4,0,0,0,Southampton
+Kyle Walker-Peters,2.0,eng ENG,"LB,WB",25-360,90,0,0,0,0,0,0,0,0,30,0,0,1,0.0,0.0,0.0,0,0,18,24,75.0,2,14,2,1,1,Southampton
+Armel Bella Kotchap,37.0,de GER,CB,21-118,90,0,0,0,0,1,0,0,0,40,0,0,0,0.2,0.2,0.0,0,0,30,34,88.2,0,24,1,2,1,Southampton
+Jan Bednarek,35.0,pl POL,CB,26-361,90,0,0,0,0,0,0,0,0,54,1,2,3,0.0,0.0,0.0,0,0,31,37,83.8,0,22,0,0,0,Southampton
+Ainsley Maitland-Niles,3.0,eng ENG,"RB,CB",25-222,90,0,0,0,0,0,0,0,0,47,2,1,1,0.0,0.0,0.0,0,0,25,37,67.6,2,18,1,2,1,Southampton
+Gavin Bazunu,31.0,ie IRL,GK,21-047,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,26,45,57.8,0,39,0,0,0,Southampton
+16 Players,,,,,990,1,1,0,0,4,1,0,0,399,11,8,16,0.4,0.4,0.4,8,2,220,293,75.1,14,196,10,21,13,Southampton

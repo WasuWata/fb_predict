@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Raúl Jiménez,7.0,mx MEX,FW,32-206,75,0,0,0,0,1,0,0,0,30,2,0,1,0.1,0.1,0.0,0,0,14,21,66.7,0,17,0,0,0,Fulham
+Carlos Vinícius,30.0,br BRA,FW,28-247,15,0,0,0,0,0,0,1,0,9,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,1,0,Fulham
+Willian,20.0,br BRA,LW,35-110,89,2,0,2,2,0,0,0,0,59,0,0,0,1.6,0.0,0.1,4,2,51,57,89.5,11,44,3,1,0,Fulham
+Tosin Adarabioyo,4.0,eng ENG,LW,26-064,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,0,4,0.0,0,1,0,0,0,Fulham
+Alex Iwobi,22.0,ng NGA,"RW,AM",27-208,90,1,0,0,0,4,3,0,0,64,1,1,1,1.0,1.0,0.0,1,0,39,50,78.0,7,44,4,1,1,Fulham
+Andreas Pereira,18.0,br BRA,AM,27-330,75,0,0,0,0,0,0,0,0,47,1,0,0,0.0,0.0,0.1,2,0,29,41,70.7,2,24,1,0,0,Fulham
+Harry Wilson,8.0,wls WAL,RW,26-250,15,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,2,1,3,10,30.0,0,10,1,2,1,Fulham
+Tom Cairney,10.0,sct SCO,DM,32-311,89,0,0,0,0,3,1,0,0,79,3,1,1,0.1,0.1,0.0,5,2,59,68,86.8,8,52,1,0,0,Fulham
+Saša Lukić,28.0,rs SRB,DM,27-106,1,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Fulham
+Harrison Reed,6.0,eng ENG,DM,28-304,90,0,0,0,0,1,0,0,0,82,1,2,0,0.0,0.0,0.0,1,0,67,75,89.3,9,43,0,1,1,Fulham
+Antonee Robinson,33.0,us USA,LB,26-111,90,0,1,0,0,1,0,0,0,84,2,2,2,0.0,0.0,0.7,2,1,48,71,67.6,6,37,2,3,1,Fulham
+Tim Ream,13.0,us USA,CB,36-053,90,0,0,0,0,0,0,1,0,85,2,2,0,0.0,0.0,0.0,0,0,75,79,94.9,3,59,1,0,0,Fulham
+Calvin Bassey,3.0,ng NGA,CB,23-331,90,0,0,0,0,0,0,0,0,94,1,3,1,0.0,0.0,0.0,3,0,76,84,90.5,1,63,1,1,0,Fulham
+Timothy Castagne,21.0,be BEL,RB,27-357,90,0,0,0,0,0,0,0,0,101,3,4,1,0.0,0.0,0.3,4,0,73,85,85.9,6,40,2,0,0,Fulham
+Bernd Leno,17.0,de GER,GK,31-268,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,32,37,86.5,0,23,0,0,0,Fulham
+15 Players,,,,,990,3,1,2,2,10,4,2,0,798,17,16,8,2.9,1.3,1.2,24,6,569,687,82.8,53,461,16,10,4,Fulham
+Matheus Cunha,12.0,br BRA,FW,24-184,82,1,0,0,0,2,1,0,0,31,0,0,1,0.2,0.2,0.0,1,0,19,20,95.0,1,22,1,2,0,Wolverhampton Wanderers
+Tommy Doyle,20.0,eng ENG,CM,22-041,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,1,2,0,0,0,Wolverhampton Wanderers
+Hwang Hee-chan,11.0,kr KOR,FW,27-305,90,1,0,1,1,2,0,0,0,27,0,1,2,0.9,0.1,0.0,2,1,11,17,64.7,0,21,2,1,0,Wolverhampton Wanderers
+João Gomes,8.0,br BRA,CM,22-288,90,0,0,0,0,0,0,1,0,59,2,1,5,0.0,0.0,0.1,2,0,40,50,80.0,3,32,0,2,1,Wolverhampton Wanderers
+Mario Lemina,5.0,ga GAB,CM,30-087,90,0,0,0,0,2,1,1,0,47,3,0,0,0.1,0.1,0.1,3,0,29,40,72.5,1,31,0,2,0,Wolverhampton Wanderers
+Jean-Ricner Bellegarde,27.0,ht HAI,CM,25-153,61,0,1,0,0,0,0,0,0,20,1,1,0,0.0,0.0,0.2,4,2,13,17,76.5,1,14,4,3,2,Wolverhampton Wanderers
+Sasa Kalajdzic,18.0,at AUT,"CM,FW",26-143,29,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,1,0,2,4,50.0,0,2,0,0,0,Wolverhampton Wanderers
+Rayan Aït-Nouri,3.0,dz ALG,WB,22-174,18,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,8,1,1,0,Wolverhampton Wanderers
+Matt Doherty,2.0,ie IRL,WB,31-315,72,0,0,0,0,1,1,0,0,38,1,0,0,0.1,0.1,0.1,1,0,21,30,70.0,1,22,0,1,1,Wolverhampton Wanderers
+Nélson Semedo,22.0,pt POR,WB,30-011,90,0,0,0,0,1,1,0,0,53,0,1,1,0.0,0.0,0.0,1,0,27,42,64.3,2,30,4,1,0,Wolverhampton Wanderers
+Toti Gomes,24.0,pt POR,CB,24-315,90,0,0,0,0,0,0,0,0,71,1,0,0,0.0,0.0,0.0,0,0,50,68,73.5,3,47,1,1,1,Wolverhampton Wanderers
+Max Kilman,23.0,eng ENG,CB,26-188,90,0,0,0,0,1,1,0,0,84,1,0,2,0.0,0.0,0.0,0,0,57,72,79.2,4,57,0,0,0,Wolverhampton Wanderers
+Santiago Bueno,4.0,uy URU,CB,25-018,90,0,0,0,0,0,0,0,0,70,2,0,5,0.0,0.0,0.0,0,0,46,55,83.6,0,45,0,0,0,Wolverhampton Wanderers
+José Sá,1.0,pt POR,GK,30-314,90,0,0,0,0,0,0,0,0,40,0,0,2,0.0,0.0,0.0,0,0,26,35,74.3,0,23,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,990,2,1,1,1,9,5,2,0,562,11,4,19,1.4,0.6,0.5,15,3,348,462,75.3,17,356,13,14,5,Wolverhampton Wanderers

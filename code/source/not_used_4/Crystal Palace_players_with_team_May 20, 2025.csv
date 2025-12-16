@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Eddie Nketiah,9.0,eng ENG,FW,25-355,80,2,0,0,0,2,2,0,0,27,1,1,0,0.7,0.7,0.1,4,1,11,11,100.0,2,17,2,9,1,Crystal Palace
+Jean-Philippe Mateta,14.0,fr FRA,FW,27-326,10,0,0,0,0,1,1,0,0,9,0,0,0,0.2,0.2,0.0,2,1,4,6,66.7,1,4,2,1,0,Crystal Palace
+Romain Esse,21.0,eng ENG,AM,20-007,80,0,1,0,0,0,0,0,0,30,6,0,1,0.0,0.0,0.3,5,3,9,14,64.3,4,14,1,2,1,Crystal Palace
+Eberechi Eze,10.0,eng ENG,AM,26-325,10,1,0,0,0,1,1,0,0,7,0,0,0,0.2,0.2,0.3,2,0,2,5,40.0,2,4,1,0,0,Crystal Palace
+Ismaila Sarr,7.0,sn SEN,AM,27-084,62,0,1,0,0,3,2,0,0,25,0,0,2,0.3,0.3,0.5,2,1,8,15,53.3,3,15,1,1,0,Crystal Palace
+Matheus França,11.0,br BRA,AM,21-049,28,0,0,0,0,2,1,0,0,16,1,1,1,0.0,0.0,0.0,1,0,5,8,62.5,0,10,3,0,0,Crystal Palace
+Jefferson Lerma,8.0,co COL,"CM,CB",30-207,90,0,0,0,0,0,0,0,0,42,2,0,2,0.0,0.0,0.0,1,0,23,34,67.6,2,17,0,0,0,Crystal Palace
+Will Hughes,19.0,eng ENG,CM,30-033,45,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,1,0,10,15,66.7,1,12,0,0,0,Crystal Palace
+Justin Devenny,55.0,nir NIR,CM,21-221,45,0,1,0,0,1,1,0,0,23,0,0,3,0.0,0.0,0.2,4,1,12,16,75.0,2,12,1,0,0,Crystal Palace
+Ben Chilwell,25.0,eng ENG,WB,28-150,90,1,0,0,0,3,2,0,0,54,2,2,2,0.1,0.1,0.1,2,0,30,36,83.3,2,19,3,1,0,Crystal Palace
+Daniel Muñoz,12.0,co COL,WB,28-359,90,0,0,0,0,1,0,0,0,42,5,1,2,0.1,0.1,0.1,2,1,21,27,77.8,3,17,3,1,0,Crystal Palace
+Chris Richards,26.0,us USA,CB,25-053,90,0,0,0,0,0,0,0,0,46,2,0,2,0.0,0.0,0.0,0,0,26,32,81.3,1,19,0,0,0,Crystal Palace
+Maxence Lacroix,5.0,fr FRA,CB,25-044,90,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.0,0,0,29,33,87.9,2,24,0,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,CB,35-203,70,0,0,0,0,0,0,1,0,30,2,0,0,0.0,0.0,0.0,1,0,14,22,63.6,1,15,0,1,0,Crystal Palace
+Daichi Kamada,18.0,jp JPN,"CM,CB",28-288,20,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,7,0,1,0,Crystal Palace
+Dean Henderson,1.0,eng ENG,GK,28-069,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,15,25,60.0,0,14,0,0,0,Crystal Palace
+16 Players,,,,,990,4,3,0,0,14,10,1,0,446,22,6,15,1.7,1.7,1.6,27,8,227,307,73.9,27,220,17,17,2,Crystal Palace

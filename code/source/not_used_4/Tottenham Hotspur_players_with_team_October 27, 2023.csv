@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Son Heung-min,7.0,kr KOR,FW,31-111,90,1,0,0,0,2,1,0,0,28,0,0,0,0.8,0.8,0.0,2,0,17,21,81.0,4,17,2,2,1,Tottenham Hotspur
+Richarlison,9.0,br BRA,LW,26-170,63,0,0,0,0,1,0,0,0,47,1,1,2,0.0,0.0,0.1,2,0,20,30,66.7,4,30,2,2,0,Tottenham Hotspur
+Brennan Johnson,22.0,wls WAL,"LW,RW",22-157,27,0,1,0,0,0,0,1,0,12,2,0,0,0.0,0.0,0.8,4,2,7,8,87.5,2,6,0,1,0,Tottenham Hotspur
+Dejan Kulusevski,21.0,se SWE,RW,23-185,89,0,0,0,0,1,0,0,0,39,0,0,3,0.0,0.0,0.0,1,0,29,33,87.9,4,23,2,3,1,Tottenham Hotspur
+Rodrigo Bentancur,30.0,uy URU,LW,26-124,1,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,0,0,7,7,100.0,0,5,0,0,0,Tottenham Hotspur
+James Maddison,10.0,eng ENG,AM,26-338,88,0,0,0,0,2,0,0,0,52,1,0,3,0.1,0.1,0.0,3,0,32,39,82.1,5,36,3,3,1,Tottenham Hotspur
+Bryan Gil,11.0,es ESP,AM,22-258,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,Tottenham Hotspur
+Yves Bissouma,8.0,ml MLI,DM,27-058,63,0,0,0,0,1,0,0,0,77,3,2,1,0.0,0.0,0.0,0,0,61,64,95.3,2,56,0,6,1,Tottenham Hotspur
+Pierre Højbjerg,5.0,dk DEN,DM,28-083,27,0,0,0,0,0,0,0,0,37,0,0,1,0.0,0.0,0.0,0,0,32,35,91.4,2,27,0,1,1,Tottenham Hotspur
+Pape Matar Sarr,29.0,sn SEN,DM,21-043,90,0,0,0,0,0,0,0,0,90,0,2,1,0.0,0.0,0.0,2,0,68,80,85.0,10,68,2,1,1,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,LB,30-186,45,0,0,0,0,0,0,0,0,31,1,0,1,0.0,0.0,0.0,0,0,25,27,92.6,4,14,0,1,0,Tottenham Hotspur
+Emerson,12.0,br BRA,LB,24-286,45,0,0,0,0,1,0,0,0,50,3,0,1,0.0,0.0,0.0,2,0,32,37,86.5,1,22,1,2,1,Tottenham Hotspur
+Micky van de Ven,37.0,nl NED,CB,22-191,90,0,0,0,0,0,0,0,0,104,2,0,0,0.0,0.0,0.0,0,0,96,97,99.0,5,88,0,3,1,Tottenham Hotspur
+Cristian Romero,17.0,ar ARG,CB,25-183,90,0,0,0,0,0,0,0,0,158,1,1,1,0.0,0.0,0.0,1,0,141,151,93.4,8,123,1,0,0,Tottenham Hotspur
+Pedro Porro,23.0,es ESP,RB,24-044,90,0,0,0,0,1,0,0,0,105,6,0,0,0.0,0.0,0.0,1,0,74,89,83.1,7,54,2,1,0,Tottenham Hotspur
+Guglielmo Vicario,13.0,it ITA,GK,27-020,90,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.0,0,0,53,56,94.6,0,40,0,0,0,Tottenham Hotspur
+16 Players,,,,,990,1,1,0,0,10,1,1,0,901,20,6,14,1.1,1.1,1.0,18,2,696,776,89.7,58,612,15,26,8,Tottenham Hotspur

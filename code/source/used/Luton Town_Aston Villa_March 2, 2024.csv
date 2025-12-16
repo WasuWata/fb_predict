@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Carlton Morris,9.0,eng ENG,FW,28-077,90,1,0,0,0,3,2,0,0,20,0,0,0,0.5,0.5,0.7,3,0,10,14,71.4,0,11,1,0,0,Luton Town
+Tahith Chong,14.0,cw CUW,AM,24-089,83,1,0,0,0,3,1,0,0,30,2,0,0,0.4,0.4,0.0,3,0,14,16,87.5,1,18,2,4,0,Luton Town
+Pelly Ruddock Mpanzu,17.0,cd COD,AM,30-229,7,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,2,0,0,0,Luton Town
+Andros Townsend,30.0,eng ENG,AM,32-230,52,0,0,0,0,1,0,0,0,13,0,0,1,0.1,0.1,0.0,1,0,5,10,50.0,1,8,0,1,0,Luton Town
+Daiki Hashioka,27.0,jp JPN,CB,24-290,38,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,0,0,17,19,89.5,1,12,0,1,0,Luton Town
+Ross Barkley,6.0,eng ENG,CM,30-088,90,0,0,0,0,2,0,0,0,62,2,1,0,0.1,0.1,0.0,3,0,46,55,83.6,4,36,1,2,1,Luton Town
+Jordan Clark,18.0,eng ENG,CM,30-162,90,0,0,0,0,0,0,0,0,44,3,0,2,0.0,0.0,0.1,2,0,29,35,82.9,3,22,1,1,0,Luton Town
+Alfie Doughty,45.0,eng ENG,"WB,CB",24-072,90,0,1,0,0,2,0,0,0,70,0,1,0,0.1,0.1,0.5,3,1,47,66,71.2,4,35,3,0,0,Luton Town
+Issa Kaboré,12.0,bf BFA,WB,22-295,90,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,3,0,22,30,73.3,5,26,9,3,2,Luton Town
+Amari'i Bell,29.0,jm JAM,CB,29-302,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Luton Town
+Chiedozie Ogbene,7.0,ie IRL,"WB,AM",26-306,85,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,4,1,26,35,74.3,1,25,5,5,3,Luton Town
+Teden Mengi,15.0,eng ENG,CB,21-307,90,0,0,0,0,1,0,0,0,67,3,4,0,0.1,0.1,0.0,1,0,45,56,80.4,2,36,0,0,0,Luton Town
+Reece Burke,16.0,eng ENG,CB,27-182,90,0,1,0,0,2,1,1,0,55,0,2,0,0.8,0.8,0.3,3,1,40,44,90.9,5,27,0,0,0,Luton Town
+Thomas Kaminski,24.0,be BEL,GK,31-131,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,19,27,70.4,0,15,0,0,0,Luton Town
+14 Players,,,,,990,2,2,0,0,14,4,1,0,503,12,8,3,2.0,2.0,1.6,26,3,327,416,78.6,27,275,22,17,6,Luton Town
+Ollie Watkins,11.0,eng ENG,FW,28-063,90,2,0,0,0,5,4,0,0,36,1,0,0,0.6,0.6,0.0,3,2,17,24,70.8,3,21,6,0,0,Aston Villa
+Jacob Ramsey,41.0,eng ENG,LW,22-279,28,0,0,0,0,2,1,0,0,13,0,0,0,0.7,0.7,0.0,1,0,8,9,88.9,1,9,1,1,1,Aston Villa
+Morgan Rogers,27.0,eng ENG,LW,21-220,50,0,0,0,0,1,1,1,0,22,0,0,0,0.0,0.0,0.1,5,1,12,15,80.0,4,13,2,2,2,Aston Villa
+Tim Iroegbunam,47.0,eng ENG,DM,20-246,12,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,Aston Villa
+Leon Bailey,31.0,jm JAM,RW,26-206,78,0,1,0,0,1,1,1,0,41,2,1,1,0.1,0.1,0.7,5,1,24,31,77.4,4,26,1,4,3,Aston Villa
+Moussa Diaby,19.0,fr FRA,RW,24-239,12,0,1,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.3,1,1,5,6,83.3,2,6,2,0,0,Aston Villa
+Youri Tielemans,8.0,be BEL,AM,26-300,78,0,0,0,0,0,0,0,0,33,0,0,2,0.0,0.0,0.1,1,0,19,28,67.9,3,13,0,3,2,Aston Villa
+Nicolò Zaniolo,22.0,it ITA,LW,24-244,12,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0,Aston Villa
+Douglas Luiz,6.0,br BRA,DM,25-298,90,0,1,0,0,1,0,1,0,51,0,0,0,0.1,0.1,0.3,3,1,43,49,87.8,4,28,1,0,0,Aston Villa
+John McGinn,7.0,sct SCO,"DM,AM",29-136,90,0,0,0,0,0,0,0,0,53,3,1,0,0.0,0.0,0.3,3,0,42,47,89.4,7,41,2,0,0,Aston Villa
+Álex Moreno,15.0,es ESP,LB,30-268,78,0,0,0,0,0,0,0,0,50,2,1,0,0.0,0.0,0.0,0,0,38,40,95.0,0,27,0,1,1,Aston Villa
+Lucas Digne,12.0,fr FRA,LB,30-226,12,1,0,0,0,1,1,0,0,13,0,0,0,0.3,0.3,0.0,0,0,7,9,77.8,0,7,0,0,0,Aston Villa
+Clément Lenglet,17.0,fr FRA,CB,28-259,90,0,0,0,0,1,0,0,0,80,0,0,4,0.1,0.1,0.0,0,0,57,69,82.6,2,58,0,0,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,CB,26-131,90,0,0,0,0,0,0,0,0,47,2,0,0,0.0,0.0,0.0,0,0,39,39,100.0,0,34,0,0,0,Aston Villa
+Matty Cash,2.0,pl POL,RB,26-208,90,0,0,0,0,0,0,0,0,61,4,0,2,0.0,0.0,0.0,0,0,40,49,81.6,3,27,0,1,0,Aston Villa
+Emiliano Martínez,1.0,ar ARG,GK,31-182,90,0,0,0,0,0,0,0,0,63,0,0,0,0.0,0.0,0.0,0,0,50,63,79.4,0,42,0,0,0,Aston Villa
+16 Players,,,,,990,3,3,0,0,12,8,4,0,578,15,3,9,1.9,1.9,1.9,22,6,404,482,83.8,33,356,15,12,9,Aston Villa

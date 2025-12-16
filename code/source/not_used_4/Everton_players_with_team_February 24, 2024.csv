@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Calvert-Lewin,9.0,eng ENG,FW,26-345,67,0,0,0,0,0,0,0,0,17,0,2,0,0.0,0.0,0.0,0,0,5,9,55.6,1,5,1,1,1,Everton
+Beto,14.0,gw GNB,FW,26-024,23,0,0,0,0,2,1,1,0,11,0,0,0,0.1,0.1,0.0,1,0,4,6,66.7,0,8,1,2,1,Everton
+Abdoulaye Doucouré,16.0,ml MLI,FW,31-054,88,0,0,0,0,1,0,0,0,29,1,1,1,0.1,0.1,0.1,1,0,15,20,75.0,1,20,0,0,0,Everton
+Ashley Young,18.0,eng ENG,RM,38-230,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Everton
+Dwight McNeil,7.0,eng ENG,LM,24-094,90,0,0,0,0,0,0,0,0,43,1,1,0,0.0,0.0,0.1,2,0,27,34,79.4,5,25,1,4,3,Everton
+James Garner,37.0,eng ENG,CM,22-348,90,0,0,0,0,0,0,0,0,46,0,1,0,0.0,0.0,0.0,1,0,37,41,90.2,2,26,0,0,0,Everton
+Idrissa Gana Gueye,27.0,sn SEN,CM,34-151,48,0,0,0,0,0,0,0,0,37,3,0,1,0.0,0.0,0.0,0,0,31,34,91.2,2,25,0,0,0,Everton
+Amadou Onana,8.0,be BEL,CM,22-192,42,0,0,0,0,0,0,1,0,24,2,1,0,0.0,0.0,0.0,1,0,14,17,82.4,0,13,1,0,0,Everton
+Jack Harrison,11.0,eng ENG,"RM,FW",27-096,90,0,0,0,0,1,0,0,0,28,1,1,0,0.1,0.1,0.0,2,1,13,18,72.2,0,15,1,2,1,Everton
+Vitaliy Mykolenko,19.0,ua UKR,LB,24-271,90,0,0,0,0,1,0,0,0,49,1,0,2,0.0,0.0,0.0,1,0,27,38,71.1,4,23,1,2,1,Everton
+Jarrad Branthwaite,32.0,eng ENG,CB,21-242,90,1,0,0,0,1,1,0,0,47,1,1,3,0.1,0.1,0.0,0,0,28,33,84.8,1,22,0,1,0,Everton
+James Tarkowski,6.0,eng ENG,CB,31-097,90,0,0,0,0,0,0,1,0,59,2,1,5,0.0,0.0,0.1,2,0,37,43,86.0,3,30,0,3,2,Everton
+Ben Godfrey,22.0,eng ENG,RB,26-040,90,0,0,0,0,0,0,0,0,43,1,1,3,0.0,0.0,0.0,1,1,25,33,75.8,0,15,0,4,3,Everton
+Jordan Pickford,1.0,eng ENG,GK,29-354,90,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.0,0,0,41,59,69.5,0,43,0,0,0,Everton
+14 Players,,,,,990,1,0,0,0,6,2,3,0,496,13,10,15,0.3,0.3,0.2,12,2,306,387,79.1,19,270,6,19,12,Everton

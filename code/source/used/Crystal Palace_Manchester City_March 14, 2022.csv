@@ -1,0 +1,28 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jean-Philippe Mateta,14.0,fr FRA,FW,24-259,64,0,0,0,0,1,0,0,0,16,0,0,1,0.0,0.0,0.0,2,0,11,14,78.6,1,15,1,1,1,Crystal Palace
+Odsonne Édouard,22.0,fr FRA,LW,24-057,26,0,0,0,0,1,0,1,0,11,0,0,0,0.1,0.1,0.0,1,0,5,8,62.5,1,6,1,1,1,Crystal Palace
+Wilfried Zaha,11.0,ci CIV,"LW,FW",29-124,90,0,0,0,0,2,1,0,0,33,0,2,1,0.0,0.0,0.0,0,0,15,23,65.2,1,26,1,5,4,Crystal Palace
+Michael Olise,7.0,fr FRA,RW,20-092,64,0,0,0,0,1,0,0,0,20,3,0,2,0.0,0.0,0.0,2,0,5,9,55.6,0,11,2,3,1,Crystal Palace
+Jordan Ayew,9.0,gh GHA,RW,30-184,26,0,0,0,0,0,0,0,0,15,2,0,0,0.0,0.0,0.0,0,0,7,7,100.0,1,8,1,1,1,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,"LM,DM",29-081,90,0,0,0,0,0,0,0,0,25,1,1,1,0.0,0.0,0.0,1,0,11,17,64.7,1,14,0,1,1,Crystal Palace
+Cheikhou Kouyaté,8.0,sn SEN,"CM,DM",32-083,90,0,0,0,0,1,0,1,0,34,3,1,4,0.4,0.4,0.1,1,0,13,21,61.9,0,12,0,1,1,Crystal Palace
+Conor Gallagher,23.0,eng ENG,"RM,AM",22-036,90,0,0,0,0,1,0,1,0,32,1,0,3,0.0,0.0,0.0,0,0,14,24,58.3,1,16,3,4,4,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,LB,22-194,90,0,0,0,0,0,0,0,0,48,4,0,1,0.0,0.0,0.0,0,0,15,32,46.9,2,21,0,0,0,Crystal Palace
+Marc Guéhi,6.0,eng ENG,CB,21-244,90,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.4,1,0,15,24,62.5,1,16,0,0,0,Crystal Palace
+Joachim Andersen,16.0,dk DEN,CB,25-287,90,0,0,0,0,0,0,0,0,55,0,2,1,0.0,0.0,0.0,1,0,31,45,68.9,3,28,0,0,0,Crystal Palace
+Nathaniel Clyne,17.0,eng ENG,RB,30-343,90,0,0,0,0,0,0,0,0,40,1,2,2,0.0,0.0,0.0,0,0,23,31,74.2,1,17,0,0,0,Crystal Palace
+Vicente Guaita,13.0,es ESP,GK,35-063,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,25,40,62.5,0,20,0,0,0,Crystal Palace
+13 Players,,,,,990,0,0,0,0,7,1,3,0,407,16,8,16,0.6,0.6,0.5,9,0,190,295,64.4,13,210,9,17,14,Crystal Palace
+Phil Foden,47.0,eng ENG,FW,21-290,90,0,0,0,0,2,0,0,0,21,0,0,0,0.1,0.1,0.0,2,0,14,17,82.4,5,16,0,2,2,Manchester City
+Jack Grealish,10.0,eng ENG,LW,26-185,90,0,0,0,0,2,0,1,0,45,1,1,1,0.1,0.1,1.3,5,0,30,35,85.7,3,32,7,5,3,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,31-021,90,0,0,0,0,4,2,0,0,79,2,0,1,0.3,0.3,0.0,2,0,50,65,76.9,4,50,4,0,0,Manchester City
+Bernardo Silva,20.0,pt POR,LM,27-216,90,0,0,0,0,2,0,0,0,73,0,1,1,1.0,1.0,0.2,5,0,52,60,86.7,4,55,6,2,1,Manchester City
+Rodri,16.0,es ESP,CM,25-265,90,0,0,0,0,2,0,0,0,137,4,1,1,0.1,0.1,0.0,4,0,108,128,84.4,12,107,6,1,1,Manchester City
+Kevin De Bruyne,17.0,be BEL,RM,30-259,90,0,0,0,0,3,2,0,0,72,0,0,3,0.3,0.3,0.4,6,0,46,60,76.7,6,57,2,3,2,Manchester City
+João Cancelo,27.0,pt POR,LB,27-291,90,0,0,0,0,1,0,0,0,122,5,0,1,0.0,0.0,0.1,5,0,87,110,79.1,11,87,5,7,3,Manchester City
+Aymeric Laporte,14.0,es ESP,CB,27-291,90,0,0,0,0,2,0,0,0,138,0,3,0,1.0,1.0,0.0,2,0,118,128,92.2,19,109,6,2,2,Manchester City
+John Stones,5.0,eng ENG,CB,27-290,90,0,0,0,0,1,0,0,0,118,0,2,1,0.0,0.0,0.0,1,0,107,113,94.7,8,98,2,1,1,Manchester City
+Kyle Walker,2.0,eng ENG,RB,31-290,90,0,0,0,0,0,0,0,0,80,1,1,0,0.0,0.0,0.0,3,0,59,70,84.3,10,54,2,1,0,Manchester City
+Ederson,31.0,br BRA,GK,28-209,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,26,29,89.7,0,19,0,0,0,Manchester City
+11 Players,,,,,990,0,0,0,0,19,4,1,0,914,13,9,9,2.9,2.9,2.0,35,0,697,815,85.5,82,684,40,24,15,Manchester City

@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Rodrigo Muniz,9.0,br BRA,FW,23-232,61,0,0,0,0,1,0,0,0,22,1,1,2,0.1,0.1,0.0,1,0,5,8,62.5,2,14,0,1,0,Fulham
+Raúl Jiménez,7.0,mx MEX,FW,33-231,29,0,0,0,0,1,0,1,0,19,0,0,2,0.1,0.1,0.0,1,0,14,16,87.5,3,8,2,0,0,Fulham
+Alex Iwobi,17.0,ng NGA,"LW,DM",28-233,90,0,0,0,0,6,3,0,0,75,1,0,0,0.3,0.3,0.0,3,0,47,63,74.6,7,53,6,1,0,Fulham
+Harry Wilson,8.0,wls WAL,"RW,AM",27-275,86,0,0,0,0,4,1,0,0,37,0,0,0,0.3,0.3,0.0,1,0,24,32,75.0,5,24,2,0,0,Fulham
+Carlos Vinícius,12.0,br BRA,AM,29-272,4,0,0,0,0,1,1,0,0,3,0,0,0,0.0,0.0,0.0,1,0,0,1,0.0,0,3,1,1,1,Fulham
+Joshua King,24.0,eng ENG,AM,17-354,61,0,0,0,0,0,0,0,0,37,3,0,2,0.0,0.0,0.1,2,0,22,26,84.6,3,13,0,4,2,Fulham
+Adama Traoré,11.0,es ESP,RW,28-332,29,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.3,4,0,9,13,69.2,0,10,3,3,2,Fulham
+Tom Cairney,10.0,sct SCO,DM,33-337,74,0,0,0,0,1,0,0,0,67,0,1,0,0.0,0.0,0.0,5,0,59,63,93.7,7,45,1,1,0,Fulham
+Martial Godo,47.0,eng ENG,LW,21-283,16,0,0,0,0,0,0,0,0,11,0,1,1,0.0,0.0,0.0,0,0,3,5,60.0,0,8,0,2,0,Fulham
+Sander Berge,16.0,no NOR,DM,26-312,74,0,0,0,0,0,0,0,0,51,0,0,4,0.0,0.0,0.0,3,0,39,43,90.7,5,21,0,0,0,Fulham
+Saša Lukić,20.0,rs SRB,DM,28-131,16,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,6,1,0,0,Fulham
+Antonee Robinson,33.0,us USA,LB,27-136,90,0,0,0,0,0,0,0,0,102,0,4,2,0.0,0.0,0.2,3,0,69,93,74.2,6,65,10,4,0,Fulham
+Calvin Bassey,3.0,ng NGA,CB,24-357,90,0,0,0,0,0,0,0,0,74,3,0,0,0.0,0.0,0.0,1,0,64,69,92.8,3,43,1,0,0,Fulham
+Issa Diop,31.0,fr FRA,CB,27-348,90,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.0,0,0,51,56,91.1,3,33,0,0,0,Fulham
+Timothy Castagne,21.0,be BEL,RB,29-017,90,0,0,0,0,0,0,0,0,75,2,1,2,0.0,0.0,0.0,1,0,51,63,81.0,5,33,2,1,0,Fulham
+Bernd Leno,1.0,de GER,GK,32-293,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,32,34,94.1,0,21,0,0,0,Fulham
+16 Players,,,,,990,0,0,0,0,15,5,1,0,695,10,8,15,0.9,0.9,0.7,26,0,499,598,83.4,49,400,29,18,5,Fulham
+Adam Armstrong,9.0,eng ENG,FW,27-316,89,0,0,0,0,2,1,0,0,16,2,0,0,0.2,0.2,0.0,1,0,11,11,100.0,0,4,0,0,0,Southampton
+Paul Onuachu,32.0,ng NGA,FW,30-208,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Southampton
+Tyler Dibling,33.0,eng ENG,FW,18-285,45,0,0,0,0,0,0,0,0,15,2,0,0,0.0,0.0,0.0,0,0,4,9,44.4,0,8,0,1,0,Southampton
+Cameron Archer,19.0,eng ENG,FW,23-154,45,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,0,0,Southampton
+Mateus Fernandes,18.0,pt POR,AM,20-165,90,0,0,0,0,1,0,0,0,59,2,1,1,0.0,0.0,0.0,3,0,36,50,72.0,1,16,3,2,0,Southampton
+Joe Aribo,7.0,ng NGA,CM,28-154,56,0,0,0,0,0,0,0,0,23,2,0,1,0.0,0.0,0.0,0,0,10,15,66.7,0,3,1,0,0,Southampton
+Lesley Ugochukwu,26.0,fr FRA,CM,20-271,34,0,0,0,0,0,0,1,0,20,0,0,1,0.0,0.0,0.0,2,0,13,15,86.7,2,12,2,0,0,Southampton
+Flynn Downes,4.0,eng ENG,CM,25-337,90,0,0,0,0,0,0,1,0,50,4,1,1,0.0,0.0,0.0,0,0,34,42,81.0,0,12,0,0,0,Southampton
+Kyle Walker-Peters,2.0,eng ENG,WB,27-253,90,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.0,0,0,39,47,83.0,1,27,3,1,0,Southampton
+Yukinari Sugawara,16.0,jp JPN,WB,24-177,79,0,0,0,0,1,0,1,0,53,1,0,1,0.0,0.0,0.0,2,0,32,43,74.4,4,23,1,2,1,Southampton
+James Bree,14.0,eng ENG,WB,27-072,11,0,0,0,0,0,0,0,0,17,1,1,1,0.0,0.0,0.0,0,0,9,13,69.2,0,0,0,0,0,Southampton
+Nathan Wood-Gordon,15.0,eng ENG,CB,22-205,90,0,0,0,0,0,0,0,0,72,2,1,1,0.0,0.0,0.0,0,0,54,57,94.7,2,36,0,1,0,Southampton
+Jan Bednarek,35.0,pl POL,CB,28-254,90,0,0,0,0,0,0,0,0,61,1,4,0,0.0,0.0,0.0,0,0,42,45,93.3,2,20,0,0,0,Southampton
+Taylor Harwood-Bellis,6.0,eng ENG,CB,22-327,90,0,0,0,0,0,0,0,0,70,2,3,2,0.0,0.0,0.0,1,0,52,58,89.7,1,29,1,0,0,Southampton
+Aaron Ramsdale,30.0,eng ENG,GK,26-222,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,11,38,28.9,0,16,0,0,0,Southampton
+15 Players,,,,,990,0,0,0,0,5,1,3,0,568,19,11,9,0.3,0.3,0.1,9,0,352,450,78.2,13,211,11,7,1,Southampton

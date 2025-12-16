@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Evanilson,9.0,br BRA,FW,25-203,69,0,1,0,0,0,0,0,1,17,0,0,0,0.0,0.0,0.1,1,1,11,15,73.3,0,12,1,0,0,Bournemouth
+Dango Ouattara,11.0,bf BFA,"LW,FW,RM",23-075,89,0,0,0,0,3,0,0,0,45,3,3,1,0.2,0.2,0.0,3,0,15,25,60.0,0,25,4,3,0,Bournemouth
+Daniel Jebbison,21.0,ca CAN,FW,21-257,1,0,0,0,0,0,0,0,0,1,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Bournemouth
+Antoine Semenyo,24.0,gh GHA,"RW,FW",25-110,84,1,0,0,0,2,1,0,0,37,2,2,4,0.2,0.2,0.0,1,0,15,21,71.4,3,23,0,1,0,Bournemouth
+Marcos Senesi,5.0,ar ARG,CB,27-352,6,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Bournemouth
+Justin Kluivert,19.0,nl NED,AM,25-357,71,0,0,0,0,1,0,1,0,32,0,0,4,0.0,0.0,0.0,2,0,21,24,87.5,1,23,4,1,0,Bournemouth
+Marcus Tavernier,16.0,eng ENG,"CM,LM",26-036,19,0,0,0,0,0,0,0,0,14,1,0,1,0.0,0.0,0.0,0,0,5,9,55.6,0,6,2,5,2,Bournemouth
+Alex Scott,8.0,eng ENG,DM,21-249,71,0,0,0,0,0,0,0,0,35,0,1,1,0.0,0.0,0.0,2,0,19,27,70.4,0,13,2,1,0,Bournemouth
+Lewis Cook,4.0,eng ENG,CM,28-083,19,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,2,0,0,0,Bournemouth
+Tyler Adams,12.0,us USA,"DM,CM",26-072,90,0,0,0,0,0,0,1,0,50,1,2,6,0.0,0.0,0.1,1,0,28,36,77.8,0,22,0,0,0,Bournemouth
+Milos Kerkez,3.0,hu HUN,LB,21-171,90,0,0,0,0,0,0,0,0,57,0,2,3,0.0,0.0,0.1,1,0,34,50,68.0,2,26,4,1,1,Bournemouth
+Dean Huijsen,2.0,es ESP,CB,20-013,90,0,0,0,0,0,0,1,0,51,0,0,2,0.0,0.0,0.0,0,0,27,39,69.2,5,27,1,0,0,Bournemouth
+Illia Zabarnyi,27.0,ua UKR,CB,22-238,90,0,0,0,0,2,0,0,0,37,0,1,1,0.1,0.1,0.0,0,0,17,26,65.4,2,18,0,0,0,Bournemouth
+Adam Smith,15.0,eng ENG,RB,33-363,90,0,0,0,0,0,0,1,0,36,1,0,2,0.0,0.0,0.1,3,1,21,28,75.0,1,12,0,0,0,Bournemouth
+Kepa Arrizabalaga,13.0,es ESP,GK,30-206,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,18,28,64.3,0,13,0,0,0,Bournemouth
+15 Players,,,,,969,1,1,0,0,8,1,4,1,458,9,11,27,0.5,0.5,0.5,14,2,235,335,70.1,14,223,18,12,3,Bournemouth
+Rasmus Højlund,9.0,dk DEN,FW,22-082,90,1,0,0,0,1,1,0,0,25,0,0,1,0.5,0.5,0.1,0,0,14,20,70.0,0,12,0,1,1,Manchester United
+Bruno Fernandes,8.0,pt POR,"AM,CM",30-231,90,0,0,0,0,3,1,0,0,97,3,0,2,0.1,0.1,0.9,12,0,60,80,75.0,17,48,3,1,0,Manchester United
+Alejandro Garnacho,17.0,ar ARG,"AM,LW,LM",20-300,90,0,0,0,0,8,1,0,0,45,0,2,2,0.8,0.8,0.1,5,0,21,29,72.4,4,35,4,3,2,Manchester United
+Casemiro,18.0,br BRA,CM,33-063,64,0,0,0,0,1,0,0,0,52,3,0,0,0.2,0.2,0.0,1,0,33,45,73.3,5,29,0,0,0,Manchester United
+Manuel Ugarte,25.0,uy URU,"DM,CB,CM",24-016,26,0,1,0,0,2,0,0,0,37,0,0,0,0.2,0.2,0.5,3,1,32,33,97.0,2,26,2,0,0,Manchester United
+Kobbie Mainoo,37.0,eng ENG,CM,20-008,64,0,0,0,0,2,1,0,0,36,1,1,1,0.0,0.0,0.0,3,0,19,23,82.6,1,21,2,4,3,Manchester United
+Mason Mount,7.0,eng ENG,"CM,RM,AM",26-107,26,0,0,0,0,2,0,0,0,25,0,0,0,0.2,0.2,0.0,3,0,16,21,76.2,3,16,2,0,0,Manchester United
+Patrick Dorgu,13.0,dk DEN,"WB,RW",20-183,89,0,0,0,0,0,0,1,0,59,2,3,0,0.0,0.0,0.0,2,0,32,44,72.7,1,32,4,4,1,Manchester United
+Christian Eriksen,14.0,dk DEN,CM,33-072,1,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,2,0,5,6,83.3,0,3,0,0,0,Manchester United
+Noussair Mazraoui,3.0,ma MAR,WB,27-164,74,0,0,0,0,1,0,0,0,36,2,1,1,0.1,0.1,0.0,2,0,22,25,88.0,0,16,1,4,2,Manchester United
+Chidozie Obi-Martin,56.0,dk DEN,FW,17-149,16,0,0,0,0,2,1,0,0,6,1,0,0,0.3,0.3,0.0,0,0,1,1,100.0,0,3,1,0,0,Manchester United
+Luke Shaw,23.0,eng ENG,"CB,LB",29-289,90,0,0,0,0,1,0,1,0,82,1,1,1,0.0,0.0,0.4,7,0,57,73,78.1,11,54,5,1,0,Manchester United
+Harry Maguire,5.0,eng ENG,CB,32-053,65,0,0,0,0,1,1,0,0,32,0,1,0,0.0,0.0,0.0,2,0,24,29,82.8,1,18,0,0,0,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,30-284,25,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,15,15,100.0,2,10,0,0,0,Manchester United
+Leny Yoro,15.0,fr FRA,"CB,RB",19-165,90,0,0,0,0,0,0,0,0,50,2,0,0,0.0,0.0,0.0,2,0,37,41,90.2,5,26,2,0,0,Manchester United
+André Onana,24.0,cm CMR,GK,29-025,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,28,37,75.7,0,20,0,0,0,Manchester United
+16 Players,,,,,990,1,1,0,0,25,6,2,0,642,15,9,8,2.5,2.5,2.1,44,1,416,522,79.7,52,369,26,18,9,Manchester United

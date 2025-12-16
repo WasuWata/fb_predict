@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Morgan Gibbs-White,10.0,eng ENG,FW,23-316,90,0,0,0,0,1,0,0,0,39,3,0,2,0.0,0.0,0.0,1,0,13,28,46.4,4,20,3,4,1,Nottingham Forest
+Anthony Elanga,21.0,se SWE,FW,21-226,83,0,0,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.1,1,0,7,13,53.8,0,12,1,1,0,Nottingham Forest
+Chris Wood,11.0,nz NZL,FW,32-002,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,1,0,0,0,Nottingham Forest
+Cheikhou Kouyaté,8.0,sn SEN,CM,33-353,62,0,0,0,0,2,1,1,0,27,2,1,1,0.2,0.2,0.0,3,1,15,19,78.9,2,10,0,0,0,Nottingham Forest
+Danilo,28.0,br BRA,CM,22-224,28,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,1,0,0,0,Nottingham Forest
+Orel Mangala,5.0,be BEL,CM,25-266,90,0,0,0,0,0,0,0,0,36,1,1,0,0.0,0.0,0.0,0,0,25,31,80.6,3,16,2,3,2,Nottingham Forest
+Ryan Yates,22.0,eng ENG,CM,26-018,90,0,0,0,0,1,0,0,0,41,1,2,1,0.1,0.1,0.0,1,0,20,29,69.0,0,18,0,2,1,Nottingham Forest
+Harry Toffolo,15.0,eng ENG,WB,28-112,90,1,0,0,0,2,1,0,0,39,0,0,2,0.9,0.9,0.0,1,0,17,31,54.8,2,13,0,0,0,Nottingham Forest
+Neco Williams,7.0,wls WAL,WB,22-240,90,0,1,0,0,0,0,0,0,52,5,2,6,0.0,0.0,0.9,3,1,18,27,66.7,2,16,1,2,1,Nottingham Forest
+Moussa Niakhate,19.0,sn SEN,CB,27-276,90,0,0,0,0,0,0,0,0,56,3,3,1,0.0,0.0,0.1,2,0,31,45,68.9,5,29,3,0,0,Nottingham Forest
+Murillo,40.0,br BRA,CB,21-158,76,0,0,0,0,0,0,0,0,56,3,1,1,0.0,0.0,0.0,0,0,34,40,85.0,1,26,1,2,1,Nottingham Forest
+Felipe,18.0,br BRA,CB,34-207,14,0,0,0,0,1,0,0,0,7,1,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,1,0,0,0,Nottingham Forest
+Willy Boly,30.0,ci CIV,CB,32-309,90,0,0,0,0,0,0,0,0,51,2,1,1,0.0,0.0,0.0,0,0,29,44,65.9,3,21,2,0,0,Nottingham Forest
+Matt Turner,1.0,us USA,GK,29-168,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,15,25,60.0,0,13,0,0,0,Nottingham Forest
+14 Players,,,,,990,1,1,0,0,8,2,1,0,457,21,11,15,1.3,1.3,1.1,13,2,228,341,66.9,23,197,13,14,6,Nottingham Forest

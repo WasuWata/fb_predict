@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Calvert-Lewin,9.0,eng ENG,FW,25-234,60,0,0,0,0,3,1,0,0,23,0,0,0,0.5,0.5,0.2,3,0,8,13,61.5,1,11,1,1,1,Everton
+Neal Maupay,20.0,fr FRA,FW,26-083,30,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,0,0,6,7,85.7,0,7,0,0,0,Everton
+Dwight McNeil,7.0,eng ENG,LW,22-348,70,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.1,3,0,19,26,73.1,1,14,1,1,0,Everton
+Anthony Gordon,10.0,eng ENG,LW,21-254,20,0,0,0,0,1,0,0,0,10,1,0,0,0.1,0.1,0.0,0,0,4,8,50.0,0,4,1,0,0,Everton
+Demarai Gray,11.0,jm JAM,RW,26-130,90,0,0,0,0,1,0,0,0,51,1,1,0,0.0,0.0,0.1,4,0,33,42,78.6,3,26,4,0,0,Everton
+Amadou Onana,8.0,be BEL,LM,21-081,60,0,0,0,0,2,0,0,0,31,0,1,1,0.1,0.1,0.0,1,0,17,20,85.0,1,13,2,2,0,Everton
+Abdoulaye Doucouré,16.0,ml MLI,LM,29-308,30,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,14,20,70.0,0,10,0,1,1,Everton
+Idrissa Gana Gueye,27.0,sn SEN,CM,33-040,45,0,0,0,0,0,0,0,0,31,3,4,1,0.0,0.0,0.0,2,0,18,24,75.0,1,15,0,1,1,Everton
+James Garner,37.0,eng ENG,CM,21-237,45,0,0,0,0,0,0,0,0,37,0,1,0,0.0,0.0,0.0,0,0,23,34,67.6,0,18,1,1,0,Everton
+Alex Iwobi,17.0,ng NGA,RM,26-186,90,0,0,0,0,3,0,0,0,60,2,0,1,0.3,0.3,0.5,5,0,41,49,83.7,11,37,3,0,0,Everton
+Vitaliy Mykolenko,19.0,ua UKR,LB,23-160,90,0,0,0,0,0,0,0,0,64,1,0,1,0.0,0.0,0.1,1,0,43,53,81.1,4,30,1,1,0,Everton
+James Tarkowski,2.0,eng ENG,CB,29-351,90,0,0,0,0,1,1,0,0,73,1,2,5,0.0,0.0,0.1,1,0,53,62,85.5,2,41,1,0,0,Everton
+Conor Coady,30.0,eng ENG,CB,29-253,90,0,0,0,0,0,0,0,0,75,0,0,0,0.0,0.0,0.0,1,0,58,70,82.9,0,54,0,0,0,Everton
+Séamus Coleman,23.0,ie IRL,RB,34-025,70,0,0,0,0,0,0,0,0,34,1,2,0,0.0,0.0,0.0,0,0,29,31,93.5,1,15,1,1,0,Everton
+Nathan Patterson,3.0,sct SCO,RB,21-020,20,0,0,0,0,0,0,0,0,28,3,0,0,0.0,0.0,0.0,0,0,22,26,84.6,1,13,2,0,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,28-243,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,33,49,67.3,1,35,0,0,0,Everton
+16 Players,,,,,990,0,0,0,0,12,2,0,0,637,14,11,9,1.2,1.2,1.1,21,0,421,534,78.8,27,343,18,9,3,Everton

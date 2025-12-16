@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Harry Kane,10.0,eng ENG,FW,28-288,90,2,0,1,1,8,3,0,0,31,0,1,0,1.8,1.0,0.1,5,0,14,19,73.7,4,19,1,1,1,Tottenham Hotspur
+Son Heung-min,7.0,kr KOR,AM,29-308,71,1,0,0,0,2,1,0,0,25,0,0,1,0.6,0.6,0.2,4,1,19,21,90.5,1,15,1,0,0,Tottenham Hotspur
+Steven Bergwijn,23.0,nl NED,AM,24-216,19,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,2,0,3,3,100.0,1,2,0,0,0,Tottenham Hotspur
+Dejan Kulusevski,21.0,se SWE,AM,22-017,71,0,0,0,0,0,0,0,0,31,1,2,0,0.0,0.0,0.0,0,0,21,25,84.0,1,13,1,0,0,Tottenham Hotspur
+Lucas Moura,27.0,br BRA,AM,29-272,19,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,0,0,6,11,54.5,0,12,0,2,1,Tottenham Hotspur
+Pierre Højbjerg,5.0,dk DEN,CM,26-280,90,0,0,0,0,0,0,0,0,86,3,1,0,0.0,0.0,0.0,3,0,73,81,90.1,7,58,2,0,0,Tottenham Hotspur
+Rodrigo Bentancur,30.0,uy URU,CM,24-321,90,0,1,0,0,1,0,0,0,67,2,3,1,0.1,0.1,0.7,5,1,55,59,93.2,1,41,1,2,2,Tottenham Hotspur
+Ryan Sessegnon,19.0,eng ENG,WB,21-359,90,0,0,0,0,1,0,0,0,35,2,0,1,0.1,0.1,0.7,2,0,19,23,82.6,1,10,0,1,1,Tottenham Hotspur
+Emerson,12.0,br BRA,WB,23-118,90,0,0,0,0,3,1,0,0,72,5,1,0,0.3,0.3,0.1,2,1,55,60,91.7,3,38,0,0,0,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,CB,29-018,81,0,0,0,0,0,0,1,0,79,1,2,1,0.0,0.0,0.0,2,0,64,72,88.9,3,47,1,0,0,Tottenham Hotspur
+Joe Rodon,14.0,wls WAL,CB,24-202,9,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,0,5,0,0,0,Tottenham Hotspur
+Eric Dier,15.0,eng ENG,CB,28-117,90,0,0,0,0,0,0,0,0,95,1,2,1,0.0,0.0,0.0,2,0,78,86,90.7,2,59,0,0,0,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,25-334,90,0,0,0,0,0,0,0,0,94,1,1,0,0.0,0.0,0.1,1,0,83,91,91.2,6,66,0,0,0,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,35-137,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,22,27,81.5,0,19,0,0,0,Tottenham Hotspur
+14 Players,,,,,990,3,1,1,1,15,5,1,0,677,16,13,6,2.8,2.0,1.9,28,3,521,589,88.5,30,404,7,6,5,Tottenham Hotspur
+Eddie Nketiah,30.0,eng ENG,FW,22-347,72,0,0,0,0,2,2,0,0,18,0,0,0,0.1,0.1,0.0,0,0,8,9,88.9,1,13,1,3,0,Arsenal
+Alexandre Lacazette,9.0,fr FRA,FW,30-349,18,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,Arsenal
+Gabriel Martinelli,35.0,br BRA,LW,20-328,63,0,0,0,0,0,0,0,0,30,0,1,0,0.0,0.0,0.2,3,0,17,23,73.9,1,20,3,10,6,Arsenal
+Emile Smith Rowe,10.0,eng ENG,"LM,CM,LW",21-288,27,0,0,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.0,1,0,10,10,100.0,1,4,0,0,0,Arsenal
+Bukayo Saka,7.0,eng ENG,"RW,RM,LB",20-249,90,0,0,0,0,2,0,0,0,37,0,1,1,0.1,0.1,0.0,4,0,17,26,65.4,4,18,2,3,2,Arsenal
+Granit Xhaka,34.0,ch SUI,"LM,LB,CB",29-227,90,0,0,0,0,1,0,1,0,69,1,1,1,0.0,0.0,0.0,1,0,49,61,80.3,6,34,1,0,0,Arsenal
+Mohamed Elneny,25.0,eg EGY,"CM,DM",29-305,90,0,0,0,0,0,0,0,0,58,2,3,1,0.0,0.0,0.0,0,0,48,52,92.3,0,22,1,0,0,Arsenal
+Martin Ødegaard,8.0,no NOR,"RM,DM,CM",23-146,90,0,0,0,0,4,3,1,0,64,0,0,0,0.3,0.3,0.0,2,0,51,54,94.4,3,37,1,2,0,Arsenal
+Takehiro Tomiyasu,18.0,jp JPN,"CB,LB",23-188,90,0,0,0,0,0,0,0,0,50,0,1,1,0.0,0.0,0.0,1,0,40,43,93.0,2,30,0,0,0,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,24-144,75,0,0,0,0,0,0,0,0,56,2,1,4,0.0,0.0,0.0,3,0,39,44,88.6,1,31,0,0,0,Arsenal
+Nuno Tavares,20.0,pt POR,LB,22-106,15,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.2,1,0,8,8,100.0,0,5,0,1,0,Arsenal
+Rob Holding,16.0,eng ENG,CB,26-234,32,0,0,0,0,0,0,2,1,23,0,1,0,0.0,0.0,0.0,0,0,19,22,86.4,1,11,1,0,0,Arsenal
+Cédric Soares,17.0,pt POR,RB,30-254,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,2,0,38,47,80.9,0,27,0,1,0,Arsenal
+Aaron Ramsdale,32.0,eng ENG,GK,23-363,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,22,40,55.0,0,22,0,0,0,Arsenal
+14 Players,,,,,932,0,0,0,0,9,5,5,1,524,6,9,8,0.5,0.5,0.5,18,0,368,443,83.1,20,275,10,20,8,Arsenal

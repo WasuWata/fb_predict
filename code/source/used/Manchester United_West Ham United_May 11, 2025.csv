@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Rasmus Højlund,9.0,dk DEN,FW,22-096,90,0,0,0,0,6,2,0,0,27,0,0,0,1.3,1.3,0.0,3,0,9,16,56.3,1,15,1,2,0,Manchester United
+Mason Mount,7.0,eng ENG,AM,26-121,58,0,0,0,0,1,1,0,0,31,2,0,1,0.1,0.1,0.3,2,0,20,22,90.9,4,15,1,3,1,Manchester United
+Alejandro Garnacho,17.0,ar ARG,AM,20-314,32,0,0,0,0,1,0,0,0,21,0,0,0,0.1,0.1,0.0,2,0,11,17,64.7,0,17,1,2,0,Manchester United
+Kobbie Mainoo,37.0,eng ENG,"AM,CM",20-022,90,0,0,0,0,2,0,0,0,54,2,0,0,0.1,0.1,0.0,1,0,38,44,86.4,5,29,1,1,0,Manchester United
+Bruno Fernandes,8.0,pt POR,"CM,AM",30-245,90,0,0,0,0,4,0,0,0,97,1,0,1,0.1,0.1,0.5,11,0,76,87,87.4,14,58,2,1,0,Manchester United
+Manuel Ugarte,25.0,uy URU,CM,24-030,58,0,0,0,0,0,0,0,0,34,1,1,1,0.0,0.0,0.0,0,0,24,28,85.7,1,15,0,0,0,Manchester United
+Patrick Dorgu,13.0,dk DEN,WB,20-197,32,0,0,0,0,0,0,0,0,31,2,0,1,0.0,0.0,0.0,2,0,24,27,88.9,2,17,3,1,0,Manchester United
+Harry Amass,41.0,eng ENG,WB,18-056,90,0,0,0,0,1,0,0,0,53,0,0,5,0.0,0.0,0.0,2,0,28,35,80.0,2,30,0,1,0,Manchester United
+Amad Diallo,16.0,ci CIV,"WB,AM",22-304,82,0,0,0,0,1,1,0,0,62,1,0,1,0.0,0.0,0.6,6,0,44,49,89.8,2,34,6,5,1,Manchester United
+Christian Eriksen,14.0,dk DEN,"CM,AM",33-086,8,0,0,0,0,1,0,0,0,17,0,0,0,0.1,0.1,0.3,1,0,10,14,71.4,2,9,0,1,0,Manchester United
+Luke Shaw,23.0,eng ENG,CB,29-303,51,0,0,0,0,0,0,0,0,38,0,0,3,0.0,0.0,0.0,1,0,32,34,94.1,5,21,1,0,0,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,30-298,39,0,0,0,0,0,0,0,0,24,1,0,1,0.0,0.0,0.0,0,0,19,22,86.4,5,13,1,0,0,Manchester United
+Leny Yoro,15.0,fr FRA,CB,19-179,51,0,0,0,0,0,0,0,0,47,3,0,0,0.0,0.0,0.0,1,0,41,42,97.6,0,37,0,0,0,Manchester United
+Harry Maguire,5.0,eng ENG,CB,32-067,39,0,0,0,0,3,1,0,0,36,1,2,1,0.3,0.3,0.3,1,0,23,26,88.5,3,17,0,0,0,Manchester United
+Noussair Mazraoui,3.0,ma MAR,CB,27-178,90,0,0,0,0,0,0,0,0,84,7,0,0,0.0,0.0,0.0,2,0,66,71,93.0,8,49,4,0,0,Manchester United
+Altay Bayındır,1.0,tr TUR,GK,27-027,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,16,19,84.2,0,15,0,0,0,Manchester United
+16 Players,,,,,990,0,0,0,0,20,5,0,0,677,21,3,15,2.2,2.2,2.0,35,0,481,553,87.0,54,391,21,17,2,Manchester United
+Mohammed Kudus,14.0,gh GHA,FW,24-282,72,0,1,0,0,3,0,0,0,40,0,0,0,0.1,0.1,0.6,4,2,23,29,79.3,1,32,2,5,2,West Ham United
+Carlos Soler,4.0,es ESP,FW,28-129,18,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,13,15,86.7,0,15,0,0,0,West Ham United
+Jarrod Bowen,20.0,eng ENG,FW,28-142,72,1,0,0,0,1,1,0,0,21,1,0,0,0.3,0.3,0.0,1,0,7,14,50.0,0,18,4,3,0,West Ham United
+Niclas Füllkrug,11.0,de GER,FW,32-091,18,0,0,0,0,0,0,0,0,12,1,1,0,0.0,0.0,0.0,0,0,6,8,75.0,1,9,0,1,0,West Ham United
+Tomáš Souček,28.0,cz CZE,AM,30-073,90,1,0,0,0,1,1,0,0,49,1,1,3,0.6,0.6,0.0,0,0,23,34,67.6,0,28,2,1,0,West Ham United
+Guido Rodríguez,24.0,ar ARG,CM,31-029,63,0,0,0,0,0,0,0,0,42,2,0,1,0.0,0.0,0.0,0,0,30,36,83.3,0,25,1,1,1,West Ham United
+Edson Álvarez,19.0,mx MEX,CM,27-199,27,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,0,0,21,22,95.5,1,21,1,1,0,West Ham United
+James Ward-Prowse,8.0,eng ENG,CM,30-191,90,0,0,0,0,2,2,0,0,79,3,1,0,0.5,0.5,0.2,3,0,65,72,90.3,2,58,0,0,0,West Ham United
+Aaron Wan-Bissaka,29.0,cd COD,WB,27-166,90,0,1,0,0,0,0,0,0,59,3,1,2,0.0,0.0,0.4,3,1,34,39,87.2,3,36,4,8,3,West Ham United
+Vladimír Coufal,5.0,cz CZE,WB,32-262,82,0,0,0,0,1,0,0,0,44,2,0,0,0.1,0.1,0.0,0,0,29,36,80.6,1,25,4,2,1,West Ham United
+Emerson Palmieri,33.0,it ITA,WB,30-281,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,West Ham United
+Aaron Cresswell,3.0,eng ENG,CB,35-147,90,0,0,0,0,0,0,1,0,60,2,0,0,0.0,0.0,0.1,2,0,48,54,88.9,4,44,1,0,0,West Ham United
+Max Kilman,26.0,eng ENG,CB,27-353,90,0,0,0,0,1,0,0,0,58,3,0,1,0.2,0.2,0.0,0,0,40,47,85.1,2,41,1,0,0,West Ham United
+Jean-Clair Todibo,25.0,fr FRA,CB,25-132,82,0,0,0,0,0,0,0,0,52,1,2,0,0.0,0.0,0.0,0,0,44,47,93.6,4,43,0,0,0,West Ham United
+Konstantinos Mavropanos,15.0,gr GRE,CB,27-151,8,0,0,0,0,0,0,0,0,14,1,1,1,0.0,0.0,0.0,0,0,9,10,90.0,1,8,0,0,0,West Ham United
+Alphonse Areola,23.0,fr FRA,GK,32-073,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,28,40,70.0,0,27,0,0,0,West Ham United
+16 Players,,,,,990,2,2,0,0,9,4,1,0,618,20,8,8,1.8,1.8,1.2,13,3,422,505,83.6,20,432,20,22,7,West Ham United

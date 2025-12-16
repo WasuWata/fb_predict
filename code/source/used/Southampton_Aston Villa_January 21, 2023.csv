@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Che Adams,10.0,sct SCO,FW,26-192,60,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,7,14,50.0,0,11,0,0,0,Southampton
+Sekou Mara,18.0,fr FRA,FW,20-175,30,0,0,0,0,1,0,0,0,13,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,0,10,0,2,0,Southampton
+Adam Armstrong,9.0,eng ENG,"LW,AM",25-345,83,0,0,0,0,1,1,0,0,17,1,1,0,0.3,0.3,0.0,0,0,7,11,63.6,0,7,1,0,0,Southampton
+Mislav Oršić,11.0,hr CRO,AM,30-023,7,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Southampton
+Samuel Edozie,23.0,eng ENG,RW,19-358,61,0,0,0,0,0,0,0,0,31,3,0,2,0.0,0.0,0.0,0,0,11,17,64.7,0,24,3,4,0,Southampton
+Romain Perraud,15.0,fr FRA,"WB,CB",25-121,29,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,10,12,83.3,1,12,0,2,0,Southampton
+James Ward-Prowse,8.0,eng ENG,"AM,CM",28-081,90,0,0,0,0,0,0,0,0,46,1,0,0,0.0,0.0,0.4,4,0,30,40,75.0,2,22,0,0,0,Southampton
+Roméo Lavia,45.0,be BEL,DM,19-015,60,0,0,0,0,1,0,0,0,30,3,0,2,0.0,0.0,0.0,1,0,14,22,63.6,2,17,0,0,0,Southampton
+Mohamed Elyounoussi,24.0,no NOR,"CM,AM",28-170,30,0,0,0,0,0,0,0,0,13,0,0,2,0.0,0.0,0.1,2,0,5,10,50.0,2,9,0,1,0,Southampton
+Ibrahima Diallo,27.0,fr FRA,"DM,CM",23-319,90,0,0,0,0,0,0,0,0,52,6,0,1,0.0,0.0,0.0,1,0,36,45,80.0,4,31,0,1,1,Southampton
+Kyle Walker-Peters,2.0,eng ENG,"LB,WB",25-283,90,0,0,0,0,0,0,0,0,53,5,0,3,0.0,0.0,0.0,2,0,25,34,73.5,3,32,1,6,2,Southampton
+Mohammed Salisu,22.0,gh GHA,CB,23-279,90,0,0,0,0,2,1,0,0,66,1,5,2,0.1,0.1,0.0,0,0,33,47,70.2,1,34,0,0,0,Southampton
+Duje Ćaleta-Car,6.0,hr CRO,CB,26-126,83,0,0,0,0,0,0,0,0,41,2,2,2,0.0,0.0,0.0,0,0,23,29,79.3,1,22,0,0,0,Southampton
+Moussa Djenepo,19.0,ml MLI,WB,24-220,7,0,0,0,0,1,1,0,0,4,0,0,1,0.1,0.1,0.1,2,0,1,1,100.0,0,3,2,0,0,Southampton
+Lyanco,4.0,br BRA,"RB,CB",25-354,90,0,0,0,0,2,2,1,0,53,2,4,2,0.1,0.1,0.0,0,0,23,38,60.5,1,25,0,0,0,Southampton
+Gavin Bazunu,31.0,ie IRL,GK,20-335,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,15,27,55.6,0,15,0,0,0,Southampton
+16 Players,,,,,990,0,0,0,0,8,5,1,0,483,25,12,17,0.6,0.6,0.6,15,0,247,356,69.4,17,276,7,16,3,Southampton
+Ollie Watkins,11.0,eng ENG,FW,27-022,90,1,0,0,0,4,1,0,0,28,0,0,0,0.5,0.5,0.0,2,0,9,13,69.2,0,18,0,4,0,Aston Villa
+Leon Bailey,31.0,jm JAM,FW,25-165,80,0,0,0,0,4,1,0,0,37,0,1,0,0.3,0.3,0.1,2,0,17,27,63.0,2,28,2,3,0,Aston Villa
+Matty Cash,2.0,pl POL,RM,25-167,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,1,1,1,Aston Villa
+Emi Buendía,10.0,ar ARG,LM,26-027,68,0,0,0,0,1,0,0,0,46,0,0,0,0.1,0.1,0.2,4,0,31,42,73.8,6,35,1,1,0,Aston Villa
+Philippe Coutinho,23.0,br BRA,"FW,LM",30-223,22,0,0,0,0,0,0,0,0,17,1,0,1,0.0,0.0,0.0,0,0,3,11,27.3,0,9,0,1,0,Aston Villa
+Boubacar Kamara,44.0,fr FRA,CM,23-059,90,0,0,0,0,1,1,0,0,74,2,2,0,0.1,0.1,0.0,2,1,58,68,85.3,8,52,2,1,0,Aston Villa
+Douglas Luiz,6.0,br BRA,CM,24-257,87,0,1,0,0,2,0,1,0,74,0,0,1,0.1,0.1,0.4,7,1,63,72,87.5,5,50,1,3,2,Aston Villa
+Leander Dendoncker,32.0,be BEL,CM,27-281,3,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,1,1,0,0,0,Aston Villa
+Jacob Ramsey,41.0,eng ENG,"RM,LM",21-238,90,0,0,0,0,2,2,0,0,67,7,1,1,0.2,0.2,0.1,3,0,39,45,86.7,4,41,4,2,1,Aston Villa
+Álex Moreno,15.0,es ESP,LB,29-227,90,0,0,0,0,2,0,1,0,84,3,0,0,0.1,0.1,0.2,3,0,56,72,77.8,1,45,0,2,0,Aston Villa
+Tyrone Mings,5.0,eng ENG,CB,29-314,90,0,0,0,0,0,0,0,0,77,1,2,1,0.0,0.0,0.0,0,0,60,70,85.7,3,56,0,0,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,CB,25-090,90,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.0,0,0,55,59,93.2,1,46,0,0,0,Aston Villa
+Ashley Young,18.0,eng ENG,RB,37-196,90,0,0,0,0,0,0,0,0,83,5,0,3,0.0,0.0,0.0,0,0,51,74,68.9,7,52,2,1,1,Aston Villa
+Emiliano Martínez,1.0,ar ARG,GK,30-141,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,41,48,85.4,0,35,0,0,0,Aston Villa
+14 Players,,,,,990,1,1,0,0,16,5,2,0,708,19,6,8,1.4,1.4,1.0,23,2,486,607,80.1,38,469,13,19,5,Aston Villa

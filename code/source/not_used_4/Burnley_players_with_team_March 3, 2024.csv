@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jacob Bruun Larsen,34.0,dk DEN,FW,25-166,68,0,0,0,0,2,1,0,0,51,0,0,4,0.1,0.1,0.0,5,0,30,39,76.9,3,25,3,3,1,Burnley
+Zeki Amdouni,25.0,ch SUI,"FW,CM",23-090,22,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,5,1,1,0,Burnley
+David Datro Fofana,23.0,ci CIV,FW,21-072,90,0,0,0,0,2,2,0,0,38,2,0,0,0.1,0.1,0.1,1,0,15,21,71.4,4,21,3,3,0,Burnley
+Wilson Odobert,47.0,fr FRA,LM,19-096,90,0,0,0,0,6,1,0,0,57,1,0,0,0.4,0.4,0.2,7,0,37,48,77.1,4,36,4,2,2,Burnley
+Josh Cullen,24.0,ie IRL,CM,27-331,89,0,0,0,0,2,1,0,0,97,0,0,0,0.0,0.0,0.0,9,0,84,93,90.3,12,73,1,0,0,Burnley
+Jóhann Berg Guðmundsson,7.0,is ISL,CM,33-128,1,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,8,9,88.9,2,9,1,1,1,Burnley
+Sander Berge,16.0,no NOR,"CM,CB",26-018,90,0,0,0,0,1,0,0,0,76,5,0,0,0.1,0.1,0.0,2,0,64,70,91.4,8,51,3,2,2,Burnley
+Vitinho,22.0,br BRA,RM,24-224,75,0,0,0,0,3,0,1,0,38,0,0,2,0.6,0.6,0.0,2,0,12,28,42.9,1,27,4,1,1,Burnley
+Benson Manuel,10.0,ao ANG,RM,26-341,15,0,0,0,0,1,0,0,0,15,1,0,0,0.0,0.0,0.0,4,0,11,12,91.7,0,10,1,1,1,Burnley
+Charlie Taylor,3.0,eng ENG,LB,30-167,90,0,0,0,0,0,0,0,0,65,1,0,1,0.0,0.0,0.4,3,0,44,57,77.2,3,28,3,0,0,Burnley
+Maxime Estève,33.0,fr FRA,CB,21-282,90,0,0,0,0,2,0,0,0,85,2,0,1,0.1,0.1,0.0,0,0,69,78,88.5,3,67,2,1,1,Burnley
+Dara O'Shea,2.0,ie IRL,CB,24-365,89,0,0,0,0,1,0,1,0,80,1,0,1,0.0,0.0,0.0,1,0,62,72,86.1,6,52,2,0,0,Burnley
+Jay Rodriguez,9.0,eng ENG,FW,34-218,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Burnley
+Lorenz Assignon,20.0,tg TOG,RB,23-255,90,0,0,0,0,0,0,0,0,57,5,2,1,0.0,0.0,0.3,3,0,32,47,68.1,1,31,3,1,0,Burnley
+James Trafford,1.0,eng ENG,GK,21-145,90,0,0,0,0,0,0,0,0,83,0,0,0,0.0,0.0,0.0,0,0,55,82,67.1,0,63,0,1,1,Burnley
+15 Players,,,,,990,0,0,0,0,20,5,2,0,765,19,2,10,1.5,1.5,1.1,38,0,531,666,79.7,48,499,31,17,10,Burnley

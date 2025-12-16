@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dejan Kulusevski,21.0,se SWE,FW,25-016,18,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,1,2,0,0,0,Tottenham Hotspur
+Mikey Moore,47.0,eng ENG,"LW,RW",17-273,72,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,1,0,8,12,66.7,1,17,2,2,1,Tottenham Hotspur
+Mathys Tel,11.0,fr FRA,"LW,FW",20-014,90,0,0,0,0,0,0,0,0,40,4,1,2,0.0,0.0,0.2,4,0,14,23,60.9,3,26,4,5,3,Tottenham Hotspur
+Wilson Odobert,28.0,fr FRA,"RW,AM",20-164,90,0,0,0,0,1,0,0,0,38,3,0,1,0.0,0.0,0.0,0,0,21,28,75.0,2,26,3,2,0,Tottenham Hotspur
+Pape Matar Sarr,29.0,sn SEN,"LM,DM",22-239,90,0,0,0,0,2,0,0,0,27,3,1,1,0.4,0.4,0.0,2,0,14,18,77.8,1,11,0,0,0,Tottenham Hotspur
+Rodrigo Bentancur,30.0,uy URU,CM,27-320,45,0,0,0,0,0,0,1,0,17,0,0,1,0.0,0.0,0.0,0,0,10,14,71.4,0,9,0,0,0,Tottenham Hotspur
+Yves Bissouma,8.0,ml MLI,"DM,CM",28-254,45,0,0,0,0,0,0,0,0,26,1,1,0,0.0,0.0,0.0,1,0,20,23,87.0,2,15,0,1,0,Tottenham Hotspur
+Archie Gray,14.0,eng ENG,"RM,RB",19-060,90,0,0,0,0,0,0,0,0,40,2,2,1,0.0,0.0,0.0,0,0,23,35,65.7,3,29,0,0,0,Tottenham Hotspur
+Djed Spence,24.0,eng ENG,LB,24-275,90,0,0,0,0,0,0,0,0,61,5,2,3,0.0,0.0,0.0,1,0,40,50,80.0,3,29,2,3,3,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,CB,32-017,90,0,0,0,0,0,0,0,0,80,2,0,2,0.0,0.0,0.0,0,0,54,68,79.4,1,41,0,0,0,Tottenham Hotspur
+Kevin Danso,4.0,at AUT,CB,26-234,90,0,0,0,0,1,1,0,0,61,1,0,2,0.0,0.0,0.0,1,0,43,53,81.1,1,41,0,0,0,Tottenham Hotspur
+Pedro Porro,23.0,es ESP,RB,25-240,57,0,0,0,0,2,0,0,0,49,0,0,0,0.1,0.1,0.4,3,0,31,42,73.8,5,28,1,0,0,Tottenham Hotspur
+Son Heung-min,7.0,kr KOR,FW,32-307,33,0,0,0,0,1,0,0,0,9,0,0,0,0.2,0.2,0.0,0,0,6,8,75.0,4,6,2,0,0,Tottenham Hotspur
+Antonín Kinský,31.0,cz CZE,GK,22-059,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,27,36,75.0,0,26,0,0,0,Tottenham Hotspur
+14 Players,,,,,990,0,0,0,0,8,1,1,0,512,21,7,14,0.7,0.7,0.6,14,0,313,412,76.0,27,306,14,13,7,Tottenham Hotspur

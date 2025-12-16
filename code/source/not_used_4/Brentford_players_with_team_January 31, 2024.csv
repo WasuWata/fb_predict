@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ivan Toney,17.0,eng ENG,FW,27-321,90,1,0,0,0,5,3,0,0,30,3,0,0,1.1,1.1,0.0,3,1,13,23,56.5,1,20,5,1,1,Brentford
+Neal Maupay,7.0,fr FRA,FW,27-170,90,1,0,0,0,1,1,1,0,34,0,1,1,0.2,0.2,0.4,2,0,13,22,59.1,5,20,1,2,0,Brentford
+Vitaly Janelt,27.0,de GER,CM,25-266,87,0,0,0,0,0,0,0,0,28,1,2,1,0.0,0.0,0.0,0,0,14,19,73.7,1,18,1,1,0,Brentford
+Shandon Baptiste,26.0,gd GRN,CM,25-298,3,0,0,0,0,1,1,0,0,4,0,0,1,0.2,0.2,0.0,0,0,1,1,100.0,1,1,1,0,0,Brentford
+Christian Nørgaard,6.0,dk DEN,CM,29-327,90,0,0,0,0,0,0,1,0,54,3,7,3,0.0,0.0,0.1,3,0,31,39,79.5,6,26,0,0,0,Brentford
+Mathias Jensen,8.0,dk DEN,CM,28-030,56,0,0,0,0,0,0,0,0,38,3,3,0,0.0,0.0,0.1,3,0,16,26,61.5,1,14,1,2,1,Brentford
+Yehor Yarmoliuk,33.0,ua UKR,CM,19-336,34,0,0,0,0,0,0,1,0,14,0,0,1,0.0,0.0,0.0,1,0,8,11,72.7,5,7,0,1,0,Brentford
+Keane Lewis-Potter,23.0,eng ENG,WB,22-343,87,0,0,0,0,0,0,0,0,32,1,0,0,0.0,0.0,0.0,1,0,16,23,69.6,2,19,2,3,1,Brentford
+Mikkel Damsgaard,24.0,dk DEN,WB,23-212,3,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,1,0,0,0,Brentford
+Mads Roerslev,30.0,dk DEN,WB,24-221,77,0,0,0,0,0,0,0,0,30,1,1,2,0.0,0.0,0.0,0,0,10,19,52.6,1,10,1,4,0,Brentford
+Josh Dasilva,10.0,eng ENG,WB,25-100,13,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.2,1,0,6,13,46.2,2,11,2,3,1,Brentford
+Ben Mee,16.0,eng ENG,CB,34-132,90,0,0,0,0,1,0,0,0,45,4,1,3,0.1,0.1,0.0,0,0,17,28,60.7,5,9,1,0,0,Brentford
+Ethan Pinnock,5.0,jm JAM,CB,30-247,90,0,0,0,0,1,0,0,0,40,1,1,4,0.1,0.1,0.0,0,0,17,25,68.0,2,19,1,0,0,Brentford
+Nathan Collins,22.0,ie IRL,CB,22-276,77,0,0,0,0,0,0,0,0,35,0,1,2,0.0,0.0,0.0,0,0,16,22,72.7,1,15,0,1,1,Brentford
+Kristoffer Ajer,20.0,no NOR,CB,25-289,13,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,7,10,70.0,2,5,1,0,0,Brentford
+Mark Flekken,1.0,nl NED,GK,30-232,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,18,35,51.4,0,19,0,0,0,Brentford
+16 Players,,,,,990,2,0,0,0,9,5,3,0,456,19,17,19,1.6,1.6,0.9,14,1,203,319,63.6,35,214,17,18,5,Brentford

@@ -1,0 +1,38 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+David Datro Fofana,27.0,ci CIV,FW,20-058,45,0,0,0,0,2,1,0,0,18,1,0,1,0.0,0.0,0.1,3,0,3,4,75.0,1,18,2,4,3,Chelsea
+Raheem Sterling,17.0,eng ENG,"LW,WB",28-072,45,0,0,0,0,4,0,0,0,36,0,0,0,0.9,0.9,0.0,4,0,17,26,65.4,2,31,2,5,2,Chelsea
+Mason Mount,19.0,eng ENG,"LW,FW",24-039,63,0,0,0,0,1,0,0,0,21,1,0,2,0.0,0.0,0.0,2,0,8,14,57.1,1,15,1,2,0,Chelsea
+Kai Havertz,29.0,de GER,FW,23-252,27,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.6,3,0,14,19,73.7,3,16,1,3,2,Chelsea
+Noni Madueke,31.0,eng ENG,RW,20-345,63,0,0,0,0,1,1,0,0,32,1,0,4,0.0,0.0,0.0,3,0,13,18,72.2,1,21,2,6,2,Chelsea
+Mykhailo Mudryk,15.0,ua UKR,"RW,WB",22-044,27,0,0,0,0,1,0,0,0,19,0,0,1,0.1,0.1,0.0,1,0,5,10,50.0,1,14,1,3,0,Chelsea
+João Félix,11.0,pt POR,"AM,FW",23-100,90,0,0,0,0,3,1,0,0,44,1,0,1,0.3,0.3,0.0,0,0,24,32,75.0,4,27,4,8,2,Chelsea
+Enzo Fernández,5.0,ar ARG,"DM,CM",22-032,90,0,0,0,0,0,0,0,0,77,4,2,2,0.0,0.0,0.0,0,0,62,67,92.5,9,59,2,4,2,Chelsea
+Mateo Kovačić,8.0,hr CRO,"DM,CM",28-288,90,0,0,0,0,1,0,1,0,69,1,0,0,0.0,0.0,0.1,4,0,60,64,93.8,9,53,3,5,3,Chelsea
+Ben Chilwell,21.0,eng ENG,LB,26-059,83,0,0,0,0,1,0,0,0,66,1,2,0,0.0,0.0,0.0,1,0,42,59,71.2,4,37,3,1,0,Chelsea
+Conor Gallagher,23.0,eng ENG,CM,23-012,7,0,0,0,0,1,1,0,0,9,0,0,0,0.1,0.1,0.0,1,0,6,7,85.7,0,6,1,1,1,Chelsea
+Benoît Badiashile,4.0,fr FRA,CB,21-329,90,0,0,0,0,0,0,0,0,83,3,1,0,0.0,0.0,0.1,3,0,69,76,90.8,10,58,2,1,0,Chelsea
+Kalidou Koulibaly,26.0,sn SEN,CB,31-243,45,0,0,0,0,0,0,1,0,33,1,0,1,0.0,0.0,0.0,0,0,28,31,90.3,4,28,0,0,0,Chelsea
+Wesley Fofana,33.0,fr FRA,CB,22-063,45,0,0,0,0,0,0,0,0,39,0,1,1,0.0,0.0,0.0,1,0,30,37,81.1,2,30,1,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,RB,33-174,83,0,0,0,0,2,0,0,0,55,3,1,1,0.1,0.1,0.2,1,0,39,46,84.8,5,33,2,0,0,Chelsea
+Trevoh Chalobah,14.0,eng ENG,CB,23-228,7,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,0,0,9,11,81.8,0,8,0,0,0,Chelsea
+Kepa Arrizabalaga,1.0,es ESP,GK,28-138,90,0,0,0,0,0,0,1,0,43,0,0,0,0.0,0.0,0.0,0,0,40,41,97.6,0,29,0,0,0,Chelsea
+17 Players,,,,,990,0,0,0,0,17,4,3,0,678,17,8,14,1.6,1.6,1.2,27,0,469,562,83.5,56,483,27,43,17,Chelsea
+Paul Onuachu,12.0,ng NGA,FW,28-266,58,0,0,0,0,2,1,0,0,23,0,0,2,0.1,0.1,0.0,1,0,13,14,92.9,0,18,0,4,3,Southampton
+Sekou Mara,18.0,fr FRA,FW,20-203,32,0,0,0,0,0,0,1,0,17,1,0,1,0.0,0.0,0.0,0,0,3,6,50.0,1,10,0,3,1,Southampton
+Kamaldeen Sulemana,20.0,gh GHA,FW,21-003,58,0,0,0,0,1,1,0,0,19,2,0,0,0.2,0.2,0.0,4,0,7,9,77.8,0,15,1,2,0,Southampton
+Adam Armstrong,9.0,eng ENG,FW,26-008,32,0,0,0,0,1,1,0,0,10,1,0,0,0.2,0.2,0.0,0,0,3,4,75.0,0,5,1,0,0,Southampton
+Mohamed Elyounoussi,24.0,no NOR,LM,28-198,86,0,0,0,0,1,0,0,0,24,1,2,0,0.0,0.0,0.0,1,0,12,16,75.0,1,17,2,1,0,Southampton
+Carlos Alcaraz,26.0,ar ARG,LM,20-080,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Southampton
+Roméo Lavia,45.0,be BEL,CM,19-043,86,0,0,0,0,0,0,1,0,37,3,0,1,0.0,0.0,0.0,0,0,23,25,92.0,3,16,3,4,2,Southampton
+Ibrahima Diallo,27.0,fr FRA,CM,23-347,4,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,0,0,Southampton
+James Ward-Prowse,8.0,eng ENG,CM,28-109,90,1,0,0,0,1,1,1,0,58,3,4,1,0.1,0.1,0.1,3,0,35,43,81.4,4,27,0,0,0,Southampton
+Stuart Armstrong,17.0,sct SCO,RM,30-325,58,0,0,0,0,1,0,1,0,26,1,0,1,0.1,0.1,0.0,1,1,16,20,80.0,3,17,0,1,0,Southampton
+Theo Walcott,32.0,eng ENG,RM,33-339,32,0,0,0,0,0,0,0,0,16,2,2,0,0.0,0.0,0.2,1,0,8,11,72.7,0,8,0,1,0,Southampton
+Romain Perraud,15.0,fr FRA,LB,25-149,90,0,0,0,0,1,0,1,0,40,6,0,1,0.0,0.0,0.0,1,0,18,29,62.1,1,16,0,0,0,Southampton
+Armel Bella Kotchap,37.0,de GER,CB,21-069,90,0,0,0,0,0,0,1,0,58,1,2,1,0.0,0.0,0.0,0,0,36,45,80.0,1,32,0,1,0,Southampton
+Jan Bednarek,35.0,pl POL,CB,26-312,90,0,0,0,0,0,0,0,0,48,4,1,4,0.0,0.0,0.0,0,0,30,37,81.1,0,21,0,0,0,Southampton
+Ainsley Maitland-Niles,3.0,eng ENG,RB,25-173,89,0,0,0,0,0,0,0,0,58,6,0,4,0.0,0.0,0.0,1,0,31,41,75.6,3,27,3,4,3,Southampton
+Lyanco,4.0,br BRA,RB,26-017,1,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Southampton
+Gavin Bazunu,31.0,ie IRL,GK,20-363,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,22,45,48.9,0,27,0,0,0,Southampton
+17 Players,,,,,990,1,0,0,0,8,4,6,0,493,31,13,16,0.6,0.6,0.3,13,1,261,351,74.4,17,263,10,21,9,Southampton

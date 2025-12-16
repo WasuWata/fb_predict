@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Che Adams,10.0,sct SCO,FW,26-206,80,0,0,0,0,1,0,0,0,31,1,0,1,0.1,0.1,0.0,2,0,16,25,64.0,1,17,0,1,1,Southampton
+Adam Armstrong,9.0,eng ENG,FW,25-359,10,0,0,0,0,1,1,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,0,0,Southampton
+Mohamed Elyounoussi,24.0,no NOR,LW,28-184,45,0,0,0,0,0,0,0,0,21,0,1,0,0.0,0.0,0.0,0,0,9,13,69.2,0,10,0,0,0,Southampton
+Paul Onuachu,12.0,ng NGA,FW,28-252,45,0,0,0,0,1,1,0,0,18,0,0,0,0.0,0.0,0.1,2,0,9,11,81.8,2,7,0,0,0,Southampton
+Samuel Edozie,23.0,eng ENG,"RW,RM",20-007,64,0,0,0,0,1,0,0,0,33,2,1,0,0.1,0.1,0.0,1,0,15,23,65.2,1,23,3,2,0,Southampton
+Theo Walcott,32.0,eng ENG,RM,33-325,26,0,0,0,0,3,1,0,0,14,1,0,0,0.2,0.2,0.0,3,0,6,7,85.7,1,4,0,0,0,Southampton
+James Ward-Prowse,8.0,eng ENG,"CM,AM",28-095,90,0,0,0,0,2,0,0,0,75,1,0,1,0.1,0.1,0.0,3,0,51,66,77.3,3,38,3,0,0,Southampton
+Roméo Lavia,45.0,be BEL,"DM,CM",19-029,64,0,0,0,0,0,0,1,0,39,1,0,0,0.0,0.0,0.0,1,0,31,34,91.2,2,32,1,2,0,Southampton
+Carlos Alcaraz,26.0,ar ARG,CM,20-066,26,0,0,0,0,1,0,0,0,18,1,0,0,0.0,0.0,0.0,1,0,13,15,86.7,0,14,2,0,0,Southampton
+Ibrahima Diallo,27.0,fr FRA,DM,23-333,45,0,0,0,0,0,0,0,0,36,1,1,0,0.0,0.0,0.0,1,0,21,31,67.7,1,22,0,0,0,Southampton
+Kamaldeen Sulemana,20.0,gh GHA,LM,20-354,45,0,0,0,0,1,1,0,0,22,0,0,0,0.0,0.0,0.0,3,0,7,15,46.7,1,17,1,4,2,Southampton
+Romain Perraud,15.0,fr FRA,LB,25-135,90,0,0,0,0,1,1,0,0,59,2,0,2,0.0,0.0,0.0,1,0,31,49,63.3,1,26,2,0,0,Southampton
+Mohammed Salisu,22.0,gh GHA,CB,23-293,90,0,0,0,0,1,0,1,0,69,1,2,2,0.0,0.0,0.0,1,0,39,53,73.6,3,36,0,0,0,Southampton
+Jan Bednarek,35.0,pl POL,CB,26-298,90,0,0,0,0,1,0,0,0,67,3,10,2,0.0,0.0,0.0,1,0,40,45,88.9,6,27,0,0,0,Southampton
+James Bree,14.0,eng ENG,RB,25-116,90,0,0,0,0,0,0,0,0,55,2,2,1,0.0,0.0,0.2,4,0,34,45,75.6,1,26,1,2,1,Southampton
+Gavin Bazunu,31.0,ie IRL,GK,20-349,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,14,30,46.7,0,16,0,0,0,Southampton
+16 Players,,,,,990,0,0,0,0,14,5,2,0,591,16,17,9,0.7,0.7,0.4,25,0,339,465,72.9,23,319,13,11,4,Southampton

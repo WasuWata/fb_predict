@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Rodrigo Muniz,19.0,br BRA,FW,22-289,90,1,0,0,0,8,2,0,0,21,0,0,0,0.6,0.6,0.5,2,0,5,7,71.4,2,11,0,1,1,Fulham
+Willian,20.0,br BRA,LW,35-192,45,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,2,0,18,20,90.0,2,13,1,0,0,Fulham
+Alex Iwobi,22.0,ng NGA,LW,27-290,45,0,0,0,0,1,1,0,0,22,0,0,1,0.3,0.3,0.0,2,0,12,17,70.6,3,19,1,2,0,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,RW,31-015,63,0,0,0,0,1,0,0,0,21,0,0,1,0.1,0.1,0.0,0,0,8,13,61.5,0,14,1,1,0,Fulham
+Harry Wilson,8.0,wls WAL,RW,26-332,27,0,0,0,0,1,0,1,0,18,0,0,0,0.0,0.0,0.5,4,0,12,15,80.0,2,13,1,0,0,Fulham
+Andreas Pereira,18.0,br BRA,AM,28-047,74,0,0,0,0,1,0,0,0,38,0,0,1,0.0,0.0,0.3,4,0,21,36,58.3,5,21,2,0,0,Fulham
+Adama Traoré,11.0,es ESP,AM,28-023,16,0,0,0,0,1,1,1,0,5,0,0,0,0.5,0.5,0.0,0,0,2,3,66.7,1,5,1,1,1,Fulham
+Tom Cairney,10.0,sct SCO,DM,33-028,90,0,0,0,0,0,0,0,0,67,0,1,1,0.0,0.0,0.0,4,1,53,62,85.5,8,41,1,3,3,Fulham
+João Palhinha,26.0,pt POR,DM,28-223,88,0,0,0,0,1,0,1,0,60,4,1,2,0.0,0.0,0.1,2,0,42,44,95.5,2,25,0,2,0,Fulham
+Saša Lukić,28.0,rs SRB,DM,27-188,2,0,0,0,0,0,0,1,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Fulham
+Antonee Robinson,33.0,us USA,LB,26-193,90,0,1,0,0,0,0,0,0,62,4,0,1,0.0,0.0,0.1,3,1,30,52,57.7,3,23,1,1,0,Fulham
+Tim Ream,13.0,us USA,CB,36-135,74,0,0,0,0,0,0,0,0,69,0,1,2,0.0,0.0,0.0,1,0,58,62,93.5,7,44,0,0,0,Fulham
+Calvin Bassey,3.0,ng NGA,CB,24-048,16,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,14,16,87.5,0,12,0,0,0,Fulham
+Issa Diop,31.0,fr FRA,CB,27-039,90,0,0,0,0,1,0,0,0,74,3,0,0,0.0,0.0,0.0,1,0,57,67,85.1,8,44,1,0,0,Fulham
+Timothy Castagne,21.0,be BEL,RB,28-074,90,0,0,0,0,0,0,1,0,52,1,0,0,0.0,0.0,0.0,1,0,37,44,84.1,1,26,1,1,0,Fulham
+Bernd Leno,17.0,de GER,GK,31-350,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,37,40,92.5,0,23,0,0,0,Fulham
+16 Players,,,,,990,1,1,0,0,15,4,5,0,594,14,3,10,1.5,1.5,1.5,26,2,407,499,81.6,44,336,11,12,5,Fulham
+Ollie Watkins,11.0,eng ENG,FW,28-049,90,2,0,0,0,5,2,0,0,27,1,0,2,0.9,0.9,0.4,2,0,10,15,66.7,1,9,1,0,0,Aston Villa
+Jacob Ramsey,41.0,eng ENG,LW,22-265,90,0,0,0,0,2,0,0,0,44,0,1,2,0.2,0.2,0.1,2,0,27,30,90.0,2,24,2,1,1,Aston Villa
+Leon Bailey,31.0,jm JAM,RW,26-192,80,0,0,0,0,3,0,0,0,32,0,0,1,0.1,0.1,0.1,5,0,15,21,71.4,2,20,4,4,2,Aston Villa
+Moussa Diaby,19.0,fr FRA,RW,24-225,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,1,0,Aston Villa
+Youri Tielemans,8.0,be BEL,AM,26-286,89,0,1,0,0,1,1,0,0,43,2,0,0,0.4,0.4,0.2,4,1,26,33,78.8,9,27,0,3,0,Aston Villa
+Tim Iroegbunam,47.0,eng ENG,AM,20-232,1,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Aston Villa
+Douglas Luiz,6.0,br BRA,DM,25-284,90,0,0,0,0,0,0,0,0,61,0,1,2,0.0,0.0,0.2,4,0,47,55,85.5,5,26,2,2,1,Aston Villa
+John McGinn,7.0,sct SCO,DM,29-122,90,0,0,0,0,0,0,1,0,42,3,0,1,0.0,0.0,0.0,2,1,28,31,90.3,1,30,0,2,0,Aston Villa
+Álex Moreno,15.0,es ESP,LB,30-254,80,0,0,0,0,0,0,1,0,47,1,1,0,0.0,0.0,0.0,0,0,32,42,76.2,0,23,3,0,0,Aston Villa
+Lucas Digne,12.0,fr FRA,LB,30-212,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,1,0,Aston Villa
+Pau Torres,14.0,es ESP,CB,27-032,90,0,0,0,0,0,0,0,0,89,2,0,0,0.0,0.0,0.0,0,0,63,81,77.8,3,61,0,1,1,Aston Villa
+Clément Lenglet,17.0,fr FRA,CB,28-245,90,0,0,0,0,1,0,0,0,57,1,0,0,0.1,0.1,0.0,1,0,45,46,97.8,0,31,0,0,0,Aston Villa
+Matty Cash,2.0,pl POL,RB,26-194,90,0,0,0,0,0,0,0,0,67,0,1,3,0.0,0.0,0.0,0,0,43,53,81.1,3,32,2,0,0,Aston Villa
+Emiliano Martínez,1.0,ar ARG,GK,31-168,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,40,49,81.6,0,30,0,0,0,Aston Villa
+14 Players,,,,,990,2,1,0,0,12,3,2,0,569,11,4,11,1.6,1.6,1.1,20,2,382,462,82.7,26,317,14,15,5,Aston Villa

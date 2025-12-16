@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Anthony Gordon,10.0,eng ENG,FW,23-217,90,1,0,1,1,0,0,0,0,29,1,0,2,0.8,0.0,0.1,3,1,17,21,81.0,0,20,2,3,1,Newcastle United
+Harvey Barnes,11.0,eng ENG,LW,26-294,75,0,0,0,0,4,1,0,0,21,0,1,0,0.3,0.3,0.0,0,0,13,16,81.3,3,18,1,0,0,Newcastle United
+Joe Willock,28.0,eng ENG,LW,25-039,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,0,0,Newcastle United
+Jacob Murphy,23.0,eng ENG,RW,29-217,90,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.2,4,0,21,27,77.8,3,21,4,2,2,Newcastle United
+Joelinton,7.0,br BRA,LM,28-045,90,0,0,0,0,2,2,1,0,46,4,0,2,0.2,0.2,0.0,2,0,27,31,87.1,1,23,0,0,0,Newcastle United
+Bruno Guimarães,39.0,br BRA,CM,26-317,90,0,0,0,0,0,0,1,0,57,3,2,2,0.0,0.0,0.1,3,1,37,45,82.2,6,42,1,4,4,Newcastle United
+Sandro Tonali,8.0,it ITA,RM,24-143,76,0,0,0,0,0,0,1,0,28,0,2,1,0.0,0.0,0.1,1,0,13,19,68.4,4,19,0,2,0,Newcastle United
+Sean Longstaff,36.0,eng ENG,RM,26-334,14,0,0,0,0,1,0,0,0,7,1,0,1,0.2,0.2,0.0,0,0,2,3,66.7,0,2,0,0,0,Newcastle United
+Lewis Hall,20.0,eng ENG,LB,20-020,90,0,0,0,0,0,0,0,0,53,0,1,2,0.0,0.0,0.1,3,0,31,47,66.0,3,27,2,1,1,Newcastle United
+Dan Burn,33.0,eng ENG,CB,32-142,90,0,0,0,0,1,0,0,0,32,0,1,0,0.0,0.0,0.1,1,0,19,22,86.4,2,13,0,0,0,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,32-283,90,0,0,0,0,1,0,1,0,58,1,1,1,0.1,0.1,0.0,0,0,35,51,68.6,2,33,0,0,0,Newcastle United
+Kieran Trippier,2.0,eng ENG,RB,34-009,77,0,0,0,0,1,0,0,0,61,3,1,1,0.0,0.0,0.0,4,0,46,54,85.2,6,33,4,0,0,Newcastle United
+Valentino Livramento,21.0,eng ENG,RB,21-321,13,0,0,0,0,0,0,0,0,10,1,1,0,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Newcastle United
+Nick Pope,22.0,eng ENG,GK,32-162,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,18,26,69.2,0,14,0,0,0,Newcastle United
+14 Players,,,,,990,1,0,1,1,10,3,4,0,463,15,10,12,1.6,0.8,0.8,21,2,285,368,77.4,30,271,14,12,8,Newcastle United
+Erling Haaland,9.0,no NOR,FW,24-069,90,0,0,0,0,5,2,0,0,31,0,0,0,0.4,0.4,0.1,4,0,10,15,66.7,0,16,0,2,1,Manchester City
+Jack Grealish,10.0,eng ENG,LW,29-018,80,0,1,0,0,1,0,1,0,45,0,0,1,0.0,0.0,0.3,6,1,32,35,91.4,4,37,7,6,3,Manchester City
+Jeremy Doku,11.0,be BEL,LW,22-124,10,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,8,2,1,1,Manchester City
+Bernardo Silva,20.0,pt POR,"RW,DM",30-049,90,0,0,0,0,2,1,0,0,57,3,1,0,0.1,0.1,0.1,2,0,38,44,86.4,4,44,7,3,0,Manchester City
+İlkay Gündoğan,19.0,de GER,AM,33-340,65,0,0,0,0,2,1,0,0,38,1,1,0,0.1,0.1,0.1,4,0,21,29,72.4,4,24,2,3,2,Manchester City
+Phil Foden,47.0,eng ENG,AM,24-123,25,0,0,0,0,1,1,0,0,24,0,0,1,0.1,0.1,0.1,4,0,17,22,77.3,3,18,0,2,2,Manchester City
+Mateo Kovačić,8.0,hr CRO,DM,30-145,90,0,0,0,0,2,0,1,0,94,4,0,2,0.1,0.1,0.1,2,0,76,82,92.7,5,61,4,2,1,Manchester City
+Rico Lewis,82.0,eng ENG,DM,19-312,80,0,0,0,0,0,0,0,0,31,1,0,1,0.0,0.0,0.0,0,0,21,23,91.3,1,18,0,0,0,Manchester City
+Sávio,26.0,br BRA,RW,20-171,10,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.1,2,0,7,10,70.0,1,8,4,1,1,Manchester City
+Joško Gvardiol,24.0,hr CRO,LB,22-249,90,1,0,0,0,1,1,0,0,68,2,2,0,0.1,0.1,0.0,2,1,49,57,86.0,2,49,2,3,1,Manchester City
+Manuel Akanji,25.0,ch SUI,CB,29-071,90,0,0,0,0,2,0,0,0,78,1,1,0,0.1,0.1,0.0,4,0,63,71,88.7,8,58,1,0,0,Manchester City
+Rúben Dias,3.0,pt POR,CB,27-137,90,0,0,0,0,0,0,1,0,93,1,1,1,0.0,0.0,0.0,1,0,77,86,89.5,6,68,1,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,34-123,90,0,0,0,0,0,0,0,0,73,1,1,2,0.0,0.0,0.0,0,0,56,67,83.6,1,44,1,1,1,Manchester City
+Ederson,31.0,br BRA,GK,31-042,90,0,0,0,0,0,0,1,0,52,0,0,0,0.0,0.0,0.0,0,0,38,49,77.6,0,40,0,0,0,Manchester City
+14 Players,,,,,990,1,1,0,0,16,6,4,0,705,15,7,8,0.9,0.9,0.8,31,2,511,598,85.5,40,493,31,24,13,Manchester City

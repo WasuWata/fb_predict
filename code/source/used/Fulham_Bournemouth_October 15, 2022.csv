@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Aleksandar Mitrović,9.0,rs SRB,FW,28-029,90,1,0,1,1,4,1,0,0,30,0,0,1,1.2,0.4,0.1,6,2,8,19,42.1,0,21,1,2,1,Fulham
+Neeskens Kebano,7.0,cd COD,LW,30-219,61,0,0,0,0,1,0,0,0,23,0,0,0,0.0,0.0,0.0,4,0,16,19,84.2,2,17,3,0,0,Fulham
+Harry Wilson,8.0,wls WAL,LW,25-207,29,0,0,0,0,1,0,0,0,20,1,0,0,0.1,0.1,0.0,1,0,14,18,77.8,0,14,1,0,0,Fulham
+Daniel James,21.0,wls WAL,RW,24-339,45,0,0,0,0,3,0,0,0,22,1,0,0,0.2,0.2,0.0,1,0,11,16,68.8,0,15,1,0,0,Fulham
+Willian,20.0,br BRA,RW,34-067,45,0,0,0,0,1,0,0,0,28,0,0,0,0.0,0.0,0.1,3,0,22,27,81.5,5,22,2,1,1,Fulham
+Andreas Pereira,18.0,br BRA,AM,26-287,86,0,1,0,0,1,0,0,0,44,1,0,1,0.0,0.0,0.6,5,2,21,35,60.0,6,26,3,2,1,Fulham
+Carlos Vinícius,30.0,br BRA,RW,27-204,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Fulham
+João Palhinha,26.0,pt POR,DM,27-098,90,0,0,0,0,2,1,0,0,62,3,1,1,0.1,0.1,0.0,0,0,44,51,86.3,3,37,0,0,0,Fulham
+Harrison Reed,6.0,eng ENG,DM,27-261,45,0,0,0,0,0,0,0,0,26,0,1,1,0.0,0.0,0.2,5,0,14,18,77.8,1,9,0,1,1,Fulham
+Tom Cairney,10.0,sct SCO,DM,31-268,45,0,0,0,0,1,0,0,0,60,0,1,0,0.1,0.1,0.1,3,0,45,55,81.8,6,49,3,1,0,Fulham
+Antonee Robinson,33.0,us USA,LB,25-068,90,0,0,0,0,0,0,0,0,88,0,0,1,0.0,0.0,0.0,4,0,65,79,82.3,12,55,5,5,2,Fulham
+Tim Ream,13.0,us USA,CB,35-010,90,0,0,0,0,0,0,1,0,91,2,0,1,0.0,0.0,0.0,2,0,78,85,91.8,10,68,5,0,0,Fulham
+Issa Diop,31.0,fr FRA,CB,25-279,90,1,0,0,0,1,1,0,0,107,1,0,0,0.2,0.2,0.0,1,0,96,102,94.1,13,86,0,1,1,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,RB,29-255,90,0,0,0,0,3,0,1,0,98,3,2,0,0.1,0.1,0.1,2,0,67,87,77.0,5,50,1,2,1,Fulham
+Bernd Leno,17.0,de GER,GK,30-225,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,28,37,75.7,0,22,0,0,0,Fulham
+15 Players,,,,,990,2,1,1,1,18,3,2,0,741,12,5,6,2.1,1.3,1.1,37,4,530,649,81.7,63,492,25,15,8,Fulham
+Dominic Solanke,9.0,eng ENG,FW,25-031,88,1,1,0,0,2,2,0,0,29,1,0,0,0.3,0.3,0.1,2,2,13,18,72.2,1,19,2,0,0,Bournemouth
+Kieffer Moore,21.0,wls WAL,FW,30-068,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,Bournemouth
+Marcus Tavernier,16.0,eng ENG,LW,23-207,74,0,0,0,0,2,0,0,0,40,6,0,3,0.0,0.0,0.0,0,0,12,23,52.2,0,22,4,3,1,Bournemouth
+Jaidon Anthony,32.0,eng ENG,"LM,LW",22-318,16,0,0,0,0,1,1,0,0,11,0,0,0,0.0,0.0,0.0,0,0,2,8,25.0,0,7,0,0,0,Bournemouth
+Ryan Christie,10.0,sct SCO,"RW,RM",27-235,88,0,0,0,0,0,0,0,0,33,2,1,1,0.0,0.0,0.1,7,1,19,22,86.4,5,18,2,1,1,Bournemouth
+Jack Stacey,17.0,eng ENG,RM,26-192,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Bournemouth
+Philip Billing,29.0,dk DEN,AM,26-126,79,0,1,0,0,0,0,0,0,33,4,0,2,0.0,0.0,0.3,2,1,16,20,80.0,2,13,1,2,1,Bournemouth
+Jordan Zemura,33.0,zw ZIM,LB,22-335,11,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,1,0,3,6,50.0,0,4,0,0,0,Bournemouth
+Jefferson Lerma,8.0,co COL,"DM,CM",27-355,90,1,0,0,0,3,2,0,0,43,1,2,2,0.4,0.4,0.0,1,0,24,27,88.9,5,12,0,0,0,Bournemouth
+Lewis Cook,4.0,eng ENG,"DM,CM",25-254,90,0,0,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.3,3,0,25,35,71.4,7,17,1,1,0,Bournemouth
+Adam Smith,15.0,eng ENG,"LB,CB",31-169,90,0,0,0,0,1,1,0,0,36,0,0,3,0.3,0.3,0.0,1,0,16,23,69.6,0,9,0,0,0,Bournemouth
+Marcos Senesi,25.0,ar ARG,CB,25-158,90,0,0,0,0,0,0,0,0,45,0,2,4,0.0,0.0,0.0,0,0,20,29,69.0,1,19,0,0,0,Bournemouth
+Chris Mepham,6.0,wls WAL,CB,24-344,90,0,0,0,0,1,0,0,0,47,0,0,1,0.0,0.0,0.0,0,0,24,35,68.6,1,18,0,0,0,Bournemouth
+Ryan Fredericks,2.0,eng ENG,RB,30-005,90,0,0,0,0,0,0,0,0,32,0,0,2,0.0,0.0,0.0,0,0,16,22,72.7,0,11,1,1,0,Bournemouth
+Neto,13.0,br BRA,GK,33-088,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,13,26,50.0,0,15,0,0,0,Bournemouth
+15 Players,,,,,990,2,2,0,0,10,6,0,0,431,14,5,20,1.1,1.1,0.8,17,4,204,298,68.5,22,186,11,8,3,Bournemouth

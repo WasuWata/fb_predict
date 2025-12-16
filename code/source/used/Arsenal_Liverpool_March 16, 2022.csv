@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Alexandre Lacazette,9.0,fr FRA,FW,30-292,79,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.3,2,0,9,13,69.2,2,11,0,1,1,Arsenal
+Eddie Nketiah,30.0,eng ENG,FW,22-290,11,0,0,0,0,0,0,0,0,7,0,0,2,0.0,0.0,0.0,0,0,2,4,50.0,1,3,1,0,0,Arsenal
+Gabriel Martinelli,35.0,br BRA,LW,20-271,90,0,0,0,0,1,0,0,0,54,1,1,1,0.1,0.1,0.0,1,0,23,35,65.7,1,33,3,3,3,Arsenal
+Bukayo Saka,7.0,eng ENG,RW,20-192,73,0,0,0,0,1,1,0,0,29,0,0,1,0.0,0.0,0.0,2,0,15,21,71.4,1,23,1,1,0,Arsenal
+Nicolas Pépé,19.0,ci CIV,RW,26-291,17,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,8,1,0,0,Arsenal
+Martin Ødegaard,8.0,no NOR,AM,23-089,66,0,0,0,0,1,1,0,0,35,4,0,2,0.2,0.2,0.0,2,0,19,22,86.4,1,18,1,2,1,Arsenal
+Emile Smith Rowe,10.0,eng ENG,AM,21-231,24,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,2,0,12,15,80.0,2,11,0,2,2,Arsenal
+Granit Xhaka,34.0,ch SUI,DM,29-170,90,0,0,0,0,1,0,0,0,70,0,0,0,0.0,0.0,0.1,4,0,53,62,85.5,9,39,0,1,1,Arsenal
+Thomas Partey,5.0,gh GHA,DM,28-276,90,0,0,0,0,2,0,0,0,71,3,2,2,0.0,0.0,0.0,1,0,47,57,82.5,4,43,0,4,4,Arsenal
+Kieran Tierney,3.0,sct SCO,LB,24-284,90,0,0,0,0,0,0,0,0,68,4,0,3,0.0,0.0,0.0,0,0,47,58,81.0,8,39,2,0,0,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,24-087,90,0,0,0,0,0,0,0,0,74,0,0,2,0.0,0.0,0.0,0,0,58,66,87.9,1,50,0,0,0,Arsenal
+Ben White,4.0,eng ENG,CB,24-159,90,0,0,0,0,0,0,0,0,84,1,2,0,0.0,0.0,0.0,0,0,66,73,90.4,2,52,0,1,1,Arsenal
+Cédric Soares,17.0,pt POR,RB,30-197,90,0,0,0,0,1,0,0,0,82,2,0,0,0.0,0.0,0.0,0,0,57,74,77.0,4,43,2,1,1,Arsenal
+Aaron Ramsdale,32.0,eng ENG,GK,23-306,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,1,0,17,36,47.2,0,22,0,0,0,Arsenal
+14 Players,,,,,990,0,0,0,0,9,2,0,0,653,16,5,13,0.5,0.5,0.4,15,0,434,545,79.6,36,395,11,16,14,Arsenal
+Diogo Jota,20.0,pt POR,FW,25-102,55,1,0,0,0,1,1,0,0,23,0,0,0,0.0,0.0,0.0,0,0,13,19,68.4,2,13,2,0,0,Liverpool
+Roberto Firmino,9.0,br BRA,FW,30-165,35,1,0,0,0,1,1,1,0,23,0,0,3,0.3,0.3,0.0,2,0,15,17,88.2,1,16,1,2,1,Liverpool
+Luis Díaz,23.0,co COL,LW,25-062,55,0,0,0,0,0,0,0,0,25,1,2,0,0.0,0.0,0.0,0,0,15,18,83.3,0,14,2,2,1,Liverpool
+Mohamed Salah,11.0,eg EGY,RW,29-274,35,0,0,0,0,3,0,0,0,21,0,0,0,0.2,0.2,0.0,2,0,10,16,62.5,1,10,1,1,0,Liverpool
+Sadio Mané,10.0,sn SEN,"RW,LW",29-340,90,0,0,0,0,1,0,0,0,27,0,0,4,0.1,0.1,0.0,0,0,11,14,78.6,1,19,1,2,1,Liverpool
+Thiago Alcántara,6.0,es ESP,LM,30-339,89,0,1,0,0,0,0,0,0,73,6,4,0,0.0,0.0,0.2,2,1,51,59,86.4,6,42,2,1,0,Liverpool
+Curtis Jones,17.0,eng ENG,LM,21-045,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Liverpool
+Fabinho,3.0,br BRA,CM,28-144,90,0,0,0,0,0,0,0,0,57,2,0,3,0.0,0.0,0.0,0,0,39,48,81.3,0,22,0,1,1,Liverpool
+Jordan Henderson,14.0,eng ENG,RM,31-272,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,1,0,38,51,74.5,4,27,2,0,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,28-005,90,0,1,0,0,1,0,0,0,101,4,3,3,0.0,0.0,0.3,2,1,66,88,75.0,5,53,2,0,0,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,30-251,90,0,0,0,0,1,1,0,0,91,0,0,1,0.0,0.0,0.0,1,1,78,86,90.7,2,65,0,0,0,Liverpool
+Joël Matip,32.0,cm CMR,CB,30-220,90,0,0,0,0,1,0,0,0,68,1,0,1,0.0,0.0,0.0,1,0,48,57,84.2,3,40,2,0,0,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,23-160,90,0,0,0,0,0,0,0,0,68,2,2,0,0.0,0.0,0.1,4,0,40,62,64.5,8,28,0,0,0,Liverpool
+Alisson,1.0,br BRA,GK,29-165,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,32,36,88.9,0,26,0,0,0,Liverpool
+14 Players,,,,,990,2,2,0,0,9,3,1,0,669,16,11,15,0.8,0.8,0.7,15,3,457,572,79.9,33,377,15,9,4,Liverpool

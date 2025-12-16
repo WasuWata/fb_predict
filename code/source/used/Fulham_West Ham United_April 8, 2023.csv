@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Carlos Vinícius,30.0,br BRA,FW,28-014,90,0,0,0,0,1,0,1,0,19,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,1,14,1,0,0,Fulham
+Willian,20.0,br BRA,"LW,RW",34-242,84,0,0,0,0,1,0,0,0,68,0,0,0,0.0,0.0,0.1,7,0,53,62,85.5,7,59,4,3,2,Fulham
+Harry Wilson,8.0,wls WAL,RW,26-017,6,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.1,1,0,3,4,75.0,0,2,0,0,0,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,RW,30-065,45,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,14,17,82.4,2,15,0,1,0,Fulham
+Manor Solomon,11.0,il ISR,LW,23-258,45,0,0,0,0,0,0,0,0,22,2,0,2,0.0,0.0,0.0,0,0,15,15,100.0,1,14,0,1,0,Fulham
+Andreas Pereira,18.0,br BRA,AM,27-097,84,0,0,0,0,6,2,0,0,79,0,0,0,0.3,0.3,0.0,6,0,46,64,71.9,6,50,2,2,0,Fulham
+Daniel James,21.0,wls WAL,AM,25-149,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,2,0,0,0,Fulham
+João Palhinha,26.0,pt POR,DM,27-273,90,0,0,0,0,2,0,0,0,85,3,0,2,0.1,0.1,0.0,4,0,64,70,91.4,6,60,0,2,0,Fulham
+Harrison Reed,6.0,eng ENG,DM,28-071,45,0,0,0,0,0,0,0,0,39,2,1,0,0.0,0.0,0.0,1,0,25,31,80.6,1,27,1,1,0,Fulham
+Tom Cairney,10.0,sct SCO,DM,32-078,45,0,0,0,0,1,0,0,0,53,0,1,1,0.1,0.1,0.0,3,0,46,50,92.0,8,46,2,0,0,Fulham
+Antonee Robinson,33.0,us USA,LB,25-243,90,0,0,0,0,1,0,0,0,97,5,0,1,0.0,0.0,0.0,3,0,61,82,74.4,5,61,2,2,1,Fulham
+Tim Ream,13.0,us USA,CB,35-185,90,0,0,0,0,0,0,0,0,109,0,0,2,0.0,0.0,0.0,1,0,91,102,89.2,16,80,3,1,0,Fulham
+Tosin Adarabioyo,4.0,eng ENG,CB,25-196,90,0,0,0,0,2,1,0,0,107,1,2,0,0.1,0.1,0.2,4,0,79,91,86.8,16,69,4,0,0,Fulham
+Cédric Soares,12.0,pt POR,RB,31-220,67,0,0,0,0,1,0,0,0,86,2,0,0,0.0,0.0,0.1,1,0,63,81,77.8,2,58,2,0,0,Fulham
+Kenny Tete,2.0,nl NED,RB,27-181,23,0,0,0,0,0,0,0,0,15,1,1,0,0.0,0.0,0.0,0,0,5,10,50.0,1,8,1,0,0,Fulham
+Bernd Leno,17.0,de GER,GK,31-035,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,35,40,87.5,0,27,0,0,0,Fulham
+16 Players,,,,,990,0,0,0,0,16,3,1,0,847,17,5,8,0.7,0.7,0.5,32,0,613,735,83.4,72,592,22,13,3,Fulham
+Michail Antonio,9.0,jm JAM,FW,33-011,89,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,0,0,9,16,56.3,1,21,2,4,1,West Ham United
+Maxwel Cornet,14.0,ci CIV,FW,26-193,1,0,0,0,0,1,1,0,0,3,1,0,0,0.5,0.5,0.1,2,0,1,1,100.0,0,2,1,0,0,West Ham United
+Danny Ings,18.0,eng ENG,FW,30-259,60,0,0,0,0,1,1,0,0,14,0,1,0,0.1,0.1,0.0,0,0,5,7,71.4,1,5,1,0,0,West Ham United
+Flynn Downes,12.0,eng ENG,FW,24-078,30,0,0,0,0,0,0,0,0,14,2,0,1,0.0,0.0,0.0,2,0,8,9,88.9,1,5,0,0,0,West Ham United
+Pablo Fornals,8.0,es ESP,LM,27-045,60,0,0,0,0,0,0,0,0,33,4,0,2,0.0,0.0,0.0,1,0,14,26,53.8,1,15,1,1,0,West Ham United
+Saïd Benrahma,22.0,dz ALG,LM,27-241,30,0,0,0,0,2,0,0,0,14,1,0,0,0.1,0.1,0.2,1,0,7,8,87.5,1,7,2,0,0,West Ham United
+Declan Rice,41.0,eng ENG,CM,24-084,90,0,0,0,0,1,1,1,0,44,1,3,2,0.0,0.0,0.0,1,0,16,26,61.5,1,16,2,2,0,West Ham United
+Tomáš Souček,28.0,cz CZE,CM,28-040,90,0,0,0,0,0,0,0,0,36,2,1,1,0.0,0.0,0.1,2,0,12,21,57.1,3,9,1,0,0,West Ham United
+Jarrod Bowen,20.0,eng ENG,RM,26-109,90,0,0,0,0,1,1,0,0,30,0,1,1,0.2,0.2,0.1,2,0,9,18,50.0,2,16,2,6,1,West Ham United
+Aaron Cresswell,3.0,eng ENG,LB,33-114,90,0,0,0,0,0,0,0,0,46,1,2,1,0.0,0.0,0.1,3,0,29,39,74.4,3,19,1,0,0,West Ham United
+Angelo Ogbonna,21.0,it ITA,CB,34-320,90,0,0,0,0,1,0,0,0,29,1,3,2,0.1,0.1,0.0,0,0,7,10,70.0,0,11,0,0,0,West Ham United
+Kurt Zouma,4.0,fr FRA,CB,28-163,90,0,0,0,0,2,1,0,0,27,0,1,2,0.1,0.1,0.0,0,0,4,7,57.1,1,5,0,0,0,West Ham United
+Vladimír Coufal,5.0,cz CZE,RB,30-229,90,0,0,0,0,0,0,0,0,53,2,4,1,0.0,0.0,0.0,0,0,16,31,51.6,0,21,1,3,0,West Ham United
+Łukasz Fabiański,1.0,pl POL,GK,37-355,90,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,8,16,50.0,0,9,0,0,0,West Ham United
+14 Players,,,,,990,0,0,0,0,9,5,1,0,392,17,16,13,1.1,1.1,0.6,14,0,145,235,61.7,15,161,14,16,2,West Ham United

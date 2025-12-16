@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Chris Wood,11.0,nz NZL,FW,32-339,90,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.1,2,0,12,19,63.2,2,12,0,0,0,Nottingham Forest
+Callum Hudson-Odoi,14.0,eng ENG,LW,24-003,58,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,19,23,82.6,0,15,2,0,0,Nottingham Forest
+Jota Silva,20.0,pt POR,"RW,RM",25-101,32,0,0,0,0,0,0,0,0,19,2,1,1,0.0,0.0,0.1,2,0,8,11,72.7,1,12,2,2,1,Nottingham Forest
+Anthony Elanga,21.0,se SWE,"RW,LW,AM",22-197,87,0,1,0,0,2,0,0,0,41,4,0,0,0.1,0.1,0.4,6,2,17,31,54.8,3,14,4,4,2,Nottingham Forest
+Taiwo Awoniyi,9.0,ng NGA,"FW,AM",27-090,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Nottingham Forest
+Morgan Gibbs-White,10.0,eng ENG,AM,24-288,58,0,0,0,0,1,0,0,0,30,2,0,0,0.1,0.1,0.0,0,0,15,24,62.5,1,19,3,3,1,Nottingham Forest
+Elliot Anderson,8.0,eng ENG,"AM,DM,CM",22-004,32,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,19,23,82.6,3,15,1,1,0,Nottingham Forest
+Nicolás Domínguez,16.0,ar ARG,DM,26-135,73,0,0,0,0,1,1,0,0,53,3,1,2,0.0,0.0,0.0,0,0,39,45,86.7,2,26,1,1,0,Nottingham Forest
+Ramón Sosa,24.0,py PAR,"LW,LB",25-071,17,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,1,0,9,9,100.0,1,6,0,1,0,Nottingham Forest
+Ryan Yates,22.0,eng ENG,"DM,CM",26-355,90,0,0,0,0,1,1,1,0,54,4,0,0,0.1,0.1,0.0,2,0,39,45,86.7,6,23,1,0,0,Nottingham Forest
+Álex Moreno,19.0,es ESP,LB,31-155,87,0,0,0,0,0,0,0,0,50,4,3,1,0.0,0.0,0.0,0,0,22,33,66.7,1,18,2,2,1,Nottingham Forest
+James Ward-Prowse,18.0,eng ENG,"LM,LB",30-009,3,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,1,6,0,0,0,Nottingham Forest
+Murillo,5.0,br BRA,CB,22-129,90,1,0,0,0,2,1,0,0,53,4,1,1,0.2,0.2,0.0,0,0,29,37,78.4,4,23,1,0,0,Nottingham Forest
+Nikola Milenković,31.0,rs SRB,CB,27-029,90,0,0,0,0,1,0,0,0,47,3,0,1,0.0,0.0,0.0,0,0,30,37,81.1,1,22,1,0,0,Nottingham Forest
+Ola Aina,34.0,ng NGA,RB,28-033,90,0,0,0,0,0,0,0,0,63,2,1,1,0.0,0.0,0.0,1,0,40,56,71.4,5,26,2,1,1,Nottingham Forest
+Matz Sels,26.0,be BEL,GK,32-258,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,1,0,14,27,51.9,0,14,0,0,0,Nottingham Forest
+16 Players,,,,,990,1,1,0,0,9,3,1,0,537,29,7,8,0.6,0.6,0.5,16,2,319,429,74.4,31,251,20,15,6,Nottingham Forest

@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ross Stewart,11.0,sct SCO,FW,28-289,65,0,0,0,0,1,0,0,0,18,2,0,0,0.1,0.1,0.0,0,0,4,7,57.1,0,6,0,0,0,Southampton
+Cameron Archer,19.0,eng ENG,FW,23-279,25,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,4,0,1,0,Southampton
+Kamaldeen Sulemana,20.0,gh GHA,"AM,LM",23-070,77,0,0,0,0,3,1,1,0,23,1,1,0,0.1,0.1,0.0,1,0,11,13,84.6,1,11,3,5,2,Southampton
+Tyler Dibling,33.0,eng ENG,LM,19-045,13,0,0,0,0,0,0,0,0,11,0,1,1,0.0,0.0,0.0,0,0,6,9,66.7,1,6,0,1,0,Southampton
+Mateus Fernandes,18.0,pt POR,"AM,RM",20-290,85,0,0,0,0,1,0,0,0,48,3,2,4,0.0,0.0,0.0,0,0,28,30,93.3,3,18,1,2,0,Southampton
+James Bree,14.0,eng ENG,RB,27-197,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,3,1,0,0,Southampton
+Lesley Ugochukwu,26.0,fr FRA,CM,21-031,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,1,0,27,33,81.8,1,22,3,1,1,Southampton
+Flynn Downes,4.0,eng ENG,CM,26-096,90,0,0,0,0,0,0,0,0,42,2,0,1,0.0,0.0,0.2,2,0,30,36,83.3,3,16,1,0,0,Southampton
+Ryan Manning,3.0,ie IRL,"LB,WB",28-316,90,0,1,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.3,4,2,15,30,50.0,1,19,1,1,0,Southampton
+Kyle Walker-Peters,2.0,eng ENG,"WB,RB,RM",28-013,90,0,0,0,0,1,1,0,0,52,0,1,0,0.2,0.2,0.0,3,0,30,35,85.7,2,35,2,8,5,Southampton
+Jack Stephens,5.0,eng ENG,CB,31-089,90,1,0,0,0,1,1,0,0,36,1,0,3,0.3,0.3,0.0,0,0,22,25,88.0,1,15,0,0,0,Southampton
+Jan Bednarek,35.0,pl POL,CB,29-014,90,0,0,0,0,0,0,0,0,36,0,1,0,0.0,0.0,0.0,0,0,23,25,92.0,0,20,0,0,0,Southampton
+Taylor Harwood-Bellis,6.0,eng ENG,CB,23-086,90,0,0,0,0,0,0,0,0,61,0,0,2,0.0,0.0,0.0,1,0,35,44,79.5,4,25,0,0,0,Southampton
+Aaron Ramsdale,30.0,eng ENG,GK,26-347,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,16,40,40.0,0,14,0,0,0,Southampton
+14 Players,,,,,990,1,1,0,0,7,3,1,0,468,9,6,11,0.6,0.6,0.5,12,2,255,338,75.4,18,214,12,19,8,Southampton
+Raúl Jiménez,7.0,mx MEX,FW,33-356,90,0,0,0,0,7,1,1,0,38,0,0,1,0.7,0.7,0.0,2,0,19,25,76.0,4,21,1,1,0,Fulham
+Willian,22.0,br BRA,LW,36-260,65,0,0,0,0,4,0,0,0,53,1,0,0,0.2,0.2,0.2,5,0,41,48,85.4,9,36,3,2,1,Fulham
+Emile Smith Rowe,32.0,eng ENG,"AM,LW",24-272,25,1,0,0,0,2,2,0,0,22,0,1,0,0.3,0.3,0.0,2,0,15,17,88.2,4,11,0,0,0,Fulham
+Harry Wilson,8.0,wls WAL,"RW,RM,DM",28-035,85,0,0,0,0,1,0,0,0,45,2,0,0,0.0,0.0,0.1,6,0,27,39,69.2,3,21,0,1,0,Fulham
+Carlos Vinícius,12.0,br BRA,AM,30-032,5,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Fulham
+Alex Iwobi,17.0,ng NGA,"LM,LW",28-358,85,0,1,0,0,1,0,0,0,62,0,0,0,0.2,0.2,0.2,1,1,42,58,72.4,11,41,4,3,0,Fulham
+Tom Cairney,10.0,sct SCO,DM,34-096,5,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.2,2,1,7,9,77.8,0,8,1,0,0,Fulham
+Sander Berge,16.0,no NOR,CM,27-071,45,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,2,0,28,29,96.6,5,22,2,0,0,Fulham
+Saša Lukić,20.0,rs SRB,"DM,CM",28-256,45,0,0,0,0,1,0,0,0,38,2,0,1,0.1,0.1,0.0,1,0,29,33,87.9,4,23,0,0,0,Fulham
+Andreas Pereira,18.0,br BRA,RM,29-115,45,0,0,0,0,1,0,0,0,30,0,0,0,0.1,0.1,0.1,5,0,17,26,65.4,1,9,0,0,0,Fulham
+Adama Traoré,11.0,es ESP,RW,29-091,45,0,1,0,0,1,0,0,0,24,0,0,1,0.0,0.0,0.6,6,1,15,19,78.9,4,15,6,3,2,Fulham
+Ryan Sessegnon,30.0,eng ENG,LB,24-343,90,1,0,0,0,3,1,0,0,80,7,0,2,0.3,0.3,0.3,4,0,47,62,75.8,10,41,3,2,1,Fulham
+Calvin Bassey,3.0,ng NGA,CB,25-116,90,0,0,0,0,1,0,0,0,91,0,0,0,0.0,0.0,0.0,3,1,77,82,93.9,9,61,10,1,0,Fulham
+Joachim Andersen,5.0,dk DEN,CB,28-330,90,0,0,0,0,3,1,0,0,107,0,0,3,0.4,0.4,0.0,6,0,78,86,90.7,3,60,0,0,0,Fulham
+Kenny Tete,2.0,nl NED,RB,29-199,90,0,0,0,0,1,0,0,0,78,5,0,0,0.1,0.1,0.1,6,0,53,66,80.3,4,45,0,2,0,Fulham
+Bernd Leno,1.0,de GER,GK,33-053,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,0,12,0,0,0,Fulham
+16 Players,,,,,990,2,2,0,0,26,5,1,0,735,18,1,9,2.4,2.4,1.8,51,4,517,622,83.1,71,428,30,15,4,Fulham

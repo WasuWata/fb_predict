@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Calvert-Lewin,9.0,eng ENG,FW,26-059,45,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,8,3,1,0,Everton
+Neal Maupay,20.0,fr FRA,FW,26-273,45,0,0,0,0,1,0,0,0,11,0,0,1,0.4,0.4,0.0,0,0,8,9,88.9,0,3,0,0,0,Everton
+Dwight McNeil,7.0,eng ENG,"LW,LB",23-173,90,0,0,0,0,1,0,0,0,59,3,4,2,0.1,0.1,0.5,4,0,33,44,75.0,1,30,0,5,3,Everton
+Alex Iwobi,17.0,ng NGA,"RW,LM",27-011,90,0,0,0,0,0,0,0,0,43,0,0,2,0.0,0.0,0.0,1,0,30,35,85.7,8,28,2,0,0,Everton
+Abdoulaye Doucouré,16.0,ml MLI,"AM,RM",30-133,90,0,0,0,0,0,0,0,0,38,2,1,2,0.0,0.0,0.0,0,0,27,31,87.1,1,23,2,1,1,Everton
+Idrissa Gana Gueye,27.0,sn SEN,DM,33-230,55,0,0,0,0,0,0,0,0,20,3,1,1,0.0,0.0,0.0,0,0,12,13,92.3,2,10,0,0,0,Everton
+Amadou Onana,8.0,be BEL,"CM,DM",21-271,35,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,27,30,90.0,4,22,0,0,0,Everton
+James Garner,37.0,eng ENG,"DM,CM",22-062,75,0,0,0,0,0,0,1,0,34,1,0,0,0.0,0.0,0.2,2,0,25,31,80.6,6,17,1,2,2,Everton
+Demarai Gray,11.0,jm JAM,CM,26-320,15,0,0,0,0,0,0,0,0,8,2,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,5,2,2,1,Everton
+Mason Holgate,4.0,jm JAM,LB,26-204,54,0,0,0,0,1,0,0,0,10,0,0,0,0.7,0.7,0.0,0,0,4,7,57.1,0,4,0,0,0,Everton
+Conor Coady,30.0,eng ENG,"CB,LB",30-078,36,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,26,29,89.7,1,25,0,0,0,Everton
+James Tarkowski,2.0,eng ENG,CB,30-176,90,0,0,0,0,2,1,0,0,53,1,2,1,0.3,0.3,0.7,2,0,36,43,83.7,1,30,0,0,0,Everton
+Yerry Mina,13.0,co COL,CB,28-233,90,0,0,0,0,2,1,0,0,65,1,2,0,0.4,0.4,0.0,1,0,53,57,93.0,1,48,0,1,1,Everton
+Nathan Patterson,3.0,sct SCO,RB,21-210,90,0,0,0,0,0,0,0,0,54,3,1,1,0.0,0.0,0.0,0,0,35,44,79.5,1,31,0,2,1,Everton
+Jordan Pickford,1.0,eng ENG,GK,29-068,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,19,31,61.3,0,19,0,0,0,Everton
+15 Players,,,,,990,0,0,0,0,7,2,1,0,498,16,11,10,1.9,1.9,1.4,10,0,343,417,82.3,26,303,10,14,9,Everton
+Erling Haaland,9.0,no NOR,FW,22-297,77,1,0,0,0,2,1,0,0,11,0,0,0,0.4,0.4,0.0,1,0,5,7,71.4,0,5,1,1,1,Manchester City
+Jack Grealish,10.0,eng ENG,LW,27-246,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,8,0,1,0,Manchester City
+Phil Foden,47.0,eng ENG,"LW,AM",22-351,90,0,0,0,0,1,0,0,0,66,0,0,0,0.0,0.0,0.1,4,1,49,58,84.5,4,52,7,5,3,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,32-082,90,0,1,0,0,2,0,0,0,63,3,1,2,0.1,0.1,0.2,5,1,37,48,77.1,3,40,4,3,2,Manchester City
+Julián Álvarez,19.0,ar ARG,"AM,FW",23-103,90,0,0,0,0,0,0,0,0,35,1,0,0,0.0,0.0,0.0,1,1,22,29,75.9,1,24,0,3,0,Manchester City
+İlkay Gündoğan,8.0,de GER,DM,32-202,77,2,1,0,0,2,2,0,0,42,0,0,0,0.3,0.3,0.3,2,1,31,37,83.8,3,18,0,0,0,Manchester City
+Bernardo Silva,20.0,pt POR,DM,28-277,13,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,15,15,100.0,1,9,0,0,0,Manchester City
+Rodri,16.0,es ESP,DM,26-326,87,0,0,0,0,1,1,0,0,78,0,1,0,0.0,0.0,0.0,1,0,68,75,90.7,4,54,1,1,1,Manchester City
+Kalvin Phillips,4.0,eng ENG,DM,27-163,3,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,7,0,0,0,Manchester City
+Manuel Akanji,25.0,ch SUI,"LB,CB",27-299,90,0,0,0,0,0,0,0,0,93,1,2,0,0.0,0.0,0.0,0,0,82,87,94.3,9,53,1,2,0,Manchester City
+Aymeric Laporte,14.0,es ESP,CB,28-352,90,0,0,0,0,0,0,0,0,118,1,0,0,0.0,0.0,0.0,1,0,103,112,92.0,13,81,5,0,0,Manchester City
+Rúben Dias,3.0,pt POR,CB,26-000,89,0,0,0,0,0,0,0,0,104,0,0,2,0.0,0.0,0.0,1,0,92,97,94.8,3,76,0,0,0,Manchester City
+Sergio Gómez,21.0,es ESP,LB,22-252,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,1,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,32-351,90,0,0,0,0,1,0,0,0,95,1,1,0,0.0,0.0,0.0,1,1,76,86,88.4,9,65,2,1,1,Manchester City
+Ederson,31.0,br BRA,GK,29-270,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,34,37,91.9,0,26,0,0,0,Manchester City
+15 Players,,,,,990,3,2,0,0,9,4,0,0,781,7,5,4,0.8,0.8,0.6,17,5,630,706,89.2,51,520,21,18,8,Manchester City

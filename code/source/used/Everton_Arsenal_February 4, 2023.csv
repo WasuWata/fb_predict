@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Calvert-Lewin,9.0,eng ENG,FW,25-325,61,0,0,0,0,4,1,0,0,29,1,0,0,0.9,0.9,0.0,3,1,12,17,70.6,1,12,2,3,2,Everton
+Neal Maupay,20.0,fr FRA,FW,26-174,29,0,0,0,0,1,1,1,0,9,0,1,1,0.0,0.0,0.0,0,0,3,6,50.0,0,4,0,0,0,Everton
+Alex Iwobi,17.0,ng NGA,LW,26-277,90,0,0,0,0,1,0,0,0,41,2,0,1,0.1,0.1,0.2,4,0,20,35,57.1,5,20,4,3,2,Everton
+Dwight McNeil,7.0,eng ENG,RW,23-074,90,0,1,0,0,1,0,0,0,36,2,1,2,0.0,0.0,0.6,3,1,13,24,54.2,1,22,5,3,1,Everton
+Amadou Onana,8.0,be BEL,CM,21-172,90,0,0,0,0,1,1,1,0,44,4,2,3,0.0,0.0,0.7,4,0,24,31,77.4,1,15,1,2,1,Everton
+Idrissa Gana Gueye,27.0,sn SEN,CM,33-131,90,0,0,0,0,0,0,0,0,34,2,1,1,0.0,0.0,0.0,0,0,25,25,100.0,1,18,0,1,0,Everton
+Abdoulaye Doucouré,16.0,ml MLI,CM,30-034,90,0,0,0,0,1,0,0,0,37,1,2,2,0.2,0.2,0.0,1,0,20,29,69.0,5,21,1,1,0,Everton
+Vitaliy Mykolenko,19.0,ua UKR,LB,23-251,90,0,0,0,0,1,0,1,0,41,4,1,2,0.0,0.0,0.0,1,0,17,26,65.4,1,7,0,1,0,Everton
+James Tarkowski,2.0,eng ENG,CB,30-077,90,1,0,0,0,2,1,0,0,30,0,2,1,0.4,0.4,0.0,0,0,16,19,84.2,4,7,1,0,0,Everton
+Conor Coady,30.0,eng ENG,CB,29-344,90,0,0,0,0,0,0,0,0,31,1,0,2,0.0,0.0,0.0,0,0,14,26,53.8,0,16,0,1,0,Everton
+Séamus Coleman,23.0,ie IRL,RB,34-116,90,0,0,0,0,0,0,0,0,38,1,1,1,0.0,0.0,0.1,3,0,20,27,74.1,3,16,1,1,1,Everton
+Jordan Pickford,1.0,eng ENG,GK,28-334,90,0,0,0,0,0,0,1,0,34,0,0,0,0.0,0.0,0.0,1,0,18,33,54.5,0,14,0,0,0,Everton
+12 Players,,,,,990,1,1,0,0,12,4,4,0,404,18,11,16,1.7,1.7,1.6,20,2,202,298,67.8,22,172,15,16,7,Everton
+Eddie Nketiah,14.0,eng ENG,FW,23-250,90,0,0,0,0,2,0,0,0,19,2,0,0,0.2,0.2,0.1,2,0,8,10,80.0,0,9,1,2,2,Arsenal
+Gabriel Martinelli,11.0,br BRA,LW,21-231,58,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.1,5,0,27,34,79.4,5,29,3,7,1,Arsenal
+Leandro Trossard,19.0,be BEL,LW,28-062,32,0,0,0,0,2,1,0,0,18,2,0,0,0.1,0.1,0.0,1,0,7,13,53.8,1,12,3,1,0,Arsenal
+Bukayo Saka,7.0,eng ENG,RW,21-152,90,0,0,0,0,4,0,0,0,72,1,1,2,0.2,0.2,0.3,7,0,40,49,81.6,3,50,8,9,5,Arsenal
+Granit Xhaka,34.0,ch SUI,LM,30-130,90,0,0,0,0,2,0,0,0,73,0,0,0,0.1,0.1,0.1,4,0,54,67,80.6,8,39,0,0,0,Arsenal
+Thomas Partey,5.0,gh GHA,CM,29-236,58,0,0,0,0,1,1,0,0,76,3,0,0,0.0,0.0,0.0,0,0,64,70,91.4,9,54,1,2,2,Arsenal
+Jorginho,20.0,it ITA,CM,31-046,32,0,0,0,0,1,0,0,0,32,1,0,0,0.0,0.0,0.0,0,0,24,30,80.0,4,15,0,1,1,Arsenal
+Martin Ødegaard,8.0,no NOR,RM,24-049,76,0,0,0,0,1,0,0,0,35,0,1,0,0.1,0.1,0.1,3,0,28,31,90.3,6,22,2,3,1,Arsenal
+Fabio Vieira,21.0,pt POR,RM,22-250,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,3,0,0,0,Arsenal
+Oleksandr Zinchenko,35.0,ua UKR,LB,26-051,90,0,0,0,0,2,0,1,0,119,0,0,1,0.1,0.1,0.1,1,0,92,110,83.6,21,68,4,0,0,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,25-047,90,0,0,0,0,0,0,0,0,91,1,0,1,0.0,0.0,0.0,2,0,77,80,96.3,6,48,0,0,0,Arsenal
+William Saliba,12.0,fr FRA,CB,21-317,90,0,0,0,0,0,0,0,0,85,1,0,2,0.0,0.0,0.0,1,0,69,76,90.8,1,41,1,0,0,Arsenal
+Ben White,4.0,eng ENG,RB,25-119,84,0,0,0,0,0,0,0,0,76,1,0,0,0.0,0.0,0.0,1,0,61,73,83.6,6,43,3,0,0,Arsenal
+Takehiro Tomiyasu,18.0,jp JPN,RB,24-091,6,0,0,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,1,0,5,5,100.0,1,3,0,0,0,Arsenal
+Aaron Ramsdale,1.0,eng ENG,GK,24-266,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,22,32,68.8,1,21,0,0,0,Arsenal
+15 Players,,,,,990,0,0,0,0,15,2,1,0,785,14,2,6,0.9,0.9,0.8,28,0,584,687,85.0,73,457,26,25,12,Arsenal

@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Solanke,9.0,eng ENG,FW,26-072,90,0,0,0,0,4,0,0,0,37,0,0,1,0.6,0.6,0.0,3,0,10,19,52.6,4,23,1,1,1,Bournemouth
+Marcus Tavernier,16.0,eng ENG,LW,24-248,81,2,0,0,0,6,5,0,0,65,1,0,1,1.2,1.2,0.2,3,0,33,48,68.8,5,38,5,2,1,Bournemouth
+David Brooks,7.0,wls WAL,"RW,LW",26-140,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,1,0,1,0,Bournemouth
+Antoine Semenyo,24.0,gh GHA,RW,23-322,65,0,1,0,0,3,1,0,0,33,1,0,0,0.1,0.1,0.5,5,2,16,23,69.6,3,17,3,5,3,Bournemouth
+Luis Sinisterra,17.0,co COL,"RW,LW",24-161,25,0,0,0,0,3,1,0,0,17,1,0,0,0.2,0.2,0.0,2,0,9,11,81.8,0,9,3,1,1,Bournemouth
+Justin Kluivert,19.0,nl NED,AM,24-204,65,1,0,0,0,4,3,0,0,24,1,0,0,0.4,0.4,0.1,4,1,10,16,62.5,0,13,2,3,2,Bournemouth
+Philip Billing,29.0,dk DEN,AM,27-167,25,0,0,0,0,1,0,1,0,23,0,0,0,0.1,0.1,0.1,3,0,14,18,77.8,2,10,1,0,0,Bournemouth
+Ryan Christie,10.0,sct SCO,DM,28-276,90,0,0,0,0,1,1,0,0,63,4,0,3,0.1,0.1,0.0,1,0,39,50,78.0,7,27,1,0,0,Bournemouth
+Lewis Cook,4.0,eng ENG,DM,26-295,90,0,0,0,0,0,0,0,0,61,3,2,1,0.0,0.0,0.2,2,0,39,51,76.5,5,22,1,1,1,Bournemouth
+Lloyd Kelly,5.0,eng ENG,LB,25-050,45,0,0,0,0,0,0,0,0,56,0,1,1,0.0,0.0,0.1,6,0,37,49,75.5,4,25,1,1,1,Bournemouth
+Milos Kerkez,3.0,hu HUN,LB,20-018,45,0,0,0,0,1,0,0,0,34,0,0,1,0.1,0.1,0.2,2,0,21,26,80.8,1,17,2,1,0,Bournemouth
+Marcos Senesi,25.0,ar ARG,CB,26-199,90,0,0,0,0,0,0,0,0,75,1,1,2,0.0,0.0,0.0,2,0,49,62,79.0,2,36,0,1,1,Bournemouth
+Illia Zabarnyi,27.0,ua UKR,CB,21-085,90,0,0,0,0,0,0,0,0,78,2,1,2,0.0,0.0,0.0,2,0,56,66,84.8,0,37,0,0,0,Bournemouth
+Adam Smith,15.0,eng ENG,RB,32-210,90,0,1,0,0,0,0,0,0,70,2,0,2,0.0,0.0,0.4,3,2,45,63,71.4,7,30,2,0,0,Bournemouth
+Neto,1.0,br BRA,GK,34-129,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,24,39,61.5,0,22,0,0,0,Bournemouth
+15 Players,,,,,990,3,2,0,0,23,11,1,0,680,16,5,14,2.9,2.9,1.8,38,5,404,543,74.4,41,327,22,17,11,Bournemouth

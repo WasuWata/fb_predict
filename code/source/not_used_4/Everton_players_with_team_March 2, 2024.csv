@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Beto,14.0,gw GNB,FW,26-031,73,1,0,0,1,4,3,0,0,30,0,0,1,1.4,0.6,0.1,5,0,11,15,73.3,2,13,1,3,2,Everton
+Dominic Calvert-Lewin,9.0,eng ENG,FW,26-352,17,0,0,0,0,2,1,0,0,10,0,0,1,0.2,0.2,0.0,3,0,5,7,71.4,3,6,2,0,0,Everton
+Abdoulaye Doucouré,16.0,ml MLI,FW,31-061,89,0,0,0,0,1,0,0,0,41,0,0,2,0.2,0.2,0.1,4,0,24,29,82.8,8,24,3,2,0,Everton
+Youssef Chermiti,28.0,pt POR,FW,19-283,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,1,0,Everton
+Dwight McNeil,7.0,eng ENG,LM,24-101,89,0,0,0,0,5,3,0,0,53,0,0,0,0.7,0.7,0.4,5,0,26,40,65.0,6,24,4,2,1,Everton
+Lewis Dobbin,61.0,eng ENG,LM,21-059,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Everton
+James Garner,37.0,eng ENG,"CM,RM",22-355,90,0,1,0,0,2,0,0,0,66,0,0,1,0.1,0.1,0.6,4,1,49,60,81.7,7,30,3,2,1,Everton
+Amadou Onana,8.0,be BEL,CM,22-199,90,0,0,0,0,2,0,0,0,70,2,0,1,0.0,0.0,0.1,5,0,50,57,87.7,5,28,0,1,1,Everton
+Jack Harrison,11.0,eng ENG,RM,27-103,79,0,0,0,0,0,0,0,0,49,0,0,2,0.0,0.0,0.5,1,0,23,38,60.5,3,25,4,3,1,Everton
+André Gomes,21.0,pt POR,"CM,RM",30-216,11,0,0,0,0,2,2,0,0,18,0,1,0,0.1,0.1,0.0,2,0,11,13,84.6,2,8,1,0,0,Everton
+Vitaliy Mykolenko,19.0,ua UKR,LB,24-278,90,0,0,0,0,2,0,0,0,68,1,0,1,0.0,0.0,0.0,2,0,45,58,77.6,1,21,0,1,1,Everton
+Jarrad Branthwaite,32.0,eng ENG,CB,21-249,90,0,0,0,0,0,0,0,0,79,0,1,1,0.0,0.0,0.0,1,0,55,72,76.4,5,37,1,0,0,Everton
+James Tarkowski,6.0,eng ENG,CB,31-104,90,0,0,0,0,0,0,0,0,76,3,1,2,0.0,0.0,0.0,1,0,53,63,84.1,9,41,7,0,0,Everton
+Ben Godfrey,22.0,eng ENG,RB,26-047,90,0,0,0,0,1,0,0,0,62,4,0,0,0.0,0.0,0.0,2,1,37,49,75.5,4,21,2,2,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,29-361,90,0,0,0,0,0,0,1,0,61,0,0,0,0.0,0.0,0.0,2,0,44,58,75.9,0,38,0,0,0,Everton
+15 Players,,,,,990,1,1,0,1,21,9,1,0,687,10,3,12,2.7,1.9,1.8,37,2,434,560,77.5,55,316,28,17,7,Everton

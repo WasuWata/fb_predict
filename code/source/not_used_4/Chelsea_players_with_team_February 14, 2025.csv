@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Christopher Nkunku,18.0,fr FRA,FW,27-092,90,0,0,0,0,0,0,0,0,41,0,0,1,0.0,0.0,0.0,1,0,33,37,89.2,6,23,1,0,0,Chelsea
+Pedro Neto,7.0,pt POR,"RW,LW",24-342,64,0,0,0,0,2,0,0,0,35,1,0,1,0.2,0.2,0.1,1,0,19,24,79.2,1,24,4,6,1,Chelsea
+Tyrique George,32.0,eng ENG,RW,19-010,26,0,0,0,0,1,0,0,0,19,2,0,0,0.1,0.1,0.0,1,0,11,14,78.6,0,12,2,2,2,Chelsea
+Noni Madueke,11.0,eng ENG,RW,22-341,20,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.1,2,0,6,7,85.7,2,10,3,0,0,Chelsea
+Jadon Sancho,19.0,eng ENG,LW,24-326,70,0,0,0,0,0,0,0,0,41,1,0,0,0.0,0.0,0.0,0,0,24,32,75.0,4,29,2,7,3,Chelsea
+Cole Palmer,20.0,eng ENG,AM,22-284,90,0,0,0,0,2,0,0,0,50,0,0,0,0.2,0.2,0.0,1,0,36,44,81.8,7,24,2,6,3,Chelsea
+Enzo Fernández,8.0,ar ARG,DM,24-028,90,0,0,0,0,1,0,1,0,92,3,1,0,0.0,0.0,0.0,0,0,61,81,75.3,4,51,1,0,0,Chelsea
+Moisés Caicedo,25.0,ec ECU,DM,23-104,64,0,0,0,0,0,0,1,0,73,2,1,2,0.0,0.0,0.0,1,0,60,64,93.8,2,35,2,1,0,Chelsea
+Kiernan Dewsbury-Hall,22.0,eng ENG,DM,26-161,26,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,4,1,0,0,Chelsea
+Marc Cucurella,3.0,es ESP,LB,26-207,90,0,0,0,0,0,0,0,0,98,3,1,0,0.0,0.0,0.1,1,0,85,92,92.4,7,53,0,0,0,Chelsea
+Levi Colwill,6.0,eng ENG,CB,21-354,90,0,0,0,0,0,0,0,0,130,3,0,1,0.0,0.0,0.0,1,0,114,123,92.7,0,71,0,0,0,Chelsea
+Trevoh Chalobah,23.0,eng ENG,CB,25-224,90,0,0,0,0,1,0,0,0,106,2,2,0,0.1,0.1,0.0,0,0,95,100,95.0,6,57,0,0,0,Chelsea
+Malo Gusto,27.0,fr FRA,RB,21-271,64,0,0,0,0,1,0,0,0,74,1,1,2,0.1,0.1,0.0,3,0,60,67,89.6,4,43,1,0,0,Chelsea
+Reece James,24.0,eng ENG,RB,25-068,26,0,0,0,0,0,0,0,0,43,0,1,1,0.0,0.0,0.1,1,0,34,38,89.5,5,23,1,0,0,Chelsea
+Filip Jørgensen,12.0,dk DEN,GK,22-304,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,1,0,38,43,88.4,0,30,0,0,0,Chelsea
+15 Players,,,,,990,0,0,0,0,8,0,2,0,868,19,7,8,0.5,0.5,0.4,14,0,685,776,88.3,48,489,20,22,9,Chelsea

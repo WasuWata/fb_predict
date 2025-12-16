@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Gabriel Jesus,9.0,br BRA,FW,27-185,59,0,0,0,0,3,0,0,0,17,0,0,1,0.4,0.4,0.4,2,0,9,13,69.2,2,13,3,1,1,Arsenal
+Leandro Trossard,19.0,be BEL,FW,29-306,31,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.2,5,0,13,17,76.5,2,12,2,1,1,Arsenal
+Kai Havertz,29.0,de GER,FW,25-116,90,1,0,0,0,7,2,0,0,50,1,1,0,0.8,0.8,0.2,6,0,27,34,79.4,7,30,7,4,2,Arsenal
+Raheem Sterling,30.0,eng ENG,LM,29-302,59,0,0,0,0,2,0,0,0,29,0,0,1,0.3,0.3,0.0,4,0,14,20,70.0,1,23,2,5,4,Arsenal
+Gabriel Martinelli,11.0,br BRA,LM,23-109,31,1,0,0,0,1,1,0,0,24,1,0,0,0.4,0.4,0.0,2,0,17,22,77.3,3,16,1,0,0,Arsenal
+Declan Rice,41.0,eng ENG,CM,25-265,90,0,0,0,0,2,0,0,0,59,2,1,0,0.1,0.1,0.3,6,0,44,52,84.6,2,24,3,0,0,Arsenal
+Jorginho,20.0,it ITA,CM,32-290,60,0,0,0,0,1,0,0,0,45,1,0,0,0.0,0.0,0.0,3,0,38,42,90.5,7,20,2,0,0,Arsenal
+Mikel Merino,23.0,es ESP,CM,28-105,30,0,0,0,0,0,0,0,0,19,3,2,2,0.0,0.0,0.1,4,0,10,14,71.4,1,8,0,0,0,Arsenal
+Bukayo Saka,7.0,eng ENG,RM,23-030,90,1,2,0,0,7,2,0,0,66,1,0,2,0.3,0.3,1.1,13,2,40,51,78.4,4,37,8,2,0,Arsenal
+Riccardo Calafiori,33.0,it ITA,LB,22-139,89,0,0,0,0,0,0,0,0,60,3,3,1,0.0,0.0,0.0,2,0,42,53,79.2,5,29,0,4,3,Arsenal
+Jakub Kiwior,15.0,pl POL,LB,24-233,1,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,2,0,0,0,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,26-291,90,0,0,0,0,3,0,0,0,66,0,0,1,0.2,0.2,0.0,2,0,58,62,93.5,2,45,1,0,0,Arsenal
+William Saliba,2.0,fr FRA,CB,23-195,90,0,0,0,0,0,0,0,0,93,0,0,0,0.0,0.0,0.0,0,0,89,92,96.7,2,64,0,2,2,Arsenal
+Thomas Partey,5.0,gh GHA,RB,31-114,83,0,0,0,0,2,1,0,0,93,4,2,0,0.1,0.1,0.0,2,1,75,83,90.4,13,45,0,1,1,Arsenal
+Takehiro Tomiyasu,18.0,jp JPN,RB,25-335,7,0,0,0,0,1,0,0,0,7,0,0,0,0.2,0.2,0.0,1,0,3,4,75.0,1,1,0,0,0,Arsenal
+David Raya,22.0,es ESP,GK,29-020,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,24,26,92.3,2,20,0,0,0,Arsenal
+16 Players,,,,,990,3,2,0,0,29,6,0,0,677,16,9,8,2.9,2.9,2.3,52,3,505,590,85.6,54,389,29,20,14,Arsenal
+Ross Stewart,11.0,sct SCO,FW,28-086,26,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,4,0,0,0,Southampton
+Cameron Archer,19.0,eng ENG,"FW,LW",23-076,64,1,0,0,0,1,1,0,0,17,1,1,0,0.1,0.1,0.0,0,0,9,12,75.0,0,8,2,0,0,Southampton
+Mateus Fernandes,18.0,pt POR,LM,20-087,73,0,1,0,0,1,0,0,0,31,2,0,1,0.2,0.2,0.1,2,2,14,18,77.8,2,16,0,3,3,Southampton
+Adam Armstrong,9.0,eng ENG,RW,27-238,17,0,0,0,0,0,0,0,0,10,0,2,1,0.0,0.0,0.0,1,0,5,6,83.3,0,5,1,0,0,Southampton
+Flynn Downes,4.0,eng ENG,CM,25-259,90,0,0,0,0,1,0,0,0,48,1,0,5,0.0,0.0,0.0,1,0,26,35,74.3,2,17,0,1,0,Southampton
+Joe Aribo,7.0,ng NGA,"CM,LM",28-076,90,0,0,0,0,1,0,0,0,42,3,2,1,0.0,0.0,0.0,2,0,29,33,87.9,1,16,2,2,0,Southampton
+Tyler Dibling,33.0,eng ENG,RM,18-207,90,0,0,0,0,2,0,1,0,26,1,0,1,0.1,0.1,0.0,4,0,14,17,82.4,4,18,7,3,1,Southampton
+Ryan Manning,3.0,ie IRL,LB,28-113,73,0,0,0,0,0,0,0,0,23,3,0,2,0.0,0.0,0.0,0,0,12,13,92.3,0,10,0,2,1,Southampton
+Paul Onuachu,32.0,ng NGA,FW,30-130,17,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,5,5,100.0,0,7,0,1,1,Southampton
+Kyle Walker-Peters,2.0,eng ENG,"CB,LB,RB",27-175,90,0,0,0,0,1,1,1,0,67,1,0,3,0.0,0.0,0.0,0,0,55,59,93.2,3,41,2,2,0,Southampton
+Jan Bednarek,35.0,pl POL,CB,28-176,90,0,0,0,0,0,0,1,0,97,0,1,2,0.0,0.0,0.0,2,0,72,78,92.3,2,41,1,0,0,Southampton
+Taylor Harwood-Bellis,6.0,eng ENG,CB,22-249,90,0,0,0,0,1,0,0,0,59,0,1,2,0.3,0.3,0.0,1,0,41,51,80.4,0,35,0,0,0,Southampton
+Yukinari Sugawara,16.0,jp JPN,RB,24-099,89,0,0,0,0,0,0,0,0,37,3,0,1,0.0,0.0,0.3,2,0,22,26,84.6,0,20,0,0,0,Southampton
+Charlie Taylor,21.0,eng ENG,LB,31-017,1,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,4,7,57.1,0,5,0,0,0,Southampton
+Aaron Ramsdale,30.0,eng ENG,GK,26-144,90,0,0,0,0,0,0,0,0,51,0,1,0,0.0,0.0,0.0,0,0,36,47,76.6,0,38,0,0,0,Southampton
+15 Players,,,,,990,1,1,0,0,8,2,3,0,530,15,9,20,0.7,0.7,0.4,15,2,345,411,83.9,14,281,15,14,6,Southampton

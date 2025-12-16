@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Harry Kane,10.0,eng ENG,FW,28-269,90,0,0,0,0,4,0,0,0,33,1,0,1,0.2,0.2,0.0,1,0,10,16,62.5,2,19,2,2,0,Tottenham Hotspur
+Son Heung-min,7.0,kr KOR,LW,29-289,90,0,0,0,0,0,0,0,0,57,0,1,0,0.0,0.0,0.2,4,0,37,51,72.5,7,36,6,5,5,Tottenham Hotspur
+Dejan Kulusevski,21.0,se SWE,"RW,RM",21-363,90,0,0,0,0,2,0,0,0,50,2,2,1,0.1,0.1,0.0,2,0,30,37,81.1,2,28,3,1,1,Tottenham Hotspur
+Ryan Sessegnon,19.0,eng ENG,LM,21-340,73,0,0,0,0,0,0,0,0,51,1,0,0,0.0,0.0,0.0,0,0,24,39,61.5,1,20,4,0,0,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,25-315,17,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,1,9,1,0,0,Tottenham Hotspur
+Pierre Højbjerg,5.0,dk DEN,CM,26-261,90,0,0,0,0,0,0,0,0,94,2,2,4,0.0,0.0,0.1,4,0,74,81,91.4,10,50,2,2,1,Tottenham Hotspur
+Rodrigo Bentancur,30.0,uy URU,CM,24-302,90,0,0,0,0,3,0,1,0,81,0,1,2,0.3,0.3,0.0,2,0,63,69,91.3,8,52,4,1,1,Tottenham Hotspur
+Emerson,12.0,br BRA,RM,23-099,85,0,0,0,0,0,0,0,0,56,2,0,2,0.0,0.0,0.1,1,0,34,45,75.6,2,23,2,1,1,Tottenham Hotspur
+Lucas Moura,27.0,br BRA,"RW,RM",29-253,5,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,"CB,LM",28-364,90,0,0,0,0,0,0,0,0,72,0,2,1,0.0,0.0,0.0,1,0,45,60,75.0,6,42,4,0,0,Tottenham Hotspur
+Eric Dier,15.0,eng ENG,CB,28-098,90,0,0,0,0,0,0,0,0,83,2,0,1,0.0,0.0,0.0,0,0,64,72,88.9,2,54,0,0,0,Tottenham Hotspur
+Cristian Romero,4.0,ar ARG,CB,23-361,90,0,0,0,0,0,0,0,0,72,1,5,7,0.0,0.0,0.1,1,0,51,55,92.7,8,44,1,0,0,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,35-118,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,11,17,64.7,0,7,0,0,0,Tottenham Hotspur
+13 Players,,,,,990,0,0,0,0,9,0,1,0,683,11,13,19,0.6,0.6,0.5,16,0,454,554,81.9,49,385,29,12,9,Tottenham Hotspur

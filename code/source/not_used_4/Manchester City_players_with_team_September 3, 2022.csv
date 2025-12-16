@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Erling Haaland,9.0,no NOR,FW,22-044,90,1,0,0,0,3,3,0,0,24,0,0,1,0.9,0.9,0.4,3,0,14,19,73.7,1,10,1,0,0,Manchester City
+Phil Foden,47.0,eng ENG,LW,22-098,90,0,0,0,0,1,1,0,0,73,2,0,2,0.2,0.2,0.0,1,0,53,62,85.5,5,44,0,0,0,Manchester City
+Bernardo Silva,20.0,pt POR,RW,28-024,72,0,0,0,0,0,0,0,0,56,1,0,0,0.0,0.0,0.0,2,1,42,50,84.0,3,37,5,2,1,Manchester City
+Riyad Mahrez,26.0,dz ALG,"RM,RW",31-194,18,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,13,16,81.3,1,7,1,0,0,Manchester City
+İlkay Gündoğan,8.0,de GER,"LM,CM",31-314,90,0,0,0,0,0,0,0,0,58,2,0,0,0.0,0.0,0.4,3,0,39,51,76.5,3,28,1,0,0,Manchester City
+Rodri,16.0,es ESP,CM,26-073,90,0,0,0,0,2,0,0,0,97,0,1,2,0.1,0.1,0.0,3,0,81,92,88.0,10,50,3,1,1,Manchester City
+Kevin De Bruyne,17.0,be BEL,"RM,RW",31-067,90,0,1,0,0,4,0,0,0,74,0,1,0,0.6,0.6,0.8,8,1,49,67,73.1,11,43,7,1,1,Manchester City
+João Cancelo,7.0,pt POR,"LB,LM",28-099,90,0,0,0,0,2,0,0,0,101,3,2,1,0.1,0.1,0.2,2,0,77,89,86.5,8,50,2,3,1,Manchester City
+Rúben Dias,3.0,pt POR,CB,25-112,90,0,0,0,0,0,0,0,0,114,3,0,1,0.0,0.0,0.0,1,0,98,106,92.5,7,59,0,0,0,Manchester City
+John Stones,5.0,eng ENG,CB,28-098,90,0,0,0,0,0,0,0,0,100,1,0,1,0.0,0.0,0.0,0,0,92,95,96.8,2,65,0,1,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,32-098,79,0,0,0,0,1,0,0,0,107,0,1,0,0.3,0.3,0.0,1,0,91,103,88.3,4,61,0,0,0,Manchester City
+Nathan Aké,6.0,nl NED,CB,27-197,11,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,16,16,100.0,0,6,0,0,0,Manchester City
+Ederson,31.0,br BRA,GK,29-017,90,0,0,0,0,0,0,0,0,35,1,0,0,0.0,0.0,0.0,0,0,30,34,88.2,0,19,0,0,0,Manchester City
+13 Players,,,,,990,1,1,0,0,13,4,0,0,872,13,5,8,2.1,2.1,1.7,24,2,695,800,86.9,55,479,20,8,4,Manchester City

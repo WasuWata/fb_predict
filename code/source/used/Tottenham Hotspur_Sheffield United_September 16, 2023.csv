@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Son Heung-min,7.0,kr KOR,FW,31-070,79,0,0,0,0,3,1,0,0,28,0,0,0,0.2,0.2,0.0,0,0,16,18,88.9,1,18,2,1,0,Tottenham Hotspur
+Brennan Johnson,22.0,wls WAL,RW,22-116,11,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,2,0,7,7,100.0,0,6,2,1,0,Tottenham Hotspur
+Manor Solomon,27.0,il ISR,LW,24-054,79,0,0,0,0,4,1,1,0,47,0,0,2,0.3,0.3,0.2,6,0,25,31,80.6,7,34,5,8,4,Tottenham Hotspur
+Ivan Perišić,14.0,hr CRO,LW,34-226,11,0,1,0,0,1,0,1,0,17,1,0,0,0.1,0.1,0.2,2,2,7,14,50.0,0,9,4,0,0,Tottenham Hotspur
+Dejan Kulusevski,21.0,se SWE,"RW,RM",23-144,90,1,0,0,0,7,2,0,0,61,1,0,0,0.3,0.3,0.9,8,0,38,51,74.5,6,43,9,3,0,Tottenham Hotspur
+James Maddison,10.0,eng ENG,"AM,LM",26-297,90,0,0,0,0,3,2,1,0,86,3,0,0,0.2,0.2,0.1,11,0,60,77,77.9,19,62,4,6,3,Tottenham Hotspur
+Yves Bissouma,8.0,ml MLI,"DM,CM",27-017,90,0,0,0,0,2,1,1,0,102,1,1,3,0.5,0.5,0.1,6,0,78,90,86.7,16,72,8,5,4,Tottenham Hotspur
+Pape Matar Sarr,29.0,sn SEN,DM,21-002,79,0,0,0,0,3,2,0,0,65,0,1,0,0.3,0.3,0.1,3,0,54,61,88.5,8,44,4,1,1,Tottenham Hotspur
+Richarlison,9.0,br BRA,FW,26-129,11,1,1,0,0,2,1,1,0,8,0,0,1,0.3,0.3,0.1,1,1,3,5,60.0,0,7,1,0,0,Tottenham Hotspur
+Destiny Udogie,38.0,it ITA,LB,20-292,90,0,0,0,0,0,0,0,0,87,3,3,1,0.0,0.0,0.0,4,0,62,74,83.8,6,45,4,2,1,Tottenham Hotspur
+Micky van de Ven,37.0,nl NED,CB,22-150,89,0,0,0,0,0,0,1,0,75,3,0,0,0.0,0.0,0.0,1,0,65,67,97.0,6,48,0,1,0,Tottenham Hotspur
+Pierre Højbjerg,5.0,dk DEN,CB,28-042,1,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,4,0,0,0,Tottenham Hotspur
+Cristian Romero,17.0,ar ARG,CB,25-142,90,0,0,0,0,2,0,0,0,90,3,1,0,0.1,0.1,0.1,2,1,72,80,90.0,7,61,3,0,0,Tottenham Hotspur
+Pedro Porro,23.0,es ESP,RB,24-003,89,0,0,0,0,1,0,0,0,74,2,0,3,0.0,0.0,0.2,7,0,56,66,84.8,13,39,1,1,1,Tottenham Hotspur
+Emerson,12.0,br BRA,RB,24-245,1,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,6,2,1,0,Tottenham Hotspur
+Guglielmo Vicario,13.0,it ITA,GK,26-344,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,24,28,85.7,0,18,0,0,0,Tottenham Hotspur
+16 Players,,,,,990,2,2,0,0,28,10,6,0,794,17,6,10,2.1,2.1,2.0,54,4,579,683,84.8,91,516,49,30,14,Tottenham Hotspur
+Cameron Archer,10.0,eng ENG,FW,22-057,90,0,0,0,0,0,0,1,0,29,1,0,3,0.0,0.0,0.1,2,0,17,21,81.0,2,21,2,1,1,Sheffield United
+Oliver McBurnie,9.0,sct SCO,FW,27-104,89,0,0,0,0,2,1,2,1,51,2,0,4,0.2,0.2,0.0,2,0,18,36,50.0,3,21,0,0,0,Sheffield United
+James Mcatee,28.0,eng ENG,CM,20-333,69,0,0,0,0,2,2,0,0,13,1,0,0,0.3,0.3,0.0,0,0,5,6,83.3,0,6,0,2,1,Sheffield United
+Oliver Norwood,16.0,nir NIR,CM,32-157,21,0,0,0,0,1,1,0,0,15,4,1,2,0.0,0.0,0.0,0,0,2,7,28.6,0,3,0,0,0,Sheffield United
+Vinicius Souza,21.0,br BRA,CM,24-091,90,0,0,0,0,0,0,0,0,35,1,4,1,0.0,0.0,0.0,1,1,21,23,91.3,1,20,0,1,1,Sheffield United
+Gustavo Hamer,8.0,nl NED,CM,26-084,80,1,0,0,0,1,1,0,0,50,3,0,2,0.1,0.1,0.3,3,0,22,35,62.9,2,17,0,1,0,Sheffield United
+Tom Davies,22.0,eng ENG,CM,25-078,10,0,0,0,0,0,0,1,0,10,1,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,1,0,Sheffield United
+Luke Thomas,14.0,eng ENG,WB,22-098,90,0,0,0,0,0,0,0,0,27,2,0,1,0.0,0.0,0.0,0,0,12,14,85.7,2,11,0,0,0,Sheffield United
+Jayden Bogle,20.0,eng ENG,WB,23-051,85,0,0,0,0,0,0,0,0,26,0,1,0,0.0,0.0,0.2,1,0,14,20,70.0,0,16,1,0,0,Sheffield United
+Auston Trusty,5.0,us USA,CB,25-035,5,0,0,0,0,0,0,0,0,5,1,1,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Sheffield United
+Jack Robinson,19.0,eng ENG,CB,30-015,90,0,1,0,0,0,0,1,0,34,2,0,4,0.0,0.0,0.1,1,1,17,23,73.9,1,13,0,1,1,Sheffield United
+Anel Ahmedhodžić,15.0,ba BIH,"CB,WB",24-174,90,0,0,0,0,0,0,0,0,34,3,1,3,0.0,0.0,0.0,1,0,13,22,59.1,1,19,0,2,0,Sheffield United
+Chris Basham,6.0,eng ENG,CB,35-058,90,0,0,0,0,1,0,1,0,46,1,1,1,0.1,0.1,0.0,0,0,21,32,65.6,1,19,0,1,1,Sheffield United
+Wes Foderingham,18.0,eng ENG,GK,32-245,90,0,0,0,0,0,0,1,0,53,0,0,0,0.0,0.0,0.0,0,0,35,49,71.4,0,31,0,0,0,Sheffield United
+14 Players,,,,,989,1,1,0,0,7,5,7,1,428,22,10,21,0.7,0.7,0.6,11,2,202,295,68.5,13,200,3,10,5,Sheffield United

@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Rasmus Højlund,9.0,dk DEN,FW,21-315,77,0,0,0,0,0,0,1,0,13,0,0,0,0.0,0.0,0.5,2,0,5,8,62.5,1,6,0,0,0,Manchester United
+Joshua Zirkzee,11.0,nl NED,FW,23-207,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,1,0,Manchester United
+Mason Mount,7.0,eng ENG,LW,25-340,13,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,2,8,0,0,0,Manchester United
+Kobbie Mainoo,37.0,eng ENG,CM,19-240,77,0,0,0,0,1,0,0,0,50,5,0,2,0.1,0.1,0.0,1,0,29,37,78.4,0,25,1,0,0,Manchester United
+Amad Diallo,16.0,ci CIV,RW,22-157,89,1,0,0,0,4,2,0,0,50,1,2,0,0.7,0.7,0.0,4,3,33,36,91.7,2,31,10,8,5,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,30-151,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Manchester United
+Diogo Dalot,20.0,pt POR,"LM,LW",25-272,90,0,0,0,0,0,0,0,0,50,0,1,0,0.0,0.0,0.0,1,0,37,45,82.2,0,38,2,0,0,Manchester United
+Manuel Ugarte,25.0,uy URU,CM,23-248,90,0,0,0,0,1,0,0,0,52,4,2,2,0.0,0.0,0.0,2,0,39,42,92.9,1,37,0,1,1,Manchester United
+Bruno Fernandes,8.0,pt POR,"LW,CM",30-098,90,1,0,1,1,1,0,0,0,63,3,1,1,1.2,0.5,0.1,3,0,40,48,83.3,5,35,1,3,0,Manchester United
+Noussair Mazraoui,3.0,ma MAR,RM,27-031,77,0,0,0,0,0,0,0,0,75,6,1,4,0.0,0.0,0.0,1,0,50,60,83.3,1,44,2,1,1,Manchester United
+Antony,21.0,br BRA,"RM,RW",24-295,13,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,5,5,100.0,1,5,1,0,0,Manchester United
+Lisandro Martínez,6.0,ar ARG,"CB,LB",26-332,90,0,1,0,0,1,0,0,0,72,0,1,3,0.0,0.0,0.6,3,1,61,64,95.3,6,57,2,1,1,Manchester United
+Harry Maguire,5.0,eng ENG,CB,31-285,90,0,0,0,0,0,0,0,0,51,3,5,2,0.0,0.0,0.0,0,0,34,38,89.5,2,27,0,0,0,Manchester United
+Matthijs de Ligt,4.0,nl NED,CB,25-125,78,0,0,0,0,1,0,0,0,71,1,3,0,0.0,0.0,0.0,0,0,57,64,89.1,5,52,0,1,0,Manchester United
+Leny Yoro,15.0,fr FRA,"CB,RB",19-032,12,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0,Manchester United
+André Onana,24.0,cm CMR,GK,28-257,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,27,36,75.0,1,26,0,0,0,Manchester United
+16 Players,,,,,990,2,1,1,1,9,2,1,0,617,24,17,14,2.1,1.3,1.3,17,4,431,499,86.4,27,394,19,16,8,Manchester United

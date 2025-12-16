@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jean-Philippe Mateta,14.0,fr FRA,FW,27-155,90,0,0,0,0,2,0,0,0,26,1,1,0,0.3,0.3,0.0,0,0,7,14,50.0,1,12,2,0,0,Crystal Palace
+Eberechi Eze,10.0,eng ENG,AM,26-154,64,0,0,0,0,0,0,0,0,30,0,2,0,0.0,0.0,0.1,5,0,18,26,69.2,1,23,2,5,4,Crystal Palace
+Justin Devenny,55.0,nir NIR,"DM,AM,CM",21-050,26,0,0,0,0,0,0,0,0,32,2,0,0,0.0,0.0,0.1,2,0,17,26,65.4,1,14,0,1,1,Crystal Palace
+Ismaila Sarr,7.0,sn SEN,AM,26-279,90,0,0,0,0,2,2,0,0,27,0,0,0,0.2,0.2,0.5,5,0,15,17,88.2,4,18,3,1,0,Crystal Palace
+Jefferson Lerma,8.0,co COL,"CM,DM",30-036,90,0,0,0,0,1,0,1,0,62,3,4,1,0.0,0.0,0.1,1,0,39,50,78.0,8,30,2,1,0,Crystal Palace
+Will Hughes,19.0,eng ENG,CM,29-227,76,0,0,0,0,2,0,0,0,51,4,0,0,0.1,0.1,0.1,3,0,40,43,93.0,6,28,0,1,1,Crystal Palace
+Eddie Nketiah,9.0,eng ENG,"LW,AM",25-184,14,0,0,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,5,0,0,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,"WB,LB",25-090,90,0,0,0,0,0,0,1,0,48,1,0,4,0.0,0.0,0.0,1,0,34,42,81.0,0,22,3,2,2,Crystal Palace
+Daniel Muñoz,12.0,co COL,"WB,RB",28-188,90,1,0,0,0,3,1,0,0,66,11,1,0,0.9,0.9,0.0,3,0,36,47,76.6,1,28,0,0,0,Crystal Palace
+Marc Guéhi,6.0,eng ENG,CB,24-140,90,0,1,0,0,2,0,1,0,62,2,1,0,0.1,0.1,0.5,3,1,44,54,81.5,7,37,0,1,0,Crystal Palace
+Maxence Lacroix,5.0,fr FRA,CB,24-238,90,0,0,0,0,3,0,0,0,58,3,4,1,0.2,0.2,0.0,2,1,38,46,82.6,5,37,1,0,0,Crystal Palace
+Trevoh Chalobah,27.0,eng ENG,CB,25-148,83,0,0,0,0,1,0,0,0,60,1,0,1,0.0,0.0,0.1,1,0,41,50,82.0,4,35,1,2,1,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,RW,31-343,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Crystal Palace
+Dean Henderson,1.0,eng ENG,GK,27-263,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,19,30,63.3,0,24,0,0,0,Crystal Palace
+14 Players,,,,,990,1,1,0,0,16,3,3,0,563,30,13,7,1.8,1.8,1.5,26,2,351,450,78.0,38,313,14,14,9,Crystal Palace
+Alexander Isak,14.0,se SWE,FW,25-070,21,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,2,1,0,0,Newcastle United
+Harvey Barnes,11.0,eng ENG,RW,26-357,69,0,0,0,0,0,0,0,0,24,1,0,1,0.0,0.0,0.0,0,0,13,18,72.2,4,20,4,5,1,Newcastle United
+Joelinton,7.0,br BRA,LW,28-108,90,0,0,0,0,1,0,0,0,55,0,1,2,0.0,0.0,0.0,0,0,23,35,65.7,2,28,0,6,0,Newcastle United
+Anthony Gordon,10.0,eng ENG,"FW,RW",23-280,74,0,0,0,0,0,0,1,0,37,2,1,2,0.0,0.0,0.0,2,0,19,28,67.9,1,23,1,3,0,Newcastle United
+Callum Wilson,9.0,eng ENG,FW,32-277,16,0,0,0,0,0,0,1,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,6,0,0,0,Newcastle United
+Joe Willock,28.0,eng ENG,LM,25-102,74,0,0,0,0,0,0,1,0,29,1,0,1,0.0,0.0,0.0,0,0,16,20,80.0,1,19,2,2,0,Newcastle United
+Sean Longstaff,36.0,eng ENG,LM,27-031,16,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Newcastle United
+Bruno Guimarães,39.0,br BRA,CM,27-014,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,28,42,66.7,3,33,1,5,2,Newcastle United
+Sandro Tonali,8.0,it ITA,RM,24-206,90,0,0,0,0,0,0,0,0,56,3,1,2,0.0,0.0,0.0,0,0,34,46,73.9,4,32,0,1,1,Newcastle United
+Lewis Hall,20.0,eng ENG,LB,20-083,90,0,0,0,0,0,0,0,0,79,0,0,0,0.0,0.0,0.0,0,0,58,75,77.3,4,46,0,2,0,Newcastle United
+Dan Burn,33.0,eng ENG,CB,32-205,90,0,0,0,0,0,0,0,0,58,3,1,1,0.0,0.0,0.0,0,0,44,47,93.6,0,34,0,0,0,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,32-346,90,0,0,0,0,0,0,0,0,75,1,2,3,0.0,0.0,0.0,0,0,53,64,82.8,1,51,0,0,0,Newcastle United
+Valentino Livramento,21.0,eng ENG,RB,22-018,90,0,0,0,0,0,0,0,0,65,1,2,1,0.0,0.0,0.0,0,0,47,56,83.9,3,31,3,2,2,Newcastle United
+Nick Pope,22.0,eng ENG,GK,32-225,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,22,29,75.9,0,19,0,0,0,Newcastle United
+14 Players,,,,,990,0,0,0,0,1,0,3,0,575,12,8,13,0.0,0.0,0.0,2,0,367,471,77.9,24,347,12,26,6,Newcastle United

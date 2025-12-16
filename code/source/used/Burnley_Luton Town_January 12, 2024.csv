@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Zeki Amdouni,25.0,ch SUI,FW,23-039,82,1,0,0,0,1,1,0,0,30,2,0,0,0.3,0.3,0.1,3,0,13,22,59.1,2,17,2,3,0,Burnley
+Mike Trésor,31.0,be BEL,FW,24-229,8,0,0,0,0,0,0,0,0,3,1,1,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Burnley
+Lyle Foster,17.0,za RSA,FW,23-131,90,0,0,0,0,2,1,0,0,48,1,1,0,0.1,0.1,0.0,4,1,19,32,59.4,2,20,3,4,1,Burnley
+Wilson Odobert,47.0,fr FRA,"LM,RM",19-045,83,0,0,0,0,3,2,0,0,34,0,0,1,0.1,0.1,0.1,4,0,22,23,95.7,5,22,6,6,4,Burnley
+Jacob Bruun Larsen,34.0,dk DEN,RM,25-115,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,1,1,1,Burnley
+Josh Brownhill,8.0,eng ENG,CM,28-024,90,0,0,0,0,0,0,0,0,67,4,2,1,0.0,0.0,0.0,2,1,42,53,79.2,4,19,2,0,0,Burnley
+Josh Cullen,24.0,ie IRL,CM,27-280,90,0,0,0,0,0,0,0,0,49,0,0,5,0.0,0.0,0.1,3,0,32,41,78.0,3,22,1,1,1,Burnley
+Jóhann Berg Guðmundsson,7.0,is ISL,RM,33-077,73,0,0,0,0,2,1,0,0,36,1,2,1,0.4,0.4,0.0,1,0,18,27,66.7,1,13,0,0,0,Burnley
+Connor Roberts,14.0,wls WAL,RB,28-111,17,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,6,11,54.5,1,4,0,0,0,Burnley
+Ameen Al-Dakhil,28.0,be BEL,LB,21-312,90,0,0,0,0,2,1,0,0,46,1,3,3,0.1,0.1,0.0,2,0,21,29,72.4,3,20,1,3,1,Burnley
+Hjalmar Ekdal,18.0,se SWE,CB,25-083,89,0,0,0,0,1,0,0,0,38,1,1,1,0.0,0.0,0.0,0,0,27,29,93.1,1,18,0,0,0,Burnley
+Jack Cork,4.0,eng ENG,CB,34-201,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,2,1,0,0,Burnley
+Dara O'Shea,2.0,ie IRL,CB,24-314,90,0,0,0,0,0,0,0,0,39,1,1,1,0.0,0.0,0.0,1,0,16,28,57.1,2,15,0,0,0,Burnley
+Vitinho,22.0,br BRA,"RB,LM",24-173,90,0,0,0,0,2,1,0,0,52,5,1,2,0.1,0.1,0.0,2,0,24,34,70.6,2,17,1,4,3,Burnley
+James Trafford,1.0,eng ENG,GK,21-094,90,0,0,0,0,0,0,1,0,52,0,0,0,0.0,0.0,0.0,1,0,19,48,39.6,1,24,0,1,1,Burnley
+15 Players,,,,,990,1,0,0,0,13,7,1,0,512,17,12,15,1.1,1.1,0.4,24,2,265,384,69.0,28,215,18,23,12,Burnley
+Elijah Adebayo,11.0,eng ENG,FW,26-005,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.1,2,0,7,9,77.8,1,12,2,0,0,Luton Town
+Jordan Clark,18.0,eng ENG,AM,30-112,73,0,0,0,0,2,0,0,0,33,1,0,1,0.1,0.1,0.0,3,0,18,24,75.0,2,24,2,2,0,Luton Town
+Carlton Morris,9.0,eng ENG,AM,28-027,17,1,0,0,0,2,1,0,0,12,0,0,1,0.2,0.2,0.0,0,0,3,6,50.0,1,8,0,2,2,Luton Town
+Andros Townsend,30.0,eng ENG,AM,32-180,63,0,0,0,0,0,0,0,0,30,2,0,2,0.0,0.0,0.1,2,0,17,24,70.8,3,19,2,2,1,Luton Town
+Tahith Chong,14.0,cw CUW,AM,24-039,27,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,1,0,11,16,68.8,0,15,0,0,0,Luton Town
+Ross Barkley,6.0,eng ENG,CM,30-038,90,0,0,0,0,4,1,0,0,84,6,0,1,0.2,0.2,0.1,7,0,58,72,80.6,10,44,1,1,1,Luton Town
+Albert Sambi Lokonga,28.0,be BEL,CM,24-082,85,0,0,0,0,2,0,0,0,71,1,1,1,0.3,0.3,0.0,1,0,56,64,87.5,4,53,1,1,1,Luton Town
+Luke Berry,8.0,eng ENG,CM,31-184,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,0,0,0,0,Luton Town
+Alfie Doughty,45.0,eng ENG,WB,24-022,90,0,1,0,0,0,0,0,0,80,2,0,1,0.0,0.0,0.1,1,1,53,73,72.6,3,46,3,1,0,Luton Town
+Chiedozie Ogbene,7.0,ie IRL,WB,26-256,90,0,0,0,0,4,3,0,0,70,2,0,0,0.2,0.2,0.4,9,0,44,56,78.6,5,41,9,6,5,Luton Town
+Amari'i Bell,29.0,jm JAM,CB,29-252,90,0,0,0,0,0,0,0,0,89,3,0,1,0.0,0.0,0.0,2,1,64,79,81.0,5,59,3,4,2,Luton Town
+Gabriel Osho,2.0,ng NGA,CB,25-151,90,0,0,0,0,0,0,0,0,82,4,2,0,0.0,0.0,0.0,0,0,61,75,81.3,2,48,1,1,1,Luton Town
+Teden Mengi,15.0,eng ENG,CB,21-257,90,0,0,0,0,0,0,0,0,64,2,4,0,0.0,0.0,0.0,0,0,42,55,76.4,2,38,0,0,0,Luton Town
+Thomas Kaminski,24.0,be BEL,GK,31-081,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,27,39,69.2,1,29,0,0,0,Luton Town
+14 Players,,,,,990,1,1,0,0,14,5,0,0,700,23,7,9,0.9,0.9,0.9,28,2,462,595,77.6,39,436,24,20,13,Luton Town

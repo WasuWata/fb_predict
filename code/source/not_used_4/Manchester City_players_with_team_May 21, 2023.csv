@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Julián Álvarez,19.0,ar ARG,"FW,LM,AM",23-110,90,1,0,0,0,3,2,0,0,37,1,1,0,0.4,0.4,0.3,4,0,23,28,82.1,1,27,4,4,1,Manchester City
+Cole Palmer,80.0,eng ENG,"LW,RW",21-015,90,0,1,0,0,2,0,0,0,60,0,0,0,0.1,0.1,0.3,6,1,46,52,88.5,1,44,9,6,3,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,32-089,73,0,0,0,0,1,0,0,0,39,1,0,0,0.1,0.1,0.1,2,0,28,34,82.4,1,24,2,2,0,Manchester City
+Erling Haaland,9.0,no NOR,FW,22-304,17,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,0,3,0,0,0,Manchester City
+Phil Foden,47.0,eng ENG,"AM,LW",22-358,90,0,0,0,0,4,0,0,0,68,0,0,1,0.4,0.4,0.1,3,0,52,59,88.1,9,44,5,1,0,Manchester City
+Sergio Gómez,21.0,es ESP,LM,22-259,77,0,0,0,0,1,0,0,0,72,2,0,0,0.0,0.0,0.0,2,0,58,65,89.2,4,42,3,1,0,Manchester City
+Kevin De Bruyne,17.0,be BEL,RM,31-327,13,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,12,14,85.7,1,6,0,1,0,Manchester City
+Rico Lewis,82.0,eng ENG,"RM,LB",18-181,90,0,0,0,0,0,0,0,0,48,1,1,0,0.0,0.0,0.1,3,0,38,45,84.4,1,25,0,1,1,Manchester City
+Kalvin Phillips,4.0,eng ENG,"DM,CM",27-170,90,0,0,0,0,3,0,0,0,92,0,2,2,0.2,0.2,0.1,5,1,77,83,92.8,5,63,0,1,1,Manchester City
+Aymeric Laporte,14.0,es ESP,CB,28-359,77,0,0,0,0,0,0,0,0,84,2,0,1,0.0,0.0,0.0,0,0,75,79,94.9,5,60,2,0,0,Manchester City
+Rodri,16.0,es ESP,CB,26-333,13,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,20,22,90.9,1,18,0,0,0,Manchester City
+Manuel Akanji,25.0,ch SUI,CB,27-306,56,0,0,0,0,0,0,0,0,68,1,0,0,0.0,0.0,0.0,0,0,59,65,90.8,4,54,0,0,0,Manchester City
+John Stones,5.0,eng ENG,CB,28-358,34,0,0,0,0,0,0,0,0,46,0,0,1,0.0,0.0,0.0,1,0,44,45,97.8,0,35,0,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,"CB,RB",32-358,90,0,0,0,0,0,0,0,0,80,0,0,0,0.0,0.0,0.0,0,0,71,77,92.2,3,50,3,1,1,Manchester City
+Stefan Ortega,18.0,de GER,GK,30-196,90,0,0,0,0,0,0,0,0,63,0,0,0,0.0,0.0,0.0,0,0,55,61,90.2,0,48,0,0,0,Manchester City
+15 Players,,,,,990,1,1,0,0,15,2,0,0,801,8,4,5,1.2,1.2,1.0,26,2,661,733,90.2,36,543,28,18,7,Manchester City

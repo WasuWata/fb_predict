@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Harry Kane,10.0,eng ENG,FW,29-304,90,2,0,0,0,3,3,0,0,56,0,0,2,1.0,1.0,0.0,3,1,29,39,74.4,6,28,3,8,2,Tottenham Hotspur
+Dejan Kulusevski,21.0,se SWE,FW,23-033,66,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.1,1,0,18,20,90.0,3,15,3,3,2,Tottenham Hotspur
+Pape Matar Sarr,29.0,sn SEN,FW,20-256,24,0,1,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.3,2,2,12,13,92.3,2,10,0,1,1,Tottenham Hotspur
+Son Heung-min,7.0,kr KOR,LM,30-324,75,0,1,0,0,1,0,0,0,38,1,0,0,0.1,0.1,0.5,3,1,25,26,96.2,2,22,2,5,2,Tottenham Hotspur
+Richarlison,9.0,br BRA,LM,26-018,15,0,0,0,0,2,2,0,0,13,0,0,0,0.3,0.3,0.0,1,0,4,7,57.1,0,10,3,3,2,Tottenham Hotspur
+Oliver Skipp,4.0,eng ENG,CM,22-254,89,0,0,0,0,0,0,0,0,58,4,3,1,0.0,0.0,0.0,1,0,33,46,71.7,2,31,1,1,1,Tottenham Hotspur
+George Abbott,77.0,eng ENG,CM,17-284,1,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Tottenham Hotspur
+Yves Bissouma,38.0,ml MLI,CM,26-271,76,0,0,0,0,1,0,0,0,59,3,3,1,0.0,0.0,0.0,1,0,39,41,95.1,1,33,0,1,1,Tottenham Hotspur
+Matthew Craig,51.0,sct SCO,CM,20-042,14,0,0,0,0,0,0,0,0,10,4,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,5,0,0,0,Tottenham Hotspur
+Pedro Porro,23.0,es ESP,RM,23-257,89,1,1,0,0,2,1,0,0,56,2,1,4,0.2,0.2,0.7,4,2,27,42,64.3,2,29,1,0,0,Tottenham Hotspur
+Lucas Moura,27.0,br BRA,RM,30-288,1,1,0,0,0,1,1,0,0,5,1,0,0,0.3,0.3,0.0,1,1,2,2,100.0,0,1,1,1,1,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,LB,30-034,90,0,0,0,0,0,0,0,0,53,3,0,1,0.0,0.0,0.1,2,1,32,41,78.0,4,16,0,1,0,Tottenham Hotspur
+Clément Lenglet,34.0,fr FRA,CB,27-345,90,0,0,0,0,0,0,0,0,60,3,1,2,0.0,0.0,0.0,0,0,32,40,80.0,1,39,1,2,1,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,26-350,90,0,0,0,0,1,0,0,0,66,1,1,2,0.2,0.2,0.3,1,0,40,52,76.9,2,31,0,0,0,Tottenham Hotspur
+Emerson,12.0,br BRA,RB,24-134,90,0,0,0,0,0,0,0,0,83,3,2,0,0.0,0.0,0.0,1,0,46,63,73.0,3,37,3,2,0,Tottenham Hotspur
+Fraser Forster,20.0,eng ENG,GK,35-072,90,0,0,0,0,0,0,0,0,35,1,0,1,0.0,0.0,0.0,0,0,15,32,46.9,0,16,0,0,0,Tottenham Hotspur
+16 Players,,,,,990,4,3,0,0,11,7,0,0,636,26,12,15,2.2,2.2,2.0,21,8,360,471,76.4,28,323,18,28,13,Tottenham Hotspur

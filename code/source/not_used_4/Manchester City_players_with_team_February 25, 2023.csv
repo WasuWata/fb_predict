@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Erling Haaland,9.0,no NOR,FW,22-219,71,1,0,0,0,3,1,0,0,30,0,0,2,0.5,0.5,0.0,4,1,15,20,75.0,2,13,3,0,0,Manchester City
+Máximo Perrone,32.0,ar ARG,CM,20-049,19,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.0,1,0,18,21,85.7,2,8,0,0,0,Manchester City
+Jack Grealish,10.0,eng ENG,LW,27-168,71,0,0,0,0,1,0,0,0,47,3,1,1,0.0,0.0,0.0,0,0,29,37,78.4,4,30,2,6,2,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,32-004,19,0,0,0,0,1,0,0,0,19,1,1,1,0.1,0.1,0.1,2,0,11,14,78.6,0,10,1,1,1,Manchester City
+Phil Foden,47.0,eng ENG,"RW,LW",22-273,90,1,1,0,0,2,1,0,0,82,1,0,1,0.5,0.5,0.8,11,2,58,70,82.9,4,49,2,6,2,Manchester City
+İlkay Gündoğan,8.0,de GER,CM,32-124,54,0,0,0,0,0,0,0,0,41,1,0,0,0.0,0.0,0.0,3,1,27,37,73.0,3,24,2,0,0,Manchester City
+Sergio Gómez,21.0,es ESP,CM,22-174,36,0,0,0,0,2,0,0,0,37,3,0,0,0.1,0.1,0.0,0,0,30,32,93.8,3,24,1,1,0,Manchester City
+Julián Álvarez,19.0,ar ARG,"CM,FW",23-025,90,1,0,0,0,4,2,0,0,41,2,0,2,0.9,0.9,0.0,5,0,22,33,66.7,3,24,2,2,2,Manchester City
+Rodri,16.0,es ESP,DM,26-248,54,0,0,0,0,1,0,0,0,71,1,0,2,0.0,0.0,0.0,1,0,65,66,98.5,4,46,1,0,0,Manchester City
+Kalvin Phillips,4.0,eng ENG,DM,27-085,36,0,0,0,0,1,0,1,0,47,2,1,1,0.1,0.1,0.0,0,0,38,39,97.4,1,24,0,0,0,Manchester City
+Rico Lewis,82.0,eng ENG,DM,18-096,90,0,0,0,0,2,0,0,0,89,3,1,2,0.1,0.1,0.0,6,0,71,77,92.2,10,57,1,1,0,Manchester City
+Nathan Aké,6.0,nl NED,LB,28-007,79,0,0,0,0,2,1,0,0,75,3,1,0,0.1,0.1,0.0,1,0,59,67,88.1,8,38,2,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,32-273,11,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,8,0,0,0,Manchester City
+Rúben Dias,3.0,pt POR,"CB,LB",25-287,90,0,0,0,0,1,0,0,0,146,4,1,1,0.1,0.1,0.0,1,0,119,127,93.7,10,100,1,1,1,Manchester City
+Manuel Akanji,25.0,ch SUI,"RB,CB",27-221,90,0,0,0,0,0,0,1,0,106,2,0,0,0.0,0.0,0.0,0,0,94,101,93.1,6,62,0,0,0,Manchester City
+Ederson,31.0,br BRA,GK,29-192,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,31,33,93.9,0,21,0,0,0,Manchester City
+16 Players,,,,,990,3,1,0,0,20,5,2,0,901,26,6,14,2.5,2.5,1.0,35,4,698,786,88.8,60,538,18,18,8,Manchester City

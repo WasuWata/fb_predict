@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Cody Gakpo,18.0,nl NED,FW,23-358,72,0,1,0,0,1,0,0,0,34,2,0,1,0.1,0.1,0.3,4,2,19,23,82.6,1,20,2,5,1,Liverpool
+Darwin Núñez,27.0,uy URU,LW,23-310,18,0,0,0,0,0,0,0,0,9,1,0,1,0.0,0.0,0.0,0,0,2,6,33.3,0,3,1,1,0,Liverpool
+Luis Díaz,23.0,co COL,LW,26-107,62,1,0,0,0,1,1,0,0,47,1,0,1,0.3,0.3,0.1,2,0,33,37,89.2,3,32,1,8,5,Liverpool
+Diogo Jota,20.0,pt POR,"FW,LW",26-147,28,1,0,0,0,2,1,1,0,15,0,0,0,0.3,0.3,0.0,0,0,9,11,81.8,0,11,1,0,0,Liverpool
+Mohamed Salah,11.0,eg EGY,RW,30-319,90,1,0,1,1,2,0,0,0,56,2,0,0,0.9,0.1,0.0,3,2,36,41,87.8,7,38,4,9,3,Liverpool
+Curtis Jones,17.0,eng ENG,LM,22-090,85,1,0,0,0,1,1,0,0,74,1,0,2,0.2,0.2,0.0,1,0,59,64,92.2,7,47,3,0,0,Liverpool
+James Milner,7.0,eng ENG,LM,37-116,5,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,0,0,0,0,Liverpool
+Fabinho,3.0,br BRA,CM,29-189,90,0,0,0,0,0,0,0,0,79,1,0,0,0.0,0.0,0.0,2,0,75,78,96.2,5,46,0,0,0,Liverpool
+Harvey Elliott,19.0,eng ENG,RM,20-026,62,0,0,0,0,1,0,0,0,48,0,0,1,0.1,0.1,0.1,1,0,36,40,90.0,9,34,1,2,0,Liverpool
+Jordan Henderson,14.0,eng ENG,RM,32-317,28,0,0,0,0,0,0,0,0,24,2,0,1,0.0,0.0,0.1,1,0,15,19,78.9,4,12,1,2,1,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,29-050,90,0,0,0,0,0,0,0,0,130,2,0,2,0.0,0.0,0.3,3,0,104,120,86.7,11,92,4,3,1,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,31-296,90,0,0,0,0,2,0,0,0,109,0,0,1,0.2,0.2,0.0,0,0,99,106,93.4,2,69,0,0,0,Liverpool
+Ibrahima Konaté,5.0,fr FRA,CB,23-340,90,0,0,0,0,0,0,1,0,79,4,1,0,0.0,0.0,0.0,0,0,59,68,86.8,7,39,0,0,0,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,24-205,90,0,1,0,0,1,0,0,0,107,0,0,0,0.0,0.0,0.3,3,2,82,101,81.2,6,60,2,1,0,Liverpool
+Alisson,1.0,br BRA,GK,30-210,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,36,47,76.6,0,33,0,0,0,Liverpool
+15 Players,,,,,990,4,2,1,1,11,3,3,0,864,16,1,10,2.2,1.4,1.2,20,6,666,764,87.2,63,536,20,31,11,Liverpool

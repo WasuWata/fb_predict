@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jean-Philippe Mateta,14.0,fr FRA,FW,27-242,90,1,0,0,0,2,1,0,0,35,2,0,0,0.4,0.4,0.6,4,0,18,24,75.0,4,18,2,1,1,Crystal Palace
+Eberechi Eze,10.0,eng ENG,AM,26-241,90,0,1,0,0,4,0,0,0,43,6,0,1,0.3,0.3,0.6,8,0,19,28,67.9,2,19,3,2,1,Crystal Palace
+Ismaila Sarr,7.0,sn SEN,AM,27-000,85,2,0,0,0,4,3,0,0,36,0,0,0,1.9,1.9,0.5,6,0,15,23,65.2,2,18,2,2,0,Crystal Palace
+Eddie Nketiah,9.0,eng ENG,AM,25-271,5,1,0,0,0,1,1,0,0,3,0,0,0,1.0,1.0,0.0,0,0,0,1,0.0,0,3,1,0,0,Crystal Palace
+Will Hughes,19.0,eng ENG,CM,29-314,57,0,0,0,0,1,0,1,0,26,3,1,1,0.0,0.0,0.0,1,0,15,19,78.9,4,6,0,0,0,Crystal Palace
+Jefferson Lerma,8.0,co COL,CM,30-123,33,0,0,0,0,1,0,1,0,12,0,1,0,0.1,0.1,0.0,1,0,6,8,75.0,0,4,0,0,0,Crystal Palace
+Adam Wharton,20.0,eng ENG,CM,21-019,77,0,0,0,0,1,0,0,0,38,2,1,0,0.0,0.0,0.1,7,2,22,32,68.8,6,9,0,0,0,Crystal Palace
+Daichi Kamada,18.0,jp JPN,CM,28-204,13,0,0,0,0,0,0,0,0,11,2,0,1,0.0,0.0,0.0,1,1,6,7,85.7,1,4,0,1,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,WB,25-177,90,0,1,0,0,2,0,0,0,40,5,1,1,0.6,0.6,1.0,2,1,17,26,65.4,0,16,1,1,1,Crystal Palace
+Daniel Muñoz,12.0,co COL,WB,28-275,90,0,1,0,0,1,0,1,0,45,2,2,3,0.0,0.0,0.2,2,1,21,32,65.6,0,15,3,0,0,Crystal Palace
+Marc Guéhi,6.0,eng ENG,CB,24-227,90,0,0,0,0,0,0,0,0,33,3,3,2,0.0,0.0,0.0,1,0,17,19,89.5,2,7,0,0,0,Crystal Palace
+Maxence Lacroix,5.0,fr FRA,CB,24-325,90,0,0,0,0,1,0,0,0,31,6,1,0,0.0,0.0,0.0,0,0,15,19,78.9,1,9,0,0,0,Crystal Palace
+Chris Richards,26.0,us USA,CB,24-334,90,0,0,0,0,1,1,0,0,36,1,0,2,0.0,0.0,0.0,1,1,18,26,69.2,1,9,0,1,1,Crystal Palace
+Dean Henderson,1.0,eng ENG,GK,27-350,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,13,26,50.0,0,11,0,0,0,Crystal Palace
+14 Players,,,,,990,4,3,0,0,19,6,3,0,416,32,10,11,4.3,4.3,2.9,34,6,202,290,69.7,23,148,12,8,4,Crystal Palace

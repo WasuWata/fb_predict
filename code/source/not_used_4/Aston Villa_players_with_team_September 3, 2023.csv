@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ollie Watkins,11.0,eng ENG,FW,27-247,72,0,0,0,0,2,0,0,0,17,0,0,1,0.2,0.2,0.1,1,0,7,9,77.8,1,8,0,0,0,Aston Villa
+Jáder Durán,24.0,co COL,FW,19-264,18,0,0,0,0,2,0,0,0,8,0,0,1,0.1,0.1,0.0,0,0,3,5,60.0,1,6,2,0,0,Aston Villa
+Moussa Diaby,19.0,fr FRA,FW,24-058,90,0,0,0,0,1,0,0,0,29,0,1,0,0.1,0.1,0.1,2,0,18,21,85.7,3,13,2,5,1,Aston Villa
+John McGinn,7.0,sct SCO,LM,28-320,90,0,0,0,0,2,1,0,0,36,0,0,1,0.2,0.2,0.0,1,0,20,31,64.5,3,22,0,2,2,Aston Villa
+Douglas Luiz,6.0,br BRA,CM,25-117,71,0,0,0,0,0,0,0,0,48,3,0,1,0.0,0.0,0.0,2,0,40,43,93.0,6,33,1,1,1,Aston Villa
+Youri Tielemans,8.0,be BEL,CM,26-119,19,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,9,0,2,1,Aston Villa
+Boubacar Kamara,44.0,fr FRA,CM,23-284,90,0,0,0,0,0,0,1,0,56,3,0,0,0.0,0.0,0.1,2,0,44,50,88.0,3,34,0,0,0,Aston Villa
+Matty Cash,2.0,pl POL,"RB,RM",26-027,90,0,0,0,0,1,1,0,0,45,4,0,1,0.1,0.1,0.0,1,0,23,32,71.9,1,25,1,1,0,Aston Villa
+Lucas Digne,12.0,fr FRA,LB,30-045,90,0,0,0,0,0,0,0,0,60,2,5,1,0.0,0.0,0.3,4,0,37,49,75.5,3,27,2,0,0,Aston Villa
+Pau Torres,14.0,es ESP,CB,26-230,90,0,0,0,0,1,1,0,0,53,0,0,0,0.0,0.0,0.0,0,0,34,47,72.3,1,40,1,5,3,Aston Villa
+Diego Carlos,3.0,br BRA,CB,30-172,18,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,10,10,100.0,1,9,0,0,0,Aston Villa
+Leon Bailey,31.0,jm JAM,RM,26-025,46,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,2,0,7,12,58.3,1,11,2,3,2,Aston Villa
+Nicolò Zaniolo,22.0,it ITA,RM,24-063,26,0,0,0,0,0,0,0,0,16,2,1,1,0.0,0.0,0.0,2,0,6,8,75.0,2,9,3,1,1,Aston Villa
+Ezri Konsa,4.0,eng ENG,"CB,RB",25-315,90,0,0,0,0,0,0,0,0,63,0,2,3,0.0,0.0,0.0,0,0,52,55,94.5,3,38,0,1,0,Aston Villa
+Emiliano Martínez,1.0,ar ARG,GK,31-001,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,33,40,82.5,0,23,0,0,0,Aston Villa
+15 Players,,,,,990,0,0,0,0,9,3,1,0,512,15,9,10,0.7,0.7,0.7,17,0,343,422,81.3,29,307,14,21,11,Aston Villa

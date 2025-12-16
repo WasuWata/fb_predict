@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Solanke,9.0,eng ENG,FW,25-150,90,0,0,0,0,5,2,0,0,39,0,0,1,0.5,0.5,0.0,0,0,13,20,65.0,1,24,0,3,1,Bournemouth
+Hamed Junior Traorè,22.0,ci CIV,FW,22-360,90,0,0,0,0,1,0,0,0,52,1,0,2,0.0,0.0,0.5,4,0,23,37,62.2,5,24,2,4,3,Bournemouth
+Jaidon Anthony,32.0,eng ENG,LM,23-072,62,0,0,0,0,1,0,0,0,37,4,2,3,0.0,0.0,0.1,2,0,19,23,82.6,3,23,0,2,1,Bournemouth
+Marcus Tavernier,16.0,eng ENG,LM,23-326,28,0,0,0,0,1,1,0,0,13,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,7,0,1,0,Bournemouth
+Philip Billing,29.0,dk DEN,CM,26-245,90,0,0,0,0,1,0,0,0,40,3,4,1,0.1,0.1,0.0,2,0,23,31,74.2,3,18,1,0,0,Bournemouth
+Jefferson Lerma,8.0,co COL,CM,28-109,90,0,0,0,0,0,0,0,0,46,1,3,1,0.0,0.0,0.0,4,0,29,36,80.6,4,25,0,1,1,Bournemouth
+Dango Ouattara,11.0,bf BFA,RM,21-000,78,0,1,0,0,1,0,0,0,30,2,2,0,0.1,0.1,0.9,4,1,13,18,72.2,3,16,3,5,3,Bournemouth
+Antoine Semenyo,24.0,gh GHA,RM,23-035,12,0,0,0,0,0,0,0,0,5,0,1,1,0.0,0.0,0.0,1,0,0,2,0.0,0,3,0,0,0,Bournemouth
+Jordan Zemura,33.0,zw ZIM,LB,23-089,90,0,0,0,0,0,0,0,0,54,1,0,1,0.0,0.0,0.0,1,0,30,40,75.0,2,23,3,3,3,Bournemouth
+Marcos Senesi,25.0,ar ARG,CB,25-277,52,1,0,0,0,1,1,0,0,26,1,2,1,0.8,0.8,0.0,0,0,11,19,57.9,0,13,0,1,1,Bournemouth
+Chris Mepham,6.0,wls WAL,CB,25-098,38,0,0,0,0,0,0,0,0,16,0,2,1,0.0,0.0,0.0,0,0,6,8,75.0,0,5,0,0,0,Bournemouth
+Jack Stephens,3.0,eng ENG,CB,29-015,90,0,0,0,0,0,0,1,0,35,4,0,0,0.0,0.0,0.0,1,0,15,26,57.7,1,15,0,1,1,Bournemouth
+Adam Smith,15.0,eng ENG,RB,31-288,78,0,0,0,0,0,0,1,0,19,2,1,0,0.0,0.0,0.0,0,0,10,17,58.8,0,7,0,0,0,Bournemouth
+Ryan Fredericks,2.0,eng ENG,RB,30-124,12,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,3,1,0,0,Bournemouth
+Neto,13.0,br BRA,GK,33-207,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,13,32,40.6,0,16,0,0,0,Bournemouth
+15 Players,,,,,990,1,1,0,0,11,4,2,0,455,20,17,12,1.6,1.6,1.5,19,1,212,321,66.0,23,222,10,21,14,Bournemouth
+Alexander Isak,14.0,se SWE,FW,23-143,90,0,0,0,0,2,1,0,0,32,0,0,0,0.1,0.1,0.1,4,0,19,25,76.0,3,26,3,3,2,Newcastle United
+Allan Saint-Maximin,10.0,fr FRA,LW,25-336,84,0,0,0,0,2,1,0,0,48,0,0,1,0.1,0.1,0.1,4,0,23,38,60.5,4,34,6,6,5,Newcastle United
+Elliot Anderson,32.0,eng ENG,AM,20-097,6,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,6,0,0,0,Newcastle United
+Miguel Almirón,24.0,py PAR,RW,29-001,80,1,0,0,0,1,1,0,0,53,1,0,1,0.3,0.3,0.0,0,0,39,48,81.3,6,38,3,2,2,Newcastle United
+Jacob Murphy,23.0,eng ENG,RW,27-352,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,1,6,1,3,2,Newcastle United
+Joe Willock,28.0,eng ENG,LM,23-175,35,0,0,0,0,0,0,0,0,17,1,0,1,0.0,0.0,0.0,0,0,7,7,100.0,1,9,0,1,0,Newcastle United
+Anthony Gordon,8.0,eng ENG,"LM,LW",21-352,55,0,0,0,0,2,0,1,0,31,1,0,1,0.2,0.2,0.1,2,0,16,21,76.2,1,18,4,2,1,Newcastle United
+Joelinton,7.0,br BRA,"CM,DM",26-181,90,0,0,0,0,1,0,1,0,75,1,1,0,0.1,0.1,0.0,1,0,59,65,90.8,8,42,3,6,5,Newcastle United
+Sean Longstaff,36.0,eng ENG,"RM,DM",25-104,90,0,0,0,0,3,3,0,0,58,3,0,1,0.5,0.5,0.0,3,1,35,45,77.8,5,25,2,1,0,Newcastle United
+Dan Burn,33.0,eng ENG,LB,30-278,90,0,0,0,0,0,0,0,0,73,1,0,3,0.0,0.0,0.0,5,0,52,64,81.3,8,37,0,0,0,Newcastle United
+Sven Botman,4.0,nl NED,CB,23-030,90,0,0,0,0,1,1,1,0,93,3,3,3,0.0,0.0,0.0,1,0,69,82,84.1,2,59,1,0,0,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,31-053,90,0,0,0,0,3,0,0,0,96,2,5,0,0.2,0.2,0.0,0,0,68,84,81.0,9,61,1,0,0,Newcastle United
+Kieran Trippier,2.0,eng ENG,RB,32-145,90,0,0,0,0,0,0,0,0,113,2,0,2,0.0,0.0,0.2,3,0,68,102,66.7,8,45,1,1,0,Newcastle United
+Nick Pope,22.0,eng ENG,GK,30-298,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,28,29,96.6,0,16,0,0,0,Newcastle United
+14 Players,,,,,990,1,0,0,0,15,7,3,0,739,15,9,13,1.4,1.4,0.5,25,1,495,623,79.5,57,422,25,25,17,Newcastle United

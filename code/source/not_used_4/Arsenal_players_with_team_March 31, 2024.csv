@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Kai Havertz,29.0,de GER,FW,24-294,90,0,0,0,0,1,1,0,0,24,0,0,0,0.3,0.3,0.0,1,0,6,13,46.2,2,13,1,2,2,Arsenal
+Gabriel Jesus,9.0,br BRA,LW,26-363,71,0,0,0,0,3,0,1,0,26,1,2,2,0.2,0.2,0.3,4,0,8,11,72.7,0,12,2,4,3,Arsenal
+Leandro Trossard,19.0,be BEL,LW,29-118,19,0,0,0,0,1,1,0,0,12,0,0,0,0.1,0.1,0.0,0,0,8,10,80.0,1,8,2,1,1,Arsenal
+Bukayo Saka,7.0,eng ENG,RW,22-208,77,0,0,0,0,0,0,0,0,30,4,0,1,0.0,0.0,0.0,0,0,12,16,75.0,0,16,1,1,0,Arsenal
+Gabriel Martinelli,11.0,br BRA,RW,22-287,13,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,2,0,0,0,Arsenal
+Declan Rice,41.0,eng ENG,LM,25-077,90,0,0,0,0,0,0,0,0,43,3,0,0,0.0,0.0,0.1,1,0,25,34,73.5,3,27,0,1,1,Arsenal
+Jorginho,20.0,it ITA,CM,32-102,65,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,10,15,66.7,4,8,0,0,0,Arsenal
+Thomas Partey,5.0,gh GHA,CM,30-292,25,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,12,14,85.7,0,7,0,0,0,Arsenal
+Martin Ødegaard,8.0,no NOR,RM,25-105,90,0,0,0,0,0,0,0,0,42,4,2,2,0.0,0.0,0.2,3,0,21,32,65.6,6,25,3,0,0,Arsenal
+Jakub Kiwior,15.0,pl POL,LB,24-045,65,0,0,0,0,0,0,0,0,25,1,0,3,0.0,0.0,0.1,1,0,12,19,63.2,0,15,0,1,1,Arsenal
+Takehiro Tomiyasu,18.0,jp JPN,LB,25-147,25,0,0,0,0,0,0,0,0,11,1,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,0,0,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,26-103,90,0,0,0,0,0,0,0,0,33,1,1,1,0.0,0.0,0.0,0,0,22,26,84.6,0,18,1,0,0,Arsenal
+William Saliba,2.0,fr FRA,CB,23-007,90,0,0,0,0,0,0,0,0,47,3,0,2,0.0,0.0,0.0,0,0,25,33,75.8,4,26,0,2,1,Arsenal
+Ben White,4.0,eng ENG,RB,26-175,90,0,0,0,0,0,0,0,0,31,1,0,2,0.0,0.0,0.1,1,0,14,19,73.7,0,12,1,0,0,Arsenal
+David Raya,22.0,es ESP,GK,28-198,90,0,0,0,0,0,0,1,0,38,0,0,0,0.0,0.0,0.0,0,0,20,38,52.6,0,21,0,0,0,Arsenal
+15 Players,,,,,990,0,0,0,0,6,2,2,0,406,20,5,14,0.7,0.7,0.7,12,0,202,288,70.1,20,216,11,12,9,Arsenal

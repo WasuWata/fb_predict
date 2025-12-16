@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Darwin Núñez,27.0,uy URU,FW,23-127,90,0,0,0,0,4,2,0,0,38,0,0,1,0.3,0.3,0.4,6,0,21,28,75.0,3,23,4,2,0,Liverpool
+Mohamed Salah,11.0,eg EGY,FW,30-136,90,1,0,0,0,7,3,0,0,48,0,0,0,0.8,0.8,0.2,7,1,22,32,68.8,4,31,2,7,2,Liverpool
+Roberto Firmino,9.0,br BRA,AM,31-027,90,0,0,0,0,3,3,0,0,49,0,2,5,0.3,0.3,0.2,5,0,20,28,71.4,4,21,1,3,2,Liverpool
+Thiago Alcántara,6.0,es ESP,LM,31-201,90,0,0,0,0,0,0,0,0,95,7,1,2,0.0,0.0,0.1,3,0,65,79,82.3,8,42,2,3,3,Liverpool
+Harvey Elliott,19.0,eng ENG,RM,19-208,59,0,0,0,0,1,0,0,0,44,0,0,2,0.0,0.0,0.0,0,0,24,35,68.6,1,23,2,1,0,Liverpool
+Curtis Jones,17.0,eng ENG,RM,21-272,31,0,0,0,0,2,0,0,0,25,1,0,0,0.1,0.1,0.1,5,0,11,19,57.9,4,14,4,1,1,Liverpool
+Fabinho,3.0,br BRA,DM,29-006,59,0,0,0,0,0,0,0,0,65,2,3,4,0.0,0.0,0.0,0,0,43,50,86.0,8,30,0,1,0,Liverpool
+Jordan Henderson,14.0,eng ENG,DM,32-134,31,0,0,0,0,2,1,0,0,38,0,1,2,0.1,0.1,0.0,0,0,26,33,78.8,6,17,0,0,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,28-232,90,0,1,0,0,1,1,0,0,111,0,0,0,0.1,0.1,0.6,8,1,86,105,81.9,9,46,5,3,3,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,31-113,90,0,0,0,0,1,0,0,0,85,1,1,0,0.0,0.0,0.0,0,0,65,71,91.5,4,50,0,0,0,Liverpool
+Joe Gomez,2.0,eng ENG,CB,25-159,90,0,0,0,0,1,0,0,0,131,2,0,1,0.0,0.0,0.0,1,0,100,124,80.6,16,82,0,1,1,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,24-022,78,0,0,0,0,0,0,0,0,96,4,1,0,0.0,0.0,0.1,3,0,63,86,73.3,9,40,0,1,0,Liverpool
+James Milner,7.0,eng ENG,RB,36-298,12,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,2,0,8,14,57.1,3,10,0,1,0,Liverpool
+Alisson,1.0,br BRA,GK,30-027,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,37,41,90.2,0,30,0,0,0,Liverpool
+14 Players,,,,,990,1,1,0,0,22,10,0,0,884,17,9,17,1.7,1.7,1.7,40,2,591,745,79.3,79,459,20,24,12,Liverpool
+Rodrigo,19.0,es ESP,FW,31-237,51,1,0,0,0,2,2,0,0,24,0,0,0,1.0,1.0,0.2,3,0,13,20,65.0,1,17,2,0,0,Leeds United
+Patrick Bamford,9.0,eng ENG,FW,29-054,39,0,1,0,0,1,1,0,0,14,0,0,0,0.1,0.1,0.1,0,0,5,8,62.5,0,7,0,0,0,Leeds United
+Crysencio Summerville,10.0,nl NED,"LW,RW",20-364,89,1,0,0,0,2,1,1,0,45,2,0,2,0.1,0.1,0.0,4,0,19,30,63.3,3,22,3,2,1,Leeds United
+Luke Ayling,2.0,eng ENG,CB,31-065,1,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Leeds United
+Jack Harrison,11.0,eng ENG,RW,25-343,71,0,0,0,0,3,1,0,0,43,0,0,4,0.2,0.2,0.1,1,0,13,21,61.9,2,19,6,4,0,Leeds United
+Wilfried Gnonto,29.0,it ITA,"LW,LM",18-358,19,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,1,1,4,6,66.7,0,4,1,1,1,Leeds United
+Brenden Aaronson,7.0,us USA,"AM,CM",22-007,90,0,0,0,0,2,0,0,0,47,2,0,3,0.2,0.2,0.2,5,0,20,28,71.4,3,25,1,4,1,Leeds United
+Marc Roca,8.0,es ESP,"DM,CM",25-337,90,0,0,0,0,1,1,0,0,38,2,2,1,0.0,0.0,0.0,2,0,17,29,58.6,3,11,1,0,0,Leeds United
+Tyler Adams,12.0,us USA,"DM,RM",23-257,90,0,0,0,0,0,0,0,0,57,3,2,1,0.0,0.0,0.0,2,1,32,45,71.1,8,21,0,0,0,Leeds United
+Pascal Struijk,21.0,nl NED,LB,23-079,90,0,0,0,0,1,0,0,0,55,4,1,1,0.0,0.0,0.1,3,0,29,41,70.7,5,14,1,1,1,Leeds United
+Liam Cooper,6.0,sct SCO,CB,31-060,90,0,0,0,0,0,0,0,0,35,2,1,0,0.0,0.0,0.0,1,0,12,20,60.0,4,4,0,0,0,Leeds United
+Robin Koch,5.0,de GER,CB,26-104,90,0,0,0,0,0,0,0,0,39,2,1,7,0.0,0.0,0.0,0,0,15,21,71.4,1,9,0,0,0,Leeds United
+Rasmus Kristensen,25.0,dk DEN,RB,25-110,90,0,0,0,0,2,0,0,0,73,1,2,0,0.1,0.1,0.2,3,0,41,60,68.3,1,27,1,0,0,Leeds United
+Illan Meslier,1.0,fr FRA,GK,22-241,90,0,0,0,0,0,0,0,0,37,1,0,0,0.0,0.0,0.0,0,0,4,29,13.8,0,16,0,0,0,Leeds United
+14 Players,,,,,990,2,1,0,0,14,6,1,0,522,21,10,19,1.8,1.8,0.8,25,2,224,358,62.6,31,196,16,12,4,Leeds United

@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Marcus Rashford,10.0,eng ENG,FW,26-116,90,0,0,0,0,2,1,0,0,25,0,0,1,0.1,0.1,0.0,3,0,13,16,81.3,0,13,0,4,1,Manchester United
+Alejandro Garnacho,17.0,ar ARG,LW,19-238,90,0,0,0,0,3,1,0,0,50,1,2,2,0.1,0.1,0.1,6,0,24,33,72.7,3,32,3,6,2,Manchester United
+Omari Forson,62.0,eng ENG,RW,19-219,52,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.1,0,0,17,18,94.4,1,18,1,1,0,Manchester United
+Christian Eriksen,14.0,dk DEN,DM,32-010,38,0,0,0,0,0,0,0,0,57,1,0,0,0.0,0.0,0.4,5,0,44,52,84.6,9,36,4,0,0,Manchester United
+Bruno Fernandes,8.0,pt POR,"AM,RW",29-169,90,0,0,0,0,5,4,1,0,84,4,1,1,0.1,0.1,0.0,8,1,46,70,65.7,4,34,3,2,2,Manchester United
+Casemiro,18.0,br BRA,DM,32-001,52,0,0,0,0,1,0,0,0,38,4,0,1,0.0,0.0,0.1,1,0,24,27,88.9,1,21,0,3,1,Manchester United
+Scott McTominay,39.0,sct SCO,"AM,DM",27-078,38,0,0,0,0,1,0,0,0,20,0,1,1,0.1,0.1,0.0,2,0,10,18,55.6,1,9,0,0,0,Manchester United
+Kobbie Mainoo,37.0,eng ENG,DM,18-311,79,0,0,0,0,2,0,0,0,41,1,1,1,0.1,0.1,0.0,1,0,27,31,87.1,4,31,0,1,0,Manchester United
+Amad Diallo,16.0,ci CIV,RW,21-228,11,0,0,0,0,0,0,0,0,21,2,0,0,0.0,0.0,0.0,1,0,14,17,82.4,0,10,1,2,1,Manchester United
+Victor Lindelöf,2.0,se SWE,LB,29-222,89,0,0,0,0,1,1,0,0,65,0,0,0,0.1,0.1,0.0,4,0,55,58,94.8,4,34,3,0,0,Manchester United
+Antony,21.0,br BRA,LB,24-000,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,1,0,0,Manchester United
+Harry Maguire,5.0,eng ENG,CB,30-356,90,1,0,0,0,4,1,1,0,101,1,3,2,1.1,1.1,0.1,4,0,80,86,93.0,6,52,1,1,0,Manchester United
+Raphaël Varane,19.0,fr FRA,CB,30-305,90,0,0,0,0,0,0,0,0,60,0,1,0,0.0,0.0,0.0,0,0,49,52,94.2,6,42,0,0,0,Manchester United
+Diogo Dalot,20.0,pt POR,RB,24-343,90,0,0,0,0,1,0,0,0,72,0,0,2,0.1,0.1,0.1,3,0,51,63,81.0,5,40,0,4,3,Manchester United
+André Onana,24.0,cm CMR,GK,27-328,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,27,30,90.0,1,16,0,0,0,Manchester United
+15 Players,,,,,990,1,0,0,0,21,8,2,0,689,14,9,11,1.7,1.7,1.0,38,1,482,572,84.3,45,389,17,24,10,Manchester United
+Rodrigo Muniz,19.0,br BRA,FW,22-296,90,0,0,0,0,5,1,0,0,35,1,1,1,0.3,0.3,0.1,2,0,11,16,68.8,2,22,0,2,0,Fulham
+Alex Iwobi,22.0,ng NGA,LW,27-297,90,1,0,0,0,3,1,0,0,44,1,1,1,0.3,0.3,0.4,5,0,21,30,70.0,6,28,6,4,1,Fulham
+Harry Wilson,8.0,wls WAL,RW,26-339,80,0,0,0,0,1,0,1,0,36,2,0,1,0.1,0.1,0.0,3,0,23,29,79.3,5,20,2,2,2,Fulham
+Issa Diop,31.0,fr FRA,RW,27-046,10,0,0,0,0,0,0,0,0,10,2,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,0,0,Fulham
+Andreas Pereira,18.0,br BRA,AM,28-054,67,0,0,0,0,2,2,1,0,45,0,0,1,0.1,0.1,0.2,6,0,28,40,70.0,5,26,2,3,1,Fulham
+Tom Cairney,10.0,sct SCO,AM,33-035,23,0,0,0,0,0,0,1,0,19,1,1,1,0.0,0.0,0.1,2,0,6,11,54.5,1,8,1,4,2,Fulham
+Saša Lukić,28.0,rs SRB,DM,27-195,90,0,0,0,0,1,0,0,0,39,4,3,2,0.1,0.1,0.1,3,0,22,27,81.5,5,15,1,1,1,Fulham
+Harrison Reed,6.0,eng ENG,DM,29-028,76,0,0,0,0,2,0,0,0,48,1,0,2,0.1,0.1,0.0,1,0,31,39,79.5,4,35,0,1,0,Fulham
+Adama Traoré,11.0,es ESP,DM,28-030,14,0,1,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,3,2,5,6,83.3,2,6,1,2,1,Fulham
+Antonee Robinson,33.0,us USA,LB,26-200,90,0,0,0,0,0,0,0,0,57,3,1,2,0.0,0.0,0.0,2,0,36,46,78.3,5,22,3,1,1,Fulham
+Calvin Bassey,3.0,ng NGA,CB,24-055,90,1,0,0,0,2,1,0,0,51,1,0,2,0.2,0.2,0.0,1,1,32,39,82.1,1,25,1,0,0,Fulham
+Tosin Adarabioyo,4.0,eng ENG,CB,26-153,90,0,0,0,0,1,0,1,0,63,0,1,0,0.0,0.0,0.0,0,0,54,59,91.5,2,40,0,0,0,Fulham
+Timothy Castagne,21.0,be BEL,RB,28-081,90,0,1,0,0,0,0,0,0,72,2,0,3,0.0,0.0,0.1,3,0,49,61,80.3,3,33,5,0,0,Fulham
+Bernd Leno,17.0,de GER,GK,31-357,90,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.0,0,0,23,31,74.2,0,19,0,0,0,Fulham
+14 Players,,,,,990,2,2,0,0,17,5,5,0,564,18,8,17,1.2,1.2,1.1,31,3,346,440,78.6,41,302,22,20,9,Fulham

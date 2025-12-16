@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Julián Álvarez,19.0,ar ARG,FW,23-313,90,0,1,0,0,3,0,0,0,51,3,0,2,0.5,0.5,0.3,2,1,24,32,75.0,2,33,3,1,1,Manchester City
+Jack Grealish,10.0,eng ENG,"LW,LM",28-091,90,1,0,0,0,3,1,0,0,52,1,0,0,0.4,0.4,0.4,5,0,36,42,85.7,0,42,4,5,3,Manchester City
+Bernardo Silva,20.0,pt POR,"RW,CM",29-122,90,1,0,0,0,3,1,0,0,60,4,1,0,0.2,0.2,0.1,5,0,42,48,87.5,10,42,3,2,1,Manchester City
+Phil Foden,47.0,eng ENG,AM,23-196,89,0,0,0,0,2,2,0,0,62,2,0,0,0.1,0.1,0.0,7,1,44,52,84.6,3,59,4,4,2,Manchester City
+Manuel Akanji,25.0,ch SUI,CB,28-144,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester City
+Mateo Kovačić,8.0,hr CRO,DM,29-218,82,0,0,0,0,1,0,0,0,95,3,0,2,0.1,0.1,0.0,3,0,80,84,95.2,5,78,2,3,0,Manchester City
+Matheus Nunes,27.0,pt POR,"DM,RM",25-105,8,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,4,0,0,0,Manchester City
+Rodri,16.0,es ESP,"DM,CM",27-171,90,0,0,0,0,3,1,1,0,105,3,0,0,0.2,0.2,0.0,3,1,87,96,90.6,5,77,2,3,2,Manchester City
+Joško Gvardiol,24.0,hr CRO,LB,21-321,68,0,0,0,0,1,0,0,0,65,0,0,0,0.0,0.0,0.0,0,0,38,53,71.7,1,39,3,3,1,Manchester City
+John Stones,5.0,eng ENG,CB,29-196,22,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,0,0,Manchester City
+Nathan Aké,6.0,nl NED,"CB,LB",28-295,90,0,0,0,0,0,0,0,0,66,1,0,1,0.0,0.0,0.1,1,0,48,57,84.2,2,45,3,1,1,Manchester City
+Rúben Dias,3.0,pt POR,CB,26-210,90,0,0,0,0,1,1,0,0,91,1,1,1,0.1,0.1,0.0,0,0,70,82,85.4,3,65,1,1,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,33-196,90,0,0,0,0,1,0,0,0,63,2,0,1,0.0,0.0,0.1,4,1,43,56,76.8,3,40,0,1,1,Manchester City
+Ederson,31.0,br BRA,GK,30-115,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,26,29,89.7,0,26,0,0,0,Manchester City
+14 Players,,,,,990,2,1,0,0,18,6,1,0,751,21,2,8,1.6,1.6,1.2,30,4,542,636,85.2,35,552,25,24,12,Manchester City

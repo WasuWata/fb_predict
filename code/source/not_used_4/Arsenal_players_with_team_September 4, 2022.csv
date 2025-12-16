@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Gabriel Jesus,9.0,br BRA,FW,25-154,90,0,0,0,0,2,0,1,0,54,2,0,0,0.1,0.1,0.6,5,0,29,34,85.3,6,35,2,9,3,Arsenal
+Gabriel Martinelli,11.0,br BRA,"LW,LB",21-078,90,0,0,0,0,1,1,0,0,52,0,0,1,0.1,0.1,0.1,4,1,31,43,72.1,4,32,6,2,1,Arsenal
+Bukayo Saka,7.0,eng ENG,"RW,RM",20-364,90,1,0,0,0,4,1,1,0,46,2,0,0,0.4,0.4,0.0,3,0,24,34,70.6,3,23,4,2,1,Arsenal
+Granit Xhaka,34.0,ch SUI,"LM,DM",29-342,90,0,0,0,0,3,0,0,0,51,2,2,2,0.2,0.2,0.0,3,1,35,39,89.7,8,16,1,1,1,Arsenal
+Albert Sambi Lokonga,23.0,be BEL,CM,22-317,73,0,0,0,0,0,0,0,0,46,0,2,1,0.0,0.0,0.0,1,0,38,42,90.5,5,21,0,0,0,Arsenal
+Fabio Vieira,21.0,pt POR,"CM,AM",22-097,17,0,0,0,0,2,1,0,0,19,0,1,1,0.1,0.1,0.0,2,0,8,11,72.7,2,7,0,2,2,Arsenal
+Martin Ødegaard,8.0,no NOR,RM,23-261,73,0,0,0,0,1,0,0,0,43,0,0,0,0.4,0.4,0.2,5,0,27,41,65.9,6,25,2,1,0,Arsenal
+Emile Smith Rowe,10.0,eng ENG,"CM,DM",22-038,17,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,1,1,0,0,0,Arsenal
+Oleksandr Zinchenko,35.0,ua UKR,LB,25-263,73,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,46,50,92.0,7,25,2,0,0,Arsenal
+Eddie Nketiah,14.0,eng ENG,"FW,LM,LW",23-097,17,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,24-259,90,0,0,0,0,1,0,0,0,51,1,0,2,0.0,0.0,0.0,2,0,40,47,85.1,4,36,1,0,0,Arsenal
+William Saliba,12.0,fr FRA,CB,21-164,90,0,0,0,0,1,0,1,0,66,2,0,0,0.1,0.1,0.0,0,0,57,58,98.3,4,38,0,1,0,Arsenal
+Ben White,4.0,eng ENG,RB,24-331,79,0,0,0,0,0,0,0,0,51,3,0,0,0.0,0.0,0.0,3,0,36,47,76.6,4,15,4,0,0,Arsenal
+Takehiro Tomiyasu,18.0,jp JPN,CB,23-303,11,0,0,0,0,0,0,0,0,17,1,1,0,0.0,0.0,0.0,0,0,12,14,85.7,4,5,0,0,0,Arsenal
+Aaron Ramsdale,1.0,eng ENG,GK,24-113,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,29,41,70.7,0,31,0,0,0,Arsenal
+15 Players,,,,,990,1,0,0,0,16,3,3,0,601,14,6,7,1.3,1.3,1.0,28,2,418,508,82.3,58,311,22,18,8,Arsenal

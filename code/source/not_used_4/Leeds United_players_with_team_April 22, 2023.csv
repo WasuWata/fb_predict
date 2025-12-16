@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Rodrigo,19.0,es ESP,FW,32-047,64,0,0,0,0,1,0,0,0,26,1,0,1,0.1,0.1,0.0,1,0,13,20,65.0,1,15,0,1,0,Leeds United
+Patrick Bamford,9.0,eng ENG,FW,29-229,26,0,0,0,0,1,0,0,0,12,0,0,0,0.3,0.3,0.0,0,0,3,8,37.5,0,7,0,1,1,Leeds United
+Jack Harrison,11.0,eng ENG,LW,26-153,79,0,0,0,0,1,0,0,0,33,0,2,0,0.1,0.1,0.0,2,0,12,26,46.2,0,20,3,4,1,Leeds United
+Wilfried Gnonto,29.0,it ITA,LW,19-168,11,0,0,0,0,1,0,0,0,12,1,0,1,0.0,0.0,0.0,0,0,7,9,77.8,2,9,0,1,1,Leeds United
+Crysencio Summerville,10.0,nl NED,"RW,AM",21-174,90,0,0,0,0,1,0,0,0,32,0,0,2,0.0,0.0,0.1,2,0,17,21,81.0,4,19,0,5,1,Leeds United
+Brenden Aaronson,7.0,us USA,AM,22-182,64,0,0,0,0,0,0,0,0,25,1,1,1,0.0,0.0,0.1,2,0,11,14,78.6,2,16,2,3,0,Leeds United
+Luis Sinisterra,23.0,co COL,RW,23-309,26,0,0,0,0,1,0,0,0,18,0,0,0,0.2,0.2,0.0,1,0,12,15,80.0,3,11,2,1,1,Leeds United
+Weston McKennie,28.0,us USA,DM,24-237,79,0,0,0,0,0,0,1,0,32,3,3,2,0.0,0.0,0.0,0,0,12,21,57.1,2,15,0,0,0,Leeds United
+Adam Forshaw,4.0,eng ENG,DM,31-196,11,0,0,0,0,0,0,0,0,9,1,1,0,0.0,0.0,0.0,0,0,7,8,87.5,1,7,0,0,0,Leeds United
+Marc Roca,8.0,es ESP,DM,26-147,90,0,0,0,0,3,2,1,0,60,1,0,2,0.1,0.1,0.0,3,0,37,52,71.2,4,29,1,1,0,Leeds United
+Maximilian Wöber,39.0,at AUT,LB,25-077,90,0,0,0,0,0,0,1,0,71,3,1,0,0.0,0.0,0.0,0,0,33,60,55.0,2,30,2,0,0,Leeds United
+Liam Cooper,6.0,sct SCO,CB,31-235,90,0,0,0,0,1,0,1,0,73,6,3,3,0.0,0.0,0.2,3,0,45,54,83.3,9,39,1,0,0,Leeds United
+Robin Koch,5.0,de GER,CB,26-279,90,0,0,0,0,0,0,0,0,58,1,1,0,0.0,0.0,0.0,1,0,37,50,74.0,2,34,1,0,0,Leeds United
+Rasmus Kristensen,25.0,dk DEN,RB,25-285,90,0,0,0,0,0,0,0,0,55,6,2,0,0.0,0.0,0.0,1,0,29,38,76.3,4,26,1,1,0,Leeds United
+Illan Meslier,1.0,fr FRA,GK,23-051,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,28,36,77.8,0,27,0,0,0,Leeds United
+15 Players,,,,,990,0,0,0,0,10,2,4,0,556,24,14,12,0.9,0.9,0.5,16,0,303,432,70.1,36,304,13,18,5,Leeds United

@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Neal Maupay,7.0,fr FRA,FW,27-117,90,0,0,0,0,1,0,0,0,40,1,0,2,0.1,0.1,0.1,2,0,22,29,75.9,1,29,0,1,1,Brentford
+Yoane Wissa,11.0,cd COD,"LW,FW",27-097,90,0,0,0,0,2,2,0,0,21,0,0,0,0.2,0.2,0.0,0,0,9,12,75.0,0,12,0,2,0,Brentford
+Keane Lewis-Potter,23.0,eng ENG,RW,22-290,65,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.1,1,0,9,19,47.4,3,20,2,2,0,Brentford
+Michael Olakigbe,37.0,eng ENG,RB,19-228,25,0,0,0,0,0,0,0,0,18,1,0,4,0.0,0.0,0.0,2,0,4,7,57.1,0,7,0,4,1,Brentford
+Shandon Baptiste,26.0,gd GRN,LM,25-245,64,0,0,0,0,0,0,0,0,44,1,0,0,0.0,0.0,0.0,1,0,28,37,75.7,1,31,1,3,3,Brentford
+Mikkel Damsgaard,24.0,dk DEN,CM,23-159,26,0,0,0,0,0,0,0,0,25,0,1,2,0.0,0.0,0.0,0,0,16,21,76.2,2,16,0,1,1,Brentford
+Christian Nørgaard,6.0,dk DEN,CM,29-274,90,0,0,0,0,2,0,0,0,85,3,1,3,0.1,0.1,0.0,2,0,53,66,80.3,6,48,1,0,0,Brentford
+Frank Onyeka,15.0,ng NGA,RM,25-342,45,0,0,0,0,2,1,1,0,28,2,0,1,0.1,0.1,0.0,2,0,11,17,64.7,2,15,1,2,1,Brentford
+Yehor Yarmoliuk,33.0,ua UKR,"CM,RM",19-283,45,0,0,0,0,1,1,0,0,22,2,0,0,0.0,0.0,0.0,0,0,14,18,77.8,5,13,1,2,2,Brentford
+Vitaly Janelt,27.0,de GER,"LB,CB",25-213,90,0,0,0,0,0,0,0,0,82,4,0,0,0.0,0.0,0.2,3,0,61,72,84.7,6,46,1,1,0,Brentford
+Ben Mee,16.0,eng ENG,CB,34-079,90,0,0,0,0,1,0,0,0,77,2,2,0,0.1,0.1,0.0,1,0,53,66,80.3,6,55,3,1,0,Brentford
+Ethan Pinnock,5.0,jm JAM,CB,30-194,90,0,0,0,0,1,0,0,0,86,3,3,0,0.1,0.1,0.0,2,0,58,74,78.4,2,50,1,0,0,Brentford
+Saman Ghoddos,14.0,ir IRN,"RB,LB",30-094,90,0,0,0,0,0,0,0,0,70,4,1,0,0.0,0.0,0.0,0,0,41,62,66.1,1,38,2,2,1,Brentford
+Mark Flekken,1.0,nl NED,GK,30-179,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,41,50,82.0,0,31,0,0,0,Brentford
+14 Players,,,,,990,0,0,0,0,10,4,1,0,673,23,8,12,0.7,0.7,0.4,16,0,420,550,76.4,35,411,13,21,10,Brentford

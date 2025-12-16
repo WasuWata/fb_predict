@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Roberto Firmino,9.0,br BRA,FW,30-014,90,3,1,0,0,3,3,0,0,63,1,0,4,1.9,1.9,0.6,4,0,37,50,74.0,4,34,3,3,2,Liverpool
+Sadio Mané,10.0,sn SEN,LW,29-189,90,1,0,0,0,4,2,0,0,46,1,1,0,0.8,0.8,0.0,3,1,25,36,69.4,3,26,2,2,1,Liverpool
+Mohamed Salah,11.0,eg EGY,RW,29-123,90,1,1,0,0,5,3,0,0,63,0,0,0,0.3,0.3,0.3,6,3,42,52,80.8,5,35,6,4,3,Liverpool
+Naby Keïta,8.0,gn GUI,LM,26-248,90,0,0,0,0,3,0,0,0,80,4,0,3,0.1,0.1,0.0,0,0,58,67,86.6,3,35,3,1,1,Liverpool
+Jordan Henderson,14.0,eng ENG,CM,31-121,90,0,0,0,0,0,0,0,0,123,3,0,0,0.0,0.0,0.0,0,0,104,116,89.7,9,61,2,0,0,Liverpool
+James Milner,7.0,eng ENG,"RM,RB",35-285,82,0,1,0,0,1,0,0,0,88,3,1,1,0.1,0.1,1.1,7,1,70,80,87.5,11,36,1,0,0,Liverpool
+Neco Williams,76.0,wls WAL,RB,20-186,8,0,1,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.7,2,2,9,9,100.0,0,7,1,1,1,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,27-219,63,0,0,0,0,0,0,0,0,73,3,0,0,0.0,0.0,0.0,3,0,53,70,75.7,3,34,4,1,1,Liverpool
+Kostas Tsimikas,21.0,gr GRE,LB,25-157,27,0,0,0,0,0,0,0,0,22,2,0,0,0.0,0.0,0.0,0,0,12,20,60.0,1,15,1,0,0,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,30-100,90,0,0,0,0,0,0,0,0,106,0,0,0,0.0,0.0,0.0,2,0,96,103,93.2,2,59,0,1,0,Liverpool
+Joël Matip,32.0,cm CMR,CB,30-069,90,0,0,0,0,1,0,0,0,119,0,1,0,0.0,0.0,0.0,4,1,107,115,93.0,6,74,1,0,0,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,23-009,64,0,0,0,0,2,0,0,0,90,1,1,0,0.1,0.1,0.0,2,0,67,83,80.7,10,42,1,0,0,Liverpool
+Alex Oxlade-Chamberlain,15.0,eng ENG,RM,28-062,26,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.0,1,0,18,20,90.0,3,15,3,2,1,Liverpool
+Caoimhín Kelleher,62.0,ie IRL,GK,22-327,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,39,41,95.1,0,27,0,0,0,Liverpool
+14 Players,,,,,990,5,4,0,0,19,8,0,0,950,18,4,9,3.3,3.3,2.8,34,8,737,862,85.5,60,500,28,15,10,Liverpool

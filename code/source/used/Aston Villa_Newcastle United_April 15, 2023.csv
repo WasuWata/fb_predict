@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ollie Watkins,11.0,eng ENG,FW,27-106,89,2,1,0,0,6,4,0,0,24,0,0,0,1.0,1.0,0.5,3,1,12,14,85.7,0,17,4,0,0,Aston Villa
+Jáder Durán,22.0,co COL,FW,19-123,1,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,1,0,Aston Villa
+Jacob Ramsey,41.0,eng ENG,LW,21-322,84,1,1,0,0,4,1,0,0,42,2,1,1,0.5,0.5,0.6,6,1,26,27,96.3,4,24,1,4,3,Aston Villa
+Calum Chambers,16.0,eng ENG,RB,28-085,6,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Aston Villa
+John McGinn,7.0,sct SCO,"RW,LW",28-179,90,0,0,0,0,2,0,0,0,42,3,0,1,0.1,0.1,0.0,4,2,19,29,65.5,3,26,4,7,2,Aston Villa
+Emi Buendía,10.0,ar ARG,AM,26-111,90,0,0,0,0,1,0,0,0,52,2,0,1,0.3,0.3,0.1,4,0,34,41,82.9,6,24,3,0,0,Aston Villa
+Douglas Luiz,6.0,br BRA,DM,24-341,90,0,0,0,0,0,0,0,0,64,2,3,0,0.0,0.0,0.1,2,0,42,52,80.8,4,28,2,2,1,Aston Villa
+Leander Dendoncker,32.0,be BEL,DM,28-000,90,0,0,0,0,1,0,0,0,53,6,2,0,0.0,0.0,0.0,0,0,35,36,97.2,2,26,0,0,0,Aston Villa
+Álex Moreno,15.0,es ESP,LB,29-311,90,0,1,0,0,0,0,0,0,70,0,0,1,0.0,0.0,0.5,4,1,42,64,65.6,1,35,8,3,2,Aston Villa
+Tyrone Mings,5.0,eng ENG,CB,30-033,90,0,0,0,0,0,0,0,0,55,2,0,5,0.0,0.0,0.0,0,0,28,38,73.7,2,26,0,0,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,CB,25-174,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,33,40,82.5,0,27,0,1,0,Aston Villa
+Ashley Young,18.0,eng ENG,"RB,RW",37-280,90,0,0,0,0,2,1,0,0,50,1,0,0,0.0,0.0,0.0,0,0,31,43,72.1,3,30,1,2,1,Aston Villa
+Emiliano Martínez,1.0,ar ARG,GK,30-225,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,32,52,61.5,0,27,0,0,0,Aston Villa
+13 Players,,,,,990,3,3,0,0,16,6,1,0,553,18,6,9,1.9,1.9,1.8,23,5,334,436,76.6,25,291,23,20,9,Aston Villa
+Alexander Isak,14.0,se SWE,"FW,LW",23-206,90,0,0,0,0,2,2,0,0,25,1,0,2,0.1,0.1,0.0,2,0,10,14,71.4,0,16,1,4,1,Newcastle United
+Anthony Gordon,8.0,eng ENG,LW,22-050,55,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,0,0,10,14,71.4,2,12,1,4,1,Newcastle United
+Miguel Almirón,24.0,py PAR,"RW,RM",29-064,35,0,0,0,0,2,0,0,0,13,1,0,0,0.2,0.2,0.0,0,0,9,9,100.0,1,8,0,1,1,Newcastle United
+Jacob Murphy,23.0,eng ENG,RW,28-050,55,0,0,0,0,2,0,0,0,26,0,1,1,0.1,0.1,0.0,1,0,10,19,52.6,2,15,7,1,0,Newcastle United
+Callum Wilson,9.0,eng ENG,FW,31-047,35,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,1,0,Newcastle United
+Joelinton,7.0,br BRA,"LM,CM,RM",26-244,79,0,0,0,0,1,0,0,0,43,1,0,1,0.1,0.1,0.0,0,0,27,33,81.8,4,19,1,6,3,Newcastle United
+Elliot Anderson,32.0,eng ENG,LM,20-160,11,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,1,0,Newcastle United
+Bruno Guimarães,39.0,br BRA,CM,25-150,90,0,0,0,0,0,0,0,0,53,2,1,0,0.0,0.0,0.2,5,0,38,46,82.6,6,33,0,3,1,Newcastle United
+Joe Willock,28.0,eng ENG,"RM,LM",23-238,67,0,0,0,0,0,0,0,0,30,2,0,1,0.0,0.0,0.0,0,0,13,17,76.5,1,15,1,2,0,Newcastle United
+Sean Longstaff,36.0,eng ENG,LM,25-167,23,0,0,0,0,0,0,0,0,14,2,0,0,0.0,0.0,0.0,0,0,9,11,81.8,0,9,0,1,1,Newcastle United
+Dan Burn,33.0,eng ENG,LB,30-341,67,0,0,0,0,0,0,0,0,39,1,2,3,0.0,0.0,0.0,0,0,21,29,72.4,0,9,0,2,1,Newcastle United
+Matt Targett,13.0,eng ENG,LB,27-209,23,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.1,1,0,14,16,87.5,2,8,1,0,0,Newcastle United
+Sven Botman,4.0,nl NED,CB,23-093,90,0,0,0,0,0,0,0,0,63,1,2,1,0.0,0.0,0.0,0,0,46,57,80.7,1,31,0,0,0,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,31-116,90,0,0,0,0,1,0,1,0,55,2,1,0,0.1,0.1,0.0,0,0,37,43,86.0,4,24,1,0,0,Newcastle United
+Kieran Trippier,2.0,eng ENG,RB,32-208,90,0,0,0,0,0,0,0,0,87,5,0,2,0.0,0.0,0.2,4,0,51,76,67.1,11,22,2,2,1,Newcastle United
+Nick Pope,22.0,eng ENG,GK,30-361,90,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,9,13,69.2,0,4,0,0,0,Newcastle United
+16 Players,,,,,990,0,0,0,0,8,2,1,0,511,18,7,15,0.5,0.5,0.5,13,0,307,402,76.4,34,228,15,28,10,Newcastle United

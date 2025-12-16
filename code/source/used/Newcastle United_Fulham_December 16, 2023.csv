@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Callum Wilson,9.0,eng ENG,FW,31-292,90,0,0,0,0,4,1,0,0,24,0,0,0,0.3,0.3,0.1,3,0,5,8,62.5,0,19,2,8,1,Newcastle United
+Anthony Gordon,10.0,eng ENG,LW,22-295,83,0,1,0,0,4,1,0,0,58,2,1,1,0.3,0.3,1.1,7,2,34,44,77.3,5,36,2,3,1,Newcastle United
+Lewis Hall,20.0,eng ENG,LB,19-099,7,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,8,0,2,0,Newcastle United
+Miguel Almirón,24.0,py PAR,RW,29-309,90,1,0,0,0,5,1,0,0,87,3,0,0,1.2,1.2,0.2,7,0,67,76,88.2,13,67,7,4,1,Newcastle United
+Joelinton,7.0,br BRA,LM,27-124,35,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,11,13,84.6,2,13,1,0,0,Newcastle United
+Lewis Miley,67.0,eng ENG,LM,17-229,55,1,0,0,0,2,2,0,0,42,0,0,0,0.3,0.3,0.1,5,0,30,36,83.3,6,31,2,2,1,Newcastle United
+Bruno Guimarães,39.0,br BRA,CM,26-030,90,0,1,0,0,2,1,0,0,130,0,0,0,0.1,0.1,0.7,9,2,107,123,87.0,28,96,3,7,4,Newcastle United
+Sean Longstaff,36.0,eng ENG,RM,26-047,90,0,0,0,0,3,1,0,0,67,1,0,1,0.3,0.3,0.2,2,0,53,57,93.0,7,42,0,3,1,Newcastle United
+Dan Burn,33.0,eng ENG,"CB,LB",31-221,83,1,0,0,0,2,2,0,0,82,1,4,0,0.8,0.8,0.0,2,1,64,74,86.5,4,53,0,0,0,Newcastle United
+Sven Botman,4.0,nl NED,CB,23-338,7,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.1,1,0,27,28,96.4,1,22,0,0,0,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,31-361,13,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,9,11,81.8,1,10,0,0,0,Newcastle United
+Emil Krafth,17.0,se SWE,RB,29-136,77,0,0,0,0,1,0,0,0,87,3,0,0,0.1,0.1,0.4,6,0,70,80,87.5,9,57,2,2,1,Newcastle United
+Jamaal Lascelles,6.0,eng ENG,CB,30-035,90,0,0,0,0,0,0,0,0,102,0,0,0,0.0,0.0,0.0,2,0,87,96,90.6,4,72,0,0,0,Newcastle United
+Valentino Livramento,21.0,eng ENG,"LB,RB",21-034,83,0,0,0,0,1,0,0,0,74,0,3,0,0.0,0.0,0.3,6,0,64,69,92.8,7,52,6,1,1,Newcastle United
+Matt Ritchie,11.0,sct SCO,"LW,LB",34-097,7,0,0,0,0,2,1,0,0,11,0,0,0,0.1,0.1,0.0,0,0,8,9,88.9,1,9,0,0,0,Newcastle United
+Martin Dúbravka,1.0,sk SVK,GK,34-335,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,19,19,100.0,0,16,0,0,0,Newcastle United
+16 Players,,,,,990,3,2,0,0,27,10,0,0,854,11,8,2,3.5,3.5,3.0,52,5,663,752,88.2,89,603,25,32,11,Newcastle United
+Raúl Jiménez,7.0,mx MEX,FW,32-225,21,0,0,0,0,1,1,0,1,10,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,7,1,0,0,Fulham
+Alex Iwobi,22.0,ng NGA,"FW,LW",27-227,76,0,0,0,0,1,1,0,0,33,1,0,0,0.1,0.1,0.0,2,0,21,24,87.5,2,21,4,2,0,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,LW,30-317,14,0,0,0,0,0,0,1,0,3,0,1,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Fulham
+Harry Wilson,8.0,wls WAL,RW,26-269,90,0,0,0,0,0,0,0,0,31,0,1,2,0.0,0.0,0.0,1,0,20,23,87.0,2,14,1,1,0,Fulham
+Andreas Pereira,18.0,br BRA,"LW,AM",27-349,60,0,0,0,0,1,0,0,0,24,1,0,2,0.0,0.0,0.0,1,0,13,17,76.5,4,9,0,0,0,Fulham
+Kenny Tete,2.0,nl NED,RB,28-068,30,0,0,0,0,0,0,0,0,20,3,0,0,0.0,0.0,0.0,1,0,9,12,75.0,0,9,0,1,0,Fulham
+Tom Cairney,10.0,sct SCO,DM,32-330,75,0,0,0,0,1,1,0,0,40,2,1,0,0.0,0.0,0.0,0,0,29,33,87.9,4,24,2,2,2,Fulham
+Saša Lukić,28.0,rs SRB,DM,27-125,15,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,1,0,12,13,92.3,1,6,0,0,0,Fulham
+João Palhinha,26.0,pt POR,DM,28-160,76,0,0,0,0,1,1,1,0,23,4,1,3,0.0,0.0,0.0,0,0,12,15,80.0,0,9,0,0,0,Fulham
+Harrison Reed,6.0,eng ENG,DM,28-323,14,0,0,0,0,0,0,0,0,14,1,0,1,0.0,0.0,0.0,0,0,9,10,90.0,0,7,0,0,0,Fulham
+Antonee Robinson,33.0,us USA,LB,26-130,90,0,0,0,0,0,0,0,0,58,3,7,4,0.0,0.0,0.0,3,0,25,35,71.4,1,25,3,3,0,Fulham
+Issa Diop,31.0,fr FRA,CB,26-341,90,0,0,0,0,0,0,0,0,36,2,0,2,0.0,0.0,0.0,0,0,22,24,91.7,2,10,0,0,0,Fulham
+Tosin Adarabioyo,4.0,eng ENG,CB,26-083,90,0,0,0,0,0,0,0,0,42,4,1,2,0.0,0.0,0.0,0,0,18,30,60.0,2,19,1,1,1,Fulham
+Timothy Castagne,21.0,be BEL,RB,28-011,60,0,0,0,0,0,0,0,0,30,1,0,1,0.0,0.0,0.0,1,0,22,26,84.6,2,9,1,0,0,Fulham
+Rodrigo Muniz,19.0,br BRA,FW,22-226,30,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,1,3,33.3,0,2,0,0,0,Fulham
+Bernd Leno,17.0,de GER,GK,31-287,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,17,40,42.5,0,20,0,0,0,Fulham
+16 Players,,,,,921,0,0,0,0,6,4,2,1,426,22,12,17,0.3,0.3,0.2,10,0,238,315,75.6,21,193,13,10,3,Fulham

@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Raúl Jiménez,7.0,mx MEX,FW,32-141,78,0,0,0,0,2,1,0,0,26,0,0,1,0.1,0.1,0.0,1,0,15,20,75.0,0,13,0,0,0,Fulham
+Carlos Vinícius,30.0,br BRA,FW,28-182,12,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,1,0,0,0,Fulham
+Willian,20.0,br BRA,LW,35-045,90,0,0,0,0,2,2,0,0,50,0,0,1,0.1,0.1,0.0,4,0,37,42,88.1,5,35,2,4,2,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,RW,30-233,78,0,0,0,0,0,0,0,0,35,3,0,2,0.0,0.0,0.0,0,0,22,27,81.5,5,16,4,2,1,Fulham
+Harry Wilson,8.0,wls WAL,RW,26-185,12,0,0,0,0,1,0,0,0,17,2,1,0,0.0,0.0,0.0,0,0,8,12,66.7,1,8,1,2,1,Fulham
+Andreas Pereira,18.0,br BRA,LM,27-265,74,0,0,0,0,2,1,0,0,34,3,0,0,0.2,0.2,0.1,2,0,17,23,73.9,2,13,2,0,0,Fulham
+Alex Iwobi,22.0,ng NGA,LM,27-143,16,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,9,11,81.8,3,8,1,0,0,Fulham
+João Palhinha,26.0,pt POR,CM,28-076,90,0,0,0,0,1,0,1,0,44,5,2,2,0.1,0.1,0.0,0,0,24,31,77.4,2,19,0,1,1,Fulham
+Harrison Reed,6.0,eng ENG,RM,28-239,90,0,0,0,0,1,0,0,0,56,4,1,1,0.0,0.0,0.1,4,0,32,41,78.0,4,21,0,0,0,Fulham
+Antonee Robinson,33.0,us USA,LB,26-046,90,0,0,0,0,0,0,0,0,77,2,4,0,0.0,0.0,0.1,2,0,40,58,69.0,6,41,3,2,1,Fulham
+Tim Ream,13.0,us USA,CB,35-353,90,0,0,0,0,0,0,1,0,71,3,0,0,0.0,0.0,0.0,0,0,51,59,86.4,8,39,4,0,0,Fulham
+Issa Diop,31.0,fr FRA,CB,26-257,90,0,0,0,0,0,0,0,0,88,2,1,0,0.0,0.0,0.0,1,0,67,79,84.8,9,59,3,0,0,Fulham
+Timothy Castagne,21.0,be BEL,RB,27-292,90,0,0,0,0,1,1,0,0,65,3,0,2,0.0,0.0,0.0,3,0,39,54,72.2,4,22,4,2,1,Fulham
+Bernd Leno,17.0,de GER,GK,31-203,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,42,44,95.5,0,32,0,0,0,Fulham
+14 Players,,,,,990,0,0,0,0,10,5,2,0,620,27,9,9,0.6,0.6,0.4,19,0,404,502,80.5,49,327,24,13,7,Fulham

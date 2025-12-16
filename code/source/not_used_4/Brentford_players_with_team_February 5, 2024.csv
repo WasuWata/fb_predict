@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Neal Maupay,7.0,fr FRA,FW,27-175,89,1,0,0,0,2,1,1,0,32,0,0,0,0.3,0.3,0.2,2,0,18,25,72.0,4,16,2,2,0,Brentford
+Shandon Baptiste,26.0,gd GRN,FW,25-303,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Brentford
+Ivan Toney,17.0,eng ENG,FW,27-326,90,0,0,0,0,2,0,0,0,32,2,1,0,0.4,0.4,0.0,2,0,12,22,54.5,2,20,1,1,0,Brentford
+Vitaly Janelt,27.0,de GER,CM,25-271,75,0,0,0,0,0,0,0,0,26,2,0,1,0.0,0.0,0.0,1,0,15,21,71.4,1,6,0,0,0,Brentford
+Yehor Yarmoliuk,33.0,ua UKR,CM,19-341,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,1,0,0,0,Brentford
+Christian Nørgaard,6.0,dk DEN,CM,29-332,90,0,0,0,0,3,1,0,0,40,2,2,1,0.3,0.3,0.0,2,0,17,25,68.0,0,13,0,1,0,Brentford
+Mathias Jensen,8.0,dk DEN,CM,28-035,76,0,0,0,0,0,0,0,0,32,0,0,1,0.0,0.0,0.2,2,0,17,29,58.6,5,10,0,1,0,Brentford
+Mikkel Damsgaard,24.0,dk DEN,CM,23-217,14,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,1,0,2,6,33.3,0,2,0,0,0,Brentford
+Sergio Reguilón,12.0,es ESP,WB,27-051,78,0,0,0,0,1,0,0,0,44,4,3,2,0.1,0.1,0.0,1,0,17,30,56.7,1,18,2,3,2,Brentford
+Kristoffer Ajer,20.0,no NOR,WB,25-294,12,0,0,0,0,0,0,0,0,3,1,1,0,0.0,0.0,0.0,0,0,1,2,50.0,1,2,0,0,0,Brentford
+Mads Roerslev,30.0,dk DEN,WB,24-226,75,0,0,0,0,1,0,0,0,26,0,1,2,0.0,0.0,0.0,1,0,12,20,60.0,1,8,1,0,0,Brentford
+Keane Lewis-Potter,23.0,eng ENG,WB,22-348,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,1,0,0,Brentford
+Ben Mee,16.0,eng ENG,CB,34-137,90,0,0,0,0,0,0,0,0,53,4,1,1,0.0,0.0,0.0,0,0,29,33,87.9,1,19,0,0,0,Brentford
+Ethan Pinnock,5.0,jm JAM,CB,30-252,90,0,0,0,0,0,0,0,0,35,1,0,2,0.0,0.0,0.0,0,0,19,24,79.2,1,17,1,0,0,Brentford
+Nathan Collins,22.0,ie IRL,CB,22-281,90,0,0,0,0,0,0,0,0,50,1,2,3,0.0,0.0,0.0,0,0,31,34,91.2,4,12,0,0,0,Brentford
+Mark Flekken,1.0,nl NED,GK,30-237,90,0,1,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.2,1,1,21,36,58.3,1,18,0,0,0,Brentford
+16 Players,,,,,990,1,1,0,0,9,2,1,0,435,18,11,13,1.0,1.0,0.6,13,1,218,317,68.8,22,166,8,8,2,Brentford

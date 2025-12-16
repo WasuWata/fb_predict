@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Chris Wood,11.0,nz NZL,FW,33-145,90,0,0,0,0,2,0,0,0,25,0,0,0,0.3,0.3,0.1,0,0,7,11,63.6,0,11,0,1,0,Nottingham Forest
+Callum Hudson-Odoi,14.0,eng ENG,LW,24-175,45,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,14,16,87.5,0,9,1,0,0,Nottingham Forest
+Nicolás Domínguez,16.0,ar ARG,"RM,RW",26-307,45,0,0,0,0,0,0,0,0,29,0,1,0,0.0,0.0,0.0,2,0,23,27,85.2,3,17,0,0,0,Nottingham Forest
+Anthony Elanga,21.0,se SWE,"RW,LM,LW",23-004,90,0,0,0,0,3,3,0,0,53,0,0,2,0.1,0.1,0.3,5,0,26,44,59.1,5,41,5,2,1,Nottingham Forest
+Morgan Gibbs-White,10.0,eng ENG,"AM,CM",25-094,74,0,0,0,0,1,0,1,0,45,0,1,0,0.1,0.1,0.1,3,0,27,40,67.5,6,33,0,2,1,Nottingham Forest
+Jota Silva,20.0,pt POR,RB,25-273,16,0,0,0,0,1,0,0,0,9,1,0,0,0.1,0.1,0.0,0,0,2,5,40.0,2,6,1,1,0,Nottingham Forest
+Elliot Anderson,8.0,eng ENG,DM,22-176,60,0,0,0,0,1,1,1,0,49,1,2,0,0.0,0.0,0.0,1,0,32,42,76.2,3,34,7,1,1,Nottingham Forest
+Taiwo Awoniyi,9.0,ng NGA,FW,27-262,30,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,1,1,Nottingham Forest
+Ryan Yates,22.0,eng ENG,"DM,CM",27-161,84,0,0,0,0,1,0,0,0,45,1,1,1,0.0,0.0,0.0,1,0,29,39,74.4,2,27,0,0,0,Nottingham Forest
+Ramón Sosa,24.0,py PAR,CM,25-243,6,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,1,2,0,0,0,Nottingham Forest
+Neco Williams,7.0,wls WAL,LB,24-018,90,0,0,0,0,1,0,1,0,70,0,0,2,0.0,0.0,0.0,4,0,48,59,81.4,6,36,3,4,3,Nottingham Forest
+Murillo,5.0,br BRA,CB,22-301,90,0,0,0,0,3,1,0,0,64,3,1,0,0.1,0.1,0.0,2,0,40,50,80.0,2,31,1,0,0,Nottingham Forest
+Nikola Milenković,31.0,rs SRB,CB,27-201,90,0,0,0,0,0,0,0,0,39,1,0,1,0.0,0.0,0.1,0,0,23,26,88.5,2,18,0,0,0,Nottingham Forest
+Ola Aina,34.0,ng NGA,RB,28-205,74,0,0,0,0,0,0,0,0,47,1,1,0,0.0,0.0,0.2,5,0,29,39,74.4,4,28,2,2,1,Nottingham Forest
+Ibrahim Sangaré,6.0,ci CIV,CM,27-150,16,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,1,0,14,14,100.0,2,10,0,0,0,Nottingham Forest
+Matz Sels,26.0,be BEL,GK,33-064,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,13,19,68.4,0,14,0,0,0,Nottingham Forest
+16 Players,,,,,990,0,0,0,0,14,5,3,0,540,8,8,6,0.9,0.9,0.8,24,0,331,437,75.7,38,318,20,14,8,Nottingham Forest
+Yoane Wissa,11.0,cd COD,FW,28-240,90,1,0,0,0,2,1,0,0,21,3,0,3,0.4,0.4,0.0,2,0,5,9,55.6,1,11,2,1,1,Brentford
+Kevin Schade,7.0,de GER,LW,23-155,67,1,0,0,0,1,1,0,0,23,0,0,1,0.2,0.2,0.1,4,1,8,12,66.7,0,13,2,4,3,Brentford
+Mathias Jensen,8.0,dk DEN,LW,29-120,23,0,0,0,0,0,0,0,0,8,1,1,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,0,0,Brentford
+Bryan Mbeumo,19.0,cm CMR,RW,25-267,90,0,0,0,0,3,0,1,0,54,3,0,1,0.2,0.2,0.1,2,0,16,34,47.1,1,31,4,2,2,Brentford
+Mikkel Damsgaard,24.0,dk DEN,AM,24-302,83,0,0,0,0,1,0,0,0,40,1,0,1,0.0,0.0,0.3,3,0,30,38,78.9,5,19,1,1,1,Brentford
+Yunus Emre Konak,26.0,tr TUR,AM,19-111,7,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,Brentford
+Yehor Yarmoliuk,18.0,ua UKR,DM,21-061,90,0,0,0,0,0,0,1,0,45,3,1,0,0.0,0.0,0.1,3,0,28,36,77.8,3,21,2,1,1,Brentford
+Christian Nørgaard,6.0,dk DEN,DM,31-052,90,0,0,0,0,1,0,1,0,46,1,1,1,0.1,0.1,0.0,1,0,27,33,81.8,4,16,0,0,0,Brentford
+Keane Lewis-Potter,23.0,eng ENG,LB,24-068,45,0,0,0,0,0,0,1,0,16,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,0,9,0,1,1,Brentford
+Rico Henry,3.0,jm JAM,LB,27-297,45,0,0,0,0,0,0,0,0,16,0,0,2,0.0,0.0,0.0,0,0,10,13,76.9,0,6,0,0,0,Brentford
+Sepp van den Berg,4.0,nl NED,CB,23-132,90,0,0,0,0,1,1,0,0,48,0,0,1,0.2,0.2,0.0,0,0,38,41,92.7,2,27,1,0,0,Brentford
+Nathan Collins,22.0,ie IRL,CB,24-001,90,0,1,0,0,1,0,0,0,63,1,1,1,0.0,0.0,0.2,2,1,34,42,81.0,1,22,3,0,0,Brentford
+Michael Kayode,33.0,it ITA,RB,20-295,83,0,0,0,0,1,0,0,0,37,2,1,0,0.1,0.1,0.0,2,0,17,27,63.0,0,15,1,1,1,Brentford
+Kristoffer Ajer,20.0,no NOR,RB,27-014,7,0,0,0,0,0,0,1,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Brentford
+Mark Flekken,1.0,nl NED,GK,31-322,90,0,1,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.3,1,1,31,43,72.1,0,26,0,0,0,Brentford
+15 Players,,,,,990,2,2,0,0,11,3,5,0,471,16,5,11,1.3,1.3,1.2,20,3,264,353,74.8,17,224,16,11,10,Brentford

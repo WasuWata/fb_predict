@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Kai Havertz,29.0,de GER,"AM,FW",23-208,90,0,0,0,0,1,1,0,0,48,2,2,0,0.0,0.0,0.3,4,0,34,40,85.0,5,33,3,2,1,Chelsea
+Christian Pulisic,10.0,us USA,LW,24-109,21,0,0,0,0,1,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,0,0,0,Chelsea
+Carney Chukwuemeka,30.0,eng ENG,LW,19-077,69,0,0,0,0,2,0,0,0,42,6,2,0,0.2,0.2,0.0,3,0,27,31,87.1,4,26,6,2,0,Chelsea
+Hakim Ziyech,22.0,ma MAR,RW,29-292,68,0,0,0,0,1,1,0,0,48,2,0,1,0.0,0.0,0.0,1,0,21,37,56.8,3,34,1,2,0,Chelsea
+Conor Gallagher,23.0,eng ENG,AM,22-333,22,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,11,1,3,1,Chelsea
+Raheem Sterling,17.0,eng ENG,AM,28-028,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Chelsea
+Pierre-Emerick Aubameyang,9.0,ga GAB,FW,33-201,63,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,9,12,75.0,0,11,1,0,0,Chelsea
+Omari Hutchinson,56.0,eng ENG,RW,19-067,23,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,2,0,9,13,69.2,0,11,1,0,0,Chelsea
+Mateo Kovačić,8.0,hr CRO,DM,28-244,90,0,0,0,0,1,0,1,0,78,3,1,0,0.0,0.0,0.0,2,0,61,70,87.1,4,54,0,2,1,Chelsea
+Denis Zakaria,20.0,ch SUI,DM,26-046,90,0,0,0,0,0,0,0,0,59,1,1,0,0.0,0.0,0.0,1,0,50,54,92.6,1,49,2,4,4,Chelsea
+Marc Cucurella,32.0,es ESP,LB,24-167,67,0,0,0,0,0,0,0,0,59,4,2,1,0.0,0.0,0.0,1,0,41,52,78.8,0,36,0,0,0,Chelsea
+Lewis Hall,67.0,eng ENG,LB,18-119,23,0,0,0,0,1,0,0,0,33,2,1,0,0.0,0.0,0.0,1,0,24,27,88.9,0,23,2,3,2,Chelsea
+Kalidou Koulibaly,26.0,sn SEN,CB,31-199,90,0,0,0,0,0,0,1,0,100,1,2,1,0.0,0.0,0.0,0,0,77,89,86.5,2,73,0,0,0,Chelsea
+Thiago Silva,6.0,br BRA,CB,38-105,90,0,0,0,0,1,0,0,0,72,2,1,0,0.0,0.0,0.0,0,0,56,62,90.3,1,52,0,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,RB,33-130,90,0,0,0,0,0,0,0,0,61,3,0,1,0.0,0.0,0.0,0,0,45,54,83.3,3,39,3,1,1,Chelsea
+Kepa Arrizabalaga,1.0,es ESP,GK,28-094,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,31,40,77.5,0,30,0,0,0,Chelsea
+16 Players,,,,,990,0,0,0,0,8,2,2,0,692,28,13,4,0.4,0.4,0.4,15,0,494,594,83.2,23,488,20,19,10,Chelsea
+Erling Haaland,9.0,no NOR,FW,22-168,90,0,0,0,0,3,0,0,0,26,0,1,1,0.8,0.8,0.0,2,0,12,17,70.6,0,14,0,1,1,Manchester City
+Phil Foden,47.0,eng ENG,LW,22-222,59,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,2,0,17,19,89.5,1,20,0,1,0,Manchester City
+Jack Grealish,10.0,eng ENG,LW,27-117,31,0,1,0,0,0,0,0,0,16,1,0,3,0.0,0.0,0.7,1,1,9,9,100.0,1,9,1,2,1,Manchester City
+João Cancelo,7.0,pt POR,RW,28-223,45,0,0,0,0,1,0,0,0,47,1,0,1,0.0,0.0,0.0,1,0,28,39,71.8,2,29,0,6,2,Manchester City
+Rico Lewis,82.0,eng ENG,DM,18-045,45,0,0,0,0,0,0,0,0,37,2,0,0,0.0,0.0,0.0,0,0,31,32,96.9,2,19,1,0,0,Manchester City
+Kevin De Bruyne,17.0,be BEL,CM,31-191,90,0,0,0,0,4,2,0,0,69,1,0,0,0.2,0.2,0.7,5,1,45,55,81.8,9,38,1,2,1,Manchester City
+İlkay Gündoğan,8.0,de GER,CM,32-073,90,0,0,0,0,1,0,0,0,57,4,2,0,0.0,0.0,0.2,4,0,41,49,83.7,10,38,0,0,0,Manchester City
+Rodri,16.0,es ESP,DM,26-197,85,0,0,0,0,0,0,0,0,101,4,2,2,0.0,0.0,0.0,1,0,81,87,93.1,9,54,2,1,0,Manchester City
+Kalvin Phillips,4.0,eng ENG,DM,27-034,5,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Manchester City
+Bernardo Silva,20.0,pt POR,"DM,RW",28-148,59,0,0,0,0,1,0,0,0,71,1,1,3,0.1,0.1,0.1,2,0,52,59,88.1,7,41,2,2,1,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,31-318,31,1,0,0,0,1,1,0,0,23,1,0,0,0.7,0.7,0.0,1,0,15,16,93.8,2,16,1,3,1,Manchester City
+Nathan Aké,6.0,nl NED,LB,27-321,90,0,0,0,0,1,0,0,0,70,0,2,0,0.1,0.1,0.0,1,0,54,63,85.7,4,42,0,0,0,Manchester City
+John Stones,5.0,eng ENG,"RB,CB",28-222,90,0,0,0,0,0,0,0,0,102,2,1,2,0.0,0.0,0.0,0,0,88,90,97.8,9,68,0,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,32-222,45,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,40,48,83.3,3,36,1,0,0,Manchester City
+Manuel Akanji,25.0,ch SUI,CB,27-170,45,0,0,0,0,0,0,0,0,40,1,1,0,0.0,0.0,0.0,0,0,34,38,89.5,4,26,0,0,0,Manchester City
+Ederson,31.0,br BRA,GK,29-141,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,21,28,75.0,0,17,0,0,0,Manchester City
+16 Players,,,,,990,1,1,0,0,12,3,0,0,765,19,10,13,2.0,2.0,1.8,20,2,568,650,87.4,63,467,9,18,7,Manchester City

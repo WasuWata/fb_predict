@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Calvert-Lewin,9.0,eng ENG,FW,27-182,90,1,0,0,0,3,1,0,0,28,0,0,0,0.8,0.8,0.0,0,0,9,13,69.2,0,19,1,3,0,Everton
+Iliman Ndiaye,10.0,sn SEN,"LW,LM",24-192,80,0,0,0,0,0,0,1,0,25,0,1,1,0.0,0.0,0.0,1,0,11,14,78.6,2,14,4,8,3,Everton
+Jesper Lindstrøm,29.0,dk DEN,RM,24-198,10,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,11,63.6,1,7,1,0,0,Everton
+Jack Harrison,11.0,eng ENG,RW,27-299,63,0,0,0,0,0,0,0,0,20,2,0,0,0.0,0.0,0.0,1,1,9,10,90.0,0,10,1,3,1,Everton
+Jake O'Brien,15.0,ie IRL,"CB,RB",23-122,27,0,0,0,0,0,0,1,0,20,2,0,1,0.0,0.0,0.0,1,0,12,15,80.0,1,7,0,3,1,Everton
+Dwight McNeil,7.0,eng ENG,"AM,RM,LM",24-297,90,1,1,0,0,1,1,0,0,38,1,0,1,0.0,0.0,0.8,5,2,21,32,65.6,3,22,2,1,0,Everton
+Tim Iroegbunam,42.0,eng ENG,"DM,CM",21-076,80,0,0,0,0,0,0,1,0,21,3,1,0,0.0,0.0,0.0,0,0,14,15,93.3,1,8,0,2,1,Everton
+Beto,14.0,gw GNB,FW,26-227,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Everton
+Idrissa Gana Gueye,27.0,sn SEN,DM,34-354,63,0,0,0,0,0,0,0,0,18,2,2,1,0.0,0.0,0.0,0,0,8,10,80.0,0,3,0,0,0,Everton
+Orel Mangala,8.0,be BEL,CM,26-180,27,0,0,0,0,1,0,0,0,11,1,0,0,0.1,0.1,0.0,1,0,6,9,66.7,2,6,3,1,1,Everton
+Vitaliy Mykolenko,19.0,ua UKR,LB,25-108,25,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,1,0,0,0,Everton
+James Garner,37.0,eng ENG,"RB,CM",23-185,65,0,0,0,0,0,0,0,0,32,2,1,1,0.0,0.0,0.0,1,0,19,25,76.0,1,15,1,1,0,Everton
+Michael Keane,5.0,eng ENG,CB,31-247,90,0,0,0,0,1,0,0,0,42,2,0,1,0.0,0.0,0.0,0,0,21,29,72.4,0,16,0,0,0,Everton
+James Tarkowski,6.0,eng ENG,CB,31-300,90,0,0,0,0,0,0,0,0,29,5,1,1,0.0,0.0,0.0,0,0,16,20,80.0,0,9,0,0,0,Everton
+Ashley Young,18.0,eng ENG,"LB,RB",39-067,90,0,0,0,0,0,0,1,0,38,3,0,0,0.0,0.0,0.0,1,0,23,28,82.1,5,10,1,0,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,30-191,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,26,36,72.2,0,16,0,0,0,Everton
+16 Players,,,,,990,2,1,0,0,6,2,4,0,380,24,6,7,0.9,0.9,0.8,11,3,203,272,74.6,16,163,14,22,7,Everton

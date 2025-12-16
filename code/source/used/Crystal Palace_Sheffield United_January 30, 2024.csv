@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jean-Philippe Mateta,14.0,fr FRA,FW,26-216,89,0,0,0,0,1,0,0,0,33,1,0,0,0.1,0.1,0.0,1,1,18,23,78.3,0,24,0,1,0,Crystal Palace
+Odsonne Édouard,22.0,fr FRA,FW,26-014,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,2,0,Crystal Palace
+Jordan Ayew,9.0,gh GHA,"LW,RW",32-141,90,0,0,0,0,2,0,0,0,60,5,2,2,0.1,0.1,0.1,5,0,33,40,82.5,6,40,4,5,0,Crystal Palace
+Michael Olise,7.0,fr FRA,RW,22-049,68,1,2,0,0,4,1,0,0,59,0,1,1,0.2,0.2,0.7,6,3,25,44,56.8,4,42,6,6,3,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,LW,31-038,22,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,0,0,3,9,33.3,1,5,0,1,1,Crystal Palace
+Jefferson Lerma,8.0,co COL,"LM,RM",29-097,90,0,0,0,0,0,0,1,0,57,1,0,2,0.0,0.0,0.0,0,0,36,45,80.0,6,25,1,0,0,Crystal Palace
+Will Hughes,19.0,eng ENG,CM,28-288,90,0,0,0,0,0,0,0,0,61,5,2,2,0.0,0.0,0.0,1,0,38,47,80.9,3,33,2,2,1,Crystal Palace
+Eberechi Eze,10.0,eng ENG,"RM,LM",25-215,76,2,0,0,0,4,3,0,0,47,1,0,0,0.8,0.8,0.1,4,1,30,38,78.9,4,29,6,5,3,Crystal Palace
+David Ozoh,52.0,eng ENG,RM,18-244,14,0,0,0,0,0,0,0,0,11,3,0,1,0.0,0.0,0.0,0,0,5,6,83.3,1,3,1,0,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,LB,24-151,90,0,0,0,0,0,0,0,0,77,8,0,2,0.0,0.0,0.0,1,0,47,58,81.0,9,29,1,3,1,Crystal Palace
+Marc Guéhi,6.0,eng ENG,CB,23-201,90,0,0,0,0,0,0,0,0,73,1,2,0,0.0,0.0,0.1,2,0,60,68,88.2,7,47,1,1,0,Crystal Palace
+Joachim Andersen,16.0,dk DEN,CB,27-244,90,0,0,0,0,1,0,0,0,79,0,0,0,0.0,0.0,0.0,0,0,62,74,83.8,6,50,4,0,0,Crystal Palace
+Chris Richards,26.0,us USA,RB,23-308,90,0,0,0,0,0,0,0,0,67,3,1,3,0.0,0.0,0.0,1,1,43,56,76.8,5,33,0,0,0,Crystal Palace
+Dean Henderson,30.0,eng ENG,GK,26-324,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,17,21,81.0,0,15,0,0,0,Crystal Palace
+14 Players,,,,,990,3,2,0,0,12,4,1,0,664,30,8,13,1.1,1.1,1.0,21,6,420,532,78.9,52,379,26,26,9,Crystal Palace
+Oliver McBurnie,9.0,sct SCO,FW,27-240,63,0,1,0,0,1,1,0,0,30,0,0,1,0.0,0.0,0.1,2,2,21,24,87.5,2,13,0,0,0,Sheffield United
+William Osula,32.0,dk DEN,FW,20-179,27,0,0,0,0,3,1,0,0,4,0,0,0,0.2,0.2,0.0,1,0,0,0,,0,3,0,0,0,Sheffield United
+Ben Brereton,11.0,cl CHI,LM,24-287,45,1,0,0,0,1,1,0,0,14,1,0,0,0.0,0.0,0.0,2,1,4,8,50.0,1,4,0,0,0,Sheffield United
+Andre Brooks,35.0,eng ENG,CM,20-163,45,0,0,0,0,1,1,0,0,34,1,0,0,0.1,0.1,0.0,0,0,24,29,82.8,3,15,0,0,0,Sheffield United
+Anis Ben Slimane,25.0,tn TUN,CM,22-320,45,0,0,0,0,0,0,0,0,25,2,1,0,0.0,0.0,0.0,0,0,12,19,63.2,0,9,0,1,0,Sheffield United
+Rhys Norrington-Davies,33.0,wls WAL,"LB,CB",24-283,45,0,0,0,0,0,0,1,0,42,1,1,0,0.0,0.0,0.0,1,0,27,35,77.1,1,21,3,1,1,Sheffield United
+Gustavo Hamer,8.0,nl NED,CM,26-220,86,0,1,0,0,0,0,0,0,39,1,1,0,0.0,0.0,0.0,1,1,26,32,81.3,3,17,0,2,0,Sheffield United
+Cameron Archer,10.0,eng ENG,CM,22-193,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Sheffield United
+James Mcatee,28.0,eng ENG,"FW,RM",21-104,90,1,0,0,0,1,1,0,0,46,2,0,1,0.1,0.1,0.0,2,0,23,30,76.7,5,21,5,4,0,Sheffield United
+Vinicius Souza,21.0,br BRA,"CM,DM",24-227,90,0,0,0,0,0,0,0,0,74,10,4,4,0.0,0.0,0.1,3,0,40,49,81.6,3,37,0,1,1,Sheffield United
+Auston Trusty,5.0,us USA,"CB,LB",25-171,90,0,0,0,0,0,0,1,0,55,5,0,1,0.0,0.0,0.0,1,0,36,44,81.8,2,21,0,0,0,Sheffield United
+Jack Robinson,19.0,eng ENG,CB,30-151,81,0,0,0,0,0,0,1,0,40,1,2,1,0.0,0.0,0.0,0,0,22,28,78.6,2,20,0,0,0,Sheffield United
+Yasser Larouci,27.0,dz ALG,LB,23-029,9,0,0,0,0,1,0,0,0,27,1,1,0,0.0,0.0,0.3,1,0,12,22,54.5,1,17,3,2,1,Sheffield United
+Anel Ahmedhodžić,15.0,ba BIH,CB,24-310,90,0,0,0,0,1,0,1,0,68,7,3,0,0.3,0.3,0.0,1,0,38,52,73.1,4,33,2,0,0,Sheffield United
+Jayden Bogle,20.0,eng ENG,RB,23-187,90,0,0,0,0,0,0,0,0,78,3,2,0,0.0,0.0,0.1,1,0,43,63,68.3,4,30,0,2,0,Sheffield United
+Ivo Grbić,13.0,hr CRO,GK,28-012,51,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,0,8,0,0,0,Sheffield United
+Wes Foderingham,18.0,eng ENG,GK,33-016,39,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,11,18,61.1,0,10,0,0,0,Sheffield United
+17 Players,,,,,990,2,2,0,0,9,5,4,0,613,35,15,8,0.8,0.8,0.7,16,4,353,471,74.9,31,279,13,13,3,Sheffield United

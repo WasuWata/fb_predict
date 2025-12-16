@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Diogo Jota,20.0,pt POR,FW,28-084,61,0,0,0,0,0,0,0,0,18,0,2,1,0.0,0.0,0.1,2,1,11,13,84.6,3,14,1,1,0,Liverpool
+Cody Gakpo,18.0,nl NED,LW,25-295,29,0,0,0,0,2,0,0,0,18,1,0,0,0.5,0.5,0.0,1,0,12,13,92.3,1,11,0,1,1,Liverpool
+Luis Díaz,7.0,co COL,"LW,FW",28-044,86,0,1,0,0,1,0,0,0,49,4,1,0,0.4,0.4,0.5,6,1,34,38,89.5,4,26,2,5,4,Liverpool
+Darwin Núñez,9.0,uy URU,FW,25-247,4,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,3,5,60.0,1,3,0,0,0,Liverpool
+Mohamed Salah,11.0,eg EGY,RW,32-256,90,0,1,0,0,3,1,0,0,58,2,0,0,0.1,0.1,1.0,4,1,29,33,87.9,4,32,5,11,1,Liverpool
+Dominik Szoboszlai,8.0,hu HUN,AM,24-124,90,1,0,0,0,3,1,0,0,58,5,0,1,0.4,0.4,0.1,4,0,38,43,88.4,5,23,1,2,2,Liverpool
+Alexis Mac Allister,10.0,ar ARG,DM,26-064,86,1,0,0,0,2,1,0,0,48,1,1,0,0.2,0.2,0.0,1,1,33,38,86.8,3,22,2,1,0,Liverpool
+Curtis Jones,17.0,eng ENG,DM,24-027,4,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,1,0,10,11,90.9,0,7,0,0,0,Liverpool
+Ryan Gravenberch,38.0,nl NED,DM,22-286,76,0,0,0,0,0,0,0,0,54,2,2,0,0.0,0.0,0.0,0,0,33,39,84.6,1,29,0,2,0,Liverpool
+Wataru Endo,3.0,jp JPN,DM,32-017,14,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,1,0,16,16,100.0,2,6,0,0,0,Liverpool
+Kostas Tsimikas,21.0,gr GRE,LB,28-290,90,0,0,0,0,1,0,0,0,79,5,1,1,0.0,0.0,0.0,2,0,62,70,88.6,5,41,3,0,0,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,33-233,90,0,0,0,0,0,0,0,0,113,1,0,0,0.0,0.0,0.0,0,0,102,107,95.3,6,61,1,0,0,Liverpool
+Ibrahima Konaté,5.0,fr FRA,CB,25-277,90,0,0,0,0,0,0,0,0,77,1,0,1,0.0,0.0,0.0,0,0,66,72,91.7,3,47,1,0,0,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,26-142,76,0,0,0,0,0,0,0,0,85,2,1,0,0.0,0.0,0.0,1,0,61,78,78.2,6,35,1,1,0,Liverpool
+Jarell Quansah,78.0,eng ENG,RB,22-028,14,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,13,13,100.0,2,10,0,0,0,Liverpool
+Alisson,1.0,br BRA,GK,32-147,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,32,34,94.1,0,25,0,0,0,Liverpool
+16 Players,,,,,990,2,2,0,0,12,3,0,0,743,25,10,4,1.7,1.7,1.7,23,4,555,623,89.1,46,392,17,24,8,Liverpool
+Callum Wilson,9.0,eng ENG,FW,32-365,68,0,0,0,0,2,0,0,0,17,0,1,1,0.2,0.2,0.0,0,0,8,10,80.0,1,5,2,1,0,Newcastle United
+William Osula,18.0,dk DEN,FW,21-206,22,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,0,1,0,Newcastle United
+Joe Willock,28.0,eng ENG,LW,25-190,68,0,0,0,0,0,0,0,0,26,1,0,4,0.0,0.0,0.0,2,0,12,14,85.7,2,18,2,3,1,Newcastle United
+Harvey Barnes,11.0,eng ENG,LW,27-079,22,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,6,7,85.7,1,6,1,0,0,Newcastle United
+Jacob Murphy,23.0,eng ENG,RW,30-002,90,0,0,0,0,0,0,1,0,50,0,2,1,0.0,0.0,0.0,0,0,25,38,65.8,1,22,2,7,3,Newcastle United
+Anthony Gordon,10.0,eng ENG,AM,24-002,90,0,0,0,0,1,0,0,0,38,2,0,0,0.0,0.0,0.0,2,0,20,30,66.7,4,18,3,4,1,Newcastle United
+Sandro Tonali,8.0,it ITA,DM,24-294,68,0,0,0,0,0,0,0,0,40,2,0,1,0.0,0.0,0.0,1,0,30,34,88.2,1,15,2,2,1,Newcastle United
+Lewis Miley,67.0,eng ENG,DM,18-301,22,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,0,0,17,18,94.4,1,11,0,0,0,Newcastle United
+Bruno Guimarães,39.0,br BRA,DM,27-102,87,0,0,0,0,0,0,0,0,49,2,0,1,0.0,0.0,0.0,0,0,39,46,84.8,4,31,3,1,1,Newcastle United
+Sean Longstaff,36.0,eng ENG,DM,27-119,3,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Newcastle United
+Lewis Hall,20.0,eng ENG,LB,20-171,90,0,0,0,0,0,0,0,0,63,7,0,2,0.0,0.0,0.0,0,0,37,48,77.1,5,21,2,1,0,Newcastle United
+Dan Burn,33.0,eng ENG,CB,32-293,90,0,0,0,0,0,0,0,0,41,0,0,2,0.0,0.0,0.1,1,0,31,33,93.9,0,17,1,0,0,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,33-068,90,0,0,0,0,0,0,0,0,54,2,0,0,0.0,0.0,0.0,0,0,42,49,85.7,3,28,0,0,0,Newcastle United
+Valentino Livramento,21.0,eng ENG,RB,22-106,68,0,0,0,0,0,0,0,0,38,3,1,1,0.0,0.0,0.0,0,0,27,31,87.1,1,15,0,0,0,Newcastle United
+Kieran Trippier,2.0,eng ENG,RB,34-160,22,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.0,0,0,19,20,95.0,1,4,0,0,0,Newcastle United
+Nick Pope,22.0,eng ENG,GK,32-313,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,12,20,60.0,0,6,0,0,0,Newcastle United
+16 Players,,,,,990,0,0,0,0,3,0,1,0,500,20,5,15,0.2,0.2,0.1,6,0,327,402,81.3,25,221,18,20,7,Newcastle United

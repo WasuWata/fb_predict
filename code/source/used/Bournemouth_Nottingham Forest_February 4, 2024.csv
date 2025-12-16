@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Solanke,9.0,eng ENG,FW,26-143,90,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.1,2,0,8,12,66.7,0,13,0,3,2,Bournemouth
+Luis Sinisterra,17.0,co COL,LW,24-232,70,0,1,0,0,3,0,0,0,43,2,1,3,0.3,0.3,0.9,3,1,22,29,75.9,4,26,6,5,3,Bournemouth
+Dango Ouattara,11.0,bf BFA,LW,21-358,20,0,0,0,0,0,0,0,0,12,2,1,0,0.0,0.0,0.0,0,0,2,9,22.2,0,5,1,1,1,Bournemouth
+Antoine Semenyo,24.0,gh GHA,RW,24-028,45,0,0,0,0,1,0,0,0,20,0,1,3,0.0,0.0,0.0,1,0,5,8,62.5,0,11,0,5,0,Bournemouth
+Marcus Tavernier,16.0,eng ENG,RW,24-319,45,0,0,0,0,1,0,0,0,28,0,0,0,0.1,0.1,0.0,1,0,11,19,57.9,1,16,3,6,1,Bournemouth
+Justin Kluivert,19.0,nl NED,AM,24-275,55,1,0,0,0,3,1,1,0,20,1,0,1,1.0,1.0,0.0,1,0,5,9,55.6,0,10,0,2,0,Bournemouth
+Philip Billing,29.0,dk DEN,DM,27-238,28,0,0,0,0,0,0,0,1,12,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,2,8,1,0,0,Bournemouth
+Ryan Christie,10.0,sct SCO,DM,28-347,55,0,0,0,0,1,0,0,0,26,1,1,0,0.0,0.0,0.0,1,0,11,19,57.9,4,14,0,4,2,Bournemouth
+Alex Scott,14.0,eng ENG,"AM,DM",20-167,35,0,0,0,0,0,0,0,0,16,1,2,0,0.0,0.0,0.0,0,0,6,11,54.5,2,12,1,2,0,Bournemouth
+Lewis Cook,4.0,eng ENG,DM,27-001,90,0,0,0,0,0,0,0,0,56,2,3,1,0.0,0.0,0.3,3,0,33,47,70.2,7,18,0,0,0,Bournemouth
+Lloyd Kelly,5.0,eng ENG,LB,25-121,82,0,0,0,0,0,0,0,0,59,0,1,0,0.0,0.0,0.0,1,0,31,50,62.0,2,19,2,0,0,Bournemouth
+Milos Kerkez,3.0,hu HUN,LB,20-089,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,4,1,0,0,Bournemouth
+Marcos Senesi,25.0,ar ARG,CB,26-270,90,0,0,0,0,0,0,1,0,56,2,1,0,0.0,0.0,0.0,1,0,30,46,65.2,5,31,0,2,1,Bournemouth
+Illia Zabarnyi,27.0,ua UKR,CB,21-156,90,0,0,0,0,0,0,0,0,47,2,0,0,0.0,0.0,0.0,0,0,31,41,75.6,6,27,0,0,0,Bournemouth
+Adam Smith,15.0,eng ENG,RB,32-281,90,0,0,0,0,0,0,0,0,43,2,2,2,0.0,0.0,0.0,0,0,27,37,73.0,3,16,1,0,0,Bournemouth
+Neto,1.0,br BRA,GK,34-200,90,0,0,0,0,0,0,1,0,35,0,0,0,0.0,0.0,0.0,0,0,28,35,80.0,0,27,0,0,0,Bournemouth
+16 Players,,,,,983,1,1,0,0,9,1,3,1,499,15,13,11,1.5,1.5,1.4,14,1,264,389,67.9,36,257,16,30,10,Bournemouth
+Taiwo Awoniyi,9.0,ng NGA,FW,26-176,90,0,0,0,0,2,2,0,0,23,0,0,1,0.2,0.2,0.0,1,0,7,13,53.8,0,11,1,3,2,Nottingham Forest
+Callum Hudson-Odoi,14.0,eng ENG,LW,23-089,89,1,0,0,0,1,1,0,0,33,3,0,1,0.0,0.0,0.0,3,1,15,22,68.2,1,17,2,4,1,Nottingham Forest
+Rodrigo Ribeiro,37.0,pt POR,LW,18-282,1,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Nottingham Forest
+Anthony Elanga,21.0,se SWE,RW,21-283,77,0,0,0,0,0,0,0,0,26,2,0,0,0.0,0.0,0.0,1,0,12,19,63.2,2,16,1,1,0,Nottingham Forest
+Gio Reyna,20.0,us USA,RW,21-083,13,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,0,0,17,20,85.0,0,11,0,0,0,Nottingham Forest
+Morgan Gibbs-White,10.0,eng ENG,AM,24-008,90,0,0,0,0,1,1,0,0,63,0,0,1,0.0,0.0,0.1,3,0,39,56,69.6,7,35,0,2,0,Nottingham Forest
+Nicolás Domínguez,16.0,ar ARG,DM,25-221,71,0,0,0,0,0,0,0,0,68,8,1,6,0.0,0.0,0.1,1,0,41,50,82.0,3,33,1,1,0,Nottingham Forest
+Danilo,28.0,br BRA,DM,22-281,19,0,0,0,0,0,0,0,0,26,1,0,3,0.0,0.0,0.0,0,0,20,23,87.0,2,16,3,0,0,Nottingham Forest
+Ryan Yates,22.0,eng ENG,DM,26-075,90,0,0,0,0,2,2,1,0,64,4,1,2,0.3,0.3,0.0,1,0,39,46,84.8,4,31,1,0,0,Nottingham Forest
+Nuno Tavares,3.0,pt POR,LB,24-009,90,0,0,0,0,1,0,0,0,60,3,0,1,0.0,0.0,0.0,1,0,30,50,60.0,2,25,2,2,1,Nottingham Forest
+Murillo,40.0,br BRA,CB,21-215,90,0,0,0,0,0,0,0,0,50,3,0,2,0.0,0.0,0.2,1,0,29,40,72.5,5,27,0,0,0,Nottingham Forest
+Andrew Omobamidele,32.0,ie IRL,CB,21-226,90,0,0,0,0,0,0,1,0,61,3,2,1,0.0,0.0,0.0,1,0,37,45,82.2,0,31,0,0,0,Nottingham Forest
+Neco Williams,7.0,wls WAL,RB,22-297,77,0,0,0,0,1,0,0,0,51,3,1,3,0.0,0.0,0.0,2,0,23,36,63.9,3,24,2,1,1,Nottingham Forest
+Gonzalo Montiel,29.0,ar ARG,RB,27-034,13,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,0,0,16,20,80.0,0,10,0,0,0,Nottingham Forest
+Matz Sels,26.0,be BEL,GK,31-343,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,16,25,64.0,0,14,0,0,0,Nottingham Forest
+15 Players,,,,,990,1,0,0,0,8,6,2,0,596,31,6,22,0.5,0.5,0.5,15,1,343,467,73.4,29,303,13,14,5,Nottingham Forest

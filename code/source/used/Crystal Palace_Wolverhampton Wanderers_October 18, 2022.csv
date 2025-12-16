@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Odsonne Édouard,22.0,fr FRA,FW,24-275,80,0,1,0,0,2,0,0,0,36,4,2,0,0.1,0.1,0.4,3,1,18,22,81.8,1,19,4,2,0,Crystal Palace
+Jean-Philippe Mateta,14.0,fr FRA,FW,25-112,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,0,0,0,0,Crystal Palace
+Wilfried Zaha,11.0,ci CIV,LW,29-342,90,1,0,0,0,4,2,0,0,62,4,2,2,0.5,0.5,0.1,6,1,25,30,83.3,7,44,3,11,6,Crystal Palace
+Michael Olise,7.0,fr FRA,RW,20-310,79,0,1,0,0,2,0,0,0,45,0,1,1,0.1,0.1,0.4,7,1,25,37,67.6,2,30,4,3,2,Crystal Palace
+Jordan Ayew,9.0,gh GHA,RW,31-037,11,0,0,0,0,0,0,0,0,8,2,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,5,1,4,1,Crystal Palace
+Eberechi Eze,10.0,eng ENG,LM,24-111,89,1,0,0,0,2,1,0,0,47,1,0,1,0.2,0.2,0.2,4,1,29,40,72.5,5,27,1,2,1,Crystal Palace
+Jaïro Riedewald,44.0,nl NED,LM,26-039,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Crystal Palace
+Cheick Doucouré,28.0,ml MLI,CM,22-283,90,0,0,0,0,1,1,1,0,66,3,3,2,0.0,0.0,0.0,0,0,44,50,88.0,4,29,0,0,0,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,RM,29-299,90,0,0,0,0,0,0,0,0,52,5,0,1,0.0,0.0,0.2,4,0,35,40,87.5,9,25,1,0,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,LB,23-047,90,0,0,0,0,0,0,0,0,61,3,0,0,0.0,0.0,0.0,0,0,42,58,72.4,6,23,0,0,0,Crystal Palace
+Marc Guéhi,6.0,eng ENG,CB,22-097,90,0,0,0,0,1,0,1,0,93,1,1,0,0.0,0.0,0.0,1,0,78,87,89.7,8,63,1,2,1,Crystal Palace
+Joachim Andersen,16.0,dk DEN,CB,26-140,90,0,0,0,0,2,0,0,0,61,0,0,0,0.1,0.1,0.0,1,0,44,54,81.5,1,32,0,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,RB,32-354,90,0,0,0,0,0,0,1,0,52,0,2,1,0.0,0.0,0.0,1,0,32,44,72.7,5,16,2,0,0,Crystal Palace
+Vicente Guaita,13.0,es ESP,GK,35-281,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,18,21,85.7,0,13,0,0,0,Crystal Palace
+14 Players,,,,,990,2,2,0,0,14,4,3,0,614,23,11,8,1.2,1.2,1.1,27,4,392,490,80.0,48,326,17,24,11,Crystal Palace
+Diego Costa,29.0,es ESP,FW,34-011,74,0,0,0,0,2,1,0,0,15,0,0,1,0.2,0.2,0.1,2,0,4,7,57.1,0,8,0,0,0,Wolverhampton Wanderers
+Hwang Hee-chan,11.0,kr KOR,FW,26-265,16,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,5,6,83.3,0,3,0,0,0,Wolverhampton Wanderers
+Daniel Podence,10.0,pt POR,LW,26-362,90,0,0,0,0,1,1,0,0,44,2,0,3,0.1,0.1,0.2,4,0,19,26,73.1,3,22,4,1,0,Wolverhampton Wanderers
+Adama Traoré,37.0,es ESP,RW,26-266,57,1,0,0,0,1,1,0,0,28,1,0,1,0.1,0.1,0.1,3,0,8,17,47.1,0,13,2,5,3,Wolverhampton Wanderers
+Gonçalo Guedes,17.0,pt POR,RW,25-323,33,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.0,3,0,13,19,68.4,3,15,0,0,0,Wolverhampton Wanderers
+Matheus Nunes,27.0,pt POR,AM,24-052,57,0,0,0,0,0,0,0,0,21,4,1,0,0.0,0.0,0.0,1,0,10,13,76.9,2,12,0,1,0,Wolverhampton Wanderers
+Joseph Hodge,59.0,ie IRL,AM,20-034,33,0,0,0,0,1,0,0,0,21,2,0,1,0.1,0.1,0.0,0,0,15,17,88.2,4,13,0,0,0,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,DM,25-219,90,0,0,0,0,3,1,0,0,78,3,1,4,0.1,0.1,0.0,1,1,56,65,86.2,5,40,3,1,0,Wolverhampton Wanderers
+Boubacar Traoré,6.0,ml MLI,DM,21-059,57,0,0,0,0,0,0,1,0,22,2,1,0,0.0,0.0,0.0,0,0,10,16,62.5,0,7,0,2,0,Wolverhampton Wanderers
+João Moutinho,28.0,pt POR,DM,36-040,33,0,0,0,0,1,0,0,0,35,2,1,1,0.2,0.2,0.0,0,0,22,31,71.0,7,19,0,0,0,Wolverhampton Wanderers
+Hugo Bueno,64.0,es ESP,LB,20-030,90,0,1,0,0,0,0,0,0,65,3,3,1,0.0,0.0,0.1,3,1,42,46,91.3,5,28,4,2,0,Wolverhampton Wanderers
+Max Kilman,23.0,eng ENG,CB,25-148,90,0,0,0,0,0,0,0,0,72,1,1,1,0.0,0.0,0.0,0,0,51,65,78.5,3,43,1,0,0,Wolverhampton Wanderers
+Nathan Collins,4.0,ie IRL,CB,21-171,90,0,0,0,0,0,0,0,0,71,3,0,1,0.0,0.0,0.0,0,0,50,56,89.3,4,34,0,0,0,Wolverhampton Wanderers
+Nélson Semedo,22.0,pt POR,RB,28-336,90,0,0,0,0,0,0,0,0,46,6,1,1,0.0,0.0,0.0,1,0,30,39,76.9,4,29,1,1,1,Wolverhampton Wanderers
+José Sá,1.0,pt POR,GK,29-274,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,28,40,70.0,0,22,0,0,0,Wolverhampton Wanderers
+15 Players,,,,,990,1,1,0,0,10,4,1,0,586,29,9,15,0.8,0.8,0.6,19,2,363,463,78.4,40,308,15,13,4,Wolverhampton Wanderers

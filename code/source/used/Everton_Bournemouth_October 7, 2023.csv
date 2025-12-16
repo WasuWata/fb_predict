@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Calvert-Lewin,9.0,eng ENG,FW,26-205,82,0,0,0,0,3,0,0,0,29,0,1,0,0.4,0.4,0.0,2,0,9,17,52.9,1,14,2,2,2,Everton
+Beto,14.0,gw GNB,FW,25-249,8,0,0,0,0,1,0,0,0,5,0,0,0,0.3,0.3,0.0,1,0,2,3,66.7,0,4,0,2,1,Everton
+Abdoulaye Doucouré,16.0,ml MLI,FW,30-279,89,1,0,0,0,5,3,0,0,53,2,0,1,0.7,0.7,0.2,6,0,34,39,87.2,7,31,2,2,2,Everton
+Youssef Chermiti,28.0,pt POR,FW,19-136,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,1,0,Everton
+Dwight McNeil,7.0,eng ENG,LM,23-319,90,0,0,0,0,2,1,0,0,53,3,0,2,0.2,0.2,0.8,9,0,21,38,55.3,2,26,8,2,2,Everton
+Amadou Onana,8.0,be BEL,CM,22-052,90,0,0,0,0,3,1,0,0,55,4,0,0,0.2,0.2,0.0,5,0,39,45,86.7,7,29,0,2,0,Everton
+James Garner,37.0,eng ENG,CM,22-208,90,1,0,0,0,4,2,0,0,67,6,1,2,0.2,0.2,0.0,2,1,35,44,79.5,5,35,3,2,0,Everton
+Jack Harrison,11.0,eng ENG,RM,26-321,77,1,1,0,0,4,1,0,0,41,3,0,0,0.3,0.3,0.3,5,1,16,24,66.7,1,26,2,5,2,Everton
+Nathan Patterson,2.0,sct SCO,RM,21-356,13,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,7,11,63.6,0,7,2,0,0,Everton
+Vitaliy Mykolenko,19.0,ua UKR,LB,24-131,90,0,0,0,0,1,0,0,0,54,3,1,1,0.1,0.1,0.0,1,0,32,43,74.4,2,19,1,1,1,Everton
+Jarrad Branthwaite,32.0,eng ENG,CB,21-102,90,0,0,0,0,0,0,0,0,37,2,0,4,0.0,0.0,0.1,2,1,22,27,81.5,0,16,0,0,0,Everton
+James Tarkowski,6.0,eng ENG,CB,30-322,90,0,0,0,0,0,0,0,0,66,3,1,3,0.0,0.0,0.0,2,0,37,50,74.0,1,33,0,0,0,Everton
+Ashley Young,18.0,eng ENG,RB,38-090,90,0,0,0,0,2,0,1,0,69,2,1,1,0.1,0.1,0.0,3,0,44,59,74.6,5,30,3,3,2,Everton
+Jordan Pickford,1.0,eng ENG,GK,29-214,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,2,0,33,42,78.6,0,28,0,0,0,Everton
+14 Players,,,,,990,3,1,0,0,25,8,1,0,590,28,5,15,2.5,2.5,1.5,40,3,332,443,74.9,31,299,23,22,12,Everton
+Dominic Solanke,9.0,eng ENG,FW,26-023,90,0,0,0,0,3,1,1,0,26,0,0,1,0.1,0.1,0.1,1,0,8,9,88.9,3,23,2,3,1,Bournemouth
+Dango Ouattara,11.0,bf BFA,LW,21-238,56,0,0,0,0,1,0,0,0,18,1,0,1,0.0,0.0,0.1,1,0,5,7,71.4,0,6,0,0,0,Bournemouth
+Luis Sinisterra,17.0,co COL,"LM,LW",24-112,34,0,0,0,0,0,0,0,0,17,2,0,0,0.0,0.0,0.1,2,0,9,13,69.2,2,10,4,2,2,Bournemouth
+Marcus Tavernier,16.0,eng ENG,"RW,LB",24-199,90,0,0,0,0,2,1,0,0,64,1,0,3,0.0,0.0,0.0,2,0,36,46,78.3,4,32,5,10,7,Bournemouth
+Philip Billing,29.0,dk DEN,"AM,CM",27-118,90,0,0,0,0,1,0,0,0,56,5,0,1,0.1,0.1,0.0,4,0,37,42,88.1,3,26,2,1,0,Bournemouth
+Lewis Cook,4.0,eng ENG,DM,26-246,65,0,0,0,0,0,0,0,0,55,1,2,2,0.0,0.0,0.0,3,0,41,48,85.4,2,30,1,0,0,Bournemouth
+Kieffer Moore,21.0,wls WAL,FW,31-060,25,0,0,0,0,2,1,0,0,12,0,0,0,0.2,0.2,0.2,3,0,5,9,55.6,1,6,0,1,0,Bournemouth
+Ryan Christie,10.0,sct SCO,DM,28-227,45,0,0,0,0,0,0,0,0,30,1,1,3,0.0,0.0,0.0,1,0,19,24,79.2,0,18,0,0,0,Bournemouth
+Joe Rothwell,8.0,eng ENG,"CM,DM",28-269,45,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.0,2,0,19,22,86.4,2,15,1,0,0,Bournemouth
+Milos Kerkez,3.0,hu HUN,LB,19-334,66,0,0,0,0,1,0,0,0,45,2,1,1,0.0,0.0,0.0,0,0,21,31,67.7,0,15,2,1,1,Bournemouth
+David Brooks,7.0,wls WAL,RM,26-091,24,0,0,0,0,0,0,0,0,14,0,1,1,0.0,0.0,0.0,1,0,6,10,60.0,0,9,1,0,0,Bournemouth
+Marcos Senesi,25.0,ar ARG,CB,26-150,90,0,0,0,0,0,0,0,0,83,5,0,0,0.0,0.0,0.0,0,0,51,67,76.1,7,42,3,1,1,Bournemouth
+Illia Zabarnyi,27.0,ua UKR,CB,21-036,90,0,0,0,0,1,0,0,0,75,1,1,1,0.2,0.2,0.0,0,0,48,59,81.4,2,43,1,0,0,Bournemouth
+Adam Smith,15.0,eng ENG,RB,32-161,85,0,0,0,0,0,0,0,0,55,0,0,1,0.0,0.0,0.0,1,0,40,48,83.3,8,27,1,0,0,Bournemouth
+Max Aarons,37.0,eng ENG,RB,23-276,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Bournemouth
+Neto,1.0,br BRA,GK,34-080,90,0,0,0,0,0,0,1,0,51,0,0,0,0.0,0.0,0.0,0,0,36,48,75.0,0,27,0,0,0,Bournemouth
+16 Players,,,,,990,0,0,0,0,11,3,2,0,632,20,6,15,0.7,0.7,0.7,21,0,386,488,79.1,34,332,23,19,12,Bournemouth

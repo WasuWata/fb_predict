@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Michail Antonio,9.0,jm JAM,FW,32-132,56,0,0,0,0,2,0,0,0,9,0,0,0,0.2,0.2,0.0,2,0,2,4,50.0,1,8,0,1,0,West Ham United
+Gianluca Scamacca,7.0,it ITA,FW,23-218,34,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,2,0,0,0,West Ham United
+Pablo Fornals,8.0,es ESP,"LW,FW,RW",26-166,89,0,0,0,0,0,0,0,0,30,0,2,1,0.0,0.0,0.1,3,0,18,24,75.0,1,14,1,1,0,West Ham United
+Conor Coventry,32.0,ie IRL,"CM,FW",22-135,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,West Ham United
+Jarrod Bowen,20.0,eng ENG,"RW,RM,AM",25-230,89,0,0,0,0,1,0,0,0,23,0,2,2,0.2,0.2,0.0,1,0,5,11,45.5,2,10,1,3,0,West Ham United
+Flynn Downes,12.0,eng ENG,RM,23-199,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,West Ham United
+Manuel Lanzini,10.0,ar ARG,"AM,LW",29-173,56,0,0,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,14,16,87.5,2,6,0,0,0,West Ham United
+Saïd Benrahma,22.0,dz ALG,"LM,LW",26-362,34,0,0,0,0,1,1,0,0,14,0,0,0,0.1,0.1,0.0,0,0,7,10,70.0,1,10,1,1,0,West Ham United
+Declan Rice,41.0,eng ENG,"DM,CM",23-205,90,0,0,0,0,1,0,0,0,46,7,0,1,0.1,0.1,0.0,0,0,33,37,89.2,5,21,2,0,0,West Ham United
+Tomáš Souček,28.0,cz CZE,"DM,CM",27-161,90,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,2,0,16,23,69.6,3,9,1,0,0,West Ham United
+Aaron Cresswell,3.0,eng ENG,LB,32-235,90,0,0,0,0,0,0,0,0,35,1,2,1,0.0,0.0,0.1,1,0,21,27,77.8,1,10,0,0,0,West Ham United
+Kurt Zouma,4.0,fr FRA,CB,27-284,90,0,0,0,0,0,0,0,0,40,1,1,1,0.0,0.0,0.0,0,0,28,33,84.8,0,13,0,0,0,West Ham United
+Ben Johnson,2.0,eng ENG,CB,22-195,90,0,0,0,0,0,0,0,0,45,0,0,2,0.0,0.0,0.0,0,0,28,36,77.8,3,24,0,1,1,West Ham United
+Vladimír Coufal,5.0,cz CZE,RB,29-350,90,0,0,0,0,0,0,0,0,39,4,3,0,0.0,0.0,0.1,1,0,20,30,66.7,3,10,0,0,0,West Ham United
+Łukasz Fabiański,1.0,pl POL,GK,37-111,28,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,8,0,0,0,West Ham United
+Alphonse Areola,13.0,fr FRA,GK,29-161,62,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,20,28,71.4,0,15,0,0,0,West Ham United
+16 Players,,,,,990,0,0,0,0,6,1,0,0,377,14,11,8,0.5,0.5,0.3,11,0,223,294,75.9,23,160,6,7,1,West Ham United
+Erling Haaland,9.0,no NOR,FW,22-017,77,2,0,1,1,4,1,0,0,31,0,0,0,1.7,0.9,0.0,3,1,21,24,87.5,2,18,1,1,0,Manchester City
+Julián Álvarez,19.0,ar ARG,FW,22-188,13,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.0,1,0,6,6,100.0,0,6,0,1,0,Manchester City
+Jack Grealish,10.0,eng ENG,LW,26-331,90,0,0,0,0,1,0,0,0,73,0,0,1,0.1,0.1,0.3,2,0,60,69,87.0,5,56,9,3,2,Manchester City
+Phil Foden,47.0,eng ENG,RW,22-071,87,0,0,0,0,0,0,0,0,64,1,0,0,0.0,0.0,0.3,4,0,49,54,90.7,5,43,3,9,4,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,31-167,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,2,0,3,3,100.0,0,0,0,0,0,Manchester City
+İlkay Gündoğan,8.0,de GER,LM,31-287,77,0,0,0,0,2,0,0,0,68,0,0,0,0.1,0.1,0.1,4,1,57,63,90.5,7,38,4,3,1,Manchester City
+Bernardo Silva,20.0,pt POR,LM,27-362,13,0,0,0,0,0,0,0,0,20,2,0,0,0.0,0.0,0.0,1,0,14,17,82.4,1,10,1,0,0,Manchester City
+Rodri,16.0,es ESP,CM,26-046,88,0,0,0,0,1,0,0,0,106,1,1,1,0.0,0.0,0.0,2,1,95,101,94.1,5,72,3,2,2,Manchester City
+Kalvin Phillips,4.0,eng ENG,CM,26-248,2,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,3,0,0,0,Manchester City
+Kevin De Bruyne,17.0,be BEL,RM,31-040,87,0,1,0,0,2,0,0,0,72,0,0,2,0.2,0.2,0.5,3,1,50,65,76.9,6,49,6,1,0,Manchester City
+Cole Palmer,80.0,eng ENG,RM,20-093,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Manchester City
+João Cancelo,7.0,pt POR,LB,28-072,90,0,0,0,0,1,0,1,0,124,1,1,0,0.0,0.0,0.1,4,0,111,118,94.1,9,73,3,5,4,Manchester City
+Nathan Aké,6.0,nl NED,CB,27-170,90,0,0,0,0,1,0,0,0,114,1,1,3,0.0,0.0,0.0,0,0,99,106,93.4,2,73,0,0,0,Manchester City
+Rúben Dias,3.0,pt POR,CB,25-085,90,0,0,0,0,0,0,0,0,102,0,0,0,0.0,0.0,0.0,0,0,94,95,98.9,3,66,0,1,1,Manchester City
+Kyle Walker,2.0,eng ENG,RB,32-071,90,0,0,0,0,0,0,0,0,97,0,0,0,0.0,0.0,0.0,1,0,87,96,90.6,6,45,1,0,0,Manchester City
+Ederson,31.0,br BRA,GK,28-355,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,39,43,90.7,0,26,0,0,0,Manchester City
+16 Players,,,,,990,2,1,1,1,13,1,1,0,936,6,3,7,2.2,1.4,1.3,27,4,792,869,91.1,51,580,31,26,14,Manchester City

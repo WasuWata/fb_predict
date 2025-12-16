@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Pierre-Emerick Aubameyang,9.0,ga GAB,FW,33-120,57,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,1,0,6,9,66.7,0,6,2,0,0,Chelsea
+Conor Gallagher,23.0,eng ENG,"AM,FW",22-252,33,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.1,1,0,11,15,73.3,0,14,1,0,0,Chelsea
+Kai Havertz,29.0,de GER,AM,23-127,45,0,0,0,0,1,1,0,0,18,2,0,0,0.1,0.1,0.1,2,0,11,13,84.6,3,10,1,2,2,Chelsea
+Kalidou Koulibaly,26.0,sn SEN,CB,31-118,45,0,0,0,0,0,0,1,0,53,0,2,0,0.0,0.0,0.0,0,0,43,46,93.5,2,33,1,0,0,Chelsea
+Mason Mount,19.0,eng ENG,"AM,CM",23-279,90,2,0,0,0,3,2,1,0,44,1,0,1,0.4,0.4,0.0,1,1,25,35,71.4,2,19,3,2,2,Chelsea
+Mateo Kovačić,8.0,hr CRO,CM,28-163,64,0,0,0,0,1,0,0,0,54,2,0,0,0.0,0.0,0.0,1,1,38,47,80.9,3,26,2,1,0,Chelsea
+Jorginho,5.0,it ITA,CM,30-300,26,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,14,16,87.5,0,7,0,1,0,Chelsea
+Ruben Loftus-Cheek,12.0,eng ENG,"CM,WB",26-266,90,0,0,0,0,0,0,0,0,68,1,1,0,0.0,0.0,0.0,3,1,47,56,83.9,5,29,2,3,1,Chelsea
+Ben Chilwell,21.0,eng ENG,WB,25-299,90,0,0,0,0,0,0,1,0,87,0,1,0,0.0,0.0,0.0,3,1,65,81,80.2,2,58,3,1,0,Chelsea
+Raheem Sterling,17.0,eng ENG,"WB,AM,FW",27-312,88,0,0,0,0,3,1,0,0,27,1,1,1,0.3,0.3,0.0,1,0,14,17,82.4,2,15,2,2,0,Chelsea
+Armando Broja,18.0,al ALB,FW,21-036,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Chelsea
+Marc Cucurella,32.0,es ESP,CB,24-086,45,0,0,0,0,0,0,0,0,52,0,0,1,0.0,0.0,0.0,0,0,45,49,91.8,0,38,0,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,WB,33-049,45,0,0,0,0,0,0,0,0,32,1,0,1,0.0,0.0,0.2,3,0,26,28,92.9,4,15,0,0,0,Chelsea
+Thiago Silva,6.0,br BRA,CB,38-024,90,0,0,0,0,0,0,0,0,82,0,1,2,0.0,0.0,0.0,0,0,67,73,91.8,0,48,0,0,0,Chelsea
+Trevoh Chalobah,14.0,eng ENG,CB,23-103,90,0,0,0,0,0,0,0,0,63,1,1,0,0.0,0.0,0.0,0,0,45,54,83.3,3,21,0,0,0,Chelsea
+Kepa Arrizabalaga,1.0,es ESP,GK,28-013,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,33,41,80.5,0,20,0,0,0,Chelsea
+16 Players,,,,,990,2,0,0,0,8,4,3,0,675,9,8,7,0.9,0.9,0.5,16,4,490,580,84.5,26,359,17,12,5,Chelsea

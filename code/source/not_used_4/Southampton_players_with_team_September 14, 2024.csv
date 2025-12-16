@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Cameron Archer,19.0,eng ENG,FW,23-055,61,0,0,0,1,2,1,0,0,13,0,0,0,0.8,0.0,0.0,1,0,9,9,100.0,1,5,1,1,0,Southampton
+Ross Stewart,11.0,sct SCO,FW,28-065,29,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,5,0,0,0,Southampton
+Ben Brereton,17.0,cl CHI,LW,25-149,63,0,0,0,0,0,0,0,0,30,1,0,2,0.0,0.0,0.0,0,0,17,22,77.3,2,18,1,0,0,Southampton
+Ryan Fraser,24.0,sct SCO,LW,30-203,27,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,5,1,0,0,Southampton
+Tyler Dibling,33.0,eng ENG,RW,18-186,62,0,0,0,0,1,1,0,0,30,0,0,3,0.0,0.0,0.0,3,0,17,19,89.5,1,22,3,5,0,Southampton
+Adam Lallana,10.0,eng ENG,DM,36-127,28,0,0,0,0,0,0,0,0,26,2,0,0,0.0,0.0,0.0,0,0,16,22,72.7,1,11,0,1,0,Southampton
+Mateus Fernandes,18.0,pt POR,AM,20-066,80,0,0,0,0,0,0,0,0,38,2,2,0,0.0,0.0,0.0,0,0,20,27,74.1,0,22,2,1,0,Southampton
+Taylor Harwood-Bellis,6.0,eng ENG,CB,22-228,10,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,10,11,90.9,0,4,0,0,0,Southampton
+Lesley Ugochukwu,26.0,fr FRA,DM,20-172,63,0,0,0,0,1,0,0,0,31,2,0,2,0.2,0.2,0.0,1,0,23,25,92.0,1,16,1,1,0,Southampton
+Maxwel Cornet,22.0,ci CIV,RW,27-353,27,0,0,0,0,0,0,1,0,14,2,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,8,1,1,0,Southampton
+Flynn Downes,4.0,eng ENG,DM,25-238,90,0,0,0,0,0,0,0,0,76,2,3,1,0.0,0.0,0.0,0,0,58,59,98.3,3,32,2,3,0,Southampton
+Kyle Walker-Peters,2.0,eng ENG,LB,27-154,90,0,0,0,0,0,0,0,0,54,3,3,0,0.0,0.0,0.0,0,0,36,42,85.7,2,30,4,6,3,Southampton
+Jan Bednarek,35.0,pl POL,CB,28-155,90,0,0,0,0,0,0,0,0,93,0,2,4,0.0,0.0,0.0,0,0,70,80,87.5,1,57,0,0,0,Southampton
+Jack Stephens,5.0,eng ENG,CB,30-231,78,0,0,0,0,0,0,0,1,74,4,0,1,0.0,0.0,0.0,1,0,64,70,91.4,2,38,2,0,0,Southampton
+Yukinari Sugawara,16.0,jp JPN,RB,24-078,90,0,0,0,0,1,0,0,0,68,2,1,0,0.0,0.0,0.2,4,0,52,61,85.2,8,46,3,1,1,Southampton
+Aaron Ramsdale,30.0,eng ENG,GK,26-123,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,29,37,78.4,0,30,0,0,0,Southampton
+16 Players,,,,,978,0,0,0,1,5,2,1,1,616,21,11,15,1.1,0.3,0.3,10,0,439,505,86.9,22,349,21,20,4,Southampton

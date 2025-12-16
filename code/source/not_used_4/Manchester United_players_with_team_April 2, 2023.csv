@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Wout Weghorst,27.0,nl NED,FW,30-238,61,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,0,0,4,5,80.0,0,8,0,1,0,Manchester United
+Anthony Martial,9.0,fr FRA,FW,27-118,29,0,0,0,0,1,0,0,0,13,0,0,0,0.1,0.1,0.0,2,0,10,11,90.9,1,10,1,1,1,Manchester United
+Marcus Rashford,10.0,eng ENG,"LW,FW",25-153,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,19,26,73.1,2,23,1,2,0,Manchester United
+Antony,21.0,br BRA,RW,23-037,61,0,0,0,0,2,1,0,0,32,1,1,1,0.1,0.1,0.1,2,0,18,23,78.3,2,28,4,6,2,Manchester United
+Jadon Sancho,25.0,eng ENG,"RW,WB",23-008,29,0,0,0,0,0,0,0,0,21,1,0,1,0.0,0.0,0.0,1,0,11,14,78.6,0,13,0,4,2,Manchester United
+Bruno Fernandes,8.0,pt POR,"AM,CM",28-206,90,0,0,0,0,0,0,0,0,58,0,2,1,0.0,0.0,0.1,2,0,34,46,73.9,7,42,1,2,1,Manchester United
+Marcel Sabitzer,15.0,at AUT,"DM,AM",29-016,90,0,0,0,0,1,0,0,0,40,2,1,0,0.1,0.1,0.0,0,0,23,29,79.3,3,32,3,2,1,Manchester United
+Scott McTominay,39.0,sct SCO,DM,26-115,81,0,0,0,0,0,0,0,0,39,4,1,1,0.0,0.0,0.0,0,0,20,24,83.3,2,25,2,2,1,Manchester United
+Fred,17.0,br BRA,"CM,DM",30-028,9,0,0,0,0,0,0,0,0,16,2,0,1,0.0,0.0,0.0,0,0,11,12,91.7,2,10,0,0,0,Manchester United
+Luke Shaw,23.0,eng ENG,"LB,CB",27-264,90,0,0,0,0,0,0,0,0,70,3,0,2,0.0,0.0,0.2,3,0,48,63,76.2,4,36,1,2,0,Manchester United
+Lisandro Martínez,6.0,ar ARG,CB,25-074,82,0,0,0,0,0,0,0,0,67,4,2,5,0.0,0.0,0.0,0,0,42,51,82.4,3,38,0,1,1,Manchester United
+Facundo Pellistri,28.0,uy URU,"WB,CB",21-103,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,1,0,Manchester United
+Raphaël Varane,19.0,fr FRA,CB,29-342,82,0,0,0,0,0,0,0,0,50,0,0,2,0.0,0.0,0.0,1,0,36,43,83.7,4,32,3,1,0,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,28-259,8,0,0,0,0,1,0,0,0,11,0,1,1,0.1,0.1,0.0,0,0,6,6,100.0,0,7,1,0,0,Manchester United
+Diogo Dalot,20.0,pt POR,"RB,CB",24-015,90,0,0,0,0,0,0,0,0,69,1,1,0,0.0,0.0,0.1,1,0,47,60,78.3,5,43,3,1,0,Manchester United
+David de Gea,1.0,es ESP,GK,32-146,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,31,37,83.8,0,27,0,0,0,Manchester United
+16 Players,,,,,990,0,0,0,0,6,1,0,0,570,18,9,15,0.4,0.4,0.4,12,0,361,451,80.0,35,374,20,26,9,Manchester United

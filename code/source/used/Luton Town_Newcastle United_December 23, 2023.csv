@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Elijah Adebayo,11.0,eng ENG,FW,25-350,79,0,0,0,0,3,1,0,0,20,0,0,1,0.6,0.6,0.1,4,0,6,6,100.0,1,15,0,3,3,Luton Town
+Carlton Morris,9.0,eng ENG,FW,28-007,11,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,1,1,Luton Town
+Jacob Brown,19.0,sct SCO,AM,25-257,90,0,0,0,0,3,1,0,0,36,1,0,0,0.1,0.1,0.1,3,0,13,22,59.1,2,19,3,1,0,Luton Town
+Andros Townsend,30.0,eng ENG,AM,32-160,80,1,0,0,0,3,2,0,0,36,1,0,1,0.5,0.5,0.0,1,0,20,27,74.1,5,24,4,3,2,Luton Town
+Chiedozie Ogbene,7.0,ie IRL,AM,26-236,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,3,1,2,0,Luton Town
+Ross Barkley,6.0,eng ENG,CM,30-018,90,0,1,0,0,5,0,1,0,63,1,1,0,0.2,0.2,0.8,5,1,42,50,84.0,2,36,1,4,2,Luton Town
+Albert Sambi Lokonga,28.0,be BEL,CM,24-062,79,0,0,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.0,2,0,31,34,91.2,3,23,0,2,0,Luton Town
+Pelly Ruddock Mpanzu,17.0,cd COD,CM,30-159,11,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,1,0,Luton Town
+Alfie Doughty,45.0,eng ENG,WB,24-002,90,0,0,0,0,0,0,0,0,74,1,3,1,0.0,0.0,0.2,2,0,43,57,75.4,2,40,4,7,3,Luton Town
+Issa Kaboré,12.0,bf BFA,WB,22-225,45,0,0,0,0,0,0,0,0,22,1,0,3,0.0,0.0,0.0,1,0,10,15,66.7,2,9,1,0,0,Luton Town
+Ryan Giles,26.0,eng ENG,WB,23-331,45,0,0,0,0,1,1,0,0,26,0,0,0,0.0,0.0,0.0,1,0,9,15,60.0,1,9,1,0,0,Luton Town
+Amari'i Bell,29.0,jm JAM,CB,29-232,75,0,0,0,0,0,0,0,0,48,2,0,0,0.0,0.0,0.0,2,0,25,35,71.4,5,23,0,2,1,Luton Town
+Mads Juel Andersen,5.0,dk DEN,CB,25-361,15,0,0,0,0,0,0,0,0,6,1,0,2,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Luton Town
+Gabriel Osho,2.0,ng NGA,CB,25-131,90,0,0,0,0,0,0,0,0,32,3,2,3,0.0,0.0,0.0,0,0,8,11,72.7,0,10,0,0,0,Luton Town
+Teden Mengi,15.0,eng ENG,CB,21-237,90,0,0,0,0,1,0,1,0,24,1,3,0,0.0,0.0,0.0,1,0,9,16,56.3,2,12,1,1,1,Luton Town
+Thomas Kaminski,24.0,be BEL,GK,31-061,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,14,34,41.2,0,17,0,0,0,Luton Town
+16 Players,,,,,990,1,1,0,0,16,5,2,0,483,13,9,13,1.5,1.5,1.3,24,1,240,334,71.9,25,248,16,27,13,Luton Town
+Callum Wilson,9.0,eng ENG,FW,31-299,90,0,0,0,0,3,1,0,0,28,1,1,1,0.6,0.6,0.0,1,0,13,17,76.5,1,17,1,1,1,Newcastle United
+Anthony Gordon,10.0,eng ENG,LW,22-302,90,0,0,0,0,2,0,0,0,41,1,0,0,0.1,0.1,0.5,2,0,24,33,72.7,3,33,2,5,2,Newcastle United
+Miguel Almirón,24.0,py PAR,RW,29-316,80,0,0,0,0,2,0,0,0,37,2,1,1,0.2,0.2,0.1,2,0,21,27,77.8,1,24,2,1,1,Newcastle United
+Valentino Livramento,21.0,eng ENG,RW,21-041,10,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Newcastle United
+Sean Longstaff,36.0,eng ENG,"DM,LM",26-054,90,0,0,0,0,1,0,0,0,71,3,0,2,0.0,0.0,0.3,3,0,47,61,77.0,6,49,1,0,0,Newcastle United
+Bruno Guimarães,39.0,br BRA,"DM,CM",26-037,90,0,0,0,0,4,1,1,0,109,2,2,2,0.4,0.4,0.0,2,0,81,94,86.2,10,84,2,1,0,Newcastle United
+Lewis Miley,67.0,eng ENG,RM,17-236,37,0,0,0,0,1,0,0,0,23,1,0,1,0.1,0.1,0.0,1,0,17,19,89.5,1,16,1,0,0,Newcastle United
+Alexander Isak,14.0,se SWE,AM,24-093,53,0,0,0,0,0,0,0,0,25,1,1,0,0.0,0.0,0.1,3,0,16,20,80.0,4,14,2,2,2,Newcastle United
+Dan Burn,33.0,eng ENG,LB,31-228,84,0,0,0,0,0,0,0,0,70,2,2,2,0.0,0.0,0.0,0,0,49,59,83.1,3,39,1,0,0,Newcastle United
+Lewis Hall,20.0,eng ENG,LB,19-106,6,0,0,0,0,0,0,1,0,4,2,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,0,0,0,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,32-003,90,0,0,0,0,1,0,0,0,81,1,0,0,0.0,0.0,0.0,3,0,66,75,88.0,5,66,2,1,1,Newcastle United
+Jamaal Lascelles,6.0,eng ENG,CB,30-042,36,0,0,0,0,0,0,0,0,36,1,1,0,0.0,0.0,0.0,1,0,24,32,75.0,1,20,1,0,0,Newcastle United
+Sven Botman,4.0,nl NED,CB,23-345,54,0,0,0,0,1,0,0,0,56,3,0,1,0.0,0.0,0.0,1,0,46,50,92.0,4,37,0,0,0,Newcastle United
+Kieran Trippier,2.0,eng ENG,RB,33-095,90,0,0,0,0,0,0,0,0,100,8,1,2,0.0,0.0,0.4,8,0,66,84,78.6,5,41,1,1,1,Newcastle United
+Martin Dúbravka,1.0,sk SVK,GK,34-342,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,26,40,65.0,0,23,0,0,0,Newcastle United
+15 Players,,,,,990,0,0,0,0,15,2,2,0,730,29,9,12,1.5,1.5,1.3,27,0,501,618,81.1,45,469,16,12,8,Newcastle United

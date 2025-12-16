@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Alexander Isak,14.0,se SWE,"FW,LW",25-074,90,1,1,0,0,2,1,0,0,42,0,0,1,0.1,0.1,0.5,6,1,19,27,70.4,6,29,6,9,5,Newcastle United
+Anthony Gordon,10.0,eng ENG,LW,23-284,86,1,0,0,0,5,2,0,0,49,1,0,1,0.8,0.8,0.5,6,1,22,35,62.9,1,29,6,9,3,Newcastle United
+Callum Wilson,9.0,eng ENG,FW,32-281,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,1,0,0,0,,0,1,0,1,0,Newcastle United
+Jacob Murphy,23.0,eng ENG,RW,29-284,73,0,0,0,0,3,0,0,0,27,0,1,1,0.4,0.4,0.1,1,0,9,16,56.3,0,15,3,1,0,Newcastle United
+Harvey Barnes,11.0,eng ENG,RW,26-361,17,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,3,1,5,6,83.3,0,5,0,0,0,Newcastle United
+Joelinton,7.0,br BRA,LM,28-112,86,0,0,0,0,3,0,0,0,45,1,1,1,0.1,0.1,0.0,0,0,31,35,88.6,5,27,2,2,1,Newcastle United
+Joe Willock,28.0,eng ENG,LM,25-106,4,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Newcastle United
+Bruno Guimarães,39.0,br BRA,CM,27-018,90,0,2,0,0,1,1,0,0,39,4,0,0,0.2,0.2,0.4,4,2,23,27,85.2,4,27,0,4,0,Newcastle United
+Sandro Tonali,8.0,it ITA,RM,24-210,86,0,0,0,0,1,1,1,0,49,1,1,1,0.1,0.1,0.0,2,0,33,42,78.6,0,22,0,1,1,Newcastle United
+Sean Longstaff,36.0,eng ENG,RM,27-035,4,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Newcastle United
+Lewis Hall,20.0,eng ENG,LB,20-087,90,0,0,0,0,1,0,0,0,63,1,1,2,0.0,0.0,0.1,2,0,39,53,73.6,4,22,1,1,0,Newcastle United
+Dan Burn,33.0,eng ENG,CB,32-209,90,0,0,0,0,0,0,0,0,42,1,0,3,0.0,0.0,0.0,0,0,28,34,82.4,0,21,0,0,0,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,32-350,90,1,0,0,0,1,1,0,0,58,1,1,1,0.3,0.3,0.0,2,1,40,53,75.5,2,37,1,2,1,Newcastle United
+Valentino Livramento,21.0,eng ENG,RB,22-022,90,0,0,0,0,0,0,0,0,54,2,0,1,0.0,0.0,0.0,1,0,39,47,83.0,2,29,1,1,1,Newcastle United
+Nick Pope,22.0,eng ENG,GK,32-229,90,0,0,0,0,0,0,1,0,28,0,0,0,0.0,0.0,0.0,0,0,18,25,72.0,0,17,0,0,0,Newcastle United
+15 Players,,,,,990,3,3,0,0,17,6,2,0,510,14,5,12,2.1,2.1,1.6,28,6,307,402,76.4,24,282,20,31,12,Newcastle United

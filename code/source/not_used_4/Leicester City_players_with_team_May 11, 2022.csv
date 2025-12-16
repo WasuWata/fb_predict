@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Teemu Pukki,22.0,fi FIN,FW,32-043,90,0,0,0,0,2,1,0,0,34,0,0,0,0.5,0.5,0.0,2,0,17,22,77.3,1,24,2,2,1,Leicester City
+Milot Rashica,17.0,xk KVX,LM,25-317,66,0,0,0,0,0,0,0,0,29,1,0,3,0.0,0.0,0.2,1,0,13,16,81.3,1,20,2,1,0,Leicester City
+Jonathan Rowe,46.0,eng ENG,LM,19-011,24,0,0,0,0,0,0,0,0,6,1,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,5,0,1,0,Leicester City
+Billy Gilmour,8.0,sct SCO,CM,20-334,90,0,0,0,0,3,1,0,0,62,3,0,1,0.2,0.2,0.0,2,0,43,50,86.0,5,43,2,2,0,Leicester City
+Lukas Rupp,7.0,de GER,CM,31-123,57,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,1,0,14,19,73.7,2,21,1,5,3,Leicester City
+Jakob Sørensen,19.0,dk DEN,"DM,CM",24-069,33,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,8,0,1,0,Leicester City
+Tony Springett,45.0,ie IRL,RM,19-231,66,0,0,0,0,1,1,0,0,30,2,0,0,0.2,0.2,0.5,3,0,12,19,63.2,2,20,5,2,1,Leicester City
+Przemysław Płacheta,11.0,pl POL,RM,24-049,24,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,5,1,1,1,Leicester City
+Pierre Lees-Melou,20.0,fr FRA,"DM,CM",28-351,90,0,0,0,0,0,0,0,0,49,2,2,3,0.0,0.0,0.0,0,0,38,41,92.7,3,30,1,0,0,Leicester City
+Dimitris Giannoulis,30.0,gr GRE,LB,26-206,90,0,0,0,0,1,1,0,0,79,5,2,1,0.1,0.1,0.0,1,0,49,57,86.0,3,47,4,4,1,Leicester City
+Sam Byram,3.0,eng ENG,CB,28-237,90,0,0,0,0,1,0,0,0,47,0,0,0,0.1,0.1,0.0,0,0,31,34,91.2,1,31,0,0,0,Leicester City
+Grant Hanley,5.0,sct SCO,CB,30-172,90,0,0,0,0,1,1,0,0,44,1,0,4,0.0,0.0,0.1,1,0,23,27,85.2,1,20,0,0,0,Leicester City
+Max Aarons,2.0,eng ENG,RB,22-127,90,0,0,0,0,0,0,0,0,61,3,1,1,0.0,0.0,0.1,3,0,38,46,82.6,2,33,0,3,1,Leicester City
+Angus Gunn,28.0,sct SCO,GK,26-109,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,21,37,56.8,0,22,0,0,0,Leicester City
+14 Players,,,,,990,0,0,0,0,9,5,0,0,527,19,5,14,1.1,1.1,1.0,14,0,310,384,80.7,22,329,18,22,8,Leicester City

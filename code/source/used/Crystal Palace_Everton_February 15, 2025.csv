@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jean-Philippe Mateta,14.0,fr FRA,FW,27-232,90,1,0,0,0,2,2,0,0,23,0,0,2,0.7,0.7,0.2,3,0,10,17,58.8,3,14,1,4,3,Crystal Palace
+Justin Devenny,55.0,nir NIR,AM,21-127,45,0,0,0,0,1,1,0,0,26,0,0,0,0.0,0.0,0.0,0,0,14,20,70.0,1,12,0,2,1,Crystal Palace
+Eberechi Eze,10.0,eng ENG,"AM,LW",26-231,45,0,0,0,0,4,0,0,0,33,0,0,1,0.2,0.2,0.2,4,0,19,24,79.2,2,16,2,2,1,Crystal Palace
+Ismaila Sarr,7.0,sn SEN,"AM,RW",26-356,90,0,0,0,0,2,0,0,0,38,0,0,0,0.2,0.2,0.1,5,0,25,32,78.1,4,20,0,3,2,Crystal Palace
+Jefferson Lerma,8.0,co COL,CM,30-113,45,0,0,0,0,0,0,0,0,47,2,1,0,0.0,0.0,0.0,2,0,30,39,76.9,5,17,1,1,1,Crystal Palace
+Adam Wharton,20.0,eng ENG,"CM,DM",21-009,45,0,0,0,0,0,0,0,0,43,0,0,2,0.0,0.0,0.1,5,0,31,40,77.5,9,19,1,0,0,Crystal Palace
+Will Hughes,19.0,eng ENG,CM,29-304,85,0,0,0,0,1,0,0,0,72,3,2,6,0.0,0.0,0.1,2,0,40,54,74.1,0,33,1,0,0,Crystal Palace
+Daichi Kamada,18.0,jp JPN,DM,28-194,5,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.1,1,0,14,16,87.5,1,10,0,0,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,WB,25-167,59,0,0,0,0,0,0,0,0,36,0,1,0,0.0,0.0,0.0,0,0,19,31,61.3,2,15,0,0,0,Crystal Palace
+Ben Chilwell,25.0,eng ENG,"WB,LB",28-056,31,0,0,0,0,1,1,0,0,33,1,0,0,0.0,0.0,0.0,1,0,15,23,65.2,1,13,0,2,0,Crystal Palace
+Daniel Muñoz,12.0,co COL,"WB,RB",28-265,90,0,0,0,0,1,1,0,0,69,2,0,0,0.1,0.1,0.0,3,0,44,57,77.2,3,28,2,1,1,Crystal Palace
+Marc Guéhi,6.0,eng ENG,CB,24-217,90,0,1,0,0,1,1,0,0,88,4,1,0,0.1,0.1,0.5,3,1,63,80,78.8,10,39,2,1,1,Crystal Palace
+Maxence Lacroix,5.0,fr FRA,CB,24-315,85,0,0,0,0,2,0,0,0,62,1,2,0,0.1,0.1,0.1,1,0,37,47,78.7,2,31,1,0,0,Crystal Palace
+Eddie Nketiah,9.0,eng ENG,AM,25-261,5,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,3,5,60.0,0,3,0,0,0,Crystal Palace
+Chris Richards,26.0,us USA,CB,24-324,90,0,0,0,0,1,0,0,0,72,3,0,1,0.1,0.1,0.0,2,1,43,55,78.2,3,32,0,1,0,Crystal Palace
+Dean Henderson,1.0,eng ENG,GK,27-340,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,20,28,71.4,0,16,0,0,0,Crystal Palace
+16 Players,,,,,990,1,1,0,0,17,6,0,0,697,17,7,12,1.7,1.7,1.4,32,2,427,568,75.2,46,318,11,17,10,Crystal Palace
+Beto,14.0,gw GNB,FW,27-015,90,1,0,0,0,3,2,0,0,48,0,1,0,0.5,0.5,0.1,3,0,16,29,55.2,2,20,1,6,3,Everton
+Jack Harrison,11.0,eng ENG,LW,28-087,90,0,0,0,0,0,0,0,0,37,1,0,1,0.0,0.0,0.0,3,0,14,24,58.3,2,20,2,8,4,Everton
+Jesper Lindstrøm,29.0,dk DEN,RW,24-352,78,0,0,0,0,1,1,0,0,35,3,1,1,0.1,0.1,0.3,2,0,16,22,72.7,0,14,2,3,1,Everton
+Ashley Young,18.0,eng ENG,RW,39-221,12,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,1,1,2,4,50.0,0,1,1,1,0,Everton
+Carlos Alcaraz,24.0,ar ARG,AM,22-077,85,1,1,0,0,5,3,0,0,36,1,0,0,0.2,0.2,0.3,4,1,20,24,83.3,3,23,3,1,0,Everton
+Tim Iroegbunam,42.0,eng ENG,AM,21-230,5,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,3,5,60.0,0,2,0,1,1,Everton
+Idrissa Gana Gueye,27.0,sn SEN,DM,35-142,90,0,0,0,0,1,0,0,0,46,6,1,1,0.0,0.0,0.0,1,0,30,38,78.9,5,16,0,0,0,Everton
+James Garner,37.0,eng ENG,DM,23-339,90,0,0,0,0,0,0,1,0,59,3,1,2,0.0,0.0,0.1,3,0,30,47,63.8,3,23,0,0,0,Everton
+Vitaliy Mykolenko,19.0,ua UKR,LB,25-262,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,0,0,21,35,60.0,4,21,0,0,0,Everton
+Jarrad Branthwaite,32.0,eng ENG,CB,22-233,90,0,0,0,0,0,0,0,0,59,1,2,3,0.0,0.0,0.0,0,0,30,38,78.9,2,27,0,0,0,Everton
+James Tarkowski,6.0,eng ENG,CB,32-088,90,0,0,0,0,0,0,0,0,67,3,5,3,0.0,0.0,0.0,0,0,35,45,77.8,2,25,0,0,0,Everton
+Jake O'Brien,15.0,ie IRL,RB,23-276,90,0,0,0,0,0,0,0,0,61,0,0,0,0.0,0.0,0.0,1,0,34,51,66.7,4,21,1,0,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,30-345,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,35,49,71.4,0,37,0,0,0,Everton
+13 Players,,,,,990,2,1,0,0,11,6,1,0,554,20,11,12,1.0,1.0,0.8,18,2,286,411,69.6,27,250,10,20,9,Everton

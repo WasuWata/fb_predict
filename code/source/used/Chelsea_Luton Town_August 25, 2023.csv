@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Nicolas Jackson,15.0,sn SEN,FW,22-066,82,1,0,0,0,5,3,0,0,41,1,1,1,0.7,0.7,0.3,7,0,20,23,87.0,2,26,5,2,2,Chelsea
+Lesley Ugochukwu,16.0,fr FRA,CM,19-152,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,3,1,0,0,Chelsea
+Enzo Fernández,8.0,ar ARG,"CM,AM",22-220,90,0,0,0,0,4,0,1,0,78,0,0,1,0.4,0.4,0.1,8,1,61,69,88.4,12,41,6,2,0,Chelsea
+Raheem Sterling,7.0,eng ENG,"AM,RM,FW",28-260,89,2,0,0,0,5,3,0,0,51,0,0,0,0.9,0.9,0.3,6,1,32,37,86.5,3,40,5,5,2,Chelsea
+Mason Burstow,37.0,eng ENG,FW,20-021,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Chelsea
+Moisés Caicedo,25.0,ec ECU,"DM,CM",21-296,90,0,0,0,0,0,0,0,0,70,2,1,3,0.0,0.0,0.0,1,1,60,62,96.8,5,40,0,0,0,Chelsea
+Conor Gallagher,23.0,eng ENG,"CM,RM",23-200,90,0,0,0,0,1,1,0,0,76,3,3,1,0.1,0.1,0.2,3,0,60,63,95.2,5,44,2,2,1,Chelsea
+Ben Chilwell,21.0,eng ENG,"WB,LM",26-247,85,0,0,0,0,1,0,0,0,38,1,1,0,0.1,0.1,0.3,5,0,21,30,70.0,0,22,1,1,0,Chelsea
+Ian Maatsen,29.0,nl NED,LM,21-168,5,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Chelsea
+Malo Gusto,27.0,fr FRA,"RB,WB",20-098,90,0,2,0,0,1,0,0,0,84,1,1,1,0.0,0.0,0.4,2,2,70,77,90.9,5,56,4,2,2,Chelsea
+Levi Colwill,26.0,eng ENG,"LB,CB",20-180,90,0,0,0,0,1,0,0,0,85,1,0,2,0.1,0.1,0.0,2,0,67,75,89.3,4,50,0,0,0,Chelsea
+Thiago Silva,6.0,br BRA,CB,38-337,90,0,0,0,0,0,0,0,0,109,0,1,2,0.0,0.0,0.0,1,1,97,102,95.1,3,74,0,0,0,Chelsea
+Axel Disasi,2.0,fr FRA,CB,25-167,90,0,0,0,0,1,1,0,0,106,1,1,1,0.1,0.1,0.0,0,0,87,96,90.6,3,69,0,0,0,Chelsea
+Robert Sánchez,1.0,es ESP,GK,25-280,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,38,41,92.7,0,20,0,0,0,Chelsea
+14 Players,,,,,990,3,2,0,0,19,8,2,0,789,10,9,12,2.3,2.3,1.6,35,6,621,684,90.8,42,488,24,14,7,Chelsea
+Carlton Morris,9.0,eng ENG,FW,27-252,90,0,0,0,0,3,0,0,0,27,0,0,0,0.2,0.2,0.0,3,0,12,17,70.6,5,14,1,2,1,Luton Town
+Elijah Adebayo,11.0,eng ENG,FW,25-230,69,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.1,1,0,13,15,86.7,1,12,0,2,1,Luton Town
+Jacob Brown,19.0,sct SCO,"RW,FW",25-137,21,0,0,0,0,2,0,1,0,7,0,0,0,0.1,0.1,0.0,1,0,2,4,50.0,0,5,1,1,0,Luton Town
+Ross Barkley,6.0,eng ENG,CM,29-263,76,0,0,0,0,2,0,0,0,35,0,1,0,0.1,0.1,0.0,1,0,25,29,86.2,3,21,0,0,0,Luton Town
+Pelly Ruddock Mpanzu,17.0,cd COD,CM,30-039,14,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,2,0,2,2,100.0,1,3,0,1,1,Luton Town
+Marvelous Nakamba,13.0,zw ZIM,CM,29-218,90,0,0,0,0,0,0,1,0,42,3,1,0,0.0,0.0,0.0,3,0,33,37,89.2,3,26,0,0,0,Luton Town
+Tahith Chong,14.0,cw CUW,CM,23-264,76,0,0,0,0,1,0,0,0,27,4,1,0,0.0,0.0,0.0,2,0,18,20,90.0,1,19,2,2,1,Luton Town
+Chiedozie Ogbene,7.0,ie IRL,LW,26-116,14,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,4,1,0,0,Luton Town
+Ryan Giles,26.0,eng ENG,"LB,LM",23-211,90,0,0,0,0,1,1,0,0,44,1,0,0,0.1,0.1,0.0,2,0,30,40,75.0,3,24,0,0,0,Luton Town
+Amari'i Bell,29.0,jm JAM,CB,29-112,90,0,0,0,0,0,0,0,0,63,7,0,1,0.0,0.0,0.0,0,0,37,49,75.5,4,43,0,0,0,Luton Town
+Tom Lockyer,4.0,wls WAL,CB,28-265,90,0,0,0,0,0,0,1,0,39,1,0,3,0.0,0.0,0.0,1,0,18,27,66.7,3,21,0,0,0,Luton Town
+Reece Burke,16.0,eng ENG,CB,26-357,76,0,0,0,0,0,0,0,0,32,1,0,1,0.0,0.0,0.0,1,0,20,25,80.0,3,18,0,0,0,Luton Town
+Mads Juel Andersen,5.0,dk DEN,CB,25-241,14,0,0,0,0,0,0,0,0,9,0,1,1,0.0,0.0,0.0,0,0,5,7,71.4,1,4,0,0,0,Luton Town
+Issa Kaboré,12.0,bf BFA,RB,22-105,69,0,0,0,0,1,0,0,0,29,0,0,0,0.0,0.0,0.0,2,0,16,20,80.0,2,19,3,4,3,Luton Town
+Alfie Doughty,45.0,eng ENG,"RM,RB",23-247,21,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,1,0,7,10,70.0,0,6,0,0,0,Luton Town
+Thomas Kaminski,24.0,be BEL,GK,30-306,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,18,34,52.9,0,20,0,0,0,Luton Town
+16 Players,,,,,990,0,0,0,0,11,1,3,0,427,18,5,7,0.4,0.4,0.2,20,0,256,338,75.7,30,259,8,12,7,Luton Town

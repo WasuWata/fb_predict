@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Solanke,9.0,eng ENG,FW,25-164,90,0,0,0,0,3,0,0,0,32,0,0,2,0.4,0.4,0.0,4,0,10,15,66.7,1,24,1,6,1,Bournemouth
+Hamed Junior Traorè,22.0,ci CIV,LM,23-009,75,0,0,0,0,1,0,0,0,46,5,0,3,0.1,0.1,0.2,5,0,24,36,66.7,2,24,4,5,4,Bournemouth
+Jaidon Anthony,32.0,eng ENG,LM,23-086,15,0,0,0,0,1,0,0,0,12,0,1,0,0.0,0.0,0.0,2,1,7,8,87.5,1,7,3,1,1,Bournemouth
+Philip Billing,29.0,dk DEN,CM,26-259,58,0,0,0,0,1,1,0,0,31,1,0,2,0.0,0.0,0.0,1,0,23,26,88.5,2,10,1,0,0,Bournemouth
+Joe Rothwell,14.0,eng ENG,CM,28-045,32,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,17,17,100.0,2,11,2,1,0,Bournemouth
+Jefferson Lerma,8.0,co COL,CM,28-123,90,1,0,0,0,4,1,0,0,61,1,1,1,0.2,0.2,0.0,0,0,47,54,87.0,8,33,0,0,0,Bournemouth
+Dango Ouattara,11.0,bf BFA,RM,21-014,90,0,0,0,0,1,0,1,0,43,1,0,4,0.0,0.0,0.1,1,0,21,27,77.8,2,27,2,8,2,Bournemouth
+Jordan Zemura,33.0,zw ZIM,LB,23-103,90,0,0,0,0,0,0,0,0,53,0,2,3,0.0,0.0,0.0,5,1,33,42,78.6,7,22,3,5,3,Bournemouth
+Marcos Senesi,25.0,ar ARG,CB,25-291,90,0,0,0,0,1,0,0,0,60,1,1,3,0.1,0.1,0.0,0,0,40,48,83.3,3,26,1,0,0,Bournemouth
+Jack Stephens,3.0,eng ENG,CB,29-029,90,0,0,0,0,0,0,0,0,54,0,1,6,0.0,0.0,0.1,1,0,37,43,86.0,1,25,0,0,0,Bournemouth
+Chris Mepham,6.0,wls WAL,CB,25-112,90,0,0,0,0,0,0,1,0,54,4,4,1,0.0,0.0,0.0,0,0,33,39,84.6,1,19,0,0,0,Bournemouth
+Adam Smith,15.0,eng ENG,RB,31-302,58,0,0,0,0,1,0,0,0,27,0,0,1,0.1,0.1,0.0,2,0,17,20,85.0,2,12,1,2,1,Bournemouth
+Ryan Fredericks,2.0,eng ENG,RB,30-138,32,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,4,7,57.1,1,6,1,2,0,Bournemouth
+Neto,13.0,br BRA,GK,33-221,90,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,0,0,24,32,75.0,0,12,0,0,0,Bournemouth
+14 Players,,,,,990,1,0,0,0,13,2,2,0,533,15,10,26,1.0,1.0,0.4,21,2,337,414,81.4,33,258,19,30,12,Bournemouth
+Erling Haaland,9.0,no NOR,FW,22-219,71,1,0,0,0,3,1,0,0,30,0,0,2,0.5,0.5,0.0,4,1,15,20,75.0,2,13,3,0,0,Manchester City
+Máximo Perrone,32.0,ar ARG,CM,20-049,19,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.0,1,0,18,21,85.7,2,8,0,0,0,Manchester City
+Jack Grealish,10.0,eng ENG,LW,27-168,71,0,0,0,0,1,0,0,0,47,3,1,1,0.0,0.0,0.0,0,0,29,37,78.4,4,30,2,6,2,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,32-004,19,0,0,0,0,1,0,0,0,19,1,1,1,0.1,0.1,0.1,2,0,11,14,78.6,0,10,1,1,1,Manchester City
+Phil Foden,47.0,eng ENG,"RW,LW",22-273,90,1,1,0,0,2,1,0,0,82,1,0,1,0.5,0.5,0.8,11,2,58,70,82.9,4,49,2,6,2,Manchester City
+İlkay Gündoğan,8.0,de GER,CM,32-124,54,0,0,0,0,0,0,0,0,41,1,0,0,0.0,0.0,0.0,3,1,27,37,73.0,3,24,2,0,0,Manchester City
+Sergio Gómez,21.0,es ESP,CM,22-174,36,0,0,0,0,2,0,0,0,37,3,0,0,0.1,0.1,0.0,0,0,30,32,93.8,3,24,1,1,0,Manchester City
+Julián Álvarez,19.0,ar ARG,"CM,FW",23-025,90,1,0,0,0,4,2,0,0,41,2,0,2,0.9,0.9,0.0,5,0,22,33,66.7,3,24,2,2,2,Manchester City
+Rodri,16.0,es ESP,DM,26-248,54,0,0,0,0,1,0,0,0,71,1,0,2,0.0,0.0,0.0,1,0,65,66,98.5,4,46,1,0,0,Manchester City
+Kalvin Phillips,4.0,eng ENG,DM,27-085,36,0,0,0,0,1,0,1,0,47,2,1,1,0.1,0.1,0.0,0,0,38,39,97.4,1,24,0,0,0,Manchester City
+Rico Lewis,82.0,eng ENG,DM,18-096,90,0,0,0,0,2,0,0,0,89,3,1,2,0.1,0.1,0.0,6,0,71,77,92.2,10,57,1,1,0,Manchester City
+Nathan Aké,6.0,nl NED,LB,28-007,79,0,0,0,0,2,1,0,0,75,3,1,0,0.1,0.1,0.0,1,0,59,67,88.1,8,38,2,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,32-273,11,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,8,0,0,0,Manchester City
+Rúben Dias,3.0,pt POR,"CB,LB",25-287,90,0,0,0,0,1,0,0,0,146,4,1,1,0.1,0.1,0.0,1,0,119,127,93.7,10,100,1,1,1,Manchester City
+Manuel Akanji,25.0,ch SUI,"RB,CB",27-221,90,0,0,0,0,0,0,1,0,106,2,0,0,0.0,0.0,0.0,0,0,94,101,93.1,6,62,0,0,0,Manchester City
+Ederson,31.0,br BRA,GK,29-192,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,31,33,93.9,0,21,0,0,0,Manchester City
+16 Players,,,,,990,3,1,0,0,20,5,2,0,901,26,6,14,2.5,2.5,1.0,35,4,698,786,88.8,60,538,18,18,8,Manchester City

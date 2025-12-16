@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Luis Díaz,7.0,co COL,"FW,CM",28-132,68,0,0,0,0,3,1,0,0,33,4,0,0,0.7,0.7,0.0,0,0,16,18,88.9,2,18,0,2,2,Liverpool
+Wataru Endo,3.0,jp JPN,CB,32-105,22,0,0,0,0,0,0,0,0,31,1,3,1,0.0,0.0,0.0,0,0,26,26,100.0,4,17,0,0,0,Liverpool
+Cody Gakpo,18.0,nl NED,"LW,LM",26-018,90,0,1,0,0,2,0,0,0,44,1,0,0,0.1,0.1,0.4,4,1,22,30,73.3,0,32,3,4,1,Liverpool
+Mohamed Salah,11.0,eg EGY,"RW,RM",32-344,90,1,0,0,0,3,1,0,0,58,0,1,1,0.4,0.4,0.5,5,0,27,47,57.4,4,28,1,3,1,Liverpool
+Dominik Szoboszlai,8.0,hu HUN,AM,24-212,60,0,0,0,0,1,0,0,0,45,1,0,2,0.0,0.0,0.1,2,0,32,41,78.0,7,18,1,0,0,Liverpool
+Darwin Núñez,9.0,uy URU,FW,25-335,30,0,0,0,0,1,1,0,0,9,1,1,0,0.5,0.5,0.0,1,0,5,5,100.0,0,5,0,0,0,Liverpool
+Curtis Jones,17.0,eng ENG,"DM,CM,LB",24-115,90,0,0,0,0,1,0,0,0,79,2,0,2,0.0,0.0,0.0,3,0,61,65,93.8,13,48,2,1,0,Liverpool
+Ryan Gravenberch,38.0,nl NED,"DM,CB",23-009,67,0,0,0,0,0,0,1,1,52,2,1,0,0.0,0.0,0.2,2,0,37,39,94.9,7,32,3,1,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,31-075,84,0,0,0,0,0,0,0,0,78,0,0,0,0.0,0.0,0.0,2,0,64,78,82.1,9,49,2,0,0,Liverpool
+Harvey Elliott,19.0,eng ENG,CM,22-051,6,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,6,0,0,0,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,33-321,90,0,0,0,0,0,0,1,0,120,3,2,0,0.0,0.0,0.0,0,0,101,110,91.8,16,77,4,0,0,Liverpool
+Ibrahima Konaté,5.0,fr FRA,CB,26-000,60,0,0,0,0,0,0,0,0,75,2,3,0,0.0,0.0,0.0,0,0,57,67,85.1,6,50,4,1,1,Liverpool
+Diogo Jota,20.0,pt POR,CM,28-172,30,0,0,0,0,2,0,0,0,23,0,1,0,0.3,0.3,0.0,2,0,9,14,64.3,1,11,0,1,0,Liverpool
+Conor Bradley,84.0,nir NIR,RB,21-320,45,0,0,0,0,0,0,0,0,55,1,0,1,0.0,0.0,0.0,0,0,42,49,85.7,5,36,3,1,0,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,26-230,45,0,0,0,0,1,0,0,0,59,1,0,0,0.0,0.0,0.6,3,0,37,56,66.1,4,32,1,2,1,Liverpool
+Alisson,1.0,br BRA,GK,32-235,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,1,0,38,41,92.7,0,28,0,0,0,Liverpool
+16 Players,,,,,967,1,1,0,0,14,3,2,1,813,19,12,7,2.1,2.1,2.0,25,1,580,695,83.5,78,487,24,16,6,Liverpool
+Jean-Philippe Mateta,14.0,fr FRA,FW,27-331,61,0,0,0,0,2,1,0,0,13,1,0,0,0.7,0.7,0.0,0,0,5,7,71.4,1,11,2,0,0,Crystal Palace
+Eddie Nketiah,9.0,eng ENG,FW,25-360,29,0,0,0,0,1,1,0,0,6,0,0,0,0.2,0.2,0.0,0,0,1,3,33.3,0,3,0,1,0,Crystal Palace
+Eberechi Eze,10.0,eng ENG,AM,26-330,61,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.6,2,0,16,24,66.7,1,17,0,4,3,Crystal Palace
+Justin Devenny,55.0,nir NIR,"CM,AM",21-226,29,0,0,0,0,1,1,0,0,16,3,0,0,0.1,0.1,0.0,0,0,9,12,75.0,2,9,0,0,0,Crystal Palace
+Ismaila Sarr,7.0,sn SEN,AM,27-089,90,1,0,0,0,2,2,0,0,33,1,0,0,0.7,0.7,0.2,2,0,12,19,63.2,2,23,4,4,0,Crystal Palace
+Daichi Kamada,18.0,jp JPN,CM,28-293,90,0,0,0,0,0,0,0,0,51,1,2,0,0.0,0.0,0.0,2,0,35,44,79.5,4,34,1,2,1,Crystal Palace
+Will Hughes,19.0,eng ENG,CM,30-038,78,0,0,0,0,1,0,0,0,39,3,0,0,0.0,0.0,0.0,1,0,20,26,76.9,1,22,1,1,1,Crystal Palace
+Romain Esse,21.0,eng ENG,AM,20-012,11,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,2,1,Crystal Palace
+Matheus França,11.0,br BRA,AM,21-054,1,0,0,0,0,1,0,0,0,2,0,0,0,0.1,0.1,0.0,1,0,1,1,100.0,1,1,0,0,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,WB,25-266,90,0,1,0,0,0,0,0,0,62,3,5,5,0.0,0.0,0.5,1,1,28,39,71.8,4,33,6,4,2,Crystal Palace
+Daniel Muñoz,12.0,co COL,WB,28-364,90,0,0,0,0,0,0,0,0,40,3,2,1,0.0,0.0,0.0,0,0,22,29,75.9,1,22,2,1,0,Crystal Palace
+Jefferson Lerma,8.0,co COL,CB,30-212,90,0,0,0,0,0,0,0,0,50,1,5,1,0.0,0.0,0.0,0,0,21,28,75.0,1,17,0,0,0,Crystal Palace
+Maxence Lacroix,5.0,fr FRA,CB,25-049,90,0,0,0,0,0,0,0,0,42,1,1,4,0.0,0.0,0.2,1,0,17,24,70.8,0,17,0,0,0,Crystal Palace
+Chris Richards,26.0,us USA,CB,25-058,90,0,0,0,0,0,0,0,0,29,1,0,1,0.0,0.0,0.0,1,0,13,17,76.5,1,9,0,0,0,Crystal Palace
+Dean Henderson,1.0,eng ENG,GK,28-074,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.1,1,0,19,40,47.5,0,22,0,0,0,Crystal Palace
+15 Players,,,,,990,1,1,0,0,8,5,0,0,461,18,15,12,1.8,1.8,1.7,12,1,224,319,70.2,19,246,16,19,8,Crystal Palace

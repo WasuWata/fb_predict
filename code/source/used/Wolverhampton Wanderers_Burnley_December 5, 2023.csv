@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Matheus Cunha,12.0,br BRA,FW,24-192,86,0,1,0,0,1,1,0,0,33,0,0,2,0.0,0.0,0.2,3,1,18,22,81.8,1,17,1,4,1,Wolverhampton Wanderers
+Boubacar Traoré,6.0,ml MLI,FW,22-107,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Wolverhampton Wanderers
+Pablo Sarabia,21.0,es ESP,LW,31-208,78,0,0,0,0,3,2,0,0,55,2,0,1,0.2,0.2,0.4,6,1,30,40,75.0,6,34,2,4,1,Wolverhampton Wanderers
+Jean-Ricner Bellegarde,27.0,ht HAI,LW,25-161,12,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,5,2,2,1,Wolverhampton Wanderers
+Hwang Hee-chan,11.0,kr KOR,RW,27-313,90,1,0,0,0,2,1,0,0,44,1,1,3,0.3,0.3,0.0,1,0,17,27,63.0,1,19,3,2,0,Wolverhampton Wanderers
+Hugo Bueno,17.0,es ESP,LM,21-078,89,0,0,0,0,0,0,0,0,48,3,0,2,0.0,0.0,0.0,1,0,25,33,75.8,0,23,2,5,2,Wolverhampton Wanderers
+Matt Doherty,2.0,ie IRL,LM,31-323,1,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,0,0,0,0,Wolverhampton Wanderers
+João Gomes,8.0,br BRA,CM,22-296,90,0,0,0,0,0,0,0,0,45,3,0,1,0.0,0.0,0.0,1,0,30,37,81.1,5,15,1,0,0,Wolverhampton Wanderers
+Mario Lemina,5.0,ga GAB,CM,30-095,90,0,0,0,0,1,0,1,0,45,2,0,2,0.3,0.3,0.0,0,0,28,32,87.5,2,24,1,2,0,Wolverhampton Wanderers
+Nélson Semedo,22.0,pt POR,RM,30-019,90,0,0,0,0,0,0,0,0,65,2,2,2,0.0,0.0,0.1,2,0,40,51,78.4,1,23,3,2,1,Wolverhampton Wanderers
+Toti Gomes,24.0,pt POR,CB,24-323,90,0,0,0,0,0,0,0,0,88,1,1,0,0.0,0.0,0.0,0,0,67,77,87.0,6,50,0,0,0,Wolverhampton Wanderers
+Craig Dawson,15.0,eng ENG,CB,33-213,90,0,0,0,0,0,0,0,0,86,1,0,0,0.0,0.0,0.0,0,0,65,75,86.7,3,47,0,0,0,Wolverhampton Wanderers
+Max Kilman,23.0,eng ENG,CB,26-196,90,0,0,0,0,0,0,1,0,75,2,1,0,0.0,0.0,0.0,0,0,50,67,74.6,2,42,0,2,1,Wolverhampton Wanderers
+Daniel Bentley,25.0,eng ENG,GK,30-145,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,16,28,57.1,0,9,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,990,1,1,0,0,7,4,2,0,632,17,5,13,0.8,0.8,0.8,14,2,393,501,78.4,28,309,15,23,7,Wolverhampton Wanderers
+Zeki Amdouni,25.0,ch SUI,FW,23-001,90,0,0,0,0,2,1,0,0,37,1,0,0,0.1,0.1,0.0,3,0,19,23,82.6,1,20,3,1,0,Burnley
+Jay Rodriguez,9.0,eng ENG,FW,34-129,90,0,0,0,0,1,1,0,0,26,2,0,0,0.4,0.4,0.0,1,0,9,18,50.0,0,10,0,0,0,Burnley
+Luca Koleosho,30.0,it ITA,LM,19-081,35,0,0,0,0,1,0,0,0,16,1,0,2,0.1,0.1,0.0,1,0,7,9,77.8,2,7,4,3,2,Burnley
+Jóhann Berg Guðmundsson,7.0,is ISL,"RM,RB",33-039,55,0,0,0,0,0,0,0,0,31,0,0,2,0.0,0.0,0.4,2,0,20,27,74.1,1,12,1,0,0,Burnley
+Josh Brownhill,8.0,eng ENG,CM,27-351,90,0,0,0,0,2,1,1,0,61,0,4,3,0.1,0.1,0.0,3,0,43,52,82.7,3,17,1,0,0,Burnley
+Sander Berge,16.0,no NOR,"CM,CB",25-294,90,0,0,0,0,0,0,1,0,55,2,1,1,0.0,0.0,0.0,4,0,37,44,84.1,2,29,4,1,0,Burnley
+Jacob Bruun Larsen,34.0,dk DEN,"RM,LM",25-077,69,0,0,0,0,2,0,0,0,30,1,0,0,0.1,0.1,0.1,2,0,11,17,64.7,1,14,1,3,1,Burnley
+Mike Trésor,31.0,be BEL,LM,24-191,21,0,0,0,0,1,0,0,0,19,3,0,0,0.1,0.1,0.0,0,0,9,14,64.3,0,4,1,0,0,Burnley
+Charlie Taylor,3.0,eng ENG,LB,30-078,90,0,0,0,0,1,0,1,0,71,3,1,0,0.0,0.0,0.1,1,0,50,63,79.4,6,23,0,1,1,Burnley
+Hjalmar Ekdal,18.0,se SWE,CB,25-045,89,0,0,0,0,0,0,1,0,64,0,2,1,0.0,0.0,0.1,1,0,54,60,90.0,2,35,1,0,0,Burnley
+Nathan Redmond,15.0,eng ENG,"RM,CB",29-274,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,1,0,0,0,Burnley
+Dara O'Shea,2.0,ie IRL,CB,24-276,90,0,0,0,0,0,0,0,0,75,2,1,0,0.0,0.0,0.0,0,0,45,65,69.2,4,31,1,0,0,Burnley
+Vitinho,22.0,br BRA,RB,24-135,89,0,0,0,0,2,0,0,0,50,4,1,1,0.1,0.1,0.0,1,0,26,37,70.3,3,16,1,4,1,Burnley
+Wilson Odobert,47.0,fr FRA,CM,19-007,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Burnley
+James Trafford,1.0,eng ENG,GK,21-056,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,28,46,60.9,0,25,0,0,0,Burnley
+15 Players,,,,,990,0,0,0,0,12,3,4,0,590,19,10,10,0.9,0.9,0.7,19,0,362,481,75.3,26,245,18,13,5,Burnley

@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Cristiano Ronaldo,7.0,pt POR,FW,37-063,90,0,0,0,0,2,1,1,0,38,0,0,0,0.1,0.1,0.0,4,0,24,30,80.0,2,26,2,1,1,Manchester United
+Marcus Rashford,10.0,eng ENG,LW,24-160,63,0,0,0,0,3,2,0,0,39,0,1,1,0.2,0.2,0.0,0,0,20,25,80.0,3,19,0,3,0,Manchester United
+Anthony Elanga,36.0,se SWE,LW,19-347,27,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,0,0,6,13,46.2,0,11,1,1,0,Manchester United
+Jadon Sancho,25.0,eng ENG,RW,22-015,90,0,0,0,0,0,0,0,0,58,0,1,1,0.0,0.0,0.3,6,0,48,53,90.6,7,45,9,2,2,Manchester United
+Bruno Fernandes,18.0,pt POR,AM,27-213,90,0,0,0,0,2,0,0,0,98,0,0,1,0.0,0.0,0.1,4,0,72,91,79.1,9,71,3,1,1,Manchester United
+Nemanja Matić,31.0,rs SRB,DM,33-251,63,0,0,0,0,0,0,0,0,78,1,2,2,0.0,0.0,0.0,0,0,54,65,83.1,9,50,1,1,0,Manchester United
+Juan Mata,8.0,es ESP,DM,33-346,27,0,0,0,0,1,0,0,0,30,2,0,0,0.1,0.1,0.0,1,0,21,26,80.8,3,20,0,0,0,Manchester United
+Fred,17.0,br BRA,DM,29-035,35,0,0,0,0,0,0,0,0,33,1,1,1,0.0,0.0,0.0,0,0,20,27,74.1,0,21,0,1,0,Manchester United
+Paul Pogba,6.0,fr FRA,DM,29-025,55,0,0,0,0,1,1,1,0,60,1,0,0,0.0,0.0,0.0,1,0,48,53,90.6,8,50,2,3,2,Manchester United
+Alex Telles,27.0,br BRA,LB,29-115,90,0,0,0,0,0,0,0,0,106,1,0,1,0.0,0.0,0.2,5,0,71,98,72.4,6,76,5,1,1,Manchester United
+Harry Maguire,5.0,eng ENG,CB,29-035,90,0,0,0,0,2,0,0,0,81,2,3,0,0.2,0.2,0.1,2,0,58,66,87.9,4,49,1,0,0,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,27-266,90,0,0,0,0,0,0,0,0,76,0,0,1,0.0,0.0,0.0,0,0,56,69,81.2,2,45,1,0,0,Manchester United
+Aaron Wan-Bissaka,29.0,cd COD,RB,24-134,90,0,0,0,0,1,0,0,0,77,7,4,2,0.2,0.2,0.0,0,0,36,56,64.3,3,41,3,6,3,Manchester United
+David de Gea,1.0,es ESP,GK,31-153,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,26,29,89.7,0,19,0,0,0,Manchester United
+14 Players,,,,,990,0,0,0,0,12,4,2,0,825,15,12,11,0.8,0.8,0.7,23,0,560,701,79.9,56,543,28,20,10,Manchester United

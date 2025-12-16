@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Carlos Vinícius,30.0,br BRA,FW,27-198,90,0,0,0,0,2,0,1,0,29,0,0,0,0.1,0.1,0.1,2,1,8,14,57.1,1,17,0,1,0,Fulham
+Neeskens Kebano,7.0,cd COD,LW,30-213,88,0,1,0,0,0,0,0,0,37,2,0,1,0.0,0.0,0.3,4,1,19,24,79.2,4,24,3,3,1,Fulham
+Shane Duffy,5.0,ie IRL,FW,30-281,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Fulham
+Daniel James,21.0,wls WAL,RW,24-333,76,0,0,0,0,3,0,0,0,33,1,1,0,0.2,0.2,0.0,1,0,19,23,82.6,6,15,2,1,1,Fulham
+Harry Wilson,8.0,wls WAL,"RW,CM",25-201,14,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,8,0,0,0,Fulham
+Andreas Pereira,18.0,br BRA,AM,26-281,76,1,0,0,0,2,2,1,0,43,1,0,0,0.2,0.2,0.0,1,0,23,36,63.9,2,23,0,3,0,Fulham
+Josh Onomah,25.0,eng ENG,"AM,CM",25-165,14,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,5,1,1,0,Fulham
+João Palhinha,26.0,pt POR,"DM,CB",27-092,90,0,0,0,0,0,0,0,0,70,4,0,1,0.0,0.0,0.0,1,0,51,60,85.0,7,40,0,0,0,Fulham
+Harrison Reed,6.0,eng ENG,DM,27-255,70,0,0,0,0,0,0,1,0,50,1,1,0,0.0,0.0,0.0,0,0,35,42,83.3,1,18,0,0,0,Fulham
+Tom Cairney,10.0,sct SCO,"DM,CM",31-262,20,0,0,0,0,1,0,0,0,22,0,0,0,0.1,0.1,0.0,1,0,17,19,89.5,1,18,2,0,0,Fulham
+Antonee Robinson,33.0,us USA,"LB,WB",25-062,90,0,0,0,0,0,0,0,0,82,2,0,4,0.0,0.0,0.0,3,0,46,68,67.6,4,37,5,2,0,Fulham
+Tim Ream,13.0,us USA,CB,35-004,90,0,0,0,0,0,0,0,0,82,1,1,4,0.0,0.0,0.0,1,0,61,70,87.1,5,56,1,1,1,Fulham
+Tosin Adarabioyo,4.0,eng ENG,CB,25-015,90,0,0,0,0,0,0,0,0,74,1,1,1,0.0,0.0,0.0,0,0,57,62,91.9,4,43,2,1,1,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,"RB,WB",29-249,90,0,0,0,0,0,0,0,0,68,2,1,0,0.0,0.0,0.0,0,0,47,60,78.3,3,33,2,0,0,Fulham
+Bernd Leno,17.0,de GER,GK,30-219,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,26,28,92.9,0,17,0,0,0,Fulham
+15 Players,,,,,990,1,1,0,0,8,2,3,0,644,16,5,11,0.7,0.7,0.5,14,2,421,522,80.7,39,354,18,13,4,Fulham

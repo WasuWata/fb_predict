@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Nicolas Jackson,15.0,sn SEN,FW,23-310,89,1,0,0,0,1,1,0,0,36,1,0,1,0.1,0.1,0.0,1,0,24,24,100.0,2,28,2,4,1,Chelsea
+Tyrique George,32.0,eng ENG,FW,19-081,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Chelsea
+Noni Madueke,11.0,eng ENG,"LW,WB",23-047,77,0,0,0,0,4,4,0,0,44,2,0,1,0.3,0.3,0.0,3,0,21,31,67.7,3,28,9,8,4,Chelsea
+Jadon Sancho,19.0,eng ENG,WB,25-032,13,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,1,1,1,Chelsea
+Pedro Neto,7.0,pt POR,"RW,WB",25-048,90,0,0,0,0,0,0,0,0,47,2,0,0,0.0,0.0,0.1,1,0,27,38,71.1,4,23,4,4,3,Chelsea
+Cole Palmer,20.0,eng ENG,AM,22-355,89,0,0,0,0,0,0,0,0,44,1,0,0,0.0,0.0,0.1,3,0,32,38,84.2,3,32,2,3,3,Chelsea
+Kiernan Dewsbury-Hall,22.0,eng ENG,AM,26-232,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Chelsea
+Enzo Fernández,8.0,ar ARG,"DM,AM",24-099,90,0,1,0,0,1,0,0,0,58,2,0,0,0.1,0.1,0.3,2,1,37,49,75.5,3,41,1,3,0,Chelsea
+Roméo Lavia,45.0,be BEL,DM,21-110,66,0,0,0,0,0,0,0,0,43,2,2,0,0.0,0.0,0.1,2,0,33,39,84.6,5,26,0,1,1,Chelsea
+Reece James,24.0,eng ENG,CM,25-139,24,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,11,14,78.6,1,7,0,0,0,Chelsea
+Marc Cucurella,3.0,es ESP,"LB,CB",26-278,90,0,0,0,0,3,2,0,0,96,4,1,1,0.4,0.4,0.1,1,0,75,80,93.8,7,34,0,0,0,Chelsea
+Levi Colwill,6.0,eng ENG,CB,22-059,90,0,0,0,0,0,0,0,0,78,3,0,1,0.0,0.0,0.0,0,0,62,69,89.9,2,43,0,2,1,Chelsea
+Trevoh Chalobah,23.0,eng ENG,CB,25-295,90,0,0,0,0,0,0,0,0,79,2,0,0,0.0,0.0,0.0,2,1,62,69,89.9,5,49,1,0,0,Chelsea
+Moisés Caicedo,25.0,ec ECU,"RB,CM",23-175,90,0,0,0,0,1,0,0,0,77,3,4,0,0.0,0.0,0.0,4,0,56,67,83.6,6,41,1,3,3,Chelsea
+Robert Sánchez,1.0,es ESP,GK,27-159,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,22,32,68.8,0,18,0,0,0,Chelsea
+15 Players,,,,,990,1,1,0,0,10,7,0,0,656,23,7,4,0.9,0.9,0.5,19,2,464,554,83.8,41,372,21,29,17,Chelsea
+Beto,14.0,gw GNB,FW,27-085,63,0,0,0,0,1,1,0,0,18,0,0,1,0.0,0.0,0.0,0,0,4,8,50.0,0,8,0,2,1,Everton
+Youssef Chermiti,17.0,pt POR,FW,20-337,27,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,Everton
+Iliman Ndiaye,10.0,sn SEN,LW,25-051,45,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,8,9,88.9,1,9,1,2,0,Everton
+Carlos Alcaraz,24.0,ar ARG,LW,22-147,45,0,0,0,0,1,0,0,0,26,0,0,1,0.0,0.0,0.2,1,0,16,18,88.9,3,17,3,3,2,Everton
+Jack Harrison,11.0,eng ENG,RW,28-157,62,0,0,0,0,0,0,0,0,26,0,1,0,0.0,0.0,0.0,1,0,11,20,55.0,2,15,2,0,0,Everton
+Dwight McNeil,7.0,eng ENG,RW,25-155,28,0,0,0,0,1,1,0,0,20,0,0,0,0.2,0.2,0.0,1,0,12,17,70.6,0,12,0,0,0,Everton
+Abdoulaye Doucouré,16.0,ml MLI,AM,32-115,90,0,0,0,0,1,0,0,0,35,3,0,1,0.2,0.2,0.0,1,0,19,26,73.1,4,12,2,2,0,Everton
+James Garner,37.0,eng ENG,DM,24-044,90,0,0,0,0,0,0,0,0,69,3,0,0,0.0,0.0,0.0,2,0,49,58,84.5,5,35,1,2,0,Everton
+Idrissa Gana Gueye,27.0,sn SEN,DM,35-212,90,0,0,0,0,1,1,0,0,49,4,1,1,0.0,0.0,0.0,0,0,32,38,84.2,4,25,1,1,0,Everton
+Vitaliy Mykolenko,19.0,ua UKR,LB,25-332,90,0,0,0,0,0,0,0,0,56,0,2,0,0.0,0.0,0.2,2,0,38,49,77.6,3,27,2,2,1,Everton
+Jarrad Branthwaite,32.0,eng ENG,CB,22-303,90,0,0,0,0,0,0,0,0,82,2,0,1,0.0,0.0,0.0,0,0,61,70,87.1,3,42,0,0,0,Everton
+Jake O'Brien,15.0,ie IRL,CB,23-346,90,0,0,0,0,0,0,0,0,59,1,1,1,0.0,0.0,0.0,1,0,51,53,96.2,2,33,0,1,1,Everton
+Nathan Patterson,2.0,sct SCO,RB,23-192,63,0,0,0,0,0,0,0,0,33,4,1,0,0.0,0.0,0.0,1,0,19,24,79.2,2,10,1,0,0,Everton
+Ashley Young,18.0,eng ENG,RB,39-291,27,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,1,0,15,18,83.3,1,12,1,0,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,31-050,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,40,48,83.3,0,39,0,0,0,Everton
+15 Players,,,,,990,0,0,0,0,6,3,0,0,564,17,7,7,0.4,0.4,0.3,11,0,378,460,82.2,30,298,14,15,5,Everton

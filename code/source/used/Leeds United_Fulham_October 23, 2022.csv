@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Rodrigo,19.0,es ESP,FW,31-231,63,1,0,0,0,3,2,0,0,27,1,0,0,0.5,0.5,0.0,1,0,14,19,73.7,1,19,2,0,0,Leeds United
+Patrick Bamford,9.0,eng ENG,FW,29-048,27,0,0,0,0,1,1,0,0,9,0,0,0,0.4,0.4,0.0,1,1,4,6,66.7,0,4,1,0,0,Leeds United
+Luis Sinisterra,23.0,co COL,LW,23-128,63,0,0,0,0,0,0,0,0,42,1,0,2,0.0,0.0,0.1,6,0,28,33,84.8,4,33,2,1,1,Leeds United
+Crysencio Summerville,10.0,nl NED,LW,20-358,27,1,0,0,0,1,1,0,0,16,2,0,0,0.1,0.1,0.0,0,0,10,11,90.9,1,13,2,0,0,Leeds United
+Jack Harrison,11.0,eng ENG,RW,25-337,90,0,0,0,0,1,0,0,0,49,1,0,0,0.2,0.2,0.1,5,1,20,34,58.8,4,33,2,3,1,Leeds United
+Brenden Aaronson,7.0,us USA,AM,22-001,90,0,0,0,0,1,0,0,0,45,4,0,2,0.1,0.1,0.9,7,0,25,30,83.3,7,29,1,4,1,Leeds United
+Marc Roca,8.0,es ESP,DM,25-331,90,0,0,0,0,2,0,0,0,74,2,2,3,0.1,0.1,0.0,1,0,54,62,87.1,13,45,0,2,1,Leeds United
+Sam Greenwood,42.0,eng ENG,DM,20-270,75,0,0,0,0,2,1,0,0,42,1,1,1,0.1,0.1,0.0,1,0,22,34,64.7,2,31,0,2,0,Leeds United
+Mateusz Klich,43.0,pl POL,DM,32-132,15,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,1,0,12,17,70.6,2,10,0,1,0,Leeds United
+Pascal Struijk,21.0,nl NED,LB,23-073,84,0,0,0,0,0,0,0,0,75,1,4,1,0.0,0.0,0.0,0,0,47,60,78.3,4,38,0,0,0,Leeds United
+Joe Gelhardt,30.0,eng ENG,LB,20-172,6,0,1,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.1,1,1,4,4,100.0,1,3,0,1,0,Leeds United
+Liam Cooper,6.0,sct SCO,CB,31-054,90,0,0,0,0,1,0,1,0,83,3,3,0,0.1,0.1,0.1,0,0,58,73,79.5,3,52,0,0,0,Leeds United
+Robin Koch,5.0,de GER,CB,26-098,90,0,0,0,0,0,0,0,0,74,1,1,1,0.0,0.0,0.0,0,0,55,66,83.3,4,45,1,0,0,Leeds United
+Luke Ayling,2.0,eng ENG,RB,31-059,90,0,0,0,0,2,0,0,0,66,4,1,3,0.1,0.1,0.0,0,0,45,55,81.8,8,36,1,1,0,Leeds United
+Illan Meslier,1.0,fr FRA,GK,22-235,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,24,30,80.0,0,22,0,0,0,Leeds United
+15 Players,,,,,990,2,1,0,0,14,5,1,0,660,22,12,14,1.7,1.7,1.3,24,3,422,534,79.0,54,413,12,15,4,Leeds United
+Aleksandar Mitrović,9.0,rs SRB,FW,28-037,89,1,0,0,0,3,1,0,0,31,0,0,1,0.3,0.3,0.3,1,0,13,21,61.9,1,16,0,0,0,Fulham
+Carlos Vinícius,30.0,br BRA,FW,27-212,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,1,0,Fulham
+Willian,20.0,br BRA,LW,34-075,88,1,0,0,0,1,1,0,0,40,1,1,0,0.5,0.5,0.5,4,2,25,31,80.6,5,28,2,5,5,Fulham
+Shane Duffy,5.0,ie IRL,CB,30-295,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Fulham
+Harry Wilson,8.0,wls WAL,RW,25-215,62,0,0,0,0,2,0,0,0,24,0,0,3,0.1,0.1,0.0,0,0,11,16,68.8,3,16,0,0,0,Fulham
+Neeskens Kebano,7.0,cd COD,"RW,RM",30-227,28,0,0,0,0,0,0,0,0,11,0,0,2,0.0,0.0,0.0,1,0,3,3,100.0,0,8,3,5,2,Fulham
+Andreas Pereira,18.0,br BRA,"AM,LM",26-295,90,0,2,0,0,1,1,0,0,38,0,1,2,0.5,0.5,0.4,5,2,17,26,65.4,4,17,3,2,1,Fulham
+João Palhinha,26.0,pt POR,"DM,CM",27-106,90,0,0,0,0,1,0,0,0,50,5,2,1,0.1,0.1,0.0,1,0,27,33,81.8,1,21,0,1,0,Fulham
+Harrison Reed,6.0,eng ENG,"DM,CM",27-269,89,0,1,0,0,1,0,0,0,44,3,0,2,0.3,0.3,0.6,4,2,23,35,65.7,4,21,3,2,2,Fulham
+Tom Cairney,10.0,sct SCO,CM,31-276,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Fulham
+Antonee Robinson,33.0,us USA,LB,25-076,90,0,0,0,0,0,0,1,0,54,2,4,1,0.0,0.0,0.0,2,0,29,43,67.4,5,26,4,1,1,Fulham
+Tim Ream,13.0,us USA,CB,35-018,90,0,0,0,0,0,0,0,0,59,0,1,2,0.0,0.0,0.0,1,0,43,51,84.3,0,43,0,0,0,Fulham
+Tosin Adarabioyo,4.0,eng ENG,CB,25-029,90,0,0,0,0,1,0,0,0,67,2,1,1,0.1,0.1,0.0,0,0,39,57,68.4,2,31,0,1,0,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,RB,29-263,90,1,0,0,0,1,1,0,0,67,3,0,0,0.0,0.0,0.0,1,0,29,53,54.7,0,26,0,3,2,Fulham
+Bernd Leno,17.0,de GER,GK,30-233,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,26,33,78.8,0,16,0,0,0,Fulham
+15 Players,,,,,990,3,3,0,0,11,4,1,0,525,16,10,15,1.8,1.8,1.8,20,6,286,405,70.6,25,272,15,21,13,Fulham

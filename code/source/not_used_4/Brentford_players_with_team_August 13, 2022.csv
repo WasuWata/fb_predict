@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ivan Toney,17.0,eng ENG,FW,26-150,90,0,2,0,0,1,0,0,0,37,0,1,1,0.0,0.0,1.0,4,1,16,30,53.3,4,12,0,0,0,Brentford
+Bryan Mbeumo,19.0,cm CMR,FW,23-006,72,1,0,0,0,2,1,0,0,21,0,0,0,0.5,0.5,0.0,0,0,9,15,60.0,0,15,1,0,0,Brentford
+Yoane Wissa,11.0,cd COD,FW,25-344,18,0,0,0,0,1,1,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,6,0,0,0,Brentford
+Mathias Jensen,8.0,dk DEN,CM,26-224,73,1,1,0,0,2,1,0,0,45,2,0,3,0.3,0.3,0.0,6,4,24,37,64.9,1,14,1,1,0,Brentford
+Shandon Baptiste,26.0,gd GRN,CM,24-127,17,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,6,0,2,1,Brentford
+Christian Nørgaard,6.0,dk DEN,CM,28-156,79,0,0,0,0,0,0,0,0,29,0,1,1,0.0,0.0,0.1,1,0,15,24,62.5,1,15,0,0,0,Brentford
+Frank Onyeka,15.0,ng NGA,CM,24-224,11,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,2,0,1,0,Brentford
+Josh Dasilva,10.0,eng ENG,CM,23-294,61,1,0,0,0,1,1,0,0,24,0,1,1,0.0,0.0,0.0,1,1,11,17,64.7,1,15,2,3,1,Brentford
+Vitaly Janelt,27.0,de GER,CM,24-095,29,0,0,0,0,1,0,0,0,17,1,0,0,0.1,0.1,0.0,4,0,12,14,85.7,0,3,0,3,3,Brentford
+Rico Henry,3.0,jm JAM,LB,25-036,90,0,0,0,0,3,1,0,0,28,0,1,0,0.1,0.1,0.0,0,0,12,17,70.6,1,9,0,0,0,Brentford
+Ben Mee,16.0,eng ENG,CB,32-326,90,1,0,0,0,1,1,0,0,33,0,2,1,0.4,0.4,0.0,0,0,15,26,57.7,1,13,0,0,0,Brentford
+Pontus Jansson,18.0,se SWE,CB,31-181,90,0,0,0,0,0,0,0,0,22,1,1,1,0.0,0.0,0.0,0,0,8,15,53.3,2,5,0,1,1,Brentford
+Mads Roerslev,30.0,dk DEN,"CB,RB",23-050,90,0,0,0,0,0,0,0,0,28,0,0,4,0.0,0.0,0.0,0,0,18,20,90.0,1,8,0,0,0,Brentford
+Aaron Hickey,2.0,sct SCO,RB,20-064,79,0,0,0,0,1,1,0,0,30,1,1,2,0.0,0.0,0.0,1,0,13,17,76.5,3,16,1,6,2,Brentford
+Mads Bech Sørensen,29.0,dk DEN,CB,23-218,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,Brentford
+David Raya,1.0,es ESP,GK,26-332,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,15,41,36.6,0,22,0,0,0,Brentford
+16 Players,,,,,990,4,3,0,0,13,7,0,0,384,6,8,14,1.6,1.6,1.1,18,6,181,291,62.2,16,162,5,17,8,Brentford

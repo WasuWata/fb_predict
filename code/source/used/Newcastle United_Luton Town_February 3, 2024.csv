@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Anthony Gordon,10.0,eng ENG,FW,22-344,45,0,0,0,0,2,1,0,0,20,0,0,0,0.3,0.3,0.0,2,1,9,16,56.3,2,10,2,1,1,Newcastle United
+Callum Wilson,9.0,eng ENG,FW,31-341,45,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.2,3,0,11,14,78.6,0,13,0,1,1,Newcastle United
+Miguel Almirón,24.0,py PAR,LW,29-358,62,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.1,1,0,29,35,82.9,3,16,1,0,0,Newcastle United
+Harvey Barnes,15.0,eng ENG,LW,26-056,28,1,0,0,0,3,2,0,0,15,0,0,0,0.3,0.3,0.0,2,1,10,11,90.9,1,10,0,1,1,Newcastle United
+Jacob Murphy,23.0,eng ENG,RW,28-344,90,0,0,0,0,5,0,1,0,53,1,0,4,0.4,0.4,0.2,3,0,20,37,54.1,2,27,3,3,2,Newcastle United
+Lewis Miley,67.0,eng ENG,LM,17-278,90,0,1,0,0,0,0,0,0,50,7,0,2,0.0,0.0,0.1,6,3,31,37,83.8,4,21,1,1,0,Newcastle United
+Bruno Guimarães,39.0,br BRA,CM,26-079,90,0,1,0,0,1,0,0,0,69,1,1,2,0.1,0.1,0.4,5,1,45,56,80.4,8,51,3,5,2,Newcastle United
+Sean Longstaff,36.0,eng ENG,RM,26-096,90,2,0,0,0,4,2,0,0,42,4,0,0,0.9,0.9,0.0,3,0,26,33,78.8,4,18,1,0,0,Newcastle United
+Dan Burn,33.0,eng ENG,LB,31-270,63,0,0,0,0,0,0,1,0,49,5,0,0,0.0,0.0,0.0,0,0,26,42,61.9,2,15,0,1,1,Newcastle United
+Valentino Livramento,21.0,eng ENG,LB,21-083,27,0,0,0,0,0,0,0,0,21,0,1,0,0.0,0.0,0.0,0,0,16,18,88.9,1,11,0,1,0,Newcastle United
+Sven Botman,4.0,nl NED,CB,24-022,90,0,0,0,0,0,0,0,0,44,2,0,1,0.0,0.0,0.0,1,1,30,37,81.1,1,18,0,1,0,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,32-045,90,0,0,0,0,3,0,0,0,62,3,2,2,0.1,0.1,0.1,1,0,34,51,66.7,5,35,1,1,0,Newcastle United
+Kieran Trippier,2.0,eng ENG,RB,33-137,90,1,1,0,0,1,1,0,0,88,3,0,2,0.3,0.3,0.2,3,0,50,83,60.2,3,24,1,1,1,Newcastle United
+Martin Dúbravka,1.0,sk SVK,GK,35-019,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,19,24,79.2,0,19,0,0,0,Newcastle United
+14 Players,,,,,990,4,3,0,0,19,6,2,0,597,26,4,13,2.5,2.5,1.3,30,7,356,494,72.1,36,288,13,17,9,Newcastle United
+Elijah Adebayo,11.0,eng ENG,FW,26-027,87,1,0,0,0,2,1,0,0,31,0,1,0,0.2,0.2,0.0,0,0,9,11,81.8,1,17,1,4,1,Luton Town
+Cauley Woodrow,10.0,eng ENG,FW,29-063,3,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,1,0,1,0,Luton Town
+Carlton Morris,9.0,eng ENG,AM,28-049,78,1,1,1,1,1,1,0,0,31,0,0,1,0.8,0.0,0.6,3,1,16,20,80.0,1,14,0,0,0,Luton Town
+Jacob Brown,19.0,sct SCO,AM,25-299,12,0,0,0,0,1,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,3,8,37.5,0,6,2,3,2,Luton Town
+Jordan Clark,18.0,eng ENG,AM,30-134,67,0,0,0,0,0,0,0,0,31,0,3,2,0.0,0.0,0.0,1,0,12,21,57.1,3,22,3,3,2,Luton Town
+Pelly Ruddock Mpanzu,17.0,cd COD,AM,30-201,23,0,0,0,0,1,1,0,0,9,0,0,0,0.1,0.1,0.0,1,0,6,6,100.0,0,7,0,2,1,Luton Town
+Ross Barkley,6.0,eng ENG,CM,30-060,90,1,1,0,0,2,1,0,0,73,4,2,1,0.7,0.7,0.3,7,2,53,58,91.4,8,45,5,4,2,Luton Town
+Albert Sambi Lokonga,28.0,be BEL,CM,24-104,90,0,0,0,0,0,0,1,0,62,5,2,2,0.0,0.0,0.0,1,0,42,45,93.3,2,32,1,1,1,Luton Town
+Alfie Doughty,45.0,eng ENG,WB,24-044,78,0,0,0,0,1,1,0,0,45,0,1,1,0.0,0.0,0.0,3,2,24,34,70.6,1,26,2,1,0,Luton Town
+Reece Burke,16.0,eng ENG,CB,27-154,12,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,3,0,0,0,Luton Town
+Chiedozie Ogbene,7.0,ie IRL,WB,26-278,90,0,0,0,0,1,1,0,0,56,0,0,2,0.1,0.1,0.0,2,2,34,38,89.5,1,35,7,9,5,Luton Town
+Amari'i Bell,29.0,jm JAM,"CB,WB",29-274,90,0,0,0,0,0,0,0,0,61,2,1,3,0.0,0.0,0.0,0,0,37,50,74.0,4,30,3,1,0,Luton Town
+Gabriel Osho,2.0,ng NGA,CB,25-173,90,1,0,0,0,1,1,1,0,39,2,1,1,0.5,0.5,0.0,0,0,19,24,79.2,1,17,1,1,1,Luton Town
+Teden Mengi,15.0,eng ENG,CB,21-279,90,0,0,0,0,0,0,0,0,57,0,4,4,0.0,0.0,0.0,1,0,39,43,90.7,2,25,0,0,0,Luton Town
+Thomas Kaminski,24.0,be BEL,GK,31-103,90,0,0,0,0,0,0,0,0,48,0,0,1,0.0,0.0,0.0,0,0,27,45,60.0,0,22,0,0,0,Luton Town
+15 Players,,,,,990,4,2,1,1,10,7,2,0,569,14,15,19,2.4,1.6,0.9,19,7,324,410,79.0,25,302,25,30,15,Luton Town

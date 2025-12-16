@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jarrod Bowen,20.0,eng ENG,"FW,AM",26-327,90,1,0,0,0,1,1,0,0,29,3,0,1,0.3,0.3,0.0,5,1,11,20,55.0,2,18,1,3,1,West Ham United
+Lucas Paquetá,10.0,br BRA,LW,26-077,89,1,0,0,0,2,2,0,0,78,2,1,1,0.4,0.4,0.1,3,1,51,67,76.1,10,41,2,3,1,West Ham United
+Aaron Cresswell,3.0,eng ENG,LW,33-332,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,West Ham United
+Mohammed Kudus,14.0,gh GHA,RW,23-102,89,0,0,0,0,2,0,1,0,63,1,0,3,0.1,0.1,0.3,2,0,41,47,87.2,8,44,6,5,1,West Ham United
+Angelo Ogbonna,21.0,it ITA,RW,35-173,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,West Ham United
+Tomáš Souček,28.0,cz CZE,"AM,DM",28-258,90,1,0,0,0,4,3,0,0,35,2,1,0,0.6,0.6,0.0,1,0,13,19,68.4,3,13,0,1,0,West Ham United
+James Ward-Prowse,7.0,eng ENG,DM,29-011,90,0,2,0,0,3,0,0,0,92,1,0,0,0.1,0.1,0.6,6,2,75,87,86.2,9,44,1,0,0,West Ham United
+Edson Álvarez,19.0,mx MEX,DM,26-019,78,0,0,0,0,2,0,0,0,71,1,2,1,0.1,0.1,0.0,0,0,50,58,86.2,7,45,2,0,0,West Ham United
+Michail Antonio,9.0,jm JAM,FW,33-229,12,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,3,0,0,0,West Ham United
+Emerson Palmieri,33.0,it ITA,LB,29-101,90,0,0,0,0,2,0,0,0,73,4,0,1,0.2,0.2,0.0,3,0,49,61,80.3,1,37,1,5,1,West Ham United
+Nayef Aguerd,27.0,ma MAR,CB,27-227,90,0,0,0,0,0,0,0,0,77,1,0,1,0.0,0.0,0.1,1,0,64,72,88.9,5,54,1,0,0,West Ham United
+Kurt Zouma,4.0,fr FRA,CB,29-016,90,0,0,0,0,0,0,0,0,75,1,1,0,0.0,0.0,0.0,1,0,59,67,88.1,5,51,1,0,0,West Ham United
+Vladimír Coufal,5.0,cz CZE,RB,31-082,90,0,0,0,0,0,0,1,0,59,3,1,3,0.0,0.0,0.0,2,0,32,45,71.1,3,30,2,1,0,West Ham United
+Alphonse Areola,23.0,fr FRA,GK,30-258,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,19,22,86.4,0,16,0,0,0,West Ham United
+14 Players,,,,,990,3,2,0,0,16,6,2,0,683,19,6,11,1.8,1.8,1.2,24,4,464,567,81.8,53,396,17,18,4,West Ham United
+Taiwo Awoniyi,9.0,ng NGA,FW,26-092,75,1,0,0,0,3,2,0,0,26,1,0,0,1.3,1.3,0.0,1,0,14,16,87.5,1,13,0,1,0,Nottingham Forest
+Chris Wood,11.0,nz NZL,FW,31-340,15,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.1,1,0,2,4,50.0,0,2,0,0,0,Nottingham Forest
+Anthony Elanga,21.0,se SWE,"LW,LM",21-199,90,1,0,0,0,2,1,1,0,38,2,0,0,0.1,0.1,0.3,2,0,18,27,66.7,1,21,5,4,1,Nottingham Forest
+Morgan Gibbs-White,10.0,eng ENG,"RW,RM",23-289,90,0,0,0,0,2,1,0,0,55,1,0,0,0.2,0.2,0.0,2,1,27,43,62.8,2,41,3,2,0,Nottingham Forest
+Nicolás Domínguez,16.0,ar ARG,LM,25-137,45,0,0,0,0,1,0,0,0,23,1,2,0,0.0,0.0,0.0,1,0,11,18,61.1,0,10,0,0,0,Nottingham Forest
+Danilo,28.0,br BRA,"LM,CM",22-197,45,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,0,0,17,19,89.5,3,18,1,0,0,Nottingham Forest
+Orel Mangala,5.0,be BEL,CM,25-239,90,0,0,0,0,0,0,0,0,62,0,2,1,0.0,0.0,0.0,0,0,47,51,92.2,4,34,2,1,0,Nottingham Forest
+Ibrahim Sangaré,6.0,ci CIV,RM,25-345,89,0,0,0,0,0,0,0,0,62,5,3,2,0.0,0.0,0.1,2,1,40,46,87.0,8,32,1,0,0,Nottingham Forest
+Divock Origi,27.0,be BEL,FW,28-208,1,0,0,0,0,1,1,0,0,3,0,0,0,0.1,0.1,0.0,0,0,0,0,,0,3,0,1,0,Nottingham Forest
+Harry Toffolo,15.0,eng ENG,LB,28-085,90,0,0,0,0,0,0,0,0,52,1,0,3,0.0,0.0,0.2,3,0,33,46,71.7,3,28,1,0,0,Nottingham Forest
+Murillo,40.0,br BRA,CB,21-131,75,0,0,0,0,0,0,0,0,55,1,0,1,0.0,0.0,0.0,0,0,46,51,90.2,5,40,1,0,0,Nottingham Forest
+Willy Boly,30.0,ci CIV,CB,32-282,15,0,0,0,0,0,0,0,0,16,1,1,0,0.0,0.0,0.0,0,0,6,11,54.5,0,4,0,0,0,Nottingham Forest
+Moussa Niakhate,19.0,sn SEN,CB,27-249,90,0,0,0,0,0,0,1,0,74,2,0,3,0.0,0.0,0.0,0,0,51,64,79.7,4,39,1,0,0,Nottingham Forest
+Ola Aina,43.0,ng NGA,RB,27-035,75,0,1,0,0,0,0,0,0,49,1,0,3,0.0,0.0,0.1,2,1,33,40,82.5,2,27,2,1,0,Nottingham Forest
+Serge Aurier,24.0,ci CIV,RB,30-323,15,0,0,0,0,1,0,0,0,13,0,0,1,0.0,0.0,0.0,1,0,7,9,77.8,1,4,0,0,0,Nottingham Forest
+Odysseas Vlachodimos,23.0,gr GRE,GK,29-200,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,0,32,38,84.2,0,27,0,0,0,Nottingham Forest
+16 Players,,,,,990,2,1,0,0,10,5,2,0,596,17,8,16,1.8,1.8,0.8,16,3,384,483,79.5,34,343,17,10,1,Nottingham Forest

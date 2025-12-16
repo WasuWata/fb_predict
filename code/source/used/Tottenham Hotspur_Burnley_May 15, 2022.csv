@@ -1,0 +1,30 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Harry Kane,10.0,eng ENG,FW,28-291,90,1,0,1,1,5,1,0,0,42,0,0,1,1.1,0.3,0.0,4,0,10,28,35.7,5,30,2,2,1,Tottenham Hotspur
+Son Heung-min,7.0,kr KOR,AM,29-311,90,0,0,0,0,2,2,0,0,52,1,0,0,0.7,0.7,0.2,6,0,29,44,65.9,1,31,1,2,1,Tottenham Hotspur
+Lucas Moura,27.0,br BRA,AM,29-275,78,0,0,0,0,2,0,1,0,46,1,1,0,0.1,0.1,0.2,8,0,33,38,86.8,9,36,4,3,2,Tottenham Hotspur
+Dejan Kulusevski,21.0,se SWE,AM,22-020,12,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Tottenham Hotspur
+Pierre Højbjerg,5.0,dk DEN,CM,26-283,90,0,0,0,0,1,0,0,0,90,1,0,0,0.0,0.0,0.0,3,0,78,85,91.8,12,62,0,1,1,Tottenham Hotspur
+Rodrigo Bentancur,30.0,uy URU,CM,24-324,90,0,0,0,0,3,1,0,0,96,1,0,1,0.1,0.1,0.1,5,0,77,87,88.5,7,67,1,1,1,Tottenham Hotspur
+Ryan Sessegnon,19.0,eng ENG,WB,21-362,90,0,0,0,0,2,0,0,0,79,2,0,0,0.1,0.1,0.8,8,1,54,68,79.4,1,46,6,1,0,Tottenham Hotspur
+Emerson,12.0,br BRA,WB,23-121,89,0,0,0,0,2,1,0,0,74,0,1,0,0.0,0.0,0.0,0,0,56,63,88.9,2,52,1,1,0,Tottenham Hotspur
+Joe Rodon,14.0,wls WAL,CB,24-205,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,"CB,WB",29-021,90,0,0,0,0,2,1,0,0,88,1,0,0,0.1,0.1,0.0,1,0,77,83,92.8,8,73,4,1,1,Tottenham Hotspur
+Eric Dier,15.0,eng ENG,CB,28-120,90,0,0,0,0,0,0,0,0,98,0,1,0,0.0,0.0,0.0,2,0,81,92,88.0,5,73,1,0,0,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,25-337,90,0,0,0,0,1,0,0,0,99,2,1,0,0.0,0.0,0.0,2,0,84,91,92.3,4,65,1,2,2,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,35-140,90,0,0,0,0,0,0,1,0,23,0,0,0,0.0,0.0,0.0,0,0,18,22,81.8,0,15,0,0,0,Tottenham Hotspur
+13 Players,,,,,990,1,0,1,1,20,6,3,0,791,9,4,2,2.2,1.4,1.3,39,1,600,705,85.1,54,551,21,14,9,Tottenham Hotspur
+Ashley Barnes,10.0,eng ENG,FW,32-197,77,0,0,0,0,2,0,0,0,25,0,0,1,0.1,0.1,0.0,0,0,9,16,56.3,1,12,0,1,1,Burnley
+Wout Weghorst,9.0,nl NED,FW,29-281,13,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.1,1,0,3,6,50.0,0,5,0,0,0,Burnley
+Maxwel Cornet,20.0,ci CIV,FW,25-230,90,0,0,0,0,2,1,0,0,25,0,1,0,0.3,0.3,0.0,1,0,13,18,72.2,1,19,1,2,0,Burnley
+Dwight McNeil,11.0,eng ENG,"CM,LM",22-174,90,0,0,0,0,1,0,0,0,42,0,1,1,0.0,0.0,0.2,4,0,30,33,90.9,4,24,1,2,1,Burnley
+Jack Cork,4.0,eng ENG,CM,32-324,90,0,0,0,0,0,0,0,0,45,2,2,0,0.0,0.0,0.0,0,0,29,35,82.9,3,26,0,0,0,Burnley
+Josh Brownhill,8.0,eng ENG,CM,26-147,90,0,0,0,0,0,0,0,0,39,4,3,0,0.0,0.0,0.0,2,0,18,27,66.7,1,13,0,0,0,Burnley
+Charlie Taylor,3.0,eng ENG,LB,28-239,90,0,0,0,0,0,0,0,0,58,5,1,1,0.0,0.0,0.0,1,0,29,45,64.4,2,34,2,1,1,Burnley
+Matthew Lowton,2.0,eng ENG,CB,32-340,77,0,0,0,0,0,0,0,0,33,2,0,3,0.0,0.0,0.0,0,0,16,22,72.7,2,16,1,0,0,Burnley
+Aaron Lennon,17.0,eng ENG,"RM,CB",35-029,13,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,3,6,50.0,0,4,0,0,0,Burnley
+Nathan Collins,22.0,ie IRL,CB,21-015,90,0,0,0,0,1,0,0,0,39,0,0,4,0.2,0.2,0.3,3,0,22,28,78.6,4,20,0,0,0,Burnley
+Kevin Long,28.0,ie IRL,CB,31-270,90,0,0,0,0,2,0,0,0,35,3,0,1,0.1,0.1,0.0,1,0,18,24,75.0,1,15,0,0,0,Burnley
+Connor Roberts,14.0,wls WAL,RB,26-234,90,0,0,0,0,0,0,1,0,53,1,0,0,0.0,0.0,0.0,3,0,35,47,74.5,3,33,1,1,0,Burnley
+Nick Pope,1.0,eng ENG,GK,30-026,90,0,0,0,0,0,0,1,0,34,0,0,0,0.0,0.0,0.0,0,0,15,27,55.6,0,14,0,0,0,Burnley
+13 Players,,,,,990,0,0,0,0,8,1,2,0,443,17,8,13,0.7,0.7,0.6,16,0,240,334,71.9,22,235,6,7,3,Burnley

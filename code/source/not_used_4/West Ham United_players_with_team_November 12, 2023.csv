@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jarrod Bowen,20.0,eng ENG,"FW,AM",26-327,90,1,0,0,0,1,1,0,0,29,3,0,1,0.3,0.3,0.0,5,1,11,20,55.0,2,18,1,3,1,West Ham United
+Lucas Paquetá,10.0,br BRA,LW,26-077,89,1,0,0,0,2,2,0,0,78,2,1,1,0.4,0.4,0.1,3,1,51,67,76.1,10,41,2,3,1,West Ham United
+Aaron Cresswell,3.0,eng ENG,LW,33-332,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,West Ham United
+Mohammed Kudus,14.0,gh GHA,RW,23-102,89,0,0,0,0,2,0,1,0,63,1,0,3,0.1,0.1,0.3,2,0,41,47,87.2,8,44,6,5,1,West Ham United
+Angelo Ogbonna,21.0,it ITA,RW,35-173,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,West Ham United
+Tomáš Souček,28.0,cz CZE,"AM,DM",28-258,90,1,0,0,0,4,3,0,0,35,2,1,0,0.6,0.6,0.0,1,0,13,19,68.4,3,13,0,1,0,West Ham United
+James Ward-Prowse,7.0,eng ENG,DM,29-011,90,0,2,0,0,3,0,0,0,92,1,0,0,0.1,0.1,0.6,6,2,75,87,86.2,9,44,1,0,0,West Ham United
+Edson Álvarez,19.0,mx MEX,DM,26-019,78,0,0,0,0,2,0,0,0,71,1,2,1,0.1,0.1,0.0,0,0,50,58,86.2,7,45,2,0,0,West Ham United
+Michail Antonio,9.0,jm JAM,FW,33-229,12,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,3,0,0,0,West Ham United
+Emerson Palmieri,33.0,it ITA,LB,29-101,90,0,0,0,0,2,0,0,0,73,4,0,1,0.2,0.2,0.0,3,0,49,61,80.3,1,37,1,5,1,West Ham United
+Nayef Aguerd,27.0,ma MAR,CB,27-227,90,0,0,0,0,0,0,0,0,77,1,0,1,0.0,0.0,0.1,1,0,64,72,88.9,5,54,1,0,0,West Ham United
+Kurt Zouma,4.0,fr FRA,CB,29-016,90,0,0,0,0,0,0,0,0,75,1,1,0,0.0,0.0,0.0,1,0,59,67,88.1,5,51,1,0,0,West Ham United
+Vladimír Coufal,5.0,cz CZE,RB,31-082,90,0,0,0,0,0,0,1,0,59,3,1,3,0.0,0.0,0.0,2,0,32,45,71.1,3,30,2,1,0,West Ham United
+Alphonse Areola,23.0,fr FRA,GK,30-258,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,19,22,86.4,0,16,0,0,0,West Ham United
+14 Players,,,,,990,3,2,0,0,16,6,2,0,683,19,6,11,1.8,1.8,1.2,24,4,464,567,81.8,53,396,17,18,4,West Ham United

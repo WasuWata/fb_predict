@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Raúl Jiménez,7.0,mx MEX,FW,32-270,45,0,0,0,0,2,0,0,0,22,0,0,1,0.3,0.3,0.0,0,0,10,14,71.4,1,9,0,0,0,Fulham
+Rodrigo Muniz,19.0,br BRA,FW,22-271,45,0,0,0,0,2,1,0,0,12,0,1,0,0.3,0.3,0.0,1,0,4,5,80.0,0,2,0,2,0,Fulham
+Willian,20.0,br BRA,LW,35-174,90,0,0,0,0,2,0,0,0,88,1,0,1,0.1,0.1,0.1,6,0,62,77,80.5,10,47,2,4,2,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,RW,30-362,90,0,0,0,0,4,1,0,0,45,0,0,1,0.2,0.2,0.4,6,0,29,34,85.3,7,26,6,0,0,Fulham
+Andreas Pereira,18.0,br BRA,AM,28-029,90,0,0,0,0,6,0,0,0,64,1,0,0,0.2,0.2,0.2,7,0,37,54,68.5,5,32,5,1,0,Fulham
+Tom Cairney,10.0,sct SCO,DM,33-010,90,0,0,0,0,1,0,0,0,114,0,1,1,0.0,0.0,0.3,10,0,98,107,91.6,10,72,2,3,2,Fulham
+João Palhinha,26.0,pt POR,DM,28-205,90,0,0,0,0,4,1,1,0,63,3,1,2,0.3,0.3,0.0,0,0,35,45,77.8,3,22,0,4,3,Fulham
+Antonee Robinson,33.0,us USA,LB,26-175,90,0,0,0,0,1,1,0,0,86,1,0,0,0.0,0.0,0.1,3,0,60,75,80.0,1,51,4,4,0,Fulham
+Issa Diop,31.0,fr FRA,CB,27-021,74,0,0,0,0,0,0,0,0,94,0,0,3,0.0,0.0,0.0,0,0,79,87,90.8,4,64,1,0,0,Fulham
+Tim Ream,13.0,us USA,CB,36-117,16,0,0,0,0,0,0,0,0,12,0,0,2,0.0,0.0,0.0,1,0,7,9,77.8,0,5,0,0,0,Fulham
+Tosin Adarabioyo,4.0,eng ENG,CB,26-128,90,0,0,0,0,1,1,0,0,74,0,2,0,0.1,0.1,0.0,2,0,54,64,84.4,2,37,0,0,0,Fulham
+Timothy Castagne,21.0,be BEL,RB,28-056,90,0,0,0,0,2,0,0,0,68,0,3,1,0.2,0.2,0.0,6,0,41,56,73.2,2,30,1,1,0,Fulham
+Bernd Leno,17.0,de GER,GK,31-332,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,41,43,95.3,0,28,0,0,0,Fulham
+13 Players,,,,,990,0,0,0,0,25,5,1,0,787,6,8,12,1.7,1.7,1.1,42,0,557,670,83.1,45,425,21,19,7,Fulham
+Dominic Calvert-Lewin,9.0,eng ENG,FW,26-320,80,0,0,0,0,5,0,0,0,29,0,0,0,0.3,0.3,0.1,2,0,6,14,42.9,0,8,0,1,0,Everton
+Beto,14.0,gw GNB,FW,25-364,10,0,0,0,0,3,0,0,0,11,0,0,0,0.5,0.5,0.5,1,0,1,1,100.0,0,5,0,1,0,Everton
+Jack Harrison,11.0,eng ENG,FW,27-071,90,0,0,0,0,3,1,0,0,23,0,0,0,0.2,0.2,0.0,3,0,11,14,78.6,3,12,1,1,1,Everton
+Arnaut Danjuma,10.0,nl NED,LM,26-364,89,0,0,0,0,2,1,0,0,24,2,1,1,0.2,0.2,0.0,2,0,12,17,70.6,2,17,0,1,1,Everton
+Lewis Dobbin,61.0,eng ENG,LM,21-027,1,0,0,0,0,1,0,0,0,4,1,0,0,0.0,0.0,0.0,1,0,0,0,,0,2,0,0,0,Everton
+James Garner,37.0,eng ENG,CM,22-323,90,0,0,0,0,1,0,0,0,51,4,6,2,0.1,0.1,0.1,6,0,25,31,80.6,1,21,1,0,0,Everton
+Dwight McNeil,7.0,eng ENG,CM,24-069,90,0,0,0,0,0,0,0,0,43,2,0,1,0.0,0.0,0.0,4,0,27,35,77.1,6,20,3,1,0,Everton
+Ashley Young,18.0,eng ENG,RM,38-205,80,0,0,0,0,1,0,0,0,22,2,1,1,0.0,0.0,0.1,4,0,5,12,41.7,0,11,0,1,1,Everton
+Nathan Patterson,2.0,sct SCO,RM,22-106,10,0,0,0,0,0,0,0,0,8,3,0,1,0.0,0.0,0.0,1,0,4,5,80.0,0,1,0,0,0,Everton
+Vitaliy Mykolenko,19.0,ua UKR,LB,24-246,90,0,0,0,0,0,0,0,0,44,0,1,1,0.0,0.0,0.1,1,0,24,34,70.6,2,17,2,2,1,Everton
+Jarrad Branthwaite,32.0,eng ENG,CB,21-217,90,0,0,0,0,0,0,1,0,52,3,1,3,0.0,0.0,0.0,0,0,21,34,61.8,0,19,0,0,0,Everton
+James Tarkowski,6.0,eng ENG,CB,31-072,90,0,0,0,0,1,0,0,0,43,1,1,3,0.2,0.2,0.3,3,0,19,26,73.1,3,13,0,0,0,Everton
+Ben Godfrey,22.0,eng ENG,RB,26-015,90,0,0,0,0,4,0,1,0,37,4,0,0,0.6,0.6,0.2,6,0,11,22,50.0,4,13,1,0,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,29-329,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,2,0,34,48,70.8,0,20,0,0,0,Everton
+14 Players,,,,,990,0,0,0,0,21,2,2,0,441,22,11,13,2.1,2.1,1.5,36,0,200,293,68.3,21,179,8,8,4,Everton

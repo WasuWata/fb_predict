@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Brenden Aaronson,7.0,us USA,FW,22-067,82,0,0,0,0,1,0,0,0,25,1,0,0,0.0,0.0,0.0,3,0,12,14,85.7,4,14,0,3,1,Leeds United
+Darko Gyabi,18.0,eng ENG,FW,18-313,8,0,0,0,0,1,0,0,0,8,2,0,2,0.1,0.1,0.0,0,0,4,4,100.0,2,4,0,1,0,Leeds United
+Wilfried Gnonto,29.0,it ITA,LW,19-053,90,0,0,0,0,2,0,1,0,34,0,0,1,0.1,0.1,0.0,5,0,20,28,71.4,1,28,5,2,1,Leeds United
+Rodrigo,19.0,es ESP,RW,31-297,71,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.1,1,0,18,21,85.7,0,10,0,0,0,Leeds United
+Joe Gelhardt,30.0,eng ENG,RW,20-238,19,0,0,0,0,1,0,0,0,7,1,0,1,0.1,0.1,0.0,0,0,2,2,100.0,0,2,0,2,0,Leeds United
+Adam Forshaw,4.0,eng ENG,LM,31-081,64,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,17,20,85.0,4,16,0,2,2,Leeds United
+Mateusz Klich,43.0,pl POL,"RM,LM",32-198,26,0,0,0,0,0,0,1,0,12,0,0,2,0.0,0.0,0.0,0,0,9,9,100.0,3,6,0,1,0,Leeds United
+Marc Roca,8.0,es ESP,CM,26-032,90,0,0,0,0,0,0,0,0,55,1,0,2,0.0,0.0,0.0,0,0,26,38,68.4,5,22,0,1,1,Leeds United
+Sam Greenwood,42.0,eng ENG,"RM,LM",20-336,90,0,1,0,0,2,0,1,0,28,2,0,2,0.1,0.1,0.2,2,1,12,20,60.0,1,10,1,1,0,Leeds United
+Pascal Struijk,21.0,nl NED,LB,23-139,90,1,0,0,0,1,1,0,0,73,2,2,1,0.1,0.1,0.0,1,0,42,55,76.4,6,23,0,0,0,Leeds United
+Liam Cooper,6.0,sct SCO,CB,31-120,71,0,0,0,0,0,0,0,0,31,1,1,1,0.0,0.0,0.0,0,0,23,28,82.1,0,12,0,1,0,Leeds United
+Diego Llorente,14.0,es ESP,CB,29-134,19,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,8,10,80.0,1,7,0,0,0,Leeds United
+Robin Koch,5.0,de GER,CB,26-164,90,0,0,0,0,0,0,0,0,38,1,1,0,0.0,0.0,0.0,1,0,18,29,62.1,0,11,0,0,0,Leeds United
+Rasmus Kristensen,25.0,dk DEN,RB,25-170,64,0,0,0,0,1,0,0,0,30,2,0,4,0.0,0.0,0.0,0,0,13,19,68.4,2,12,0,0,0,Leeds United
+Luke Ayling,2.0,eng ENG,RB,31-125,26,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,7,10,70.0,3,6,1,1,1,Leeds United
+Illan Meslier,1.0,fr FRA,GK,22-301,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,15,31,48.4,0,19,0,0,0,Leeds United
+16 Players,,,,,990,1,1,0,0,9,1,3,0,450,13,4,18,0.6,0.6,0.4,14,1,246,338,72.8,32,202,7,15,6,Leeds United

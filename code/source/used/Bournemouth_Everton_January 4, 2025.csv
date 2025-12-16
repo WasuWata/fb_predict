@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Evanilson,9.0,br BRA,FW,25-090,81,0,0,0,0,3,1,0,0,18,0,0,0,0.2,0.2,0.1,3,0,6,11,54.5,1,15,1,0,0,Bournemouth
+Philip Billing,29.0,dk DEN,AM,28-207,9,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Bournemouth
+Dango Ouattara,11.0,bf BFA,LW,22-328,69,0,0,0,0,4,2,0,0,36,1,0,1,0.4,0.4,0.0,3,0,15,24,62.5,3,18,5,4,4,Bournemouth
+David Brooks,7.0,wls WAL,RW,27-180,21,1,0,0,0,2,1,1,0,13,1,0,1,0.1,0.1,0.0,0,0,6,8,75.0,1,9,1,0,0,Bournemouth
+Antoine Semenyo,24.0,gh GHA,"RW,LW",24-363,90,0,0,0,0,4,3,0,0,50,0,0,1,0.5,0.5,0.4,3,1,27,36,75.0,4,23,4,2,1,Bournemouth
+Justin Kluivert,19.0,nl NED,AM,25-244,69,0,0,0,0,1,1,0,0,31,0,1,0,0.4,0.4,0.0,3,0,18,25,72.0,4,12,2,0,0,Bournemouth
+Enes Ünal,26.0,tr TUR,"FW,AM",27-239,21,0,0,0,0,1,0,0,0,13,0,0,0,0.1,0.1,0.0,0,0,8,10,80.0,0,6,0,1,0,Bournemouth
+Lewis Cook,4.0,eng ENG,"DM,RB",27-336,90,0,0,0,0,0,0,0,0,70,3,1,0,0.0,0.0,0.2,3,0,51,61,83.6,9,31,0,0,0,Bournemouth
+Ryan Christie,10.0,sct SCO,DM,29-317,90,0,0,0,0,1,0,0,0,90,0,2,0,0.0,0.0,0.1,5,0,49,77,63.6,7,44,2,2,0,Bournemouth
+Milos Kerkez,3.0,hu HUN,LB,21-058,90,0,1,0,0,0,0,0,0,61,2,3,1,0.0,0.0,0.3,4,1,35,46,76.1,3,31,4,0,0,Bournemouth
+Dean Huijsen,2.0,es ESP,CB,19-265,90,0,0,0,0,1,0,0,0,78,1,1,1,0.1,0.1,0.3,3,0,52,63,82.5,9,35,4,1,1,Bournemouth
+Illia Zabarnyi,27.0,ua UKR,CB,22-125,90,0,0,0,0,1,0,0,0,53,3,0,0,0.1,0.1,0.0,1,0,39,46,84.8,1,30,1,0,0,Bournemouth
+James Hill,23.0,eng ENG,RB,22-360,69,0,0,0,0,1,0,0,0,52,1,1,1,0.0,0.0,0.0,2,0,23,42,54.8,2,29,0,1,1,Bournemouth
+Tyler Adams,12.0,us USA,"DM,RB",25-325,21,0,0,0,0,0,0,1,0,21,3,0,0,0.0,0.0,0.0,0,0,16,18,88.9,4,9,0,0,0,Bournemouth
+Mark Travers,42.0,ie IRL,GK,25-231,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,24,33,72.7,0,16,0,0,0,Bournemouth
+15 Players,,,,,990,1,1,0,0,19,8,2,0,623,15,10,6,1.8,1.8,1.4,30,2,369,502,73.5,48,308,24,11,7,Bournemouth
+Armando Broja,22.0,al ALB,FW,23-116,31,0,0,0,0,1,0,0,0,6,1,0,1,0.0,0.0,0.0,1,0,3,4,75.0,0,2,1,0,0,Everton
+Dominic Calvert-Lewin,9.0,eng ENG,FW,27-294,59,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,1,0,10,12,83.3,2,11,0,0,0,Everton
+Iliman Ndiaye,10.0,sn SEN,"LW,LM",24-304,90,0,0,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.1,1,0,18,22,81.8,3,19,0,8,5,Everton
+Jesper Lindstrøm,29.0,dk DEN,RW,24-310,45,0,0,0,0,2,0,0,0,22,1,2,0,0.1,0.1,0.0,1,0,8,13,61.5,1,11,1,3,1,Everton
+Nathan Patterson,2.0,sct SCO,RB,23-080,45,0,0,0,0,1,0,0,0,38,1,0,0,0.1,0.1,0.0,3,0,18,29,62.1,0,13,1,2,2,Everton
+Abdoulaye Doucouré,16.0,ml MLI,"AM,DM,CM",32-003,90,0,0,0,0,1,0,1,0,45,2,1,0,0.1,0.1,0.0,2,0,27,35,77.1,2,18,1,1,1,Everton
+Idrissa Gana Gueye,27.0,sn SEN,DM,35-100,80,0,0,0,0,1,0,0,0,50,4,5,0,0.0,0.0,0.0,0,0,28,35,80.0,4,18,0,0,0,Everton
+Beto,14.0,gw GNB,FW,26-339,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,0,4,3,Everton
+Orel Mangala,8.0,be BEL,DM,26-292,45,0,0,0,0,1,0,0,0,24,2,0,0,0.0,0.0,0.1,2,0,20,21,95.2,3,7,0,0,0,Everton
+Harrison Armstrong,45.0,eng ENG,"AM,CM",17-351,45,0,0,0,0,1,0,0,0,15,0,0,0,0.4,0.4,0.1,1,0,5,10,50.0,1,10,1,1,1,Everton
+Vitaliy Mykolenko,19.0,ua UKR,LB,25-220,90,0,0,0,0,1,0,0,0,50,1,2,1,0.0,0.0,0.0,0,0,20,32,62.5,3,15,1,0,0,Everton
+Jarrad Branthwaite,32.0,eng ENG,CB,22-191,90,0,0,0,0,0,0,1,0,47,0,0,2,0.0,0.0,0.0,0,0,18,32,56.3,1,10,0,0,0,Everton
+James Tarkowski,6.0,eng ENG,CB,32-046,90,0,0,0,0,0,0,0,0,44,1,2,4,0.0,0.0,0.0,0,0,18,32,56.3,0,10,0,0,0,Everton
+Ashley Young,18.0,eng ENG,"RB,RW,RM",39-179,90,0,0,0,0,0,0,0,0,55,1,1,1,0.0,0.0,0.0,0,0,23,47,48.9,1,20,0,1,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,30-303,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,23,46,50.0,0,26,0,0,0,Everton
+15 Players,,,,,990,0,0,0,0,9,0,2,0,505,16,13,10,0.7,0.7,0.3,12,0,239,371,64.4,21,193,6,20,13,Everton

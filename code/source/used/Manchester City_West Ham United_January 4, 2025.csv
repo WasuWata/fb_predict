@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Erling Haaland,9.0,no NOR,FW,24-167,83,2,0,0,0,2,2,0,0,23,0,0,0,0.9,0.9,0.2,1,0,11,17,64.7,0,12,1,0,0,Manchester City
+Jack Grealish,10.0,eng ENG,LM,29-116,7,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,8,1,0,0,Manchester City
+Sávio,26.0,br BRA,LM,20-269,79,0,2,0,0,2,1,0,0,37,0,1,1,0.1,0.1,1.0,5,3,17,26,65.4,3,25,4,3,2,Manchester City
+James Mcatee,87.0,eng ENG,"RM,LM",22-078,11,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,7,7,100.0,1,5,0,2,0,Manchester City
+Bernardo Silva,20.0,pt POR,CM,30-147,90,0,0,0,0,1,1,0,0,57,2,1,1,0.2,0.2,0.0,1,0,45,51,88.2,5,37,2,3,1,Manchester City
+Kevin De Bruyne,17.0,be BEL,CM,33-190,90,0,1,0,0,1,1,0,0,59,0,0,1,0.0,0.0,0.6,4,1,37,49,75.5,8,28,2,1,0,Manchester City
+Phil Foden,47.0,eng ENG,"RM,FW",24-221,90,1,0,0,0,2,1,0,0,60,2,3,1,0.6,0.6,0.1,2,0,42,49,85.7,3,30,1,0,0,Manchester City
+Mateo Kovačić,8.0,hr CRO,DM,30-243,60,0,0,0,0,0,0,1,0,52,6,0,1,0.0,0.0,0.0,1,0,36,41,87.8,2,28,1,1,1,Manchester City
+İlkay Gündoğan,19.0,de GER,DM,34-072,30,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,1,0,21,23,91.3,4,13,1,0,0,Manchester City
+Joško Gvardiol,24.0,hr CRO,"LB,CB",22-347,90,0,0,0,0,0,0,0,0,60,0,0,2,0.0,0.0,0.0,2,0,46,51,90.2,6,31,5,1,1,Manchester City
+Nathan Aké,6.0,nl NED,CB,29-321,60,0,0,0,0,0,0,0,0,49,1,0,0,0.0,0.0,0.0,0,0,45,46,97.8,1,30,0,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,34-221,30,0,0,0,0,0,0,1,0,34,0,0,0,0.0,0.0,0.0,1,0,29,31,93.5,0,17,0,0,0,Manchester City
+Manuel Akanji,25.0,ch SUI,CB,29-169,90,0,0,0,0,0,0,0,0,73,0,0,1,0.0,0.0,0.0,1,1,69,72,95.8,5,53,2,1,1,Manchester City
+Rico Lewis,82.0,eng ENG,"RB,LB",20-044,90,0,0,0,0,1,1,0,0,73,0,0,1,0.1,0.1,0.0,0,0,59,64,92.2,3,43,1,0,0,Manchester City
+Stefan Ortega,18.0,de GER,GK,32-059,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,38,47,80.9,0,31,0,0,0,Manchester City
+15 Players,,,,,990,3,3,0,0,10,7,2,0,673,12,6,9,1.9,1.9,1.9,19,5,510,583,87.5,41,391,21,12,6,Manchester City
+Niclas Füllkrug,11.0,de GER,FW,31-330,90,1,0,0,0,2,1,1,0,21,0,0,0,0.5,0.5,0.1,5,0,12,17,70.6,1,4,0,0,0,West Ham United
+Crysencio Summerville,7.0,nl NED,LW,23-066,90,0,0,0,0,2,1,0,0,40,0,0,0,0.1,0.1,0.2,6,0,21,29,72.4,3,23,2,8,3,West Ham United
+Mohammed Kudus,14.0,gh GHA,RW,24-155,71,0,0,0,0,5,0,0,0,28,0,1,0,0.2,0.2,0.2,3,0,19,19,100.0,2,19,6,1,0,West Ham United
+Luis Guilherme,17.0,br BRA,RW,18-330,19,0,0,0,0,0,0,0,0,9,1,1,2,0.0,0.0,0.0,2,0,3,3,100.0,0,3,0,0,0,West Ham United
+Lucas Paquetá,10.0,br BRA,"AM,DM",27-130,90,0,0,0,0,3,0,0,0,76,5,0,0,0.1,0.1,0.3,6,0,52,61,85.2,9,29,0,3,0,West Ham United
+Edson Álvarez,19.0,mx MEX,DM,27-072,86,0,0,0,0,0,0,0,0,63,1,0,2,0.0,0.0,0.1,4,1,50,53,94.3,4,41,1,2,1,West Ham United
+Danny Ings,18.0,eng ENG,AM,32-165,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,West Ham United
+Tomáš Souček,28.0,cz CZE,DM,29-312,90,0,1,0,0,3,1,0,0,39,1,0,1,0.4,0.4,0.4,2,1,18,32,56.3,2,13,1,0,0,West Ham United
+Aaron Wan-Bissaka,29.0,cd COD,LB,27-039,90,0,0,0,0,1,0,0,0,64,2,3,2,0.0,0.0,0.0,1,0,42,51,82.4,2,39,4,3,2,West Ham United
+Max Kilman,26.0,eng ENG,CB,27-226,90,0,0,0,0,0,0,0,0,51,0,0,2,0.0,0.0,0.0,1,0,41,45,91.1,2,27,2,0,0,West Ham United
+Jean-Clair Todibo,25.0,fr FRA,CB,25-005,52,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,31,34,91.2,2,23,0,0,0,West Ham United
+Konstantinos Mavropanos,15.0,gr GRE,CB,27-024,38,0,0,0,0,0,0,0,0,30,0,1,1,0.0,0.0,0.0,0,0,23,26,88.5,0,14,0,0,0,West Ham United
+Vladimír Coufal,5.0,cz CZE,RB,32-135,90,0,0,0,0,1,1,0,0,68,3,1,1,0.0,0.0,0.1,3,0,51,56,91.1,4,24,3,0,0,West Ham United
+Alphonse Areola,23.0,fr FRA,GK,31-312,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,31,39,79.5,0,27,0,0,0,West Ham United
+14 Players,,,,,990,1,1,0,0,17,4,1,0,567,13,7,11,1.4,1.4,1.3,33,2,394,465,84.7,31,286,19,17,6,West Ham United

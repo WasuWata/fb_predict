@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Neal Maupay,7.0,fr FRA,FW,27-082,90,1,0,0,0,3,1,0,0,36,2,0,1,0.6,0.6,0.0,3,0,19,26,73.1,4,22,2,2,1,Brentford
+Yoane Wissa,11.0,cd COD,LW,27-062,88,0,0,0,0,2,0,0,0,24,1,0,1,0.2,0.2,0.1,2,0,9,15,60.0,1,10,1,1,0,Brentford
+Saman Ghoddos,14.0,ir IRN,LW,30-059,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,0,2,0,0,0,Brentford
+Bryan Mbeumo,19.0,cm CMR,RW,24-089,90,0,0,0,0,4,1,0,0,71,0,1,1,0.3,0.3,0.0,6,1,32,57,56.1,11,49,7,5,1,Brentford
+Mathias Jensen,8.0,dk DEN,LM,27-307,78,0,1,0,0,0,0,0,0,62,1,0,2,0.0,0.0,0.2,7,1,48,56,85.7,10,34,1,1,1,Brentford
+Yehor Yarmoliuk,33.0,ua UKR,LM,19-248,12,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,2,1,Brentford
+Christian Nørgaard,6.0,dk DEN,CM,29-239,90,0,0,0,0,2,0,0,0,73,2,1,1,0.1,0.1,0.1,3,0,47,60,78.3,10,31,0,0,0,Brentford
+Frank Onyeka,15.0,ng NGA,RM,25-307,90,0,1,0,0,3,1,0,0,51,2,1,0,0.2,0.2,0.4,3,1,32,39,82.1,4,31,2,3,1,Brentford
+Vitaly Janelt,27.0,de GER,LB,25-178,89,0,0,0,0,1,0,0,0,81,0,1,0,0.0,0.0,0.2,2,0,53,72,73.6,1,51,4,0,0,Brentford
+Ben Mee,16.0,eng ENG,LB,34-044,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Brentford
+Ethan Pinnock,5.0,jm JAM,CB,30-159,90,0,0,0,0,0,0,0,0,84,0,1,0,0.0,0.0,0.0,0,0,62,78,79.5,5,44,2,1,0,Brentford
+Nathan Collins,22.0,ie IRL,CB,22-188,90,1,0,0,0,1,1,0,0,98,0,0,2,0.2,0.2,0.0,0,0,71,78,91.0,4,59,0,0,0,Brentford
+Kristoffer Ajer,20.0,no NOR,RB,25-201,78,0,0,0,0,0,0,1,0,60,1,0,1,0.0,0.0,0.0,2,0,44,56,78.6,4,35,1,0,0,Brentford
+Mads Roerslev,30.0,dk DEN,RB,24-133,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Brentford
+Mark Flekken,1.0,nl NED,GK,30-144,45,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,18,22,81.8,0,15,0,0,0,Brentford
+Thomas Strakosha,21.0,al ALB,GK,28-230,45,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,19,22,86.4,0,17,0,0,0,Brentford
+16 Players,,,,,990,2,2,0,0,16,4,1,0,706,9,5,9,1.6,1.6,1.1,29,3,465,595,78.2,54,408,20,15,5,Brentford

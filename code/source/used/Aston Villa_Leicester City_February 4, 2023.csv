@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ollie Watkins,11.0,eng ENG,FW,27-036,90,1,0,0,0,4,1,0,0,25,0,1,1,0.7,0.7,0.1,5,0,8,9,88.9,1,12,0,3,1,Aston Villa
+Leon Bailey,31.0,jm JAM,"FW,RW",25-179,81,0,0,0,0,4,2,0,0,41,0,0,0,0.5,0.5,0.1,3,0,15,26,57.7,1,27,4,7,1,Aston Villa
+Jáder Durán,22.0,co COL,RW,19-053,9,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,1,4,1,1,1,Aston Villa
+Emi Buendía,10.0,ar ARG,"LW,LM",26-041,90,0,0,0,0,5,1,0,0,50,0,0,1,0.3,0.3,0.4,7,1,35,39,89.7,9,27,3,3,1,Aston Villa
+Douglas Luiz,6.0,br BRA,"DM,CM",24-271,90,0,0,0,0,0,0,0,0,115,1,0,2,0.0,0.0,0.2,4,0,94,110,85.5,9,45,1,2,2,Aston Villa
+Boubacar Kamara,44.0,fr FRA,"CM,DM",23-073,81,0,0,0,0,0,0,0,0,54,3,1,0,0.0,0.0,0.1,3,0,40,48,83.3,7,24,0,3,3,Aston Villa
+Leander Dendoncker,32.0,be BEL,DM,27-295,9,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,4,3,0,0,0,Aston Villa
+Jacob Ramsey,41.0,eng ENG,RM,21-252,45,0,0,0,0,0,0,0,0,22,0,0,3,0.0,0.0,0.1,1,0,14,18,77.8,2,7,2,0,0,Aston Villa
+Philippe Coutinho,23.0,br BRA,AM,30-237,45,0,0,0,0,2,0,0,0,28,0,0,0,0.1,0.1,0.2,3,0,15,20,75.0,3,16,0,4,0,Aston Villa
+Lucas Digne,27.0,fr FRA,LB,29-199,45,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.1,2,0,18,22,81.8,3,10,0,0,0,Aston Villa
+Álex Moreno,15.0,es ESP,LB,29-241,45,0,0,0,0,2,0,0,0,38,0,0,0,0.1,0.1,0.0,1,0,20,34,58.8,1,19,4,2,1,Aston Villa
+Tyrone Mings,5.0,eng ENG,CB,29-328,90,0,0,0,0,0,0,0,0,75,0,2,1,0.0,0.0,0.0,1,0,60,67,89.6,5,43,1,1,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,CB,25-104,90,0,0,0,0,1,0,0,0,94,1,0,1,0.1,0.1,0.0,1,0,85,89,95.5,1,58,0,0,0,Aston Villa
+Ashley Young,18.0,eng ENG,RB,37-210,58,0,0,0,0,1,0,0,0,54,4,1,0,0.0,0.0,0.1,2,0,41,48,85.4,5,14,0,1,1,Aston Villa
+Matty Cash,2.0,pl POL,RB,25-181,32,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,29,36,80.6,6,19,1,0,0,Aston Villa
+Emiliano Martínez,1.0,ar ARG,GK,30-155,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,25,29,86.2,0,13,0,0,0,Aston Villa
+16 Players,,,,,990,1,0,0,0,19,4,0,0,700,9,5,9,1.7,1.7,1.2,35,1,511,610,83.8,58,341,17,27,11,Aston Villa
+Ollie Watkins,11.0,eng ENG,FW,27-036,90,1,0,0,0,4,1,0,0,25,0,1,1,0.7,0.7,0.1,5,0,8,9,88.9,1,12,0,3,1,Leicester City
+Leon Bailey,31.0,jm JAM,"FW,RW",25-179,81,0,0,0,0,4,2,0,0,41,0,0,0,0.5,0.5,0.1,3,0,15,26,57.7,1,27,4,7,1,Leicester City
+Jáder Durán,22.0,co COL,RW,19-053,9,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,1,4,1,1,1,Leicester City
+Emi Buendía,10.0,ar ARG,"LW,LM",26-041,90,0,0,0,0,5,1,0,0,50,0,0,1,0.3,0.3,0.4,7,1,35,39,89.7,9,27,3,3,1,Leicester City
+Douglas Luiz,6.0,br BRA,"DM,CM",24-271,90,0,0,0,0,0,0,0,0,115,1,0,2,0.0,0.0,0.2,4,0,94,110,85.5,9,45,1,2,2,Leicester City
+Boubacar Kamara,44.0,fr FRA,"CM,DM",23-073,81,0,0,0,0,0,0,0,0,54,3,1,0,0.0,0.0,0.1,3,0,40,48,83.3,7,24,0,3,3,Leicester City
+Leander Dendoncker,32.0,be BEL,DM,27-295,9,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,4,3,0,0,0,Leicester City
+Jacob Ramsey,41.0,eng ENG,RM,21-252,45,0,0,0,0,0,0,0,0,22,0,0,3,0.0,0.0,0.1,1,0,14,18,77.8,2,7,2,0,0,Leicester City
+Philippe Coutinho,23.0,br BRA,AM,30-237,45,0,0,0,0,2,0,0,0,28,0,0,0,0.1,0.1,0.2,3,0,15,20,75.0,3,16,0,4,0,Leicester City
+Lucas Digne,27.0,fr FRA,LB,29-199,45,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.1,2,0,18,22,81.8,3,10,0,0,0,Leicester City
+Álex Moreno,15.0,es ESP,LB,29-241,45,0,0,0,0,2,0,0,0,38,0,0,0,0.1,0.1,0.0,1,0,20,34,58.8,1,19,4,2,1,Leicester City
+Tyrone Mings,5.0,eng ENG,CB,29-328,90,0,0,0,0,0,0,0,0,75,0,2,1,0.0,0.0,0.0,1,0,60,67,89.6,5,43,1,1,0,Leicester City
+Ezri Konsa,4.0,eng ENG,CB,25-104,90,0,0,0,0,1,0,0,0,94,1,0,1,0.1,0.1,0.0,1,0,85,89,95.5,1,58,0,0,0,Leicester City
+Ashley Young,18.0,eng ENG,RB,37-210,58,0,0,0,0,1,0,0,0,54,4,1,0,0.0,0.0,0.1,2,0,41,48,85.4,5,14,0,1,1,Leicester City
+Matty Cash,2.0,pl POL,RB,25-181,32,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,29,36,80.6,6,19,1,0,0,Leicester City
+Emiliano Martínez,1.0,ar ARG,GK,30-155,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,25,29,86.2,0,13,0,0,0,Leicester City
+16 Players,,,,,990,1,0,0,0,19,4,0,0,700,9,5,9,1.7,1.7,1.2,35,1,511,610,83.8,58,341,17,27,11,Leicester City

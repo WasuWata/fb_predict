@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Alexander Isak,14.0,se SWE,FW,24-331,90,0,1,0,0,0,0,0,0,19,1,1,1,0.0,0.0,0.2,2,2,8,10,80.0,1,6,0,1,0,Newcastle United
+Anthony Gordon,10.0,eng ENG,LW,23-175,69,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,2,0,11,18,61.1,2,11,4,2,1,Newcastle United
+Harvey Barnes,11.0,eng ENG,LW,26-252,21,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,1,0,Newcastle United
+Jacob Murphy,23.0,eng ENG,RW,29-175,29,0,0,0,0,0,0,0,0,12,3,0,0,0.0,0.0,0.0,1,0,6,7,85.7,3,6,0,1,0,Newcastle United
+Emil Krafth,17.0,se SWE,CB,30-015,61,0,0,0,0,0,0,0,0,12,0,0,2,0.0,0.0,0.0,0,0,2,3,66.7,0,0,0,0,0,Newcastle United
+Joelinton,7.0,br BRA,LM,28-003,90,1,0,0,0,2,1,0,0,34,1,1,4,0.2,0.2,0.0,0,0,10,17,58.8,2,13,1,1,0,Newcastle United
+Bruno Guimarães,39.0,br BRA,CM,26-275,90,0,0,0,0,0,0,0,0,42,6,1,4,0.0,0.0,0.0,0,0,18,28,64.3,1,17,0,0,0,Newcastle United
+Sean Longstaff,36.0,eng ENG,RM,26-292,90,0,0,0,0,0,0,0,0,22,3,0,2,0.0,0.0,0.0,0,0,11,15,73.3,2,5,0,0,0,Newcastle United
+Lewis Hall,20.0,eng ENG,LB,19-344,69,0,0,0,0,0,0,1,0,38,0,1,4,0.0,0.0,0.0,1,0,17,30,56.7,3,13,2,1,0,Newcastle United
+Lloyd Kelly,25.0,eng ENG,LB,25-316,21,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Newcastle United
+Dan Burn,33.0,eng ENG,CB,32-100,90,0,0,0,0,0,0,1,0,30,0,0,1,0.0,0.0,0.0,0,0,13,18,72.2,0,11,0,0,0,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,32-241,27,0,0,0,0,1,0,0,1,13,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,1,6,0,0,0,Newcastle United
+Valentino Livramento,21.0,eng ENG,RB,21-279,90,0,0,0,0,0,0,0,0,34,2,0,5,0.0,0.0,0.0,0,0,11,20,55.0,0,8,1,0,0,Newcastle United
+Nick Pope,22.0,eng ENG,GK,32-120,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,10,26,38.5,0,10,0,0,0,Newcastle United
+14 Players,,,,,927,1,1,0,0,3,1,2,1,317,16,4,24,0.3,0.3,0.3,6,2,128,207,61.8,15,108,8,7,1,Newcastle United

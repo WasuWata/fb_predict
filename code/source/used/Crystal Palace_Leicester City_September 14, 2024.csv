@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jean-Philippe Mateta,14.0,fr FRA,FW,27-078,90,2,0,1,1,3,1,0,0,29,0,0,0,1.4,0.6,0.0,0,0,12,18,66.7,2,19,0,1,0,Crystal Palace
+Eberechi Eze,10.0,eng ENG,"AM,LW",26-077,90,0,0,0,0,3,0,0,0,73,2,0,2,0.5,0.5,0.2,10,1,54,61,88.5,12,51,3,2,1,Crystal Palace
+Eddie Nketiah,9.0,eng ENG,AM,25-107,90,0,0,0,0,6,1,0,0,45,0,1,1,0.3,0.3,0.1,2,0,27,33,81.8,2,31,5,1,1,Crystal Palace
+Cheick Doucouré,28.0,ml MLI,CM,24-250,45,0,0,0,0,1,0,0,0,33,4,1,1,0.0,0.0,0.0,1,0,26,27,96.3,3,23,0,1,1,Crystal Palace
+Will Hughes,19.0,eng ENG,"DM,CM",29-150,45,0,0,0,0,0,0,0,0,39,2,1,0,0.0,0.0,0.0,1,0,30,36,83.3,6,29,1,0,0,Crystal Palace
+Adam Wharton,20.0,eng ENG,"CM,DM",20-221,90,0,0,0,0,0,0,0,0,83,4,1,1,0.0,0.0,0.1,5,0,60,72,83.3,15,57,0,1,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,"WB,LB",25-013,88,0,1,0,0,1,1,0,0,87,0,1,1,0.0,0.0,0.9,8,1,61,80,76.3,8,59,4,3,1,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,LB,31-266,2,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,1,0,0,0,Crystal Palace
+Daniel Muñoz,12.0,co COL,"WB,RB",28-111,80,0,0,0,0,2,0,0,0,79,3,1,2,0.2,0.2,0.1,3,0,50,60,83.3,5,39,2,0,0,Crystal Palace
+Ismaila Sarr,7.0,sn SEN,RB,26-202,10,0,0,0,0,1,0,0,0,13,0,0,0,0.1,0.1,0.0,1,1,5,10,50.0,0,8,1,1,0,Crystal Palace
+Maxence Lacroix,5.0,fr FRA,CB,24-161,90,0,0,0,0,0,0,0,0,81,3,1,1,0.0,0.0,0.1,3,0,64,76,84.2,2,56,0,0,0,Crystal Palace
+Marc Guéhi,6.0,eng ENG,CB,24-063,90,0,0,0,0,0,0,0,0,85,0,1,1,0.0,0.0,0.0,1,0,65,76,85.5,4,50,2,0,0,Crystal Palace
+Nathaniel Clyne,17.0,eng ENG,CB,33-162,63,0,0,0,0,0,0,0,0,58,4,0,0,0.0,0.0,0.0,0,0,40,50,80.0,3,46,1,0,0,Crystal Palace
+Daichi Kamada,18.0,jp JPN,RW,28-040,27,0,0,0,0,2,0,0,0,21,1,0,0,0.1,0.1,0.0,2,0,8,16,50.0,4,11,1,0,0,Crystal Palace
+Dean Henderson,1.0,eng ENG,GK,27-186,90,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,0,0,28,31,90.3,0,23,0,0,0,Crystal Palace
+15 Players,,,,,990,2,1,1,1,19,3,0,0,766,24,8,10,2.5,1.8,1.4,37,3,533,652,81.7,66,503,20,10,4,Crystal Palace
+Jean-Philippe Mateta,14.0,fr FRA,FW,27-078,90,2,0,1,1,3,1,0,0,29,0,0,0,1.4,0.6,0.0,0,0,12,18,66.7,2,19,0,1,0,Leicester City
+Eberechi Eze,10.0,eng ENG,"AM,LW",26-077,90,0,0,0,0,3,0,0,0,73,2,0,2,0.5,0.5,0.2,10,1,54,61,88.5,12,51,3,2,1,Leicester City
+Eddie Nketiah,9.0,eng ENG,AM,25-107,90,0,0,0,0,6,1,0,0,45,0,1,1,0.3,0.3,0.1,2,0,27,33,81.8,2,31,5,1,1,Leicester City
+Cheick Doucouré,28.0,ml MLI,CM,24-250,45,0,0,0,0,1,0,0,0,33,4,1,1,0.0,0.0,0.0,1,0,26,27,96.3,3,23,0,1,1,Leicester City
+Will Hughes,19.0,eng ENG,"DM,CM",29-150,45,0,0,0,0,0,0,0,0,39,2,1,0,0.0,0.0,0.0,1,0,30,36,83.3,6,29,1,0,0,Leicester City
+Adam Wharton,20.0,eng ENG,"CM,DM",20-221,90,0,0,0,0,0,0,0,0,83,4,1,1,0.0,0.0,0.1,5,0,60,72,83.3,15,57,0,1,0,Leicester City
+Tyrick Mitchell,3.0,eng ENG,"WB,LB",25-013,88,0,1,0,0,1,1,0,0,87,0,1,1,0.0,0.0,0.9,8,1,61,80,76.3,8,59,4,3,1,Leicester City
+Jeffrey Schlupp,15.0,gh GHA,LB,31-266,2,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,1,0,0,0,Leicester City
+Daniel Muñoz,12.0,co COL,"WB,RB",28-111,80,0,0,0,0,2,0,0,0,79,3,1,2,0.2,0.2,0.1,3,0,50,60,83.3,5,39,2,0,0,Leicester City
+Ismaila Sarr,7.0,sn SEN,RB,26-202,10,0,0,0,0,1,0,0,0,13,0,0,0,0.1,0.1,0.0,1,1,5,10,50.0,0,8,1,1,0,Leicester City
+Maxence Lacroix,5.0,fr FRA,CB,24-161,90,0,0,0,0,0,0,0,0,81,3,1,1,0.0,0.0,0.1,3,0,64,76,84.2,2,56,0,0,0,Leicester City
+Marc Guéhi,6.0,eng ENG,CB,24-063,90,0,0,0,0,0,0,0,0,85,0,1,1,0.0,0.0,0.0,1,0,65,76,85.5,4,50,2,0,0,Leicester City
+Nathaniel Clyne,17.0,eng ENG,CB,33-162,63,0,0,0,0,0,0,0,0,58,4,0,0,0.0,0.0,0.0,0,0,40,50,80.0,3,46,1,0,0,Leicester City
+Daichi Kamada,18.0,jp JPN,RW,28-040,27,0,0,0,0,2,0,0,0,21,1,0,0,0.1,0.1,0.0,2,0,8,16,50.0,4,11,1,0,0,Leicester City
+Dean Henderson,1.0,eng ENG,GK,27-186,90,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,0,0,28,31,90.3,0,23,0,0,0,Leicester City
+15 Players,,,,,990,2,1,1,1,19,3,0,0,766,24,8,10,2.5,1.8,1.4,37,3,533,652,81.7,66,503,20,10,4,Leicester City

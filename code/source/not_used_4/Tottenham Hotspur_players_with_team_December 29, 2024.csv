@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Solanke,19.0,eng ENG,FW,27-106,90,0,0,0,0,3,0,0,0,33,1,0,1,0.2,0.2,0.4,2,0,17,21,81.0,4,16,2,3,0,Tottenham Hotspur
+Son Heung-min,7.0,kr KOR,LW,32-174,63,0,0,0,1,1,0,0,0,26,1,0,0,0.9,0.1,0.0,1,0,15,20,75.0,2,16,3,0,0,Tottenham Hotspur
+Timo Werner,16.0,de GER,LW,28-298,27,0,0,0,0,0,0,0,0,19,2,0,0,0.0,0.0,0.0,4,0,11,15,73.3,3,13,3,1,1,Tottenham Hotspur
+Brennan Johnson,22.0,wls WAL,RW,23-220,63,1,0,0,0,1,1,0,0,17,2,1,1,0.1,0.1,0.0,2,1,5,12,41.7,2,9,3,0,0,Tottenham Hotspur
+James Maddison,10.0,eng ENG,AM,28-036,27,0,0,0,0,1,0,0,0,19,0,0,1,0.0,0.0,0.0,0,0,13,16,81.3,4,11,1,1,1,Tottenham Hotspur
+Dejan Kulusevski,21.0,se SWE,"AM,RW",24-248,90,0,1,0,0,1,0,0,0,44,2,1,1,0.4,0.4,0.7,7,1,18,27,66.7,3,28,5,7,1,Tottenham Hotspur
+Rodrigo Bentancur,30.0,uy URU,DM,27-187,90,1,0,0,0,2,1,1,0,60,2,1,3,0.1,0.1,0.0,1,0,35,46,76.1,7,28,1,2,1,Tottenham Hotspur
+Yves Bissouma,8.0,ml MLI,DM,28-121,63,0,0,0,0,1,0,0,0,28,0,0,0,0.1,0.1,0.0,0,0,19,24,79.2,4,10,0,0,0,Tottenham Hotspur
+Pape Matar Sarr,29.0,sn SEN,DM,22-106,27,0,0,0,0,1,0,0,0,18,1,0,2,0.4,0.4,0.0,0,0,11,13,84.6,1,13,1,2,2,Tottenham Hotspur
+Destiny Udogie,13.0,it ITA,LB,22-031,49,0,0,0,0,0,0,0,0,42,5,0,2,0.0,0.0,0.1,2,0,28,32,87.5,4,23,0,1,0,Tottenham Hotspur
+Sergio Reguilón,3.0,es ESP,LB,28-013,41,0,0,0,0,0,0,0,0,38,0,0,1,0.0,0.0,0.0,1,0,22,33,66.7,4,18,2,1,0,Tottenham Hotspur
+Archie Gray,14.0,eng ENG,CB,18-292,90,0,0,0,0,0,0,0,0,73,1,0,0,0.0,0.0,0.0,0,0,60,66,90.9,0,51,0,0,0,Tottenham Hotspur
+Radu Drăgușin,6.0,ro ROU,CB,22-330,90,0,0,0,0,1,0,0,0,56,0,0,1,0.0,0.0,0.0,1,0,40,50,80.0,0,36,0,0,0,Tottenham Hotspur
+Pedro Porro,23.0,es ESP,RB,25-107,90,0,1,0,0,0,0,0,0,71,1,2,4,0.0,0.0,0.1,3,2,39,60,65.0,2,29,1,0,0,Tottenham Hotspur
+Fraser Forster,20.0,eng ENG,GK,36-287,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,16,24,66.7,0,11,0,0,0,Tottenham Hotspur
+15 Players,,,,,990,2,2,0,1,12,2,1,0,570,18,5,17,2.2,1.5,1.4,24,4,349,459,76.0,40,312,22,18,6,Tottenham Hotspur

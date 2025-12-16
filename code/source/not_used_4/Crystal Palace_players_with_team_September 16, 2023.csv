@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Odsonne Édouard,22.0,fr FRA,"AM,FW",25-243,89,1,0,0,0,1,1,0,0,45,4,1,1,0.3,0.3,0.1,3,0,14,26,53.8,4,22,3,4,0,Crystal Palace
+Naouirou Ahamada,29.0,fr FRA,LW,21-171,1,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,5,8,62.5,0,8,2,0,0,Crystal Palace
+Eberechi Eze,10.0,eng ENG,"LW,FW,AM",25-079,90,0,0,0,0,4,2,1,0,52,1,0,1,0.4,0.4,0.0,1,0,31,37,83.8,5,36,4,11,7,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,"RW,LM",30-267,90,0,0,0,0,0,0,0,0,38,3,0,1,0.0,0.0,0.0,1,0,15,23,65.2,3,19,0,2,0,Crystal Palace
+Will Hughes,19.0,eng ENG,"DM,CM",28-152,90,0,0,0,0,0,0,1,0,57,5,1,6,0.0,0.0,0.0,0,0,33,39,84.6,0,20,0,3,2,Crystal Palace
+Cheick Doucouré,28.0,ml MLI,"DM,CM",23-251,89,0,0,0,0,0,0,0,0,48,4,4,3,0.0,0.0,0.3,3,1,31,35,88.6,10,20,3,3,3,Crystal Palace
+Jesurun Rak Sakyi,49.0,eng ENG,DM,20-346,1,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Crystal Palace
+Jordan Ayew,9.0,gh GHA,RM,32-005,24,0,0,0,0,0,0,0,0,8,1,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,1,0,Crystal Palace
+Jean-Philippe Mateta,14.0,fr FRA,FW,26-080,66,0,1,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.3,2,1,7,12,58.3,1,15,1,3,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,LB,24-015,90,0,0,0,0,0,0,0,0,52,0,1,0,0.0,0.0,0.0,0,0,35,46,76.1,0,23,2,1,1,Crystal Palace
+Chris Richards,26.0,us USA,CB,23-172,90,0,0,0,0,0,0,0,0,36,1,1,3,0.0,0.0,0.0,0,0,20,24,83.3,0,13,0,0,0,Crystal Palace
+Joachim Andersen,16.0,dk DEN,CB,27-108,90,0,0,0,0,0,0,0,0,44,0,1,1,0.0,0.0,0.4,1,0,22,34,64.7,3,18,1,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,RB,33-322,90,0,0,0,0,1,0,1,0,38,2,1,2,0.4,0.4,0.0,0,0,20,30,66.7,1,12,1,0,0,Crystal Palace
+Sam Johnstone,1.0,eng ENG,GK,30-175,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,12,22,54.5,0,14,0,0,0,Crystal Palace
+14 Players,,,,,990,1,1,0,0,6,3,3,0,479,23,12,18,1.2,1.2,1.2,11,2,248,339,73.2,27,224,17,28,13,Crystal Palace

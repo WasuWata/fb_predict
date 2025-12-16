@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Christian Pulisic,10.0,us USA,FW,23-092,90,0,0,0,0,1,1,0,0,29,0,0,0,0.4,0.4,0.0,1,0,14,24,58.3,2,20,3,3,1,Chelsea
+Hakim Ziyech,22.0,ma MAR,AM,28-275,64,0,0,0,0,0,0,0,0,38,2,0,0,0.0,0.0,0.0,1,0,23,32,71.9,2,27,1,6,4,Chelsea
+Mateo Kovačić,8.0,hr CRO,AM,27-227,26,0,0,0,0,0,0,0,0,30,2,0,0,0.0,0.0,0.0,0,0,22,26,84.6,2,21,1,1,1,Chelsea
+Mason Mount,19.0,eng ENG,AM,22-343,90,0,0,0,0,2,0,0,0,87,3,1,1,0.1,0.1,0.3,5,0,53,74,71.6,8,49,5,2,1,Chelsea
+Trevoh Chalobah,14.0,eng ENG,CM,22-167,45,0,0,0,0,0,0,1,0,33,1,2,1,0.0,0.0,0.0,0,0,21,24,87.5,2,13,0,1,0,Chelsea
+Saúl Ñíguez,17.0,es ESP,CM,27-028,45,0,0,0,0,0,0,0,0,69,2,3,3,0.0,0.0,0.0,0,0,51,56,91.1,2,39,0,1,0,Chelsea
+N'Golo Kanté,7.0,fr FRA,CM,30-265,90,0,0,0,0,2,0,0,0,76,2,2,2,0.2,0.2,0.0,1,0,55,68,80.9,6,53,5,6,5,Chelsea
+Marcos Alonso,3.0,es ESP,WB,30-356,90,0,0,0,0,0,0,0,0,67,2,4,0,0.0,0.0,0.4,2,0,44,54,81.5,1,32,4,2,1,Chelsea
+Reece James,24.0,eng ENG,WB,22-011,90,0,0,0,0,0,0,0,0,99,0,3,0,0.0,0.0,0.0,3,0,81,96,84.4,14,60,1,1,1,Chelsea
+Antonio Rüdiger,2.0,de GER,CB,28-291,90,0,0,0,0,2,0,1,0,102,2,0,0,0.1,0.1,0.0,1,0,84,92,91.3,6,63,1,0,0,Chelsea
+Thiago Silva,6.0,br BRA,CB,37-088,90,0,0,0,0,0,0,0,0,132,0,1,2,0.0,0.0,0.0,1,0,118,123,95.9,8,90,1,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,CB,32-113,90,0,0,0,0,1,0,0,0,114,0,0,1,0.1,0.1,0.1,1,0,91,109,83.5,10,74,3,0,0,Chelsea
+Edouard Mendy,16.0,sn SEN,GK,29-293,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,19,20,95.0,0,14,0,0,0,Chelsea
+13 Players,,,,,990,0,0,0,0,8,1,2,0,898,16,16,10,0.9,0.9,0.9,16,0,676,798,84.7,63,555,25,23,14,Chelsea

@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Solanke,9.0,eng ENG,FW,26-080,90,1,0,0,0,4,3,0,0,24,2,0,2,1.3,1.3,0.0,0,0,9,12,75.0,0,14,0,0,0,Bournemouth
+Antoine Semenyo,24.0,gh GHA,LW,23-330,69,1,0,0,0,3,3,1,0,28,0,0,2,0.3,0.3,0.0,1,0,9,18,50.0,0,19,5,3,0,Bournemouth
+Luis Sinisterra,17.0,co COL,LW,24-169,21,0,0,0,0,0,0,0,0,11,1,0,2,0.0,0.0,0.0,1,0,8,8,100.0,3,4,1,2,1,Bournemouth
+Marcus Tavernier,16.0,eng ENG,RW,24-256,89,0,0,0,0,2,0,0,0,45,2,0,1,0.1,0.1,0.6,5,0,16,28,57.1,3,25,3,8,3,Bournemouth
+Dango Ouattara,11.0,bf BFA,RW,21-295,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bournemouth
+Justin Kluivert,19.0,nl NED,AM,24-212,69,0,0,0,0,2,0,1,0,23,3,0,0,0.0,0.0,0.1,2,0,8,11,72.7,1,12,1,5,2,Bournemouth
+Philip Billing,29.0,dk DEN,AM,27-175,21,0,0,0,0,0,0,0,0,15,0,0,2,0.0,0.0,0.1,1,0,5,13,38.5,0,3,0,0,0,Bournemouth
+Lewis Cook,4.0,eng ENG,DM,26-303,90,0,0,0,0,0,0,0,0,48,0,1,1,0.0,0.0,0.3,5,0,33,41,80.5,6,12,0,1,1,Bournemouth
+Ryan Christie,10.0,sct SCO,DM,28-284,90,0,1,0,0,3,1,1,0,54,6,2,0,0.2,0.2,0.8,6,1,31,38,81.6,9,26,3,4,4,Bournemouth
+Milos Kerkez,3.0,hu HUN,LB,20-026,82,0,1,0,0,0,0,1,0,36,4,1,1,0.0,0.0,0.1,3,2,14,28,50.0,2,10,1,0,0,Bournemouth
+Chris Mepham,6.0,wls WAL,LB,26-028,8,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,4,0,0,0,Bournemouth
+Marcos Senesi,25.0,ar ARG,CB,26-207,90,0,0,0,0,0,0,1,0,47,2,2,5,0.0,0.0,0.0,1,0,20,30,66.7,2,20,0,0,0,Bournemouth
+Illia Zabarnyi,27.0,ua UKR,CB,21-093,90,0,0,0,0,1,0,0,0,43,5,0,1,0.1,0.1,0.0,0,0,23,33,69.7,2,14,0,0,0,Bournemouth
+Adam Smith,15.0,eng ENG,RB,32-218,90,0,0,0,0,0,0,0,0,40,0,2,0,0.0,0.0,0.0,2,0,24,31,77.4,0,8,0,1,0,Bournemouth
+Neto,1.0,br BRA,GK,34-137,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,12,19,63.2,0,7,0,0,0,Bournemouth
+15 Players,,,,,990,2,2,0,0,15,7,5,0,446,25,8,17,2.0,2.0,1.9,27,3,219,319,68.7,28,178,14,24,11,Bournemouth
+Ollie Watkins,11.0,eng ENG,FW,27-338,90,1,1,0,0,2,1,0,0,32,1,0,0,0.1,0.1,0.1,2,1,12,23,52.2,2,18,0,3,0,Aston Villa
+Nicolò Zaniolo,22.0,it ITA,FW,24-154,45,0,0,0,0,1,0,1,0,15,1,0,2,0.0,0.0,0.0,1,1,3,7,42.9,0,8,0,1,0,Aston Villa
+Jacob Ramsey,41.0,eng ENG,FW,22-189,45,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,12,16,75.0,0,12,1,1,0,Aston Villa
+John McGinn,7.0,sct SCO,LM,29-046,64,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,0,0,16,25,64.0,5,15,0,0,0,Aston Villa
+Jáder Durán,24.0,co COL,LM,19-355,26,0,0,0,0,1,0,1,0,7,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,1,4,0,0,0,Aston Villa
+Douglas Luiz,6.0,br BRA,"CM,RM",25-208,90,0,0,0,0,4,1,0,0,96,3,1,1,0.3,0.3,0.0,8,0,74,85,87.1,3,55,2,4,3,Aston Villa
+Youri Tielemans,8.0,be BEL,CM,26-210,90,0,0,0,0,0,0,0,0,70,6,3,0,0.0,0.0,0.0,1,0,46,60,76.7,7,37,0,0,0,Aston Villa
+Leon Bailey,31.0,jm JAM,"RM,CM",26-116,73,1,0,0,0,2,1,0,0,35,0,0,0,0.1,0.1,0.2,1,0,22,28,78.6,2,29,5,5,2,Aston Villa
+Moussa Diaby,19.0,fr FRA,CM,24-149,17,0,1,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,1,1,3,5,60.0,0,6,1,4,0,Aston Villa
+Lucas Digne,12.0,fr FRA,LB,30-136,73,0,0,0,0,1,0,0,0,50,2,0,0,0.0,0.0,0.1,2,0,30,42,71.4,3,19,3,0,0,Aston Villa
+Álex Moreno,15.0,es ESP,LB,30-178,17,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,5,5,100.0,0,2,0,1,0,Aston Villa
+Pau Torres,14.0,es ESP,CB,26-321,90,0,0,0,0,0,0,1,0,46,1,1,0,0.0,0.0,0.0,2,1,34,42,81.0,8,32,6,1,1,Aston Villa
+Diego Carlos,3.0,br BRA,CB,30-263,90,0,0,0,0,0,0,0,0,93,1,1,2,0.0,0.0,0.0,0,0,70,83,84.3,5,51,0,0,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,RB,26-041,73,0,0,0,0,0,0,0,0,45,5,1,2,0.0,0.0,0.0,1,0,28,33,84.8,2,19,2,2,2,Aston Villa
+Matty Cash,2.0,pl POL,RB,26-118,17,0,0,0,0,0,0,0,0,25,2,0,0,0.0,0.0,0.0,0,0,11,22,50.0,3,12,0,0,0,Aston Villa
+Emiliano Martínez,1.0,ar ARG,GK,31-092,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,41,47,87.2,1,30,0,0,0,Aston Villa
+16 Players,,,,,990,2,2,0,0,11,3,3,0,630,24,7,9,0.7,0.7,0.5,19,4,409,527,77.6,42,349,20,22,8,Aston Villa

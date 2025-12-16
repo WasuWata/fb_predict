@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Harry Kane,10.0,eng ENG,FW,29-037,77,1,0,0,0,3,2,0,0,33,1,0,1,1.0,1.0,0.4,3,0,19,24,79.2,10,21,1,4,1,Tottenham Hotspur
+Dejan Kulusevski,21.0,se SWE,AM,22-131,13,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,8,0,2,0,Tottenham Hotspur
+Son Heung-min,7.0,kr KOR,AM,30-057,83,0,0,0,0,4,2,0,0,53,1,0,1,0.5,0.5,0.6,10,0,35,42,83.3,2,34,4,3,1,Tottenham Hotspur
+Ivan Perišić,14.0,hr CRO,AM,33-213,7,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Tottenham Hotspur
+Richarlison,9.0,br BRA,"AM,FW",25-116,90,0,1,0,0,3,1,1,0,54,4,1,3,0.3,0.3,0.6,6,1,25,32,78.1,3,34,4,4,1,Tottenham Hotspur
+Pierre Højbjerg,5.0,dk DEN,CM,27-029,90,1,0,0,0,1,1,0,0,67,1,0,1,0.2,0.2,0.0,3,1,56,62,90.3,5,53,0,2,1,Tottenham Hotspur
+Rodrigo Bentancur,30.0,uy URU,CM,25-070,90,0,0,0,0,1,0,1,0,76,1,1,1,0.0,0.0,0.1,5,0,60,66,90.9,8,56,0,1,0,Tottenham Hotspur
+Ryan Sessegnon,19.0,eng ENG,WB,22-108,90,0,0,0,0,6,2,0,0,65,3,1,0,0.5,0.5,0.2,6,1,35,50,70.0,3,45,5,1,0,Tottenham Hotspur
+Emerson,12.0,br BRA,WB,23-232,90,0,0,0,0,0,0,0,0,61,3,0,1,0.0,0.0,0.0,1,0,36,49,73.5,4,29,1,2,2,Tottenham Hotspur
+Clément Lenglet,34.0,fr FRA,CB,27-078,90,0,0,0,0,1,0,0,0,68,1,0,1,0.1,0.1,0.0,3,0,55,61,90.2,2,58,0,0,0,Tottenham Hotspur
+Eric Dier,15.0,eng ENG,CB,28-231,90,0,0,0,0,2,0,0,0,57,1,2,0,0.2,0.2,0.0,2,0,50,51,98.0,6,48,0,0,0,Tottenham Hotspur
+Cristian Romero,17.0,ar ARG,CB,24-129,90,0,0,0,0,2,2,1,0,63,2,3,0,0.4,0.4,0.0,0,0,50,53,94.3,2,52,0,1,1,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,35-251,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,17,24,70.8,0,15,0,0,0,Tottenham Hotspur
+13 Players,,,,,990,2,1,0,0,23,10,3,0,635,19,8,9,3.1,3.1,2.0,39,3,443,520,85.2,46,454,15,20,7,Tottenham Hotspur
+Aleksandar Mitrović,9.0,rs SRB,FW,27-352,90,1,0,0,0,5,3,1,0,22,0,0,0,0.5,0.5,0.1,3,1,6,12,50.0,1,11,1,2,2,Fulham
+Neeskens Kebano,7.0,cd COD,LW,30-177,59,0,0,0,0,1,0,0,0,22,0,0,0,0.1,0.1,0.0,1,0,13,17,76.5,1,13,1,1,0,Fulham
+Willian,20.0,br BRA,"LW,LM",34-025,31,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,10,12,83.3,1,10,0,1,0,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,RW,29-213,59,0,0,0,0,0,0,1,0,21,1,1,1,0.0,0.0,0.0,0,0,12,14,85.7,0,15,0,2,1,Fulham
+Daniel James,21.0,wls WAL,"RW,RM",24-297,31,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,7,10,70.0,1,7,2,0,0,Fulham
+Andreas Pereira,18.0,br BRA,AM,26-245,60,0,0,0,0,1,0,0,0,35,1,0,0,0.0,0.0,0.0,1,0,21,29,72.4,7,27,0,1,0,Fulham
+Tom Cairney,10.0,sct SCO,"AM,CM",31-226,30,0,0,0,0,1,0,0,0,28,0,0,0,0.1,0.1,0.0,2,0,21,24,87.5,3,24,1,2,1,Fulham
+João Palhinha,26.0,pt POR,DM,27-056,84,0,0,0,0,0,0,1,0,47,4,0,1,0.0,0.0,0.0,1,0,40,40,100.0,3,35,0,2,2,Fulham
+Carlos Vinícius,30.0,br BRA,FW,27-162,6,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Fulham
+Harrison Reed,6.0,eng ENG,"DM,CM",27-219,90,0,0,0,0,0,0,0,0,39,1,0,2,0.0,0.0,0.1,1,0,29,34,85.3,3,26,0,1,1,Fulham
+Antonee Robinson,33.0,us USA,LB,25-026,28,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,12,18,66.7,1,13,2,0,0,Fulham
+Kevin Mbabu,27.0,ch SUI,LB,27-137,62,0,0,0,0,0,0,0,0,67,3,2,1,0.0,0.0,0.0,0,0,42,55,76.4,2,34,1,2,1,Fulham
+Tim Ream,13.0,us USA,CB,34-333,90,0,0,0,0,0,0,0,0,81,1,1,3,0.0,0.0,0.0,1,0,63,71,88.7,8,49,1,0,0,Fulham
+Tosin Adarabioyo,4.0,eng ENG,CB,24-344,90,0,0,0,0,0,0,0,0,84,2,1,1,0.0,0.0,0.0,1,0,65,74,87.8,10,53,0,0,0,Fulham
+Kenny Tete,2.0,nl NED,RB,26-329,90,0,1,0,0,1,0,1,0,65,5,2,3,0.0,0.0,0.1,2,1,38,48,79.2,6,36,2,0,0,Fulham
+Bernd Leno,17.0,de GER,GK,30-183,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,21,29,72.4,0,19,0,0,0,Fulham
+16 Players,,,,,990,1,1,0,0,9,3,4,0,590,18,7,12,0.7,0.7,0.4,16,2,401,488,82.2,47,372,11,14,8,Fulham

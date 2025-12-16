@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ollie Watkins,11.0,eng ENG,FW,27-064,84,0,0,0,0,1,0,0,0,13,1,0,0,0.7,0.7,0.0,2,0,4,7,57.1,0,7,1,1,0,Aston Villa
+Jáder Durán,22.0,co COL,FW,19-081,6,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,5,0,0,0,Aston Villa
+Jacob Ramsey,41.0,eng ENG,LW,21-280,68,0,0,0,0,0,0,0,0,37,4,0,0,0.0,0.0,0.0,1,0,16,25,64.0,1,18,3,3,1,Aston Villa
+Leon Bailey,31.0,jm JAM,LW,25-207,22,0,0,0,0,1,0,0,0,13,0,1,0,0.0,0.0,0.1,1,0,5,10,50.0,0,10,3,0,0,Aston Villa
+John McGinn,7.0,sct SCO,RW,28-137,90,0,0,0,0,3,1,0,0,38,1,1,3,0.4,0.4,0.0,3,0,22,24,91.7,4,22,0,1,0,Aston Villa
+Emi Buendía,10.0,ar ARG,AM,26-069,90,0,0,0,0,1,0,0,0,47,0,0,0,0.1,0.1,0.7,1,0,36,38,94.7,3,32,1,0,0,Aston Villa
+Boubacar Kamara,44.0,fr FRA,DM,23-101,59,0,0,0,0,0,0,0,0,44,0,2,0,0.0,0.0,0.0,0,0,35,39,89.7,4,27,1,5,1,Aston Villa
+Calum Chambers,16.0,eng ENG,DM,28-043,31,0,0,0,0,0,0,0,0,29,1,0,1,0.0,0.0,0.0,1,0,21,27,77.8,5,13,1,0,0,Aston Villa
+Douglas Luiz,6.0,br BRA,DM,24-299,90,0,0,0,0,0,0,1,0,73,0,1,1,0.0,0.0,0.1,3,0,62,68,91.2,7,46,1,1,1,Aston Villa
+Álex Moreno,15.0,es ESP,LB,29-269,69,0,0,0,0,0,0,1,0,51,0,0,0,0.0,0.0,0.1,1,0,30,39,76.9,0,30,4,5,1,Aston Villa
+Lucas Digne,27.0,fr FRA,LB,29-227,21,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.1,1,0,19,23,82.6,0,17,0,0,0,Aston Villa
+Tyrone Mings,5.0,eng ENG,CB,29-356,90,0,0,0,0,0,0,0,0,85,0,1,0,0.0,0.0,0.0,0,0,75,79,94.9,4,59,0,0,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,CB,25-132,90,0,0,0,0,1,0,0,0,76,0,1,1,0.1,0.1,0.1,0,0,64,67,95.5,1,47,0,0,0,Aston Villa
+Matty Cash,2.0,pl POL,RB,25-209,90,0,0,0,0,0,0,0,0,64,5,0,0,0.0,0.0,0.0,2,0,49,56,87.5,2,36,2,5,3,Aston Villa
+Emiliano Martínez,1.0,ar ARG,GK,30-183,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,41,45,91.1,0,29,0,0,0,Aston Villa
+15 Players,,,,,990,0,0,0,0,8,1,2,0,646,13,7,6,1.2,1.2,1.2,16,0,480,549,87.4,31,398,17,21,7,Aston Villa
+Wilfried Zaha,11.0,ci CIV,"FW,AM,LM",30-114,90,0,0,0,0,2,0,1,0,21,1,0,0,0.1,0.1,0.0,1,0,6,12,50.0,0,15,1,3,1,Crystal Palace
+Eberechi Eze,10.0,eng ENG,"LW,CM",24-248,74,0,0,0,0,0,0,1,0,23,0,1,1,0.0,0.0,0.0,1,0,11,18,61.1,2,13,2,2,1,Crystal Palace
+Will Hughes,19.0,eng ENG,LM,27-321,16,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.1,1,0,11,14,78.6,3,8,1,0,0,Crystal Palace
+Jordan Ayew,9.0,gh GHA,"RW,RM,FW",31-174,74,0,0,0,0,0,0,0,0,32,3,0,1,0.0,0.0,0.0,0,0,15,20,75.0,2,17,0,5,1,Crystal Palace
+Naouirou Ahamada,29.0,fr FRA,RM,20-340,16,0,0,0,0,0,0,1,0,6,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0,Crystal Palace
+Michael Olise,7.0,fr FRA,"AM,RM",21-082,66,0,0,0,0,0,0,0,0,45,3,0,0,0.0,0.0,0.0,0,0,22,33,66.7,1,24,1,6,3,Crystal Palace
+Jean-Philippe Mateta,14.0,fr FRA,"AM,FW",25-249,24,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,5,0,1,1,Crystal Palace
+Albert Sambi Lokonga,8.0,be BEL,"DM,CM",23-133,80,0,0,0,0,0,0,0,0,48,4,1,2,0.0,0.0,0.0,1,0,37,40,92.5,2,23,0,0,0,Crystal Palace
+James McArthur,18.0,sct SCO,CM,35-148,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,6,0,0,0,Crystal Palace
+Cheick Doucouré,28.0,ml MLI,DM,23-055,61,0,0,0,0,0,0,2,1,24,0,0,1,0.0,0.0,0.0,0,0,15,19,78.9,2,10,0,0,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,LB,23-184,90,0,0,0,0,0,0,0,0,50,4,4,3,0.0,0.0,0.0,0,0,23,33,69.7,0,21,1,3,2,Crystal Palace
+Marc Guéhi,6.0,eng ENG,CB,22-234,90,0,0,0,0,0,0,0,0,55,3,0,0,0.0,0.0,0.0,1,0,49,51,96.1,3,32,0,1,1,Crystal Palace
+Joachim Andersen,16.0,dk DEN,CB,26-277,90,0,0,0,0,1,0,0,0,78,0,1,1,0.1,0.1,0.0,1,0,57,74,77.0,2,45,1,0,0,Crystal Palace
+Nathaniel Clyne,17.0,eng ENG,RB,31-333,90,0,0,0,0,0,0,0,0,55,2,1,1,0.0,0.0,0.0,0,0,45,49,91.8,4,21,2,1,1,Crystal Palace
+Vicente Guaita,13.0,es ESP,GK,36-053,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,29,75.9,0,13,0,0,0,Crystal Palace
+15 Players,,,,,961,0,0,0,0,3,0,5,1,495,22,9,10,0.2,0.2,0.2,6,0,324,404,80.2,21,257,9,22,11,Crystal Palace

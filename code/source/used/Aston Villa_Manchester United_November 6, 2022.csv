@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ollie Watkins,11.0,eng ENG,FW,26-311,77,0,1,0,0,0,0,0,0,29,0,0,1,0.0,0.0,0.2,3,2,15,20,75.0,2,17,2,0,0,Aston Villa
+Boubacar Kamara,44.0,fr FRA,"CM,FW",22-348,13,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,12,14,85.7,0,10,0,0,0,Aston Villa
+Leon Bailey,31.0,jm JAM,FW,25-089,69,1,0,0,0,2,2,1,0,23,1,1,1,0.3,0.3,0.1,2,0,12,15,80.0,0,15,3,7,3,Aston Villa
+John McGinn,7.0,sct SCO,"LW,FW",28-019,21,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,8,0,1,0,Aston Villa
+Emi Buendía,10.0,ar ARG,"AM,LM",25-316,78,0,0,0,0,1,0,0,0,45,2,2,1,0.1,0.1,0.0,1,1,27,36,75.0,5,27,2,0,0,Aston Villa
+Danny Ings,9.0,eng ENG,FW,30-106,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,1,1,0,Aston Villa
+Jacob Ramsey,41.0,eng ENG,"AM,RM,RW",21-162,90,1,1,0,0,1,1,0,0,50,6,1,1,0.2,0.2,0.3,2,2,24,33,72.7,3,34,5,2,0,Aston Villa
+Douglas Luiz,6.0,br BRA,"CM,DM",24-181,90,0,0,0,0,0,0,0,0,56,2,4,2,0.0,0.0,0.1,1,0,38,45,84.4,3,33,1,1,1,Aston Villa
+Leander Dendoncker,32.0,be BEL,"DM,CM",27-205,89,0,0,0,0,0,0,0,0,28,3,1,3,0.0,0.0,0.0,0,0,18,18,100.0,0,11,0,0,0,Aston Villa
+Morgan Sanson,8.0,fr FRA,CM,28-080,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Aston Villa
+Lucas Digne,27.0,fr FRA,LB,29-109,78,1,0,0,0,1,1,0,0,47,0,0,2,0.0,0.0,0.0,1,0,35,43,81.4,2,28,2,0,0,Aston Villa
+Ashley Young,18.0,eng ENG,LB,37-120,12,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,7,1,0,0,Aston Villa
+Tyrone Mings,5.0,eng ENG,CB,29-238,90,0,0,0,0,0,0,1,0,61,0,2,2,0.0,0.0,0.0,0,0,44,49,89.8,0,39,0,0,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,CB,25-014,90,0,0,0,0,0,0,0,0,51,0,1,0,0.0,0.0,0.0,0,0,36,38,94.7,3,32,0,2,0,Aston Villa
+Matty Cash,2.0,pl POL,RB,25-091,90,0,0,0,0,1,0,0,0,53,1,3,1,0.0,0.0,0.0,1,0,35,42,83.3,2,27,3,1,0,Aston Villa
+Emiliano Martínez,1.0,ar ARG,GK,30-065,90,0,0,0,0,0,0,1,0,49,0,0,0,0.0,0.0,0.0,0,0,36,46,78.3,0,35,0,0,0,Aston Villa
+16 Players,,,,,990,3,2,0,0,6,4,3,0,542,16,15,14,0.6,0.6,0.6,11,5,351,425,82.6,21,329,20,15,4,Aston Villa
+Cristiano Ronaldo,7.0,pt POR,FW,37-274,90,0,0,0,0,3,1,1,0,23,1,1,0,0.2,0.2,0.0,2,0,15,18,83.3,1,10,0,0,0,Manchester United
+Alejandro Garnacho,49.0,ar ARG,LW,18-128,64,0,0,0,0,1,1,0,0,36,2,0,0,0.2,0.2,0.0,1,0,20,25,80.0,0,27,6,5,1,Manchester United
+Anthony Elanga,36.0,se SWE,RW,20-193,26,0,0,0,0,1,1,0,0,12,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,9,1,1,0,Manchester United
+Marcus Rashford,10.0,eng ENG,"RW,LW",25-006,90,0,0,0,0,0,0,0,0,37,0,0,1,0.0,0.0,0.0,1,0,27,33,81.8,2,27,1,3,2,Manchester United
+Donny van de Beek,34.0,nl NED,AM,25-202,65,0,0,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.0,2,0,13,16,81.3,1,11,0,1,1,Manchester United
+Anthony Martial,9.0,fr FRA,AM,26-336,25,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,1,8,1,0,0,Manchester United
+Christian Eriksen,14.0,dk DEN,DM,30-265,90,0,0,0,0,0,0,0,0,86,1,0,1,0.0,0.0,0.2,2,0,65,81,80.2,10,61,0,1,1,Manchester United
+Casemiro,18.0,br BRA,DM,30-256,90,0,0,0,0,1,0,0,0,78,4,1,3,0.0,0.0,0.0,1,0,50,65,76.9,12,50,2,1,0,Manchester United
+Luke Shaw,23.0,eng ENG,LB,27-117,64,0,0,0,0,1,0,1,0,80,1,1,0,0.0,0.0,0.0,1,0,63,74,85.1,8,51,2,1,0,Manchester United
+Tyrell Malacia,12.0,nl NED,LB,23-081,26,0,0,0,0,0,0,0,0,17,0,1,0,0.0,0.0,0.0,0,0,14,14,100.0,2,9,0,1,0,Manchester United
+Lisandro Martínez,6.0,ar ARG,CB,24-292,90,0,0,0,0,0,0,0,0,103,3,2,2,0.0,0.0,0.0,2,0,84,95,88.4,11,71,0,0,0,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,28-112,90,0,0,0,0,0,0,0,0,64,0,1,1,0.0,0.0,0.0,0,0,56,60,93.3,3,41,0,0,0,Manchester United
+Diogo Dalot,20.0,pt POR,RB,23-233,90,0,0,0,0,0,0,1,0,75,3,2,0,0.0,0.0,0.0,2,0,50,67,74.6,3,43,2,4,3,Manchester United
+David de Gea,1.0,es ESP,GK,31-364,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,25,28,89.3,0,17,0,0,0,Manchester United
+14 Players,,,,,990,0,0,0,0,8,3,3,0,668,15,9,8,0.5,0.5,0.3,14,0,494,596,82.9,54,435,15,18,8,Manchester United

@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Cody Gakpo,18.0,nl NED,"FW,RM",24-013,90,0,0,0,0,1,1,0,0,41,1,0,1,0.0,0.0,0.1,2,0,21,28,75.0,5,34,4,5,3,Liverpool
+Luis Díaz,23.0,co COL,LW,26-127,71,0,0,0,0,2,0,0,0,36,1,1,0,0.1,0.1,0.0,0,0,17,21,81.0,1,28,5,5,1,Liverpool
+Roberto Firmino,9.0,br BRA,FW,31-230,19,1,0,0,0,1,1,0,0,8,0,0,1,0.4,0.4,0.0,1,0,4,5,80.0,0,6,0,0,0,Liverpool
+Mohamed Salah,11.0,eg EGY,RW,30-339,90,0,1,0,0,2,1,0,0,48,0,0,1,0.1,0.1,0.4,2,1,22,34,64.7,2,38,6,8,2,Liverpool
+Jordan Henderson,14.0,eng ENG,LM,32-337,71,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.0,1,0,30,37,81.1,3,27,4,0,0,Liverpool
+James Milner,7.0,eng ENG,"CM,LM",37-136,19,0,0,0,0,0,0,0,0,23,2,0,1,0.0,0.0,0.0,0,0,15,21,71.4,2,15,1,0,0,Liverpool
+Fabinho,3.0,br BRA,CM,29-209,80,0,0,0,0,0,0,1,0,58,2,2,0,0.0,0.0,0.0,3,0,39,46,84.8,11,38,3,0,0,Liverpool
+Harvey Elliott,19.0,eng ENG,LM,20-046,10,0,0,0,0,1,1,0,0,14,2,0,0,0.0,0.0,0.0,1,1,10,11,90.9,5,11,1,0,0,Liverpool
+Curtis Jones,17.0,eng ENG,RM,22-110,62,0,0,0,0,1,0,0,0,41,4,0,3,0.0,0.0,0.0,1,0,25,30,83.3,3,30,1,4,2,Liverpool
+Diogo Jota,20.0,pt POR,"LW,FW,RM",26-167,28,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,11,15,73.3,2,15,3,1,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,29-070,71,0,0,0,0,0,0,0,0,61,1,0,0,0.0,0.0,0.1,1,0,47,60,78.3,6,37,1,1,0,Liverpool
+Kostas Tsimikas,21.0,gr GRE,LB,27-008,19,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,1,0,17,24,70.8,0,17,1,1,1,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,31-316,90,0,0,0,0,0,0,0,0,99,0,2,0,0.0,0.0,0.0,1,0,82,87,94.3,5,71,0,0,0,Liverpool
+Ibrahima Konaté,5.0,fr FRA,CB,23-360,90,0,0,0,0,1,0,1,0,64,3,2,0,0.1,0.1,0.0,1,0,45,55,81.8,4,43,0,0,0,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,24-225,90,0,0,0,0,1,1,1,0,90,0,1,0,0.1,0.1,0.1,3,0,59,85,69.4,8,61,1,3,3,Liverpool
+Alisson,1.0,br BRA,GK,30-230,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,0,16,0,0,0,Liverpool
+16 Players,,,,,990,1,1,0,0,10,5,3,0,693,18,8,7,0.7,0.7,0.7,19,2,465,581,80.0,57,487,31,28,12,Liverpool
+Ollie Watkins,11.0,eng ENG,FW,27-141,86,0,0,0,1,0,0,0,0,14,0,1,0,0.8,0.0,0.1,3,0,8,11,72.7,0,10,1,1,1,Aston Villa
+Jáder Durán,22.0,co COL,FW,19-158,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Aston Villa
+Jacob Ramsey,41.0,eng ENG,LW,21-357,90,1,0,0,0,2,2,0,0,32,1,0,0,0.4,0.4,0.0,0,0,14,19,73.7,0,28,3,6,3,Aston Villa
+Leon Bailey,31.0,jm JAM,RW,25-284,52,0,0,0,0,1,0,0,0,14,2,0,0,0.1,0.1,0.0,1,1,3,8,37.5,0,7,1,1,0,Aston Villa
+Ashley Young,18.0,eng ENG,"LB,RW",37-315,38,0,0,0,0,0,0,1,0,21,2,3,1,0.0,0.0,0.0,0,0,2,9,22.2,0,2,0,1,0,Aston Villa
+John McGinn,7.0,sct SCO,"AM,RW",28-214,90,0,0,0,0,2,1,0,0,30,1,0,0,0.1,0.1,0.0,2,0,14,20,70.0,4,24,1,5,4,Aston Villa
+Douglas Luiz,6.0,br BRA,DM,25-011,86,0,1,0,0,0,0,0,0,54,3,0,1,0.0,0.0,0.5,3,1,35,46,76.1,1,27,0,1,1,Aston Villa
+Leander Dendoncker,32.0,be BEL,DM,28-035,4,0,0,0,0,0,0,0,0,8,0,2,1,0.0,0.0,0.0,0,0,1,3,33.3,1,4,0,0,0,Aston Villa
+Boubacar Kamara,44.0,fr FRA,DM,23-178,90,0,0,0,0,0,0,0,0,34,7,1,1,0.0,0.0,0.0,0,0,15,21,71.4,1,16,1,4,2,Aston Villa
+Lucas Digne,27.0,fr FRA,LB,29-304,52,0,0,0,0,0,0,1,0,35,3,0,0,0.0,0.0,0.0,0,0,16,26,61.5,0,14,0,0,0,Aston Villa
+Álex Moreno,15.0,es ESP,LB,29-346,12,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,1,0,0,Aston Villa
+Emi Buendía,10.0,ar ARG,AM,26-146,26,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,1,0,8,10,80.0,0,11,0,2,0,Aston Villa
+Tyrone Mings,5.0,eng ENG,CB,30-068,90,0,0,0,0,0,0,1,0,40,2,5,2,0.0,0.0,0.0,0,0,14,20,70.0,0,15,0,0,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,CB,25-209,90,0,0,0,0,0,0,1,0,36,1,2,4,0.0,0.0,0.0,1,0,19,24,79.2,0,23,0,0,0,Aston Villa
+Matty Cash,2.0,pl POL,RB,25-286,90,0,0,0,0,0,0,0,0,43,5,1,1,0.0,0.0,0.0,0,0,16,29,55.2,0,15,0,3,1,Aston Villa
+Emiliano Martínez,1.0,ar ARG,GK,30-260,90,0,0,0,0,0,0,1,0,56,0,0,0,0.0,0.0,0.0,0,0,25,52,48.1,0,38,0,0,0,Aston Villa
+16 Players,,,,,990,1,1,0,1,5,3,5,0,442,29,15,11,1.4,0.6,0.6,11,2,193,301,64.1,8,238,8,24,12,Aston Villa

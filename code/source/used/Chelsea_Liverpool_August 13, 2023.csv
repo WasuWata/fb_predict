@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Nicolas Jackson,15.0,sn SEN,FW,22-054,90,0,0,0,0,4,2,1,0,33,0,0,1,0.5,0.5,0.0,0,0,17,21,81.0,0,24,5,3,2,Chelsea
+Carney Chukwuemeka,17.0,eng ENG,AM,19-297,80,0,0,0,0,0,0,1,0,48,1,0,0,0.0,0.0,0.0,2,0,38,42,90.5,4,32,1,3,0,Chelsea
+Ian Maatsen,29.0,nl NED,"AM,RW",21-156,10,0,0,0,0,0,0,0,0,13,1,0,1,0.0,0.0,0.0,0,0,4,9,44.4,0,9,0,0,0,Chelsea
+Raheem Sterling,7.0,eng ENG,AM,28-248,80,0,0,0,0,0,0,0,0,39,2,0,0,0.0,0.0,0.1,5,1,24,32,75.0,5,31,5,3,0,Chelsea
+Mykhailo Mudryk,10.0,ua UKR,"AM,LW",22-220,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,7,1,2,2,Chelsea
+Conor Gallagher,23.0,eng ENG,"CM,LM",23-188,90,0,0,0,0,0,0,0,0,77,2,3,1,0.0,0.0,0.0,0,0,61,68,89.7,3,57,0,1,1,Chelsea
+Enzo Fernández,8.0,ar ARG,"CM,RM",22-208,90,0,0,0,0,1,0,1,0,112,1,0,5,0.1,0.1,0.2,4,0,86,102,84.3,17,84,1,3,2,Chelsea
+Ben Chilwell,21.0,eng ENG,WB,26-235,89,0,1,0,0,1,1,0,0,76,1,0,0,0.2,0.2,0.4,2,1,50,61,82.0,4,56,2,2,1,Chelsea
+Lesley Ugochukwu,16.0,fr FRA,CM,19-140,1,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Chelsea
+Reece James,24.0,eng ENG,WB,23-248,75,0,0,0,0,1,0,0,0,73,0,0,0,0.0,0.0,0.3,2,0,55,68,80.9,7,51,5,1,1,Chelsea
+Malo Gusto,27.0,fr FRA,"WB,RB",20-086,15,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,0,0,16,21,76.2,1,16,1,0,0,Chelsea
+Levi Colwill,26.0,eng ENG,"CB,LB",20-168,90,0,0,0,0,1,0,0,0,78,2,1,2,0.1,0.1,0.3,3,0,57,69,82.6,5,59,1,1,1,Chelsea
+Thiago Silva,6.0,br BRA,CB,38-325,90,0,0,0,0,0,0,0,0,128,1,1,2,0.0,0.0,0.1,1,0,111,118,94.1,6,98,0,0,0,Chelsea
+Axel Disasi,2.0,fr FRA,CB,25-155,90,1,0,0,0,2,1,0,0,108,1,2,1,0.5,0.5,0.0,0,0,89,98,90.8,5,78,0,0,0,Chelsea
+Robert Sánchez,31.0,es ESP,GK,25-268,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,29,35,82.9,0,26,0,0,0,Chelsea
+15 Players,,,,,990,1,1,0,0,10,4,3,0,862,13,7,14,1.4,1.4,1.3,19,2,645,755,85.4,57,631,22,19,10,Chelsea
+Diogo Jota,20.0,pt POR,FW,26-252,65,0,0,0,0,2,0,1,0,28,1,0,1,0.1,0.1,0.0,3,0,14,18,77.8,2,10,1,2,1,Liverpool
+Darwin Núñez,9.0,uy URU,FW,24-050,25,0,0,0,0,2,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,5,6,83.3,1,9,1,3,2,Liverpool
+Luis Díaz,7.0,co COL,LW,26-212,76,1,0,0,0,4,1,0,0,28,1,0,1,0.8,0.8,0.2,4,0,18,20,90.0,3,21,4,3,2,Liverpool
+Ben Gannon-Doak,50.0,sct SCO,RW,17-275,14,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0,Liverpool
+Mohamed Salah,11.0,eg EGY,RW,31-059,76,0,1,0,0,3,0,0,0,29,1,0,1,0.3,0.3,0.5,3,1,18,23,78.3,3,21,2,0,0,Liverpool
+Harvey Elliott,19.0,eng ENG,RM,20-131,14,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,1,0,8,10,80.0,3,7,0,1,1,Liverpool
+Cody Gakpo,18.0,nl NED,LM,24-098,65,0,0,0,0,0,0,0,0,28,3,0,4,0.0,0.0,0.1,2,0,10,15,66.7,2,14,3,2,1,Liverpool
+Curtis Jones,17.0,eng ENG,LM,22-195,25,0,0,0,0,0,0,0,0,21,1,1,1,0.0,0.0,0.0,0,0,16,18,88.9,2,14,0,1,1,Liverpool
+Alexis Mac Allister,10.0,ar ARG,CM,24-232,90,0,0,0,0,0,0,1,0,61,3,1,2,0.0,0.0,0.0,2,1,46,52,88.5,5,42,1,3,2,Liverpool
+Dominik Szoboszlai,8.0,hu HUN,"RM,LW",22-292,90,0,0,0,0,1,0,0,0,56,1,1,5,0.0,0.0,0.3,2,0,33,42,78.6,2,27,1,1,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,29-155,90,0,0,0,0,0,0,0,0,74,2,2,2,0.0,0.0,0.0,2,0,41,60,68.3,6,35,1,0,0,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,32-036,90,0,0,0,0,1,0,0,0,49,1,3,1,0.0,0.0,0.0,2,0,26,33,78.8,1,17,0,0,0,Liverpool
+Ibrahima Konaté,5.0,fr FRA,CB,24-080,90,0,0,0,0,0,0,0,0,52,3,1,1,0.0,0.0,0.0,0,0,32,38,84.2,0,24,0,0,0,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,24-310,90,0,0,0,0,0,0,1,0,57,2,0,0,0.0,0.0,0.0,1,0,26,47,55.3,4,21,0,1,0,Liverpool
+Alisson,1.0,br BRA,GK,30-315,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,19,25,76.0,0,20,0,0,0,Liverpool
+15 Players,,,,,990,1,1,0,0,13,1,3,0,542,19,10,19,1.3,1.3,1.2,24,2,316,411,76.9,34,286,14,17,10,Liverpool

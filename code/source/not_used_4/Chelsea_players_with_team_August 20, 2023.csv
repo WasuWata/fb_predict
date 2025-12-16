@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Nicolas Jackson,15.0,sn SEN,FW,22-061,90,0,0,0,0,2,0,1,0,42,3,0,2,0.8,0.8,0.0,2,0,21,31,67.7,1,22,2,3,1,Chelsea
+Carney Chukwuemeka,17.0,eng ENG,AM,19-304,45,1,0,0,0,1,1,1,0,25,0,0,0,0.1,0.1,0.1,2,2,16,20,80.0,0,17,1,2,1,Chelsea
+Mykhailo Mudryk,10.0,ua UKR,"WB,AM",22-227,45,0,0,0,0,1,0,0,0,27,1,0,0,0.1,0.1,0.1,2,0,16,25,64.0,1,21,4,2,0,Chelsea
+Raheem Sterling,7.0,eng ENG,"AM,FW",28-255,90,0,0,0,0,1,0,0,0,65,1,0,0,0.1,0.1,0.1,7,0,37,53,69.8,4,51,10,12,6,Chelsea
+Conor Gallagher,23.0,eng ENG,"CM,AM",23-195,74,0,0,0,0,2,1,0,0,69,3,2,0,0.1,0.1,0.0,2,0,53,58,91.4,4,45,0,1,1,Chelsea
+Noni Madueke,11.0,eng ENG,"WB,FW",21-163,16,0,0,0,0,1,1,0,0,15,0,0,0,0.1,0.1,0.0,1,0,9,12,75.0,0,12,2,1,0,Chelsea
+Enzo Fernández,8.0,ar ARG,CM,22-215,90,0,0,0,1,1,0,0,0,124,1,0,2,0.8,0.0,0.3,7,0,101,116,87.1,19,91,7,2,1,Chelsea
+Ben Chilwell,21.0,eng ENG,WB,26-242,60,0,0,0,0,2,0,0,0,46,1,0,0,0.2,0.2,0.7,2,0,31,39,79.5,2,25,2,3,1,Chelsea
+Moisés Caicedo,25.0,ec ECU,CM,21-291,30,0,0,0,0,1,0,0,0,46,2,0,0,0.0,0.0,0.0,1,0,33,39,84.6,5,29,1,2,1,Chelsea
+Malo Gusto,27.0,fr FRA,WB,20-093,82,0,0,0,0,1,0,0,0,70,2,1,2,0.0,0.0,0.0,1,0,57,62,91.9,3,44,5,1,1,Chelsea
+Mason Burstow,37.0,eng ENG,FW,20-016,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0,Chelsea
+Levi Colwill,26.0,eng ENG,CB,20-175,90,0,0,0,0,2,0,0,0,84,1,0,0,0.1,0.1,0.0,2,0,63,75,84.0,2,49,1,2,2,Chelsea
+Thiago Silva,6.0,br BRA,CB,38-332,90,0,0,0,0,1,0,0,0,110,0,0,2,0.0,0.0,0.0,1,0,98,102,96.1,7,79,0,0,0,Chelsea
+Axel Disasi,2.0,fr FRA,CB,25-162,90,0,0,0,0,0,0,1,0,115,1,0,0,0.0,0.0,0.0,0,0,98,111,88.3,9,86,2,0,0,Chelsea
+Robert Sánchez,1.0,es ESP,GK,25-275,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,25,26,96.2,0,15,0,0,0,Chelsea
+15 Players,,,,,990,1,0,0,1,16,3,3,0,872,16,3,8,2.5,1.7,1.4,30,2,661,773,85.5,57,587,37,31,15,Chelsea

@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Anthony Martial,9.0,fr FRA,FW,27-040,45,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,1,9,1,1,1,Manchester United
+Antony,21.0,br BRA,"FW,RW",22-324,45,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,1,0,4,9,44.4,1,5,3,1,1,Manchester United
+Marcus Rashford,10.0,eng ENG,"LW,FW",25-075,89,1,0,0,0,3,2,0,0,28,2,0,1,1.2,1.2,0.0,3,0,14,18,77.8,1,17,3,2,1,Manchester United
+Harry Maguire,5.0,eng ENG,"CB,FW",29-315,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester United
+Bruno Fernandes,8.0,pt POR,"RW,AM,FW",28-128,90,1,0,0,0,2,1,0,0,39,0,0,1,0.4,0.4,0.2,3,1,21,32,65.6,3,14,0,0,0,Manchester United
+Christian Eriksen,14.0,dk DEN,AM,30-334,71,0,0,0,0,0,0,1,0,28,0,0,0,0.0,0.0,0.4,2,0,17,25,68.0,3,13,1,0,0,Manchester United
+Alejandro Garnacho,49.0,ar ARG,LW,18-197,19,0,1,0,0,1,0,0,0,14,0,1,0,0.0,0.0,0.7,1,1,5,9,55.6,0,6,2,0,0,Manchester United
+Fred,17.0,br BRA,"DM,CM",29-315,90,0,0,0,0,0,0,1,0,44,3,1,2,0.0,0.0,0.0,2,0,32,35,91.4,1,18,0,2,2,Manchester United
+Casemiro,18.0,br BRA,DM,30-325,89,0,1,0,0,0,0,1,0,46,1,1,1,0.0,0.0,0.3,2,1,25,38,65.8,4,15,0,1,1,Manchester United
+Scott McTominay,39.0,sct SCO,"CM,DM",26-037,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester United
+Tyrell Malacia,12.0,nl NED,LB,23-150,89,0,0,0,0,0,0,0,0,50,3,2,0,0.0,0.0,0.0,0,0,28,37,75.7,2,16,1,1,0,Manchester United
+Lisandro Martínez,6.0,ar ARG,"CB,LB",24-361,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester United
+Luke Shaw,23.0,eng ENG,"CB,LM",27-186,90,0,0,0,0,0,0,0,0,39,2,0,0,0.0,0.0,0.0,0,0,23,30,76.7,0,14,0,0,0,Manchester United
+Raphaël Varane,19.0,fr FRA,CB,29-264,90,0,0,0,0,0,0,0,0,35,0,0,1,0.0,0.0,0.0,0,0,25,28,89.3,0,13,0,0,0,Manchester United
+Aaron Wan-Bissaka,29.0,cd COD,"RB,RM",25-049,90,0,0,0,0,1,0,0,0,34,4,1,0,0.0,0.0,0.0,2,1,22,27,81.5,1,10,1,3,3,Manchester United
+David de Gea,1.0,es ESP,GK,32-068,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,22,39,56.4,0,28,0,0,0,Manchester United
+16 Players,,,,,990,2,2,0,0,8,3,3,0,425,15,6,7,1.7,1.7,1.7,16,4,246,338,72.8,17,178,12,11,9,Manchester United

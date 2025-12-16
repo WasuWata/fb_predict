@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Anthony Martial,9.0,fr FRA,FW,27-264,59,0,0,0,0,1,0,0,0,19,0,0,1,0.0,0.0,0.0,1,0,13,15,86.7,1,14,1,0,0,Manchester United
+Jadon Sancho,25.0,eng ENG,FW,23-154,31,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,2,1,10,13,76.9,1,14,4,0,0,Manchester United
+Marcus Rashford,10.0,eng ENG,LW,25-299,90,0,1,0,0,2,1,1,0,44,0,0,0,0.1,0.1,0.3,6,4,28,34,82.4,3,39,2,4,2,Manchester United
+Antony,21.0,br BRA,RW,23-183,84,0,0,0,0,4,2,0,0,55,0,0,0,0.2,0.2,0.4,7,0,37,44,84.1,6,46,3,5,1,Manchester United
+Scott McTominay,39.0,sct SCO,DM,26-261,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,1,5,1,0,0,Manchester United
+Bruno Fernandes,8.0,pt POR,"AM,RW",28-352,90,1,1,1,1,5,2,1,0,102,3,0,0,1.2,0.4,1.0,4,1,59,87,67.8,9,64,2,4,1,Manchester United
+Christian Eriksen,14.0,dk DEN,"DM,AM",31-193,90,1,0,0,0,1,1,0,0,70,1,1,1,0.3,0.3,0.1,5,0,50,66,75.8,7,52,3,0,0,Manchester United
+Casemiro,18.0,br BRA,DM,31-184,90,1,0,0,0,4,2,0,0,108,5,1,0,1.0,1.0,0.0,2,0,77,91,84.6,16,70,2,2,1,Manchester United
+Diogo Dalot,20.0,pt POR,LB,24-161,90,0,0,0,0,0,0,0,0,88,1,2,0,0.0,0.0,0.0,1,0,67,75,89.3,7,57,4,0,0,Manchester United
+Lisandro Martínez,6.0,ar ARG,CB,25-220,90,0,0,0,0,0,0,0,0,93,1,1,0,0.0,0.0,0.0,1,0,77,86,89.5,6,70,3,1,1,Manchester United
+Raphaël Varane,19.0,fr FRA,CB,30-123,45,0,0,0,0,0,0,0,0,55,0,0,1,0.0,0.0,0.0,1,0,52,53,98.1,8,51,3,0,0,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,29-040,45,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.1,2,0,19,20,95.0,2,15,1,0,0,Manchester United
+Aaron Wan-Bissaka,29.0,cd COD,RB,25-273,90,0,0,0,0,0,0,1,0,79,4,2,3,0.0,0.0,0.0,3,0,58,69,84.1,9,55,7,2,1,Manchester United
+André Onana,24.0,cm CMR,GK,27-146,90,0,0,0,0,0,0,1,0,24,0,0,0,0.0,0.0,0.0,0,0,17,23,73.9,0,16,0,0,0,Manchester United
+14 Players,,,,,990,3,2,1,1,17,8,4,0,780,15,7,7,2.8,2.0,1.9,36,6,567,681,83.3,76,568,36,18,7,Manchester United

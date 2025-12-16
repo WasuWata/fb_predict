@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Leandro Trossard,19.0,be BEL,FW,29-069,66,1,0,0,0,5,2,0,0,50,2,0,1,0.7,0.7,0.0,3,2,27,36,75.0,9,40,2,6,3,Arsenal
+Eddie Nketiah,14.0,eng ENG,FW,24-257,24,0,0,0,0,1,1,0,0,11,0,0,0,0.1,0.1,0.0,0,0,8,8,100.0,0,7,2,1,0,Arsenal
+Gabriel Martinelli,11.0,br BRA,LW,22-238,76,0,0,0,0,2,0,0,0,40,0,0,1,0.1,0.1,0.5,5,1,25,28,89.3,4,26,2,6,2,Arsenal
+Ethan Nwaneri,63.0,eng ENG,LW,16-327,14,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,1,0,15,18,83.3,2,16,2,1,0,Arsenal
+Bukayo Saka,7.0,eng ENG,RW,22-159,66,2,0,1,1,7,2,0,0,70,1,0,2,1.7,0.9,0.3,10,1,49,55,89.1,9,49,5,5,2,Arsenal
+Reiss Nelson,24.0,eng ENG,RW,24-063,24,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,12,15,80.0,0,15,0,1,0,Arsenal
+Kai Havertz,29.0,de GER,LM,24-245,90,0,0,0,0,2,1,0,0,59,1,1,0,0.1,0.1,0.3,8,2,44,50,88.0,7,22,5,1,0,Arsenal
+Declan Rice,41.0,eng ENG,CM,25-028,66,1,2,0,0,1,1,0,0,82,0,1,1,0.0,0.0,0.7,8,3,70,76,92.1,8,55,2,0,0,Arsenal
+Mohamed Elneny,25.0,eg EGY,CM,31-215,24,0,0,0,0,2,1,0,0,29,0,0,0,0.1,0.1,0.0,0,0,25,25,100.0,1,19,1,0,0,Arsenal
+Martin Ødegaard,8.0,no NOR,RM,25-056,90,0,2,0,0,1,0,0,0,121,1,1,0,0.0,0.0,0.8,10,2,109,118,92.4,23,85,5,1,1,Arsenal
+Jakub Kiwior,15.0,pl POL,LB,23-361,90,0,0,0,0,0,0,0,0,61,2,1,1,0.0,0.0,0.1,1,0,44,49,89.8,2,22,1,0,0,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,26-054,90,1,0,0,0,2,2,0,0,81,2,0,2,0.4,0.4,0.0,1,0,64,70,91.4,2,43,0,0,0,Arsenal
+William Saliba,2.0,fr FRA,CB,22-324,90,1,0,0,0,1,1,0,0,85,0,1,2,0.3,0.3,0.0,1,0,76,78,97.4,7,41,0,0,0,Arsenal
+Ben White,4.0,eng ENG,RB,26-126,76,0,1,0,0,0,0,0,0,79,2,0,1,0.0,0.0,0.0,1,1,67,72,93.1,8,38,0,2,0,Arsenal
+Cédric Soares,17.0,pt POR,RB,32-164,14,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,7,0,0,0,Arsenal
+David Raya,22.0,es ESP,GK,28-149,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,30,30,100.0,0,19,0,0,0,Arsenal
+16 Players,,,,,990,6,5,1,1,24,11,0,0,847,12,5,12,3.6,2.8,2.8,49,12,673,738,91.2,83,504,27,24,8,Arsenal

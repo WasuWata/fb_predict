@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dango Ouattara,11.0,bf BFA,"FW,LW,LM",23-011,88,0,0,0,0,2,1,0,0,41,0,0,2,0.1,0.1,0.2,5,0,13,21,61.9,1,19,4,4,1,Bournemouth
+Daniel Jebbison,21.0,ca CAN,LW,21-193,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Bournemouth
+Antoine Semenyo,24.0,gh GHA,"LW,FW,CM,DM,LM",25-046,90,0,0,0,0,1,0,0,0,32,3,0,0,0.1,0.1,0.5,2,0,12,19,63.2,4,16,2,5,0,Bournemouth
+Marcus Tavernier,16.0,eng ENG,"RW,RB,RM,CM",25-337,90,0,0,0,0,1,1,0,0,54,0,1,1,0.0,0.0,0.0,1,0,31,42,73.8,5,31,1,6,3,Bournemouth
+Justin Kluivert,19.0,nl NED,"FW,AM,RM",25-293,72,0,0,0,0,1,1,0,0,30,0,1,0,0.5,0.5,0.0,2,0,15,20,75.0,3,13,3,3,1,Bournemouth
+Alex Scott,8.0,eng ENG,DM,21-185,18,0,0,0,0,0,0,1,0,12,0,1,0,0.0,0.0,0.0,0,0,2,7,28.6,1,5,1,3,1,Bournemouth
+Ryan Christie,10.0,sct SCO,"DM,CM",30-000,59,0,0,0,0,2,0,0,0,37,2,0,2,0.1,0.1,0.1,2,0,24,27,88.9,4,12,0,1,1,Bournemouth
+Tyler Adams,12.0,us USA,DM,26-008,31,0,0,0,0,0,0,0,0,26,2,0,0,0.0,0.0,0.0,0,0,15,20,75.0,0,8,0,2,0,Bournemouth
+Lewis Cook,4.0,eng ENG,"CB,DM,RB",28-019,90,0,0,0,0,0,0,0,0,53,1,4,0,0.0,0.0,0.0,0,0,34,44,77.3,2,24,0,3,2,Bournemouth
+Milos Kerkez,3.0,hu HUN,LB,21-107,90,0,0,0,0,0,0,1,0,78,2,3,0,0.0,0.0,0.0,1,0,45,63,71.4,4,32,6,1,0,Bournemouth
+Dean Huijsen,2.0,es ESP,CB,19-314,90,0,0,0,0,0,0,0,0,71,1,2,3,0.0,0.0,0.0,0,0,48,58,82.8,7,36,2,0,0,Bournemouth
+Illia Zabarnyi,27.0,ua UKR,CB,22-174,30,0,0,0,0,0,0,0,1,18,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,1,13,0,1,1,Bournemouth
+James Hill,23.0,eng ENG,"RB,CB",23-043,59,0,0,0,0,1,0,0,0,39,1,0,1,0.0,0.0,0.0,0,0,19,31,61.3,0,16,2,0,0,Bournemouth
+David Brooks,7.0,wls WAL,"RW,RB",27-229,31,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,6,8,75.0,2,9,0,2,0,Bournemouth
+Kepa Arrizabalaga,13.0,es ESP,GK,30-142,90,0,0,0,0,0,0,1,0,40,0,0,0,0.0,0.0,0.0,0,0,21,35,60.0,0,19,0,1,1,Bournemouth
+15 Players,,,,,930,0,0,0,0,8,3,3,1,546,13,12,9,0.9,0.9,0.8,13,0,298,412,72.3,34,253,21,32,11,Bournemouth
+Marshall Munetsi,5.0,zw ZIM,"CM,FW",28-245,90,0,1,0,0,2,0,0,0,47,5,1,1,0.7,0.7,0.6,2,0,18,26,69.2,0,22,1,0,0,Wolverhampton Wanderers
+Matheus Cunha,10.0,br BRA,"AM,FW",25-271,88,1,0,0,0,3,2,0,0,56,1,0,0,0.7,0.7,0.4,6,0,29,45,64.4,4,26,2,3,1,Wolverhampton Wanderers
+Tommy Doyle,20.0,eng ENG,AM,23-128,2,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,5,0,1,1,Wolverhampton Wanderers
+Jean-Ricner Bellegarde,27.0,ht HAI,"AM,CM",26-240,79,0,0,0,0,1,1,0,0,48,4,0,0,0.2,0.2,0.7,2,0,30,39,76.9,3,27,2,1,1,Wolverhampton Wanderers
+Pablo Sarabia,21.0,es ESP,AM,32-287,11,0,0,0,0,1,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,12,14,85.7,3,14,0,0,0,Wolverhampton Wanderers
+João Gomes,8.0,br BRA,CM,24-010,45,0,0,0,0,0,0,1,0,21,2,0,0,0.0,0.0,0.0,2,1,12,15,80.0,1,5,0,1,0,Wolverhampton Wanderers
+Jørgen Strand Larsen,9.0,no NOR,FW,25-016,45,0,0,0,0,1,0,0,0,19,2,0,0,0.1,0.1,0.0,3,0,7,8,87.5,1,10,2,0,0,Wolverhampton Wanderers
+André,7.0,br BRA,CM,23-221,90,0,0,0,0,0,0,0,0,56,1,0,0,0.0,0.0,0.0,1,0,46,52,88.5,2,35,0,1,0,Wolverhampton Wanderers
+Rayan Aït-Nouri,3.0,dz ALG,WB,23-261,79,0,0,0,0,1,0,0,0,51,4,0,2,0.1,0.1,0.0,1,0,28,38,73.7,2,27,2,3,3,Wolverhampton Wanderers
+Pedro Lima,37.0,br BRA,WB,18-236,11,0,0,0,0,1,1,0,0,11,0,1,0,0.1,0.1,0.0,1,0,7,9,77.8,1,8,1,1,1,Wolverhampton Wanderers
+Nélson Semedo,22.0,pt POR,WB,31-098,90,0,0,0,0,2,1,0,0,51,2,1,1,0.2,0.2,0.0,3,1,28,38,73.7,4,28,2,3,1,Wolverhampton Wanderers
+Toti Gomes,24.0,pt POR,CB,26-037,90,0,0,0,0,1,0,0,0,81,4,4,1,0.0,0.0,0.0,0,0,54,65,83.1,4,46,3,1,1,Wolverhampton Wanderers
+Santiago Bueno,4.0,uy URU,CB,26-105,72,0,0,0,0,0,0,1,0,50,3,1,1,0.0,0.0,0.0,0,0,36,38,94.7,1,29,0,0,0,Wolverhampton Wanderers
+Nasser Djiga,34.0,bf BFA,CB,22-099,18,0,0,0,0,0,0,0,0,14,0,2,0,0.0,0.0,0.0,0,0,8,8,100.0,0,7,0,0,0,Wolverhampton Wanderers
+Matt Doherty,2.0,ie IRL,CB,33-037,90,0,0,0,0,0,0,1,0,54,2,0,4,0.0,0.0,0.0,2,0,31,43,72.1,2,25,1,0,0,Wolverhampton Wanderers
+José Sá,1.0,pt POR,GK,32-036,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,29,45,64.4,0,28,0,0,0,Wolverhampton Wanderers
+16 Players,,,,,990,1,1,0,0,13,5,3,0,635,30,10,10,2.0,2.0,1.7,23,2,381,490,77.8,28,342,16,15,9,Wolverhampton Wanderers

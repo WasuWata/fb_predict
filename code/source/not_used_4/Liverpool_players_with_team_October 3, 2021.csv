@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Diogo Jota,20.0,pt POR,FW,24-303,67,0,0,0,0,1,1,1,0,22,0,1,0,0.1,0.1,0.0,0,0,11,15,73.3,4,14,2,0,0,Liverpool
+Roberto Firmino,9.0,br BRA,FW,30-001,23,0,0,0,0,0,0,0,0,14,2,1,0,0.0,0.0,0.0,0,0,6,9,66.7,0,6,0,0,0,Liverpool
+Sadio Mané,10.0,sn SEN,LW,29-176,90,1,0,0,0,1,1,0,0,29,0,1,2,0.4,0.4,0.0,0,0,9,15,60.0,2,16,1,2,1,Liverpool
+Mohamed Salah,11.0,eg EGY,RW,29-110,90,1,1,0,0,3,1,0,0,40,4,1,0,0.2,0.2,0.6,5,4,17,21,81.0,5,26,5,8,5,Liverpool
+Curtis Jones,17.0,eng ENG,LM,20-246,90,0,1,0,0,0,0,0,0,50,1,0,0,0.0,0.0,0.1,0,0,44,47,93.6,1,33,1,2,2,Liverpool
+Fabinho,3.0,br BRA,CM,27-345,90,0,0,0,0,1,0,1,0,44,1,0,0,0.2,0.2,0.0,1,0,34,39,87.2,2,26,0,0,0,Liverpool
+Jordan Henderson,14.0,eng ENG,RM,31-108,90,0,0,0,0,0,0,0,0,51,3,2,1,0.0,0.0,0.0,1,0,31,45,68.9,5,24,1,1,1,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,27-206,90,0,0,0,0,0,0,0,0,67,2,3,2,0.0,0.0,0.0,2,0,41,56,73.2,2,30,3,0,0,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,30-087,90,0,0,0,0,0,0,0,0,98,0,1,1,0.0,0.0,0.0,0,0,85,94,90.4,3,65,0,1,1,Liverpool
+Joël Matip,32.0,cm CMR,CB,30-056,90,0,0,0,0,0,0,0,0,100,3,4,2,0.0,0.0,0.1,1,0,81,89,91.0,6,74,2,0,0,Liverpool
+James Milner,7.0,eng ENG,RB,35-272,77,0,0,0,0,0,0,1,0,64,0,2,3,0.0,0.0,0.0,1,0,39,53,73.6,4,26,0,0,0,Liverpool
+Joe Gomez,12.0,eng ENG,RB,24-133,13,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,0,0,7,12,58.3,0,5,0,0,0,Liverpool
+Alisson,1.0,br BRA,GK,29-001,90,0,0,0,0,0,0,0,0,62,1,0,0,0.0,0.0,0.0,0,0,52,59,88.1,0,37,0,0,0,Liverpool
+13 Players,,,,,990,2,2,0,0,6,3,3,0,655,17,17,11,0.9,0.9,0.8,11,4,457,554,82.5,34,382,15,14,10,Liverpool

@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Beto,14.0,gw GNB,FW,27-064,64,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,6,11,54.5,0,7,0,1,1,Everton
+Armando Broja,22.0,al ALB,FW,23-207,26,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,5,0,2,0,Everton
+Iliman Ndiaye,10.0,sn SEN,LW,25-030,74,1,0,1,1,2,0,0,0,31,2,0,1,0.9,0.2,0.0,3,0,13,17,76.5,2,14,1,4,1,Everton
+Ashley Young,18.0,eng ENG,LB,39-270,16,0,0,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Everton
+Jack Harrison,11.0,eng ENG,RW,28-136,86,0,0,0,0,0,0,0,0,31,1,1,2,0.0,0.0,0.1,2,1,8,21,38.1,0,14,1,2,0,Everton
+Dwight McNeil,7.0,eng ENG,LW,25-134,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Everton
+Abdoulaye Doucouré,16.0,ml MLI,AM,32-094,90,0,0,0,0,1,1,0,0,18,2,0,2,0.0,0.0,0.0,0,0,6,10,60.0,1,7,1,0,0,Everton
+Tim Iroegbunam,42.0,eng ENG,DM,21-279,64,0,0,0,0,0,0,0,0,18,1,1,5,0.0,0.0,0.0,0,0,5,7,71.4,1,8,1,1,0,Everton
+James Garner,37.0,eng ENG,DM,24-023,26,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,0,0,0,0,Everton
+Idrissa Gana Gueye,27.0,sn SEN,DM,35-191,90,0,0,0,0,0,0,0,0,38,3,1,2,0.0,0.0,0.2,4,0,21,27,77.8,3,18,2,6,4,Everton
+Nathan Patterson,2.0,sct SCO,LB,23-171,74,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,0,0,17,23,73.9,0,10,0,1,1,Everton
+Carlos Alcaraz,24.0,ar ARG,"LW,RW",22-126,16,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Everton
+Jarrad Branthwaite,32.0,eng ENG,CB,22-282,90,0,0,0,0,0,0,0,0,32,1,0,0,0.0,0.0,0.0,0,0,16,22,72.7,1,14,0,0,0,Everton
+James Tarkowski,6.0,eng ENG,CB,32-137,90,0,0,0,0,0,0,1,0,32,1,2,3,0.0,0.0,0.0,0,0,14,20,70.0,1,12,1,0,0,Everton
+Jake O'Brien,15.0,ie IRL,RB,23-325,90,0,0,0,0,1,0,1,0,30,2,0,2,0.1,0.1,0.0,0,0,14,18,77.8,3,6,0,0,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,31-029,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,1,20,35,57.1,0,18,0,0,0,Everton
+16 Players,,,,,990,1,0,1,1,4,1,3,0,335,17,5,17,1.1,0.3,0.3,10,2,144,220,65.5,12,133,7,17,7,Everton
+Leandro Trossard,19.0,be BEL,FW,30-122,90,1,0,0,0,3,2,0,0,43,0,0,1,0.3,0.3,0.0,1,0,27,31,87.1,3,26,3,2,0,Arsenal
+Raheem Sterling,30.0,eng ENG,LW,30-118,45,0,1,0,0,1,0,0,0,24,1,0,0,0.3,0.3,0.1,2,1,10,15,66.7,1,14,3,4,1,Arsenal
+Gabriel Martinelli,11.0,br BRA,LW,23-291,45,0,0,0,0,1,1,0,0,25,1,0,0,0.0,0.0,0.0,4,0,14,19,73.7,5,17,3,2,1,Arsenal
+Ethan Nwaneri,53.0,eng ENG,RW,18-015,45,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.1,2,0,9,12,75.0,1,12,1,2,0,Arsenal
+Bukayo Saka,7.0,eng ENG,RW,23-212,45,0,0,0,0,2,0,0,0,17,1,0,0,0.1,0.1,0.2,2,0,6,10,60.0,0,9,2,3,1,Arsenal
+Mikel Merino,23.0,es ESP,LM,28-287,90,0,0,0,0,2,0,0,0,49,3,0,0,0.1,0.1,0.0,1,0,28,34,82.4,4,18,0,3,1,Arsenal
+Jorginho,20.0,it ITA,CM,33-106,70,0,0,0,0,0,0,1,0,47,2,0,1,0.0,0.0,0.0,3,0,38,41,92.7,5,27,1,1,0,Arsenal
+Martin Ødegaard,8.0,no NOR,RM,26-109,20,0,0,0,0,1,0,0,0,10,0,0,0,0.2,0.2,0.0,0,0,8,9,88.9,1,8,1,0,0,Arsenal
+Declan Rice,41.0,eng ENG,"RM,CM",26-081,90,0,0,0,0,2,1,0,0,53,4,2,1,0.3,0.3,0.0,1,0,26,35,74.3,2,18,0,1,0,Arsenal
+Myles Lewis-Skelly,49.0,eng ENG,LB,18-191,74,0,0,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.1,4,0,29,37,78.4,3,23,3,6,3,Arsenal
+Kieran Tierney,3.0,sct SCO,LB,27-304,16,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.3,3,0,15,18,83.3,3,8,1,0,0,Arsenal
+Jakub Kiwior,15.0,pl POL,CB,25-049,90,0,0,0,0,0,0,0,0,70,1,0,1,0.0,0.0,0.2,1,0,59,64,92.2,7,43,2,0,0,Arsenal
+William Saliba,2.0,fr FRA,CB,24-012,90,0,0,0,0,0,0,0,0,91,2,0,1,0.0,0.0,0.0,0,0,74,78,94.9,3,52,1,1,1,Arsenal
+Ben White,4.0,eng ENG,RB,27-179,60,0,0,0,0,1,0,0,0,41,1,1,0,0.2,0.2,0.3,1,0,28,34,82.4,2,15,0,0,0,Arsenal
+Jurriën Timber,12.0,nl NED,RB,23-292,30,0,0,0,0,1,0,0,0,19,3,0,0,0.2,0.2,0.0,0,0,10,13,76.9,3,8,0,2,1,Arsenal
+David Raya,22.0,es ESP,GK,29-202,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,34,45,75.6,0,27,0,0,0,Arsenal
+16 Players,,,,,990,1,1,0,0,14,4,1,0,621,22,3,5,1.8,1.8,1.3,25,1,415,495,83.8,43,325,21,27,9,Arsenal

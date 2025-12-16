@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Erling Haaland,9.0,no NOR,FW,22-079,90,1,0,0,0,5,1,0,0,26,0,0,2,0.7,0.7,0.3,1,0,10,14,71.4,3,16,2,2,0,Manchester City
+Phil Foden,47.0,eng ENG,LW,22-133,57,1,1,0,0,4,3,0,0,52,0,0,1,0.8,0.8,0.6,5,1,28,42,66.7,4,29,1,0,0,Manchester City
+Jack Grealish,10.0,eng ENG,LW,27-028,33,0,0,0,0,1,1,0,0,28,1,0,0,0.2,0.2,0.2,4,0,22,25,88.0,3,20,2,1,1,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,31-229,69,1,0,0,0,4,2,0,0,52,1,0,0,0.3,0.3,0.0,6,1,35,41,85.4,3,32,2,2,1,Manchester City
+Cole Palmer,80.0,eng ENG,RW,20-155,21,0,0,0,0,1,0,0,0,14,0,1,0,0.0,0.0,0.0,0,0,11,12,91.7,0,9,3,2,2,Manchester City
+Kevin De Bruyne,17.0,be BEL,AM,31-102,69,0,1,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.3,4,2,26,38,68.4,11,26,2,2,0,Manchester City
+Julián Álvarez,19.0,ar ARG,AM,22-250,21,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,2,4,2,0,0,Manchester City
+Bernardo Silva,20.0,pt POR,DM,28-059,77,0,0,0,0,1,0,0,0,79,1,1,0,0.0,0.0,0.0,1,0,72,74,97.3,8,52,0,0,0,Manchester City
+Rico Lewis,82.0,eng ENG,DM,17-321,13,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,10,13,76.9,1,12,2,0,0,Manchester City
+Rodri,16.0,es ESP,DM,26-108,90,0,1,0,0,0,0,0,0,109,3,1,1,0.0,0.0,0.2,6,1,95,104,91.3,13,67,0,1,1,Manchester City
+João Cancelo,7.0,pt POR,LB,28-134,69,1,1,0,0,1,1,0,0,95,2,1,0,0.2,0.2,0.3,6,3,69,81,85.2,5,61,9,9,4,Manchester City
+Sergio Gómez,21.0,es ESP,LB,22-034,21,0,0,0,0,1,0,0,0,20,0,0,1,0.0,0.0,0.0,0,0,13,16,81.3,1,10,1,0,0,Manchester City
+Nathan Aké,6.0,nl NED,CB,27-232,90,0,0,0,0,0,0,0,0,98,2,1,0,0.0,0.0,0.0,0,0,89,94,94.7,7,67,0,0,0,Manchester City
+Rúben Dias,3.0,pt POR,CB,25-147,90,0,0,0,0,1,0,0,0,103,0,2,1,0.2,0.2,0.0,0,0,87,96,90.6,0,67,0,0,0,Manchester City
+Manuel Akanji,25.0,ch SUI,RB,27-081,90,0,0,0,0,2,0,0,0,96,4,1,1,0.1,0.1,0.0,1,0,76,84,90.5,5,56,3,0,0,Manchester City
+Ederson,31.0,br BRA,GK,29-052,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,35,38,92.1,0,28,0,0,0,Manchester City
+16 Players,,,,,990,4,4,0,0,21,8,0,0,879,15,8,8,2.5,2.5,1.9,35,8,687,782,87.9,66,556,29,19,9,Manchester City
+Adam Armstrong,9.0,eng ENG,FW,25-240,65,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.1,1,0,18,19,94.7,0,12,3,2,0,Southampton
+Mohamed Elyounoussi,24.0,no NOR,AM,28-065,25,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,6,0,2,2,Southampton
+Che Adams,10.0,sct SCO,FW,26-087,90,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,0,0,13,18,72.2,1,14,1,1,1,Southampton
+Joe Aribo,7.0,ng NGA,LM,26-079,78,0,0,0,0,0,0,0,0,28,1,0,2,0.0,0.0,0.0,0,0,16,23,69.6,5,11,1,2,1,Southampton
+Sekou Mara,18.0,fr FRA,FW,20-070,12,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,1,0,Southampton
+Ibrahima Diallo,27.0,fr FRA,"CM,DM",23-214,90,0,0,0,0,0,0,0,0,50,0,1,1,0.0,0.0,0.0,0,0,37,43,86.0,5,26,0,0,0,Southampton
+James Ward-Prowse,8.0,eng ENG,"CM,DM,RM",27-341,90,0,0,0,0,0,0,0,0,45,3,2,2,0.0,0.0,0.0,1,0,30,37,81.1,4,22,0,1,1,Southampton
+Stuart Armstrong,17.0,sct SCO,RM,30-192,65,0,0,0,0,1,0,0,0,26,1,1,1,0.1,0.1,0.0,0,0,12,14,85.7,0,14,3,3,0,Southampton
+Moussa Djenepo,19.0,ml MLI,AM,24-115,25,0,0,0,0,0,0,0,0,18,1,1,1,0.0,0.0,0.0,0,0,8,8,100.0,1,6,0,1,0,Southampton
+Romain Perraud,15.0,fr FRA,LB,25-016,90,0,0,0,0,3,0,0,0,50,3,0,1,0.1,0.1,0.0,3,0,32,39,82.1,4,32,3,3,0,Southampton
+Mohammed Salisu,22.0,gh GHA,CB,23-174,90,0,0,0,0,0,0,0,0,72,5,0,2,0.0,0.0,0.0,0,0,46,55,83.6,4,43,0,1,1,Southampton
+Armel Bella Kotchap,37.0,de GER,CB,20-301,90,0,0,0,0,0,0,0,0,67,2,3,5,0.0,0.0,0.0,0,0,41,49,83.7,0,32,0,0,0,Southampton
+Kyle Walker-Peters,2.0,eng ENG,RB,25-178,78,0,0,0,0,0,0,1,0,43,2,2,2,0.0,0.0,0.0,0,0,24,30,80.0,0,24,2,0,0,Southampton
+Juan Larios,28.0,es ESP,RB,18-269,12,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,7,8,87.5,0,7,0,0,0,Southampton
+Gavin Bazunu,31.0,ie IRL,GK,20-230,90,0,0,0,0,0,0,0,0,73,1,0,0,0.0,0.0,0.0,0,0,44,69,63.8,0,53,0,0,0,Southampton
+15 Players,,,,,990,0,0,0,0,5,0,1,0,542,19,11,18,0.2,0.2,0.1,5,0,334,421,79.3,24,304,13,17,6,Southampton

@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Harry Kane,10.0,eng ENG,FW,29-282,90,1,0,0,0,1,1,0,0,35,0,0,1,0.1,0.1,0.1,2,1,16,28,57.1,7,26,0,3,0,Tottenham Hotspur
+Richarlison,9.0,br BRA,LW,25-361,78,0,0,0,0,0,0,0,0,20,1,0,1,0.0,0.0,0.0,1,0,9,14,64.3,2,9,0,1,1,Tottenham Hotspur
+Dejan Kulusevski,21.0,se SWE,RW,23-011,12,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Tottenham Hotspur
+Son Heung-min,7.0,kr KOR,RW,30-302,88,0,0,0,0,1,1,0,0,33,0,2,1,0.3,0.3,0.0,1,0,22,26,84.6,2,19,2,1,0,Tottenham Hotspur
+Arnaut Danjuma,16.0,nl NED,LW,26-095,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,LM,30-012,90,0,0,0,0,0,0,1,0,66,2,2,0,0.0,0.0,0.0,1,0,41,58,70.7,4,35,5,2,1,Tottenham Hotspur
+Pierre Højbjerg,5.0,dk DEN,CM,27-274,90,0,0,0,0,1,0,0,0,63,1,0,0,0.1,0.1,0.0,2,0,48,59,81.4,4,29,1,5,3,Tottenham Hotspur
+Oliver Skipp,4.0,eng ENG,CM,22-232,90,0,0,0,0,0,0,0,0,56,2,1,1,0.0,0.0,0.0,2,0,47,50,94.0,5,29,1,0,0,Tottenham Hotspur
+Pedro Porro,23.0,es ESP,RM,23-235,90,0,1,0,0,2,1,0,0,72,2,1,5,0.1,0.1,0.4,4,1,37,55,67.3,3,37,4,1,1,Tottenham Hotspur
+Clément Lenglet,34.0,fr FRA,CB,27-323,87,0,0,0,0,1,0,1,0,97,0,1,0,0.0,0.0,0.0,1,0,82,91,90.1,7,76,2,1,1,Tottenham Hotspur
+Eric Dier,15.0,eng ENG,CB,29-111,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Tottenham Hotspur
+Cristian Romero,17.0,ar ARG,CB,25-009,90,0,0,0,0,2,0,0,0,104,3,5,2,0.2,0.2,0.3,1,0,75,84,89.3,0,57,0,0,0,Tottenham Hotspur
+Emerson,12.0,br BRA,CB,24-112,90,0,0,0,0,0,0,0,0,73,2,2,2,0.0,0.0,0.0,0,0,52,58,89.7,1,48,0,3,2,Tottenham Hotspur
+Fraser Forster,20.0,eng ENG,GK,35-050,90,0,0,0,0,0,0,1,0,27,0,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,14,0,0,0,Tottenham Hotspur
+14 Players,,,,,990,1,1,0,0,8,3,3,0,647,13,14,13,0.9,0.9,0.9,15,2,450,550,81.8,35,380,15,17,9,Tottenham Hotspur

@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Danny Welbeck,18.0,eng ENG,FW,33-161,87,0,0,0,0,1,0,0,0,26,5,0,0,0.1,0.1,0.0,2,0,13,19,68.4,0,14,0,0,0,Brighton & Hove Albion
+Jakub Moder,15.0,pl POL,"RW,FW",25-028,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,1,1,Brighton & Hove Albion
+Simon Adingra,24.0,ci CIV,LW,22-125,89,0,0,0,0,4,4,1,0,50,1,2,1,0.3,0.3,1.1,10,0,28,35,80.0,3,37,8,5,2,Brighton & Hove Albion
+Valentín Barco,19.0,ar ARG,LW,19-287,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,1,4,0,1,0,Brighton & Hove Albion
+Facundo Buonanotte,40.0,ar ARG,RW,19-134,60,0,0,0,0,0,0,0,0,22,2,1,2,0.0,0.0,0.0,0,0,16,16,100.0,1,15,0,3,2,Brighton & Hove Albion
+Julio Enciso,10.0,py PAR,"RW,AM",20-103,30,0,0,0,0,3,0,0,0,22,1,0,0,0.2,0.2,0.1,3,0,11,15,73.3,1,12,0,2,2,Brighton & Hove Albion
+João Pedro,9.0,br BRA,"AM,FW",22-222,90,1,0,0,1,3,2,0,0,41,0,0,1,1.3,0.4,0.3,4,1,23,31,74.2,4,21,2,4,2,Brighton & Hove Albion
+Billy Gilmour,11.0,sct SCO,DM,22-329,87,0,0,0,0,0,0,0,0,67,1,0,0,0.0,0.0,0.0,2,0,55,64,85.9,5,48,0,1,1,Brighton & Hove Albion
+Carlos Baleba,20.0,cm CMR,DM,20-123,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Brighton & Hove Albion
+Pascal Groß,13.0,de GER,DM,32-325,90,0,0,0,0,2,1,1,0,68,2,0,0,0.6,0.6,0.1,3,0,54,62,87.1,2,38,2,1,0,Brighton & Hove Albion
+Igor,3.0,br BRA,LB,26-088,90,0,0,0,0,0,0,0,0,70,0,1,1,0.0,0.0,0.0,0,0,56,64,87.5,4,39,2,0,0,Brighton & Hove Albion
+Lewis Dunk,5.0,eng ENG,CB,32-166,90,0,0,0,0,0,0,0,0,92,1,1,0,0.0,0.0,0.0,1,0,77,84,91.7,0,67,0,0,0,Brighton & Hove Albion
+Adam Webster,4.0,eng ENG,CB,29-122,90,0,0,0,0,0,0,0,0,71,1,3,0,0.0,0.0,0.0,2,0,57,68,83.8,4,56,3,0,0,Brighton & Hove Albion
+Joël Veltman,34.0,nl NED,RB,32-111,90,0,0,0,0,1,0,0,0,40,3,1,0,0.1,0.1,0.0,0,0,26,33,78.8,3,22,1,0,0,Brighton & Hove Albion
+Bart Verbruggen,1.0,nl NED,GK,21-261,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,1,0,26,29,89.7,0,23,0,0,0,Brighton & Hove Albion
+15 Players,,,,,990,1,0,0,1,14,7,2,0,612,17,9,5,2.5,1.6,1.6,28,1,446,528,84.5,28,397,18,18,10,Brighton & Hove Albion
+Ollie Watkins,11.0,eng ENG,FW,28-127,90,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,18,22,81.8,1,19,3,5,2,Aston Villa
+Moussa Diaby,19.0,fr FRA,"AM,LW",24-303,72,0,0,0,0,1,1,0,0,15,0,2,0,0.0,0.0,0.0,0,0,7,12,58.3,2,13,1,0,0,Aston Villa
+Jáder Durán,24.0,co COL,"AM,FW",20-144,18,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Aston Villa
+Leon Bailey,31.0,jm JAM,"LW,RW,RM",26-270,90,0,0,0,0,0,0,0,0,37,2,1,1,0.0,0.0,0.0,0,0,16,24,66.7,3,24,1,5,1,Aston Villa
+Morgan Rogers,27.0,eng ENG,AM,21-284,25,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,1,0,6,8,75.0,1,6,0,0,0,Aston Villa
+Matty Cash,2.0,pl POL,"RW,RB",26-272,65,0,0,0,0,1,0,1,0,37,3,0,0,0.0,0.0,0.0,0,0,18,26,69.2,1,20,2,1,1,Aston Villa
+Douglas Luiz,6.0,br BRA,"DM,CM",25-362,90,0,0,0,0,0,0,0,0,51,2,2,1,0.0,0.0,0.0,0,0,36,45,80.0,0,34,1,0,0,Aston Villa
+John McGinn,7.0,sct SCO,"DM,LM",29-200,90,0,0,0,0,0,0,0,0,41,2,0,3,0.0,0.0,0.0,0,0,28,34,82.4,4,28,1,2,0,Aston Villa
+Lucas Digne,12.0,fr FRA,LB,30-290,89,0,0,0,0,0,0,0,0,58,1,1,3,0.0,0.0,0.0,0,0,38,48,79.2,2,40,2,3,1,Aston Villa
+Álex Moreno,15.0,es ESP,LB,30-332,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,3,1,0,0,Aston Villa
+Pau Torres,14.0,es ESP,CB,27-110,90,0,0,0,0,0,0,0,0,78,2,1,0,0.0,0.0,0.0,0,0,67,72,93.1,4,61,3,1,0,Aston Villa
+Diego Carlos,3.0,br BRA,CB,31-051,90,0,0,0,0,0,0,0,0,95,2,0,2,0.0,0.0,0.0,0,0,72,85,84.7,1,73,0,0,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,RB,26-195,89,0,0,0,0,0,0,0,0,53,3,0,1,0.0,0.0,0.0,0,0,41,49,83.7,5,38,1,0,0,Aston Villa
+Calum Chambers,16.0,eng ENG,CM,29-106,1,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,1,2,0,0,0,Aston Villa
+Robin Olsen,25.0,se SWE,GK,34-118,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,45,46,97.8,0,36,0,0,0,Aston Villa
+15 Players,,,,,990,0,0,0,0,2,1,1,0,565,18,9,11,0.1,0.1,0.0,1,0,399,480,83.1,26,398,16,17,5,Aston Villa

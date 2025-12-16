@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Lucas Paquetá,10.0,br BRA,"FW,RW",27-140,90,1,0,0,0,2,1,1,0,42,3,0,0,0.6,0.6,0.0,0,0,18,30,60.0,1,17,0,1,1,West Ham United
+Carlos Soler,4.0,es ESP,LW,28-012,71,1,0,0,0,1,1,0,0,38,1,0,0,0.1,0.1,0.0,1,1,27,31,87.1,3,18,0,2,1,West Ham United
+Andy Irving,39.0,sct SCO,"DM,LW",24-246,19,0,0,0,0,0,0,0,0,18,1,0,1,0.0,0.0,0.0,1,0,12,14,85.7,2,8,0,0,0,West Ham United
+Mohammed Kudus,14.0,gh GHA,RW,24-165,62,0,0,0,0,0,0,0,0,28,1,0,1,0.0,0.0,0.0,0,0,16,18,88.9,1,16,0,5,3,West Ham United
+Danny Ings,18.0,eng ENG,"FW,RW",32-175,28,0,1,0,0,0,0,0,0,12,1,0,2,0.0,0.0,0.5,0,0,7,7,100.0,0,3,1,0,0,West Ham United
+Tomáš Souček,28.0,cz CZE,AM,29-322,90,1,0,0,0,1,1,1,0,34,1,2,1,0.3,0.3,0.0,1,0,20,25,80.0,2,10,0,1,1,West Ham United
+Guido Rodríguez,24.0,ar ARG,DM,30-277,80,0,0,0,0,0,0,0,0,36,0,0,2,0.0,0.0,0.0,0,0,31,33,93.9,1,14,0,0,0,West Ham United
+Oliver Scarles,57.0,eng ENG,LW,19-033,10,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,West Ham United
+Edson Álvarez,19.0,mx MEX,DM,27-082,90,0,0,0,0,0,0,0,0,60,2,1,1,0.0,0.0,0.0,0,0,40,48,83.3,2,27,1,3,2,West Ham United
+Emerson Palmieri,33.0,it ITA,LB,30-164,80,0,0,0,0,0,0,0,0,42,1,1,1,0.0,0.0,0.0,0,0,23,34,67.6,1,16,2,3,2,West Ham United
+Aaron Cresswell,3.0,eng ENG,LB,35-030,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,West Ham United
+Max Kilman,26.0,eng ENG,CB,27-236,90,0,0,0,0,0,0,0,0,56,0,0,2,0.0,0.0,0.0,0,0,38,47,80.9,3,27,0,0,0,West Ham United
+Konstantinos Mavropanos,15.0,gr GRE,CB,27-034,90,0,0,0,0,0,0,0,0,59,2,1,0,0.0,0.0,0.0,0,0,45,50,90.0,1,31,1,0,0,West Ham United
+Aaron Wan-Bissaka,29.0,cd COD,RB,27-049,90,0,1,0,0,0,0,1,0,62,0,2,2,0.0,0.0,0.3,1,1,38,51,74.5,3,24,1,1,0,West Ham United
+Łukasz Fabiański,1.0,pl POL,GK,39-271,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,0,0,41,52,78.8,0,26,0,0,0,West Ham United
+15 Players,,,,,990,3,2,0,0,4,3,3,0,547,13,7,14,1.0,1.0,0.8,4,2,356,442,80.5,20,238,6,16,10,West Ham United
+Raúl Jiménez,7.0,mx MEX,"FW,AM",33-254,90,0,0,0,0,4,1,1,0,28,0,1,1,0.6,0.6,0.2,2,0,11,18,61.1,0,15,1,1,0,Fulham
+Alex Iwobi,17.0,ng NGA,LW,28-256,84,2,0,0,0,3,2,0,0,56,1,0,1,0.1,0.1,0.6,10,1,35,47,74.5,13,47,3,3,3,Fulham
+Rodrigo Muniz,9.0,br BRA,FW,23-255,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Fulham
+Harry Wilson,8.0,wls WAL,"RW,AM",27-298,84,0,0,0,0,4,1,0,0,45,0,1,1,0.3,0.3,0.2,4,0,28,35,80.0,6,37,3,1,0,Fulham
+Joshua King,24.0,eng ENG,LW,18-011,6,0,0,0,0,1,0,0,0,5,0,0,0,0.2,0.2,0.4,2,0,3,3,100.0,0,3,0,1,1,Fulham
+Emile Smith Rowe,32.0,eng ENG,AM,24-170,67,0,0,0,0,2,0,0,0,27,1,0,0,0.1,0.1,0.0,1,0,20,23,87.0,1,20,1,1,0,Fulham
+Adama Traoré,11.0,es ESP,RW,28-355,23,0,0,0,0,2,0,0,0,9,0,0,0,0.2,0.2,0.1,1,0,3,6,50.0,0,5,2,1,0,Fulham
+Andreas Pereira,18.0,br BRA,DM,29-013,67,0,0,0,0,2,0,0,0,44,1,0,1,0.1,0.1,0.0,3,0,32,39,82.1,4,30,1,0,0,Fulham
+Tom Cairney,10.0,sct SCO,DM,33-360,23,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,16,18,88.9,1,16,0,0,0,Fulham
+Saša Lukić,20.0,rs SRB,DM,28-154,90,0,0,0,0,2,0,1,0,57,5,2,0,0.4,0.4,0.0,2,0,40,48,83.3,2,43,1,0,0,Fulham
+Antonee Robinson,33.0,us USA,LB,27-159,90,0,2,0,0,1,0,0,0,79,1,4,2,0.0,0.0,0.1,9,2,52,69,75.4,6,45,5,1,0,Fulham
+Calvin Bassey,3.0,ng NGA,CB,25-014,90,0,0,0,0,0,0,0,0,85,2,0,0,0.0,0.0,0.0,1,1,64,74,86.5,4,55,2,0,0,Fulham
+Joachim Andersen,5.0,dk DEN,CB,28-228,90,0,0,0,0,0,0,0,0,94,0,2,0,0.0,0.0,0.0,0,0,80,87,92.0,5,73,0,0,0,Fulham
+Timothy Castagne,21.0,be BEL,RB,29-040,90,0,0,0,0,0,0,1,0,81,1,0,0,0.0,0.0,0.0,3,0,68,75,90.7,10,58,2,0,0,Fulham
+Bernd Leno,1.0,de GER,GK,32-316,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,0,24,0,0,0,Fulham
+15 Players,,,,,990,2,2,0,0,21,4,3,0,662,13,10,6,2.0,2.0,1.6,38,4,478,573,83.4,52,471,21,9,4,Fulham

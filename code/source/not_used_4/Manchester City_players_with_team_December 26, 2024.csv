@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Erling Haaland,9.0,no NOR,FW,24-158,90,0,0,0,1,1,0,0,0,20,0,0,0,0.8,0.0,0.1,7,0,10,13,76.9,1,9,0,3,2,Manchester City
+Jeremy Doku,11.0,be BEL,LM,22-213,74,0,1,0,0,0,0,0,0,37,4,0,0,0.0,0.0,0.1,5,1,19,23,82.6,3,29,4,4,0,Manchester City
+Kevin De Bruyne,17.0,be BEL,CM,33-181,16,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,12,16,75.0,2,13,1,0,0,Manchester City
+Bernardo Silva,20.0,pt POR,CM,30-138,90,1,0,0,0,3,1,0,0,86,4,0,0,0.3,0.3,0.0,2,0,67,77,87.0,6,54,5,1,0,Manchester City
+Phil Foden,47.0,eng ENG,"CM,LM",24-212,90,0,0,0,0,2,0,1,0,65,1,0,0,0.1,0.1,0.7,7,0,51,59,86.4,11,45,1,0,0,Manchester City
+Sávio,26.0,br BRA,RM,20-260,90,0,0,0,0,7,3,0,0,58,0,0,1,0.2,0.2,0.1,8,0,34,41,82.9,1,44,11,11,7,Manchester City
+Mateo Kovačić,8.0,hr CRO,DM,30-234,84,0,0,0,0,3,0,0,0,125,2,1,1,0.1,0.1,0.0,3,0,107,117,91.5,9,82,1,0,0,Manchester City
+İlkay Gündoğan,19.0,de GER,DM,34-063,6,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,1,11,1,0,0,Manchester City
+Joško Gvardiol,24.0,hr CRO,LB,22-338,90,0,0,0,0,5,0,0,0,93,2,0,1,0.7,0.3,0.0,3,1,71,78,91.0,5,52,2,4,3,Manchester City
+Nathan Aké,6.0,nl NED,CB,29-312,84,0,0,0,0,1,0,0,0,79,2,0,1,0.1,0.1,0.0,0,0,61,68,89.7,14,48,1,1,1,Manchester City
+Jahmai Simpson-Pusey,66.0,eng ENG,CB,19-052,6,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,9,0,0,0,Manchester City
+Manuel Akanji,25.0,ch SUI,CB,29-160,90,0,0,0,0,0,0,0,0,75,0,0,1,0.0,0.0,0.0,1,0,64,70,91.4,5,46,2,0,0,Manchester City
+Rico Lewis,82.0,eng ENG,RB,20-035,90,0,0,0,0,1,0,0,0,87,1,0,2,0.0,0.0,0.0,4,0,77,82,93.9,11,62,1,0,0,Manchester City
+Stefan Ortega,18.0,de GER,GK,32-050,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,23,24,95.8,0,13,0,0,0,Manchester City
+14 Players,,,,,990,1,1,0,1,23,4,1,0,789,16,1,7,2.3,1.2,1.0,41,2,615,689,89.3,69,517,30,24,13,Manchester City

@@ -1,0 +1,19 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Raúl Jiménez,7.0,mx MEX,FW,33-139,73,1,0,0,0,4,3,0,0,24,2,0,0,0.5,0.5,0.0,3,1,10,15,66.7,2,15,0,1,0,Fulham
+Rodrigo Muniz,9.0,br BRA,FW,23-140,17,0,1,0,0,2,1,0,0,7,0,0,0,0.2,0.2,0.3,1,0,2,3,66.7,1,3,1,0,0,Fulham
+Alex Iwobi,17.0,ng NGA,"LW,RM,RW",28-141,90,0,1,0,0,3,2,0,0,46,0,1,1,0.4,0.4,0.6,6,1,26,33,78.8,5,35,4,4,1,Fulham
+Adama Traoré,11.0,es ESP,RW,28-240,73,0,1,0,0,1,1,1,0,34,1,0,0,0.1,0.1,0.4,7,1,27,29,93.1,5,29,7,3,1,Fulham
+Reiss Nelson,19.0,eng ENG,"LM,LW",24-286,17,1,0,0,0,1,1,0,0,8,2,0,0,0.3,0.3,0.1,1,0,4,6,66.7,0,7,3,3,0,Fulham
+Emile Smith Rowe,32.0,eng ENG,AM,24-055,83,1,0,0,0,3,1,0,0,37,3,0,0,0.4,0.4,0.0,3,1,25,28,89.3,7,26,5,1,0,Fulham
+Issa Diop,31.0,fr FRA,CB,27-256,7,0,0,0,0,0,0,0,0,4,2,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Fulham
+Saša Lukić,20.0,rs SRB,DM,28-039,45,0,0,0,0,0,0,1,0,23,0,0,1,0.0,0.0,0.2,2,0,21,22,95.5,1,16,0,1,1,Fulham
+Sander Berge,16.0,no NOR,"DM,CM",26-220,45,0,0,0,0,0,0,0,0,17,1,2,0,0.0,0.0,0.0,2,0,12,12,100.0,0,9,0,1,0,Fulham
+Andreas Pereira,18.0,br BRA,DM,28-264,66,0,0,0,0,2,1,1,0,41,3,0,0,0.1,0.1,0.1,3,0,22,33,66.7,3,23,0,1,0,Fulham
+Harrison Reed,6.0,eng ENG,"DM,CM",29-238,24,0,0,0,0,0,0,1,0,13,2,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,6,1,0,0,Fulham
+Antonee Robinson,33.0,us USA,LB,27-044,90,0,0,0,0,1,0,0,0,42,0,0,2,0.1,0.1,0.1,2,0,28,34,82.4,1,23,1,1,1,Fulham
+Calvin Bassey,3.0,ng NGA,CB,24-265,90,0,0,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.0,2,0,30,31,96.8,1,17,0,0,0,Fulham
+Joachim Andersen,5.0,dk DEN,CB,28-113,90,0,0,0,0,3,1,0,0,62,0,2,1,0.1,0.1,0.2,2,0,40,49,81.6,2,34,2,0,0,Fulham
+Kenny Tete,2.0,nl NED,RB,28-348,90,0,0,0,0,2,0,1,0,52,2,1,0,0.3,0.3,0.0,2,0,34,43,79.1,2,28,3,1,0,Fulham
+Bernd Leno,1.0,de GER,GK,32-201,90,0,0,0,0,0,0,1,0,33,0,0,0,0.0,0.0,0.0,0,0,16,31,51.6,0,21,0,0,0,Fulham
+16 Players,,,,,990,3,3,0,0,22,11,6,0,484,19,6,6,2.3,2.3,2.0,36,4,305,379,80.5,30,293,27,17,4,Fulham

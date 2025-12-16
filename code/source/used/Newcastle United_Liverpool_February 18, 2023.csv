@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Alexander Isak,14.0,se SWE,"AM,FW",23-150,63,0,0,0,0,1,0,0,0,21,0,0,2,0.3,0.3,0.0,0,0,11,15,73.3,2,14,3,1,1,Newcastle United
+Callum Wilson,9.0,eng ENG,AM,30-356,27,0,0,0,0,1,1,0,0,10,0,0,0,0.4,0.4,0.0,0,0,3,3,100.0,1,11,0,1,0,Newcastle United
+Allan Saint-Maximin,10.0,fr FRA,"AM,LW",25-343,90,0,0,0,0,3,1,0,0,40,0,0,0,0.2,0.2,0.5,6,0,27,32,84.4,4,32,8,10,7,Newcastle United
+Miguel Almirón,24.0,py PAR,"RM,RW",29-008,63,0,0,0,0,2,1,1,0,28,1,0,0,0.3,0.3,0.0,1,0,21,24,87.5,4,16,2,2,1,Newcastle United
+Anthony Gordon,8.0,eng ENG,RM,21-359,27,0,0,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.4,2,0,15,17,88.2,2,10,1,4,2,Newcastle United
+Elliot Anderson,32.0,eng ENG,LM,20-104,23,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,3,1,2,0,Newcastle United
+Martin Dúbravka,1.0,sk SVK,GK,34-034,67,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,19,22,86.4,0,16,0,0,0,Newcastle United
+Joelinton,7.0,br BRA,"LM,CM",26-188,70,0,0,0,0,2,1,0,0,45,1,1,1,0.1,0.1,0.0,2,0,31,36,86.1,2,27,0,1,1,Newcastle United
+Matt Ritchie,11.0,sct SCO,LM,33-161,20,0,0,0,0,0,0,0,0,17,1,1,0,0.0,0.0,0.0,0,0,10,15,66.7,0,12,0,1,1,Newcastle United
+Sean Longstaff,36.0,eng ENG,"CM,RM",25-111,90,0,0,0,0,0,0,0,0,48,3,1,1,0.0,0.0,0.0,1,0,29,34,85.3,2,28,1,1,1,Newcastle United
+Dan Burn,33.0,eng ENG,LB,30-285,90,0,0,0,0,1,0,0,0,61,1,0,2,0.2,0.2,0.1,2,0,33,46,71.7,3,23,1,3,2,Newcastle United
+Sven Botman,4.0,nl NED,CB,23-037,90,0,0,0,0,1,0,0,0,59,1,1,1,0.1,0.1,0.0,1,0,42,47,89.4,3,24,0,0,0,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,31-060,90,0,0,0,0,3,0,0,0,48,0,0,0,0.5,0.5,0.0,1,0,30,41,73.2,2,33,0,0,0,Newcastle United
+Kieran Trippier,2.0,eng ENG,RB,32-152,63,0,0,0,0,0,0,0,0,47,1,2,2,0.0,0.0,0.7,9,0,27,40,67.5,6,21,0,4,3,Newcastle United
+Jacob Murphy,23.0,eng ENG,RB,27-359,27,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,14,16,87.5,2,12,0,3,2,Newcastle United
+Nick Pope,22.0,eng ENG,GK,30-305,21,0,0,0,0,0,0,0,1,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Newcastle United
+16 Players,,,,,921,0,0,0,0,14,4,1,1,499,10,7,10,2.0,2.0,1.9,25,0,315,394,79.9,33,284,17,33,21,Newcastle United
+Cody Gakpo,18.0,nl NED,FW,23-287,58,1,0,0,0,2,2,0,0,18,1,0,1,0.5,0.5,0.0,0,0,8,11,72.7,2,11,2,0,0,Liverpool
+Diogo Jota,20.0,pt POR,LW,26-076,32,0,0,0,0,4,0,0,0,25,1,0,0,0.5,0.5,0.0,1,0,12,15,80.0,0,15,3,2,1,Liverpool
+Darwin Núñez,27.0,uy URU,LW,23-239,58,1,0,0,0,2,2,0,0,18,0,0,0,0.6,0.6,0.0,0,0,9,12,75.0,1,16,3,2,0,Liverpool
+Roberto Firmino,9.0,br BRA,FW,31-139,32,0,0,0,0,0,0,0,0,28,1,0,1,0.0,0.0,0.1,2,0,18,22,81.8,4,18,0,4,2,Liverpool
+Mohamed Salah,11.0,eg EGY,RW,30-248,90,0,1,0,0,2,1,0,0,32,0,0,1,0.2,0.2,0.3,4,2,19,24,79.2,5,19,3,2,0,Liverpool
+Stefan Bajcetic,43.0,es ESP,LM,18-119,58,0,0,0,0,1,0,0,0,27,2,0,0,0.0,0.0,0.0,0,0,18,22,81.8,2,22,1,0,0,Liverpool
+James Milner,7.0,eng ENG,LM,37-045,32,0,0,0,0,0,0,0,0,33,2,0,0,0.0,0.0,0.0,0,0,29,31,93.5,4,22,1,2,2,Liverpool
+Fabinho,3.0,br BRA,CM,29-118,90,0,0,0,0,0,0,1,0,56,1,0,2,0.0,0.0,0.0,3,1,45,48,93.8,4,31,1,2,2,Liverpool
+Jordan Henderson,14.0,eng ENG,RM,32-246,58,0,0,0,0,1,1,0,0,37,1,0,2,0.0,0.0,0.0,1,0,24,30,80.0,2,22,0,1,1,Liverpool
+Harvey Elliott,19.0,eng ENG,RM,19-320,32,0,0,0,0,1,1,0,0,25,1,1,0,0.0,0.0,0.2,4,0,17,20,85.0,4,16,0,0,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,28-344,90,0,0,0,0,0,0,0,0,103,1,1,0,0.0,0.0,0.3,4,0,85,95,89.5,10,75,2,1,0,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,31-225,90,0,0,0,0,0,0,0,0,104,0,1,2,0.0,0.0,0.0,0,0,89,93,95.7,2,78,0,0,0,Liverpool
+Joe Gomez,2.0,eng ENG,CB,25-271,90,0,0,0,0,0,0,0,0,94,2,1,1,0.0,0.0,0.0,0,0,80,88,90.9,5,76,1,0,0,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,24-134,90,0,1,0,0,0,0,0,0,103,1,0,1,0.0,0.0,0.9,4,1,75,95,78.9,9,62,2,1,1,Liverpool
+Alisson,1.0,br BRA,GK,30-139,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,31,39,79.5,0,26,0,0,0,Liverpool
+15 Players,,,,,990,2,2,0,0,13,7,1,0,744,14,4,11,1.9,1.9,1.9,23,4,559,645,86.7,54,509,19,17,9,Liverpool
