@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Álvaro Morata,29.0,es ESP,FW,26-019,90,0,0,0,0,1,1,1,0,23,2,0,0,0.5,0.5,0.0,3,0,12,16,75.0,1,13,0,0,0,Chelsea
+Eden Hazard,10.0,be BEL,LW,27-308,90,0,0,0,0,3,2,0,0,61,0,0,0,0.2,0.2,0.7,8,0,44,53,83.0,10,47,3,5,4,Chelsea
+Willian,22.0,br BRA,RW,30-094,67,0,0,0,0,1,0,0,0,50,1,0,0,0.1,0.1,0.1,3,0,32,42,76.2,5,23,3,2,1,Chelsea
+Pedro,11.0,es ESP,RW,31-106,23,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,7,0,0,0,Chelsea
+Mateo Kovačić,17.0,hr CRO,LM,24-189,81,0,0,0,0,1,0,0,0,99,3,1,1,0.0,0.0,0.1,3,0,77,89,86.5,9,64,1,2,1,Chelsea
+Ross Barkley,8.0,eng ENG,LM,24-341,9,0,0,0,0,2,0,0,0,11,0,0,0,0.1,0.1,0.0,0,0,6,8,75.0,0,5,0,0,0,Chelsea
+Jorginho,5.0,it ITA,CM,26-326,63,0,0,0,0,1,0,1,0,58,2,0,2,0.0,0.0,0.0,1,0,46,50,92.0,2,30,0,0,0,Chelsea
+Cesc Fàbregas,4.0,es ESP,CM,31-191,27,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,31,35,88.6,5,24,1,0,0,Chelsea
+N'Golo Kanté,7.0,fr FRA,RM,27-227,90,0,0,0,0,2,0,1,0,59,2,1,0,0.1,0.1,0.0,1,0,40,47,85.1,2,27,0,0,0,Chelsea
+Marcos Alonso,3.0,es ESP,LB,27-318,90,0,0,0,0,3,1,0,0,80,2,1,1,0.2,0.2,0.0,2,0,59,65,90.8,3,42,2,1,1,Chelsea
+David Luiz,30.0,br BRA,CB,31-203,90,0,0,0,0,1,0,0,0,130,0,0,0,0.0,0.0,0.0,3,0,108,120,90.0,17,104,5,2,1,Chelsea
+Antonio Rüdiger,2.0,de GER,CB,25-253,90,0,0,0,0,0,0,1,0,98,1,0,0,0.0,0.0,0.0,1,0,85,96,88.5,9,79,0,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,RB,29-075,90,0,0,0,0,0,0,0,0,88,5,1,1,0.0,0.0,0.0,2,0,65,75,86.7,6,37,0,1,0,Chelsea
+Kepa Arrizabalaga,1.0,es ESP,GK,24-039,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,31,31,100.0,0,18,0,0,0,Chelsea
+14 Players,,,,,990,0,0,0,0,15,4,4,0,835,19,4,5,1.2,1.2,1.0,28,0,645,736,87.6,70,520,15,13,8,Chelsea
+Richarlison,30.0,br BRA,FW,21-185,88,0,0,0,0,1,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,11,19,57.9,2,19,3,2,0,Everton
+Dominic Calvert-Lewin,29.0,eng ENG,FW,21-240,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Everton
+Bernard,20.0,br BRA,LW,26-064,63,0,0,0,0,1,0,1,0,33,2,3,1,0.0,0.0,0.1,2,0,17,19,89.5,1,21,2,4,1,Everton
+Ademola Lookman,31.0,ng NGA,"AM,LW",21-022,27,0,0,0,0,0,0,0,0,9,1,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,1,2,2,Everton
+Theo Walcott,11.0,eng ENG,"RW,AM",29-240,90,0,0,0,0,1,0,0,0,33,2,0,0,0.0,0.0,0.0,1,0,15,22,68.2,2,25,2,3,1,Everton
+Gylfi Sigurðsson,10.0,is ISL,AM,29-064,75,0,0,0,0,1,1,0,0,37,5,3,2,0.0,0.0,0.0,2,0,15,22,68.2,4,12,3,1,0,Everton
+Phil Jagielka,6.0,eng ENG,CB,36-086,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,0,0,0,0,Everton
+Idrissa Gana Gueye,17.0,sn SEN,"DM,CM",29-046,90,0,0,0,0,0,0,0,0,43,2,2,1,0.0,0.0,0.0,1,0,29,37,78.4,1,23,0,1,1,Everton
+André Gomes,8.0,pt POR,"DM,CM",25-104,90,0,0,0,0,1,0,0,0,39,2,0,1,0.2,0.2,0.0,0,0,27,33,81.8,5,31,3,2,2,Everton
+Lucas Digne,12.0,fr FRA,"LB,WB",25-114,90,0,0,0,0,0,0,0,0,55,3,3,2,0.0,0.0,0.2,3,0,28,40,70.0,2,23,1,0,0,Everton
+Yerry Mina,13.0,co COL,CB,24-049,90,0,0,0,0,0,0,1,0,38,1,0,0,0.0,0.0,0.0,0,0,29,33,87.9,1,26,0,0,0,Everton
+Michael Keane,4.0,eng ENG,CB,25-304,90,0,0,0,0,1,0,0,0,41,1,1,0,0.0,0.0,0.0,0,0,24,33,72.7,1,20,0,0,0,Everton
+Séamus Coleman,23.0,ie IRL,"RB,WB",30-031,90,0,0,0,0,0,0,0,0,51,2,1,0,0.0,0.0,0.0,1,0,30,41,73.2,4,27,3,2,1,Everton
+Jordan Pickford,1.0,eng ENG,GK,24-249,90,0,0,0,0,0,0,1,0,43,0,0,0,0.0,0.0,0.0,0,0,24,39,61.5,0,13,0,0,0,Everton
+14 Players,,,,,990,0,0,0,0,6,1,3,0,459,21,14,7,0.3,0.3,0.3,11,0,256,348,73.6,23,248,18,17,8,Everton

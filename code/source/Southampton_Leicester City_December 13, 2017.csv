@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Charlie Austin,10.0,eng ENG,FW,28-161,90,0,0,0,0,3,2,1,0,31,0,0,1,0.8,0.8,0.3,3,0,18,22,81.8,0,21,0,0,0,Southampton
+Sofiane Boufal,19.0,ma MAR,LW,24-087,61,0,0,0,0,0,0,0,0,37,3,0,0,0.0,0.0,0.3,3,0,18,24,75.0,3,26,7,3,1,Southampton
+Nathan Redmond,22.0,eng ENG,LW,23-282,29,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,11,15,73.3,4,13,2,1,1,Southampton
+Dušan Tadić,11.0,rs SRB,RW,29-023,82,0,0,0,0,0,0,0,0,27,3,1,0,0.0,0.0,0.0,3,0,18,19,94.7,3,15,1,1,1,Southampton
+James Ward-Prowse,16.0,eng ENG,RW,23-042,8,0,0,0,0,1,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,1,4,25.0,1,2,0,0,0,Southampton
+Steven Davis,8.0,nir NIR,"DM,AM",32-346,90,0,0,0,0,0,0,0,0,68,1,1,3,0.0,0.0,0.0,3,0,45,61,73.8,9,42,1,1,0,Southampton
+Mario Lemina,18.0,ga GAB,DM,24-103,90,0,0,0,0,1,0,0,0,60,5,4,2,0.0,0.0,0.0,0,0,37,47,78.7,1,35,1,3,3,Southampton
+Oriol Romeu,14.0,es ESP,DM,26-080,45,0,0,0,0,1,0,0,0,32,1,0,3,0.2,0.2,0.0,0,0,22,25,88.0,1,17,1,0,0,Southampton
+Manolo Gabbiadini,20.0,it ITA,AM,26-017,45,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,12,13,92.3,0,5,0,0,0,Southampton
+Ryan Bertrand,21.0,eng ENG,LB,28-130,90,0,1,0,0,1,1,0,0,61,3,0,0,0.1,0.1,0.1,4,2,37,54,68.5,6,30,3,3,1,Southampton
+Virgil van Dijk,17.0,nl NED,CB,26-158,90,0,0,0,0,2,0,0,0,61,1,3,2,0.1,0.1,0.0,0,0,45,49,91.8,5,39,3,2,2,Southampton
+Maya Yoshida,3.0,jp JPN,CB,29-111,90,1,0,0,0,2,1,0,0,63,0,1,0,0.3,0.3,0.0,1,0,39,52,75.0,3,37,0,0,0,Southampton
+Cédric Soares,2.0,pt POR,RB,26-104,90,0,0,0,0,0,0,0,0,73,1,0,1,0.0,0.0,0.0,2,0,50,62,80.6,3,33,1,0,0,Southampton
+Fraser Forster,44.0,eng ENG,GK,29-271,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,16,26,61.5,0,13,0,0,0,Southampton
+14 Players,,,,,990,1,1,0,0,11,4,1,0,580,19,10,13,1.6,1.6,0.7,20,2,369,473,78.0,39,328,20,14,9,Southampton
+Charlie Austin,10.0,eng ENG,FW,28-161,90,0,0,0,0,3,2,1,0,31,0,0,1,0.8,0.8,0.3,3,0,18,22,81.8,0,21,0,0,0,Leicester City
+Sofiane Boufal,19.0,ma MAR,LW,24-087,61,0,0,0,0,0,0,0,0,37,3,0,0,0.0,0.0,0.3,3,0,18,24,75.0,3,26,7,3,1,Leicester City
+Nathan Redmond,22.0,eng ENG,LW,23-282,29,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,11,15,73.3,4,13,2,1,1,Leicester City
+Dušan Tadić,11.0,rs SRB,RW,29-023,82,0,0,0,0,0,0,0,0,27,3,1,0,0.0,0.0,0.0,3,0,18,19,94.7,3,15,1,1,1,Leicester City
+James Ward-Prowse,16.0,eng ENG,RW,23-042,8,0,0,0,0,1,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,1,4,25.0,1,2,0,0,0,Leicester City
+Steven Davis,8.0,nir NIR,"DM,AM",32-346,90,0,0,0,0,0,0,0,0,68,1,1,3,0.0,0.0,0.0,3,0,45,61,73.8,9,42,1,1,0,Leicester City
+Mario Lemina,18.0,ga GAB,DM,24-103,90,0,0,0,0,1,0,0,0,60,5,4,2,0.0,0.0,0.0,0,0,37,47,78.7,1,35,1,3,3,Leicester City
+Oriol Romeu,14.0,es ESP,DM,26-080,45,0,0,0,0,1,0,0,0,32,1,0,3,0.2,0.2,0.0,0,0,22,25,88.0,1,17,1,0,0,Leicester City
+Manolo Gabbiadini,20.0,it ITA,AM,26-017,45,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,12,13,92.3,0,5,0,0,0,Leicester City
+Ryan Bertrand,21.0,eng ENG,LB,28-130,90,0,1,0,0,1,1,0,0,61,3,0,0,0.1,0.1,0.1,4,2,37,54,68.5,6,30,3,3,1,Leicester City
+Virgil van Dijk,17.0,nl NED,CB,26-158,90,0,0,0,0,2,0,0,0,61,1,3,2,0.1,0.1,0.0,0,0,45,49,91.8,5,39,3,2,2,Leicester City
+Maya Yoshida,3.0,jp JPN,CB,29-111,90,1,0,0,0,2,1,0,0,63,0,1,0,0.3,0.3,0.0,1,0,39,52,75.0,3,37,0,0,0,Leicester City
+Cédric Soares,2.0,pt POR,RB,26-104,90,0,0,0,0,0,0,0,0,73,1,0,1,0.0,0.0,0.0,2,0,50,62,80.6,3,33,1,0,0,Leicester City
+Fraser Forster,44.0,eng ENG,GK,29-271,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,16,26,61.5,0,13,0,0,0,Leicester City
+14 Players,,,,,990,1,1,0,0,11,4,1,0,580,19,10,13,1.6,1.6,0.7,20,2,369,473,78.0,39,328,20,14,9,Leicester City

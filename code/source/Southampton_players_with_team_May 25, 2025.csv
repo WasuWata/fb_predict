@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ross Stewart,11.0,sct SCO,FW,28-318,69,1,0,0,0,2,1,0,0,26,2,0,0,0.3,0.3,0.0,1,0,13,17,76.5,0,8,0,0,0,Southampton
+Paul Onuachu,32.0,ng NGA,FW,30-362,21,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,6,0,1,1,Southampton
+Kamaldeen Sulemana,20.0,gh GHA,LM,23-099,78,0,0,0,0,2,0,0,0,31,3,0,3,0.1,0.1,0.0,2,0,14,17,82.4,0,16,4,6,5,Southampton
+Cameron Archer,19.0,eng ENG,LM,23-308,12,0,0,0,0,0,0,0,0,13,2,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,3,1,1,0,Southampton
+Lesley Ugochukwu,26.0,fr FRA,CM,21-060,85,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,1,0,23,26,88.5,0,12,0,2,1,Southampton
+Joachim Kayi Sanda,39.0,fr FRA,CB,18-177,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,5,0,0,0,Southampton
+Mateus Fernandes,18.0,pt POR,"CM,RM",20-319,90,0,1,0,0,1,0,0,0,53,1,2,2,0.1,0.1,0.4,5,1,34,41,82.9,5,16,0,2,1,Southampton
+Jay Robinson,46.0,eng ENG,RM,18-071,78,0,0,0,0,1,1,0,0,25,1,0,0,0.0,0.0,0.0,3,1,7,15,46.7,0,12,1,5,3,Southampton
+William Smallbone,8.0,ie IRL,CM,25-093,12,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,1,0,0,0,Southampton
+Welington,34.0,br BRA,LB,24-095,90,0,0,0,0,0,0,0,0,39,1,0,1,0.0,0.0,0.0,0,0,20,28,71.4,1,13,2,2,1,Southampton
+Charlie Taylor,21.0,eng ENG,CB,31-249,90,0,0,0,0,0,0,0,0,60,0,2,3,0.0,0.0,0.0,0,0,42,46,91.3,1,25,0,0,0,Southampton
+Nathan Wood-Gordon,15.0,eng ENG,CB,22-359,90,0,0,0,0,0,0,0,0,51,3,0,1,0.0,0.0,0.0,0,0,35,38,92.1,0,26,0,1,1,Southampton
+Flynn Downes,4.0,eng ENG,"CB,CM",26-125,90,0,0,0,0,0,0,0,0,60,1,1,4,0.0,0.0,0.0,0,0,47,50,94.0,2,28,3,1,1,Southampton
+Yukinari Sugawara,16.0,jp JPN,RB,24-331,90,0,0,0,0,1,0,0,0,43,2,1,4,0.0,0.0,0.0,0,0,24,29,82.8,4,11,1,0,0,Southampton
+Aaron Ramsdale,30.0,eng ENG,GK,27-011,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,14,32,43.8,0,20,0,0,0,Southampton
+15 Players,,,,,990,1,1,0,0,7,2,0,0,492,18,6,18,0.6,0.6,0.4,12,2,289,363,79.6,13,202,12,21,14,Southampton

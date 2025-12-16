@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ollie Watkins,11.0,eng ENG,FW,25-095,90,1,0,0,0,2,1,0,0,22,0,0,1,0.7,0.7,0.0,1,0,9,14,64.3,2,11,1,1,0,Aston Villa
+Anwar El Ghazi,21.0,nl NED,LW,25-336,61,0,0,0,0,1,0,0,0,28,1,1,1,0.0,0.0,0.1,3,0,13,19,68.4,0,8,1,1,0,Aston Villa
+Trézéguet,17.0,eg EGY,LW,26-185,29,2,0,0,0,4,2,0,0,16,0,0,0,0.5,0.5,0.0,2,1,8,9,88.9,1,11,1,2,0,Aston Villa
+Bertrand Traoré,15.0,bf BFA,RW,25-210,90,0,1,0,0,1,1,0,0,51,2,0,2,0.0,0.0,0.7,4,1,22,32,68.8,4,29,3,6,2,Aston Villa
+John McGinn,7.0,sct SCO,AM,26-168,90,0,0,0,0,3,0,0,0,36,1,1,1,0.1,0.1,0.0,3,0,17,24,70.8,4,16,2,6,5,Aston Villa
+Morgan Sanson,25.0,fr FRA,DM,26-229,66,0,0,0,0,1,0,0,0,55,2,3,1,0.0,0.0,0.0,1,0,33,41,80.5,5,29,1,1,0,Aston Villa
+Keinan Davis,39.0,eng ENG,AM,23-050,24,0,1,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.3,2,2,4,5,80.0,0,6,1,4,3,Aston Villa
+Douglas Luiz,6.0,br BRA,DM,22-330,73,0,0,0,0,1,0,1,0,58,3,0,3,0.1,0.1,0.0,1,0,43,49,87.8,4,29,0,2,2,Aston Villa
+Jacob Ramsey,41.0,eng ENG,DM,19-311,17,0,0,0,0,0,0,0,0,15,2,2,0,0.0,0.0,0.0,0,0,8,10,80.0,2,6,0,0,0,Aston Villa
+Matt Targett,18.0,eng ENG,LB,25-198,90,0,0,0,0,0,0,0,0,66,1,2,1,0.0,0.0,0.0,2,1,43,58,74.1,2,32,2,1,0,Aston Villa
+Tyrone Mings,5.0,eng ENG,CB,28-022,90,0,1,0,0,0,0,0,0,65,1,2,1,0.0,0.0,0.1,2,1,42,56,75.0,4,37,0,0,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,CB,23-163,90,0,0,0,0,1,0,0,0,61,0,1,0,0.1,0.1,0.0,1,0,48,54,88.9,0,35,0,0,0,Aston Villa
+Matty Cash,2.0,pl POL,RB,23-240,90,0,0,0,0,0,0,0,0,77,2,2,3,0.0,0.0,0.1,4,0,47,66,71.2,9,28,2,0,0,Aston Villa
+Emiliano Martínez,26.0,ar ARG,GK,28-214,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,22,31,71.0,0,18,0,0,0,Aston Villa
+14 Players,,,,,990,3,3,0,0,14,4,1,0,590,15,14,15,1.5,1.5,1.4,26,6,359,468,76.7,37,295,14,24,12,Aston Villa
+Aleksandar Mitrović,9.0,rs SRB,FW,26-200,90,1,0,0,0,5,4,0,0,31,1,0,0,0.4,0.4,0.0,3,1,14,21,66.7,2,17,3,1,1,Fulham
+Ademola Lookman,19.0,ng NGA,LW,23-166,46,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.0,1,0,11,19,57.9,1,14,0,2,1,Fulham
+Ivan Cavaleiro,17.0,pt POR,LW,27-168,44,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,0,0,11,20,55.0,1,13,0,3,3,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,RW,28-061,90,0,0,0,0,3,1,1,0,42,2,1,1,0.1,0.1,0.0,2,0,17,25,68.0,2,23,1,6,3,Fulham
+Ruben Loftus-Cheek,15.0,eng ENG,AM,25-071,82,0,0,0,0,1,0,0,0,44,1,0,0,0.0,0.0,0.0,4,0,22,31,71.0,9,27,2,5,2,Fulham
+Josh Maja,27.0,ng NGA,AM,22-098,8,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.1,1,0,6,6,100.0,0,3,0,0,0,Fulham
+Mario Lemina,18.0,ga GAB,DM,27-215,82,0,0,0,0,0,0,0,0,36,2,0,4,0.0,0.0,0.1,2,0,22,25,88.0,3,16,0,0,0,Fulham
+Josh Onomah,25.0,eng ENG,DM,23-342,8,0,0,0,0,2,1,0,0,7,0,0,1,0.1,0.1,0.0,0,0,2,2,100.0,0,2,1,0,0,Fulham
+Harrison Reed,21.0,eng ENG,DM,26-067,90,0,0,0,0,2,0,0,0,54,6,1,0,0.0,0.0,0.0,3,0,34,42,81.0,4,20,0,1,0,Fulham
+Ola Aina,34.0,ng NGA,LB,24-178,90,0,0,0,0,0,0,0,0,58,2,0,0,0.0,0.0,0.0,0,0,33,51,64.7,2,27,1,1,1,Fulham
+Tosin Adarabioyo,16.0,eng ENG,CB,23-192,90,0,0,0,0,0,0,0,0,64,1,0,2,0.0,0.0,0.0,0,0,47,55,85.5,1,42,0,1,1,Fulham
+Joachim Andersen,5.0,dk DEN,CB,24-308,90,0,0,0,0,1,0,1,0,66,1,1,0,0.2,0.2,0.0,2,0,43,58,74.1,2,35,0,0,0,Fulham
+Kenny Tete,2.0,nl NED,RB,25-177,90,0,0,0,0,1,1,0,0,48,4,0,2,0.0,0.0,0.1,4,0,23,33,69.7,3,20,2,0,0,Fulham
+Alphonse Areola,1.0,fr FRA,GK,28-036,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,24,31,77.4,0,15,0,0,0,Fulham
+14 Players,,,,,990,1,0,0,0,15,7,2,0,541,23,4,10,1.0,1.0,0.4,22,1,309,419,73.7,30,274,10,20,12,Fulham

@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Chris Wood,9.0,nz NZL,FW,29-159,64,0,0,0,0,1,0,0,0,26,1,0,1,0.0,0.0,0.0,0,0,15,18,83.3,0,13,0,0,0,Burnley
+Ashley Barnes,10.0,eng ENG,FW,31-197,26,0,0,0,0,2,0,0,0,16,0,1,0,0.1,0.1,0.0,1,0,9,12,75.0,0,9,0,0,0,Burnley
+Matěj Vydra,27.0,cz CZE,FW,29-014,64,0,0,0,0,2,1,0,0,23,0,0,0,0.4,0.4,0.1,3,0,10,17,58.8,1,15,1,1,1,Burnley
+Jay Rodriguez,19.0,eng ENG,FW,31-290,26,0,0,0,0,2,1,0,0,10,0,0,0,0.1,0.1,0.0,0,0,4,5,80.0,0,6,1,1,0,Burnley
+Dwight McNeil,11.0,eng ENG,LM,21-174,69,0,0,0,0,1,0,0,0,42,1,0,1,0.0,0.0,0.0,3,0,23,35,65.7,5,28,3,2,1,Burnley
+Jóhann Berg Guðmundsson,7.0,is ISL,RM,30-200,21,0,0,0,0,1,1,0,0,18,0,0,0,0.2,0.2,0.0,3,0,11,16,68.8,3,13,1,0,0,Burnley
+Jack Cork,4.0,eng ENG,CM,31-324,90,0,0,0,0,0,0,0,0,39,0,1,0,0.0,0.0,0.0,3,0,31,33,93.9,4,30,1,0,0,Burnley
+Ashley Westwood,18.0,eng ENG,CM,31-044,90,0,0,0,0,3,1,1,0,73,1,0,0,0.1,0.1,0.3,4,0,58,68,85.3,10,55,0,2,1,Burnley
+Josh Brownhill,8.0,eng ENG,"RM,LM",25-147,90,0,0,0,0,1,0,0,0,57,1,1,2,0.1,0.1,0.1,2,0,35,49,71.4,4,36,1,0,0,Burnley
+Charlie Taylor,3.0,eng ENG,LB,27-239,90,0,0,0,0,0,0,0,0,49,3,0,1,0.0,0.0,0.0,1,0,24,37,64.9,2,21,6,3,2,Burnley
+Ben Mee,6.0,eng ENG,CB,31-236,90,0,0,0,0,1,0,0,0,56,2,1,1,0.0,0.0,0.2,3,0,35,48,72.9,5,34,0,0,0,Burnley
+James Tarkowski,5.0,eng ENG,CB,28-177,90,0,0,0,0,1,0,0,0,59,1,4,1,0.1,0.1,0.0,1,0,31,44,70.5,2,30,1,1,0,Burnley
+Matthew Lowton,2.0,eng ENG,RB,31-340,90,0,0,0,0,1,0,0,0,59,2,5,0,0.0,0.0,0.0,3,0,33,46,71.7,3,25,0,0,0,Burnley
+Bailey Peacock-Farrell,15.0,nir NIR,GK,24-198,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,1,0,17,30,56.7,0,16,0,0,0,Burnley
+14 Players,,,,,990,0,0,0,0,16,4,1,0,558,12,13,7,1.3,1.3,0.8,28,0,336,458,73.4,39,331,15,10,5,Burnley
+Patrick Bamford,9.0,eng ENG,FW,27-252,57,0,0,0,0,1,1,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,5,0,0,0,Leeds United
+Rodrigo,20.0,es ESP,FW,30-070,33,2,0,0,0,3,2,0,0,15,1,0,0,0.9,0.9,0.1,3,1,8,10,80.0,1,11,1,1,1,Leeds United
+Jack Harrison,22.0,eng ENG,LW,24-176,90,1,2,0,0,1,1,0,0,44,1,0,0,0.1,0.1,0.9,5,2,23,38,60.5,5,26,7,2,1,Leeds United
+Raphinha,18.0,br BRA,RW,24-152,80,0,1,0,0,3,0,0,0,53,1,1,0,0.2,0.2,0.0,1,1,25,39,64.1,4,40,2,4,2,Leeds United
+Ian Poveda,7.0,eng ENG,AM,21-095,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,1,0,0,Leeds United
+Mateusz Klich,43.0,pl POL,AM,30-336,75,1,0,0,0,1,1,0,0,30,2,0,0,0.0,0.0,0.0,6,1,21,28,75.0,2,23,3,0,0,Leeds United
+Tyler Roberts,11.0,wls WAL,RW,22-123,15,0,0,0,0,1,1,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,9,2,0,0,Leeds United
+Ezgjan Alioski,10.0,mk MKD,CM,29-092,90,0,1,0,0,2,0,0,0,55,0,0,0,0.1,0.1,0.2,3,1,40,50,80.0,5,24,1,0,0,Leeds United
+Kalvin Phillips,23.0,eng ENG,CM,25-164,90,0,0,0,0,0,0,1,0,47,2,1,3,0.0,0.0,0.0,4,1,33,40,82.5,3,17,1,0,0,Leeds United
+Stuart Dallas,15.0,nir NIR,CM,30-026,90,0,0,0,0,3,0,0,0,67,0,2,1,0.1,0.1,0.0,3,0,42,56,75.0,4,35,1,1,0,Leeds United
+Pascal Struijk,21.0,nl NED,CB,21-277,90,0,0,0,0,1,0,0,0,54,0,0,1,0.0,0.0,0.0,0,0,32,42,76.2,2,25,0,0,0,Leeds United
+Diego Llorente,14.0,es ESP,CB,27-272,90,0,0,0,0,0,0,0,0,63,1,2,2,0.0,0.0,0.0,0,0,42,54,77.8,1,35,0,0,0,Leeds United
+Luke Ayling,2.0,eng ENG,CB,29-263,90,0,0,0,0,0,0,0,0,89,3,2,1,0.0,0.0,0.0,2,0,56,74,75.7,4,44,3,0,0,Leeds United
+Illan Meslier,1.0,fr FRA,GK,21-074,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,27,42,64.3,0,23,0,0,0,Leeds United
+14 Players,,,,,990,4,4,0,0,16,6,1,0,584,11,8,8,1.5,1.5,1.3,27,7,363,491,73.9,31,320,22,8,4,Leeds United

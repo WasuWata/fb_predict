@@ -1,0 +1,29 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Phil Foden,47.0,eng ENG,FW,21-282,90,0,0,0,0,4,1,0,0,41,2,0,1,0.5,0.5,0.0,5,0,21,31,67.7,2,32,0,3,2,Manchester City
+Jack Grealish,10.0,eng ENG,LW,26-177,90,0,0,0,0,1,0,0,0,54,1,0,2,0.1,0.1,0.6,8,1,41,47,87.2,9,41,8,1,0,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,31-013,90,2,0,0,0,8,4,0,0,55,0,1,1,1.0,1.0,0.0,2,0,43,45,95.6,3,46,3,3,2,Manchester City
+Bernardo Silva,20.0,pt POR,"LM,RM",27-208,90,0,1,0,0,3,0,0,0,100,2,4,2,0.5,0.5,0.2,7,2,74,85,87.1,6,80,6,6,5,Manchester City
+Rodri,16.0,es ESP,CM,25-257,90,0,0,0,0,0,0,0,0,111,1,1,1,0.0,0.0,0.0,4,0,97,101,96.0,7,85,1,0,0,Manchester City
+Kevin De Bruyne,17.0,be BEL,RM,30-251,79,2,1,0,0,6,4,0,0,58,1,0,0,0.8,0.8,0.3,7,1,42,48,87.5,7,44,6,3,2,Manchester City
+İlkay Gündoğan,8.0,de GER,LM,31-133,11,0,1,0,0,1,0,0,0,19,0,0,0,0.2,0.2,0.6,3,2,16,17,94.1,1,18,3,1,1,Manchester City
+João Cancelo,27.0,pt POR,LB,27-283,90,0,0,0,0,1,1,0,0,109,5,3,0,0.0,0.0,0.0,2,0,77,87,88.5,11,82,2,9,3,Manchester City
+Aymeric Laporte,14.0,es ESP,CB,27-283,90,0,0,0,0,0,0,0,0,100,0,0,0,0.0,0.0,0.0,1,0,94,98,95.9,10,89,0,0,0,Manchester City
+John Stones,5.0,eng ENG,CB,27-282,90,0,0,0,0,0,0,0,0,105,0,0,1,0.0,0.0,0.1,0,0,94,101,93.1,3,91,0,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,31-282,90,0,0,0,0,0,0,0,0,86,1,2,0,0.0,0.0,0.0,1,0,77,81,95.1,7,69,4,2,1,Manchester City
+Ederson,31.0,br BRA,GK,28-201,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,45,47,95.7,0,43,0,0,0,Manchester City
+12 Players,,,,,990,4,3,0,0,24,10,0,0,887,13,11,8,3.0,3.0,1.9,40,6,721,788,91.5,66,720,33,28,16,Manchester City
+Bruno Fernandes,18.0,pt POR,"FW,AM",27-179,90,0,0,0,0,1,0,0,0,37,0,0,0,0.0,0.0,0.1,2,0,20,30,66.7,3,26,1,2,0,Manchester United
+Jadon Sancho,25.0,eng ENG,LW,21-346,90,1,0,0,0,2,1,0,0,33,1,0,1,0.2,0.2,0.0,3,1,19,22,86.4,1,25,3,2,1,Manchester United
+Anthony Elanga,36.0,se SWE,RW,19-313,63,0,0,0,0,0,0,0,0,39,4,0,1,0.0,0.0,0.0,1,0,24,27,88.9,4,26,2,4,1,Manchester United
+Jesse Lingard,14.0,eng ENG,RW,29-081,27,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,1,1,0,0,Manchester United
+Paul Pogba,6.0,fr FRA,AM,28-356,63,0,1,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.1,1,1,16,22,72.7,3,21,2,0,0,Manchester United
+Marcus Rashford,10.0,eng ENG,FW,24-126,27,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,4,1,2,1,Manchester United
+Fred,17.0,br BRA,DM,29-001,90,0,0,0,0,1,1,0,0,38,1,5,4,0.2,0.2,0.0,0,0,23,27,85.2,4,16,0,2,1,Manchester United
+Scott McTominay,39.0,sct SCO,DM,25-088,90,0,0,0,0,0,0,0,0,57,7,2,3,0.0,0.0,0.0,1,0,31,37,83.8,3,28,0,1,1,Manchester United
+Alex Telles,27.0,br BRA,LB,29-081,90,0,0,0,0,1,0,0,0,45,1,0,0,0.1,0.1,0.0,0,0,26,34,76.5,1,18,0,2,1,Manchester United
+Harry Maguire,5.0,eng ENG,CB,29-001,90,0,0,0,0,0,0,1,0,45,2,0,2,0.0,0.0,0.0,0,0,32,35,91.4,2,29,1,0,0,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,27-232,90,0,0,0,0,0,0,0,0,46,0,0,1,0.0,0.0,0.0,0,0,38,42,90.5,2,33,0,0,0,Manchester United
+Aaron Wan-Bissaka,29.0,cd COD,RB,24-100,90,0,0,0,0,0,0,0,0,49,0,4,2,0.0,0.0,0.0,1,0,28,41,68.3,1,31,1,3,3,Manchester United
+David de Gea,1.0,es ESP,GK,31-119,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,26,84.6,0,12,0,0,0,Manchester United
+13 Players,,,,,990,1,1,0,0,5,2,1,0,458,16,11,15,0.5,0.5,0.2,9,2,285,352,81.0,25,270,12,18,9,Manchester United

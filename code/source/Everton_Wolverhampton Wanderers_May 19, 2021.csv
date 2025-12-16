@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Calvert-Lewin,9.0,eng ENG,FW,24-064,90,0,0,0,0,3,2,0,0,38,0,0,0,0.2,0.2,0.1,1,0,22,30,73.3,1,21,1,2,2,Everton
+Richarlison,7.0,br BRA,FW,24-009,90,1,0,0,0,2,2,0,0,35,2,0,1,0.1,0.1,0.1,3,0,14,23,60.9,2,18,4,5,4,Everton
+Gylfi Sigurðsson,10.0,is ISL,LM,31-253,85,0,1,0,0,3,0,0,0,39,2,3,1,0.1,0.1,0.2,5,1,20,26,76.9,3,17,1,1,0,Everton
+André Gomes,21.0,pt POR,LM,27-293,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,Everton
+Allan,6.0,br BRA,CM,30-131,90,0,0,0,0,0,0,0,0,52,4,0,3,0.0,0.0,0.0,2,0,29,37,78.4,5,20,1,1,1,Everton
+Abdoulaye Doucouré,16.0,ml MLI,CM,28-138,89,0,0,0,0,0,0,0,0,64,1,2,1,0.0,0.0,0.0,1,0,45,54,83.3,4,27,0,1,1,Everton
+Mason Holgate,4.0,jm JAM,RM,24-209,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Everton
+Séamus Coleman,23.0,ie IRL,RM,32-220,81,0,0,0,0,3,0,0,0,56,2,2,1,0.2,0.2,0.0,2,0,26,37,70.3,3,31,2,5,2,Everton
+Tom Davies,26.0,eng ENG,"RM,CM",22-323,9,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,Everton
+Lucas Digne,12.0,fr FRA,LB,27-303,90,0,0,0,0,0,0,0,0,56,3,2,1,0.0,0.0,0.1,6,0,35,47,74.5,3,24,3,3,2,Everton
+Michael Keane,5.0,eng ENG,CB,28-128,90,0,0,0,0,0,0,0,0,45,2,1,1,0.0,0.0,0.0,0,0,18,29,62.1,1,11,0,1,0,Everton
+Yerry Mina,13.0,co COL,CB,26-238,90,0,0,0,0,2,0,0,0,72,1,0,1,0.1,0.1,0.0,1,0,57,60,95.0,3,43,0,0,0,Everton
+Ben Godfrey,22.0,eng ENG,RB,23-124,90,0,0,0,0,1,0,0,0,53,3,0,0,0.0,0.0,0.1,2,0,29,39,74.4,3,19,3,1,1,Everton
+Jordan Pickford,1.0,eng ENG,GK,27-073,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,18,22,81.8,0,12,0,0,0,Everton
+14 Players,,,,,990,1,1,0,0,14,4,0,0,544,21,10,10,0.7,0.7,0.7,23,1,316,409,77.3,29,245,15,20,13,Everton
+Fábio Silva,17.0,pt POR,"FW,LW,RW",18-304,90,0,0,0,0,2,0,0,0,40,2,0,2,0.1,0.1,0.0,1,0,23,29,79.3,4,21,0,3,1,Wolverhampton Wanderers
+Adama Traoré,37.0,es ESP,"FW,RW,LW",25-114,90,0,0,0,0,2,2,0,0,42,1,0,1,0.1,0.1,0.0,4,0,15,28,53.6,3,34,10,10,7,Wolverhampton Wanderers
+Morgan Gibbs-White,18.0,eng ENG,AM,21-112,67,0,0,0,0,3,1,0,0,38,2,0,1,0.1,0.1,0.0,0,0,23,27,85.2,2,20,1,2,2,Wolverhampton Wanderers
+Willian José,12.0,br BRA,FW,29-177,23,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,4,9,44.4,0,6,0,1,0,Wolverhampton Wanderers
+João Moutinho,28.0,pt POR,CM,34-253,79,0,0,0,0,1,0,0,0,83,3,1,0,0.0,0.0,0.1,3,0,57,75,76.0,4,36,1,2,1,Wolverhampton Wanderers
+Vitinha,20.0,pt POR,AM,21-095,11,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,4,0,0,0,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,"CM,DM",24-067,90,0,0,0,0,0,0,1,0,91,2,4,1,0.0,0.0,0.0,2,0,69,80,86.3,9,56,0,1,1,Wolverhampton Wanderers
+Rayan Aït-Nouri,3.0,dz ALG,"WB,LB,LM",19-347,90,0,0,0,0,0,0,0,0,81,0,2,0,0.0,0.0,0.0,0,0,53,70,75.7,6,47,5,6,3,Wolverhampton Wanderers
+Nélson Semedo,22.0,pt POR,"WB,RB,RM",27-184,90,0,0,0,0,0,0,1,0,68,1,0,1,0.0,0.0,0.0,1,0,45,60,75.0,5,39,6,6,4,Wolverhampton Wanderers
+Max Kilman,49.0,eng ENG,CB,23-361,90,0,0,0,0,0,0,0,0,73,1,1,5,0.0,0.0,0.0,1,0,57,62,91.9,3,43,1,0,0,Wolverhampton Wanderers
+Conor Coady,16.0,eng ENG,CB,28-083,90,0,0,0,0,0,0,0,0,69,0,0,1,0.0,0.0,0.0,0,0,64,67,95.5,3,40,0,0,0,Wolverhampton Wanderers
+Willy Boly,15.0,ci CIV,CB,30-105,79,0,0,0,0,1,0,0,0,62,0,3,0,0.0,0.0,0.0,0,0,44,54,81.5,1,38,1,0,0,Wolverhampton Wanderers
+Leander Dendoncker,32.0,be BEL,DM,26-034,11,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,10,10,100.0,1,7,0,0,0,Wolverhampton Wanderers
+John Ruddy,21.0,eng ENG,GK,34-207,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,18,21,85.7,0,13,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,990,0,0,0,0,9,3,2,0,699,12,11,12,0.3,0.3,0.2,12,0,487,599,81.3,41,404,25,31,19,Wolverhampton Wanderers

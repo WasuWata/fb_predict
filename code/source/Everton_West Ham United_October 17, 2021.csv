@@ -1,0 +1,30 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Salomón Rondón,33.0,ve VEN,FW,32-031,90,0,0,0,0,3,1,0,0,37,1,0,1,0.1,0.1,0.0,2,0,14,23,60.9,3,13,1,1,0,Everton
+Demarai Gray,11.0,jm JAM,"FW,LM",25-111,90,0,0,0,0,2,1,0,0,50,1,0,1,0.1,0.1,0.2,3,0,26,39,66.7,4,28,4,3,1,Everton
+Alex Iwobi,17.0,ng NGA,"LM,FW",25-167,78,0,0,0,0,4,0,0,0,29,0,0,0,0.3,0.3,0.0,4,0,12,19,63.2,2,17,1,0,0,Everton
+Anthony Gordon,24.0,eng ENG,LM,20-235,12,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,3,0,0,0,Everton
+Allan,6.0,br BRA,CM,30-282,90,0,0,0,0,0,0,0,0,58,3,0,1,0.0,0.0,0.0,0,0,31,45,68.9,8,24,1,0,0,Everton
+Abdoulaye Doucouré,16.0,ml MLI,CM,28-289,90,0,0,0,0,2,0,0,0,46,1,3,1,0.1,0.1,0.1,4,0,30,33,90.9,7,23,2,3,2,Everton
+Andros Townsend,14.0,eng ENG,RM,30-093,90,0,0,0,0,0,0,0,0,52,2,0,3,0.0,0.0,0.2,6,0,23,38,60.5,3,30,4,3,0,Everton
+Lucas Digne,12.0,fr FRA,LB,28-089,90,0,0,0,0,0,0,0,0,58,6,2,2,0.0,0.0,0.0,2,0,32,40,80.0,5,23,3,2,1,Everton
+Michael Keane,5.0,eng ENG,CB,28-279,90,0,0,0,0,0,0,0,0,41,1,4,2,0.0,0.0,0.0,0,0,18,28,64.3,1,13,1,2,1,Everton
+Ben Godfrey,22.0,eng ENG,CB,23-275,90,0,0,0,0,3,0,0,0,54,4,0,3,0.2,0.2,0.0,1,0,23,35,65.7,3,22,0,0,0,Everton
+Séamus Coleman,23.0,ie IRL,RB,33-006,90,0,0,0,0,1,0,0,0,47,0,1,0,0.0,0.0,0.0,3,0,33,43,76.7,3,26,4,1,1,Everton
+Jordan Pickford,1.0,eng ENG,GK,27-224,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,24,35,68.6,0,17,0,0,0,Everton
+12 Players,,,,,990,0,0,0,0,15,2,0,0,519,19,10,14,0.9,0.9,0.5,25,0,269,384,70.1,39,239,21,15,6,Everton
+Michail Antonio,9.0,jm JAM,FW,31-203,90,0,0,0,0,4,1,1,0,39,1,0,1,0.4,0.4,0.1,5,1,17,25,68.0,3,28,1,4,1,West Ham United
+Pablo Fornals,8.0,es ESP,LW,25-237,90,0,0,0,0,3,0,1,0,63,2,0,5,0.2,0.2,0.0,5,0,36,48,75.0,4,30,2,1,0,West Ham United
+Jarrod Bowen,20.0,eng ENG,RW,24-301,89,0,1,0,0,3,2,0,0,57,1,0,1,0.2,0.2,0.3,3,1,30,42,71.4,3,33,1,4,1,West Ham United
+Andriy Yarmolenko,7.0,ua UKR,RM,31-359,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,West Ham United
+Saïd Benrahma,22.0,dz ALG,AM,26-068,86,0,0,0,0,3,0,0,0,41,0,0,1,0.2,0.2,0.1,4,0,26,35,74.3,5,32,4,3,2,West Ham United
+Manuel Lanzini,10.0,ar ARG,"AM,CM",28-244,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,1,0,0,0,West Ham United
+Declan Rice,41.0,eng ENG,DM,22-276,90,0,0,0,0,1,0,0,0,92,0,2,3,0.0,0.0,0.1,5,0,72,79,91.1,6,58,5,7,3,West Ham United
+Tomáš Souček,28.0,cz CZE,DM,26-232,78,0,0,0,0,0,0,0,0,58,3,2,2,0.0,0.0,0.1,3,0,46,48,95.8,8,37,1,2,1,West Ham United
+Craig Dawson,15.0,eng ENG,"DM,CB",31-164,12,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,4,0,0,0,West Ham United
+Aaron Cresswell,3.0,eng ENG,LB,31-306,90,0,0,0,0,0,0,0,0,118,1,1,0,0.0,0.0,0.0,0,0,78,111,70.3,12,62,2,0,0,West Ham United
+Angelo Ogbonna,21.0,it ITA,CB,33-147,90,1,0,0,0,2,1,0,0,64,2,1,1,0.3,0.3,0.0,1,0,49,52,94.2,1,34,0,0,0,West Ham United
+Kurt Zouma,4.0,fr FRA,CB,26-355,90,0,0,0,0,0,0,0,0,58,1,3,1,0.0,0.0,0.0,1,0,46,48,95.8,1,39,0,0,0,West Ham United
+Ben Johnson,31.0,eng ENG,RB,21-266,90,0,0,0,0,0,0,0,0,80,1,1,0,0.0,0.0,0.1,1,0,52,74,70.3,8,42,1,0,0,West Ham United
+Łukasz Fabiański,1.0,pl POL,GK,36-182,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,20,28,71.4,0,15,0,0,0,West Ham United
+14 Players,,,,,990,1,1,0,0,16,4,2,0,711,13,10,15,1.3,1.3,0.9,28,2,480,600,80.0,52,415,17,21,8,West Ham United

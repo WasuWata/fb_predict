@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Diogo Jota,18.0,pt POR,FW,22-011,45,0,1,0,0,1,0,0,0,20,1,0,2,0.1,0.1,0.8,2,1,2,10,20.0,0,11,3,2,1,Wolverhampton Wanderers
+Hélder Costa,10.0,ao ANG,FW,24-337,45,0,1,0,0,2,1,1,0,34,1,1,0,0.3,0.3,0.6,4,1,18,24,75.0,3,21,5,1,1,Wolverhampton Wanderers
+Raúl Jiménez,9.0,mx MEX,FW,27-224,88,1,0,0,0,3,1,0,0,53,2,2,0,0.8,0.8,0.0,4,0,34,43,79.1,4,34,2,1,1,Wolverhampton Wanderers
+Ivan Cavaleiro,7.0,pt POR,FW,25-058,2,1,0,0,0,1,1,0,0,3,0,0,0,0.5,0.5,0.0,1,1,2,2,100.0,1,3,1,0,0,Wolverhampton Wanderers
+Morgan Gibbs-White,17.0,eng ENG,AM,18-322,74,0,0,0,0,0,0,0,0,35,0,0,1,0.0,0.0,0.3,2,0,21,28,75.0,1,19,0,1,0,Wolverhampton Wanderers
+Romain Saïss,27.0,ma MAR,CM,28-264,16,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,8,12,66.7,0,6,0,0,0,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,CM,21-277,90,0,0,0,0,1,0,0,0,68,3,6,2,0.0,0.0,0.0,0,0,37,53,69.8,2,30,1,0,0,Wolverhampton Wanderers
+João Moutinho,28.0,pt POR,"CM,AM",32-098,90,0,0,0,0,0,0,0,0,57,3,2,0,0.0,0.0,0.1,1,0,35,48,72.9,2,20,0,0,0,Wolverhampton Wanderers
+Jonny Castro,19.0,es ESP,WB,24-287,90,0,0,0,0,2,1,0,0,54,4,0,2,0.0,0.0,0.0,1,0,31,43,72.1,1,19,1,0,0,Wolverhampton Wanderers
+Matt Doherty,2.0,ie IRL,WB,26-333,90,0,0,0,0,0,0,0,0,49,1,2,1,0.0,0.0,0.0,1,0,27,39,69.2,2,14,3,0,0,Wolverhampton Wanderers
+Willy Boly,15.0,ci CIV,CB,27-315,90,0,0,0,0,0,0,0,0,44,0,1,2,0.0,0.0,0.0,0,0,23,32,71.9,3,13,0,0,0,Wolverhampton Wanderers
+Conor Coady,16.0,eng ENG,CB,25-293,90,0,0,0,0,0,0,0,0,46,2,2,2,0.0,0.0,0.0,1,0,29,36,80.6,2,18,0,0,0,Wolverhampton Wanderers
+Ryan Bennett,5.0,eng ENG,CB,28-284,90,0,0,0,0,0,0,0,0,33,3,0,1,0.0,0.0,0.0,0,0,21,25,84.0,4,8,0,0,0,Wolverhampton Wanderers
+Rui Patrício,11.0,pt POR,GK,30-303,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,9,25,36.0,0,8,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,990,2,2,0,0,10,4,1,0,537,21,16,13,1.8,1.8,1.7,17,3,297,420,70.7,25,224,16,5,3,Wolverhampton Wanderers
+Joshua King,17.0,no NOR,"FW,AM",26-334,90,0,0,0,0,3,0,0,0,38,0,0,0,0.2,0.2,0.0,2,0,18,28,64.3,2,28,2,5,3,Bournemouth
+Ryan Fraser,24.0,sct SCO,"AM,WB",24-294,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.1,3,0,39,53,73.6,3,41,3,1,0,Bournemouth
+Junior Stanislas,19.0,eng ENG,AM,29-019,79,0,0,0,0,2,0,0,0,46,1,0,0,0.1,0.1,0.0,0,0,27,34,79.4,4,39,2,2,1,Bournemouth
+Lys Mousset,9.0,fr FRA,AM,22-310,11,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,1,0,Bournemouth
+Jefferson Lerma,8.0,co COL,CM,24-051,90,0,0,0,0,2,2,1,0,92,1,4,2,0.0,0.0,0.0,1,0,70,80,87.5,2,70,0,1,0,Bournemouth
+Andrew Surman,6.0,eng ENG,CM,32-117,90,0,0,0,0,1,0,0,0,82,1,0,1,0.0,0.0,0.1,2,0,68,76,89.5,9,58,0,1,1,Bournemouth
+Charlie Daniels,11.0,eng ENG,"CB,WB",32-099,90,0,0,0,0,0,0,0,0,104,0,1,1,0.0,0.0,0.0,2,0,81,94,86.2,12,76,3,3,1,Bournemouth
+Jordon Ibe,10.0,eng ENG,WB,23-007,57,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,1,20,2,6,3,Bournemouth
+Callum Wilson,13.0,eng ENG,FW,26-291,33,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,7,0,0,0,Bournemouth
+Tyrone Mings,26.0,eng ENG,CB,25-277,35,0,0,0,0,0,0,0,0,48,1,1,1,0.0,0.0,0.1,1,0,37,41,90.2,4,36,2,1,1,Bournemouth
+Diego Rico,21.0,es ESP,WB,25-295,55,0,0,0,0,1,0,0,0,64,2,2,2,0.0,0.0,0.1,2,0,37,53,69.8,7,34,0,1,1,Bournemouth
+Nathan Aké,5.0,nl NED,CB,23-300,90,0,0,0,0,1,0,0,0,103,1,2,2,0.0,0.0,0.0,1,0,87,92,94.6,2,82,0,0,0,Bournemouth
+Steve Cook,3.0,eng ENG,CB,27-240,90,0,0,0,0,2,1,1,0,89,1,1,0,0.1,0.1,0.0,4,0,65,80,81.3,3,58,3,2,1,Bournemouth
+Asmir Begović,27.0,ba BIH,GK,31-178,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,17,25,68.0,0,17,0,0,0,Bournemouth
+14 Players,,,,,990,0,0,0,0,13,3,2,0,793,8,11,10,0.6,0.6,0.4,18,0,564,681,82.8,49,570,17,24,12,Bournemouth

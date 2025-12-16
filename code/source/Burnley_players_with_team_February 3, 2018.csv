@@ -1,0 +1,15 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ashley Barnes,10.0,eng ENG,FW,28-096,90,0,0,0,0,0,0,1,0,21,0,1,1,0.0,0.0,0.0,0,0,10,14,71.4,2,8,0,1,0,Burnley
+Sam Vokes,9.0,wls WAL,FW,28-105,90,0,0,0,0,1,0,0,0,35,0,0,1,0.1,0.1,0.0,2,0,17,30,56.7,2,14,0,0,0,Burnley
+Aaron Lennon,25.0,eng ENG,LM,30-293,90,0,0,0,0,3,1,0,0,30,3,3,2,0.2,0.2,0.0,3,0,13,20,65.0,4,14,1,1,1,Burnley
+Jack Cork,4.0,eng ENG,CM,28-223,90,0,0,0,0,0,0,1,0,44,0,1,0,0.0,0.0,0.3,5,1,25,36,69.4,2,15,0,0,0,Burnley
+Jeff Hendrick,13.0,ie IRL,CM,26-003,90,0,0,0,0,0,0,0,0,37,0,2,0,0.0,0.0,0.0,0,0,20,28,71.4,1,17,0,1,1,Burnley
+Jóhann Berg Guðmundsson,17.0,is ISL,RM,27-099,90,1,0,0,0,1,1,0,0,52,1,5,0,0.3,0.3,0.3,4,0,29,39,74.4,5,28,1,4,1,Burnley
+Charlie Taylor,3.0,eng ENG,LB,24-138,90,0,0,0,0,0,0,0,0,35,2,1,1,0.0,0.0,0.0,1,0,18,28,64.3,1,14,0,0,0,Burnley
+Ben Mee,6.0,eng ENG,CB,28-135,90,0,0,0,0,2,1,1,0,43,0,2,2,0.3,0.3,0.0,0,0,23,30,76.7,4,16,0,0,0,Burnley
+Kevin Long,28.0,ie IRL,CB,27-169,90,0,0,0,0,1,0,1,0,36,2,2,3,0.1,0.1,0.0,0,0,12,20,60.0,0,11,0,0,0,Burnley
+Phil Bardsley,26.0,sct SCO,RB,32-220,45,0,0,0,0,0,0,0,0,28,1,2,1,0.0,0.0,0.0,0,0,14,21,66.7,1,4,0,0,0,Burnley
+Matthew Lowton,2.0,eng ENG,RB,28-239,45,0,1,0,0,0,0,0,0,34,0,3,4,0.0,0.0,0.3,1,1,12,25,48.0,1,10,1,0,0,Burnley
+Nick Pope,29.0,eng ENG,GK,25-290,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,13,28,46.4,0,16,0,0,0,Burnley
+12 Players,,,,,990,1,1,0,0,8,3,4,0,425,9,22,15,0.9,0.9,0.9,16,2,206,319,64.6,23,167,3,7,3,Burnley

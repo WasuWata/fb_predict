@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Tammy Abraham,9.0,eng ENG,FW,23-001,90,0,0,0,0,4,1,0,0,33,3,1,1,0.5,0.5,0.0,4,1,12,19,63.2,0,9,1,3,2,Chelsea
+Timo Werner,11.0,de GER,LW,24-211,90,0,0,0,0,1,1,0,0,50,2,0,0,0.1,0.1,0.0,2,0,32,41,78.0,5,22,0,0,0,Chelsea
+Callum Hudson-Odoi,20.0,eng ENG,RW,19-331,82,0,0,0,0,2,0,0,0,48,0,0,0,0.1,0.1,0.3,6,1,37,43,86.0,3,28,4,0,0,Chelsea
+Christian Pulisic,10.0,us USA,RW,22-015,8,0,0,0,0,0,0,0,0,8,2,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,1,0,0,0,Chelsea
+Kai Havertz,29.0,de GER,AM,21-114,90,0,0,0,0,1,0,0,0,68,2,1,0,0.0,0.0,0.2,5,2,41,52,78.8,6,37,4,2,0,Chelsea
+Jorginho,5.0,it ITA,DM,28-288,90,2,0,2,2,1,0,0,0,89,1,3,1,1.6,0.1,0.2,4,0,69,75,92.0,11,43,0,2,1,Chelsea
+N'Golo Kanté,7.0,fr FRA,DM,29-188,82,0,0,0,0,1,0,1,0,67,1,2,2,0.0,0.0,0.0,0,0,56,61,91.8,6,34,2,2,2,Chelsea
+Mateo Kovačić,17.0,hr CRO,DM,26-150,8,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,11,11,100.0,1,10,0,0,0,Chelsea
+Ben Chilwell,21.0,eng ENG,LB,23-287,90,1,1,0,0,2,1,0,0,108,0,3,1,0.1,0.1,0.2,4,1,77,97,79.4,6,56,4,1,0,Chelsea
+Kurt Zouma,15.0,fr FRA,CB,25-342,90,1,0,0,0,2,1,0,0,114,1,1,0,0.2,0.2,0.0,0,0,99,105,94.3,2,69,0,0,0,Chelsea
+Thiago Silva,6.0,br BRA,CB,36-011,90,0,0,0,0,0,0,0,0,125,1,2,1,0.0,0.0,0.1,3,0,112,117,95.7,3,75,0,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,RB,31-036,90,0,0,0,0,1,0,1,0,106,1,0,1,0.1,0.1,0.0,3,1,90,100,90.0,9,49,0,1,0,Chelsea
+Edouard Mendy,16.0,sn SEN,GK,28-216,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,23,25,92.0,0,16,0,0,0,Chelsea
+13 Players,,,,,990,4,1,2,2,15,4,2,0,853,14,13,7,2.7,1.1,1.0,31,6,662,751,88.1,52,449,15,11,5,Chelsea

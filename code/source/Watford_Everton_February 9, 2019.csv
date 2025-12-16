@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Troy Deeney,9.0,eng ENG,FW,30-225,90,0,0,0,0,1,0,1,0,40,0,1,2,0.0,0.0,0.6,2,0,18,30,60.0,4,24,0,1,1,Watford
+Gerard Deulofeu,7.0,es ESP,"FW,AM",24-333,80,0,0,0,0,1,0,0,0,48,1,1,2,0.1,0.1,0.0,2,0,20,34,58.8,1,31,3,3,0,Watford
+Tom Cleverley,8.0,eng ENG,AM,29-181,10,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,0,0,Watford
+Ken Sema,12.0,se SWE,AM,25-132,45,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,10,14,71.4,1,11,2,0,0,Watford
+Andre Gray,18.0,jm JAM,FW,27-228,45,1,0,0,0,1,1,0,0,15,1,0,0,0.4,0.4,0.0,2,0,7,9,77.8,0,14,0,2,0,Watford
+Will Hughes,19.0,eng ENG,AM,23-298,89,0,1,0,0,0,0,0,0,42,1,0,1,0.0,0.0,0.4,1,1,25,34,73.5,4,29,3,0,0,Watford
+Nathaniel Chalobah,14.0,eng ENG,AM,24-059,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Watford
+Étienne Capoue,29.0,fr FRA,DM,30-213,90,0,0,0,0,1,1,0,0,44,2,5,3,0.6,0.6,0.0,0,0,18,27,66.7,2,15,0,1,0,Watford
+Abdoulaye Doucouré,16.0,ml MLI,DM,26-039,90,0,0,0,0,0,0,0,0,53,4,1,0,0.0,0.0,0.0,1,0,33,40,82.5,4,32,1,2,0,Watford
+José Holebas,25.0,gr GRE,LB,34-227,90,0,0,0,0,2,0,1,0,72,4,1,2,0.1,0.1,0.1,1,0,31,59,52.5,1,19,1,1,1,Watford
+Craig Cathcart,15.0,nir NIR,CB,30-003,90,0,0,0,0,0,0,0,0,35,1,0,1,0.0,0.0,0.0,1,1,16,28,57.1,4,13,0,0,0,Watford
+Adrian Mariappa,6.0,jm JAM,CB,32-129,90,0,0,0,0,1,0,0,0,33,5,1,0,0.1,0.1,0.0,0,0,17,24,70.8,2,15,0,0,0,Watford
+Daryl Janmaat,2.0,nl NED,RB,29-202,90,0,0,0,0,0,0,0,0,48,2,2,0,0.0,0.0,0.0,1,0,22,36,61.1,2,21,1,1,0,Watford
+Ben Foster,26.0,eng ENG,GK,35-312,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,15,34,44.1,0,14,0,0,0,Watford
+14 Players,,,,,990,1,1,0,0,7,2,2,0,488,22,12,11,1.3,1.3,1.2,11,2,235,372,63.2,26,241,11,11,2,Watford
+Cenk Tosun,14.0,tr TUR,FW,27-247,90,0,0,0,0,3,1,0,0,31,0,1,1,0.2,0.2,0.0,1,0,13,21,61.9,2,16,1,1,0,Everton
+Gylfi Sigurðsson,10.0,is ISL,"LW,AM",29-154,73,0,0,0,0,1,0,0,0,29,3,0,0,0.1,0.1,0.0,0,0,13,20,65.0,1,15,0,1,0,Everton
+Dominic Calvert-Lewin,29.0,eng ENG,FW,21-330,17,0,0,0,0,2,1,0,0,13,0,1,0,0.1,0.1,0.0,0,0,6,10,60.0,1,7,1,1,1,Everton
+Richarlison,30.0,br BRA,"RW,LW",21-275,65,0,0,0,0,0,0,0,0,33,2,0,1,0.0,0.0,0.0,1,0,12,19,63.2,1,20,1,5,3,Everton
+Bernard,20.0,br BRA,"LM,LW",26-154,25,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,1,0,6,11,54.5,0,10,1,3,2,Everton
+Tom Davies,26.0,eng ENG,"AM,CM,DM",20-224,90,0,0,0,0,0,0,0,0,59,2,0,2,0.0,0.0,0.0,0,0,27,40,67.5,4,45,1,5,3,Everton
+André Gomes,8.0,pt POR,DM,25-194,62,0,0,0,0,0,0,0,0,41,1,1,1,0.0,0.0,0.0,1,0,29,33,87.9,2,27,1,1,0,Everton
+Theo Walcott,11.0,eng ENG,"RM,RW",29-330,28,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,2,0,4,8,50.0,1,7,1,0,0,Everton
+Idrissa Gana Gueye,17.0,sn SEN,"DM,CM",29-136,90,0,0,0,0,0,0,0,0,67,8,2,3,0.0,0.0,0.0,1,0,41,50,82.0,5,37,0,6,4,Everton
+Lucas Digne,12.0,fr FRA,LB,25-204,90,0,0,0,0,1,0,0,0,60,0,0,1,0.1,0.1,0.4,4,0,36,54,66.7,2,23,1,0,0,Everton
+Kurt Zouma,5.0,fr FRA,CB,24-105,89,0,0,0,0,1,1,2,1,69,0,2,0,0.1,0.1,0.1,2,0,44,52,84.6,4,32,0,1,1,Everton
+Michael Keane,4.0,eng ENG,CB,26-029,90,0,0,0,0,1,1,0,0,69,3,1,0,0.2,0.2,0.0,0,0,39,56,69.6,6,31,0,0,0,Everton
+Jonjoe Kenny,43.0,eng ENG,RB,21-331,90,0,0,0,0,0,0,0,0,84,3,2,3,0.0,0.0,0.0,1,0,48,68,70.6,6,29,1,1,1,Everton
+Jordan Pickford,1.0,eng ENG,GK,24-339,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,20,28,71.4,0,15,0,0,0,Everton
+14 Players,,,,,989,0,0,0,0,9,4,2,1,611,22,11,12,0.7,0.7,0.6,14,0,338,470,71.9,35,314,9,25,15,Everton

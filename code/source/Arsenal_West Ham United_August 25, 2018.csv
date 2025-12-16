@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Pierre-Emerick Aubameyang,14.0,ga GAB,"FW,LW",29-068,74,0,0,0,0,3,1,0,0,33,0,0,0,0.1,0.1,0.2,7,0,19,26,73.1,1,20,4,4,3,Arsenal
+Danny Welbeck,23.0,eng ENG,LW,27-272,16,1,0,0,0,2,2,0,0,10,1,0,1,0.5,0.5,0.0,1,0,2,4,50.0,1,5,0,0,0,Arsenal
+Alex Iwobi,17.0,ng NGA,LW,22-114,45,0,1,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.6,0,0,10,13,76.9,1,14,2,3,1,Arsenal
+Alexandre Lacazette,9.0,fr FRA,FW,27-089,45,0,0,0,0,2,2,0,0,23,0,0,1,0.1,0.1,0.1,3,0,11,17,64.7,3,12,1,2,1,Arsenal
+Henrikh Mkhitaryan,7.0,am ARM,RW,29-216,90,0,0,0,0,3,1,0,0,73,0,0,4,0.2,0.2,0.0,5,2,41,60,68.3,6,35,5,2,0,Arsenal
+Aaron Ramsey,8.0,wls WAL,AM,27-242,90,0,0,0,0,2,1,0,0,67,2,1,1,0.1,0.1,0.2,5,0,48,61,78.7,9,41,5,3,3,Arsenal
+Granit Xhaka,34.0,ch SUI,DM,25-332,90,0,0,0,0,1,1,0,0,92,3,0,1,0.0,0.0,0.0,2,0,73,83,88.0,14,53,0,1,1,Arsenal
+Mattéo Guendouzi,29.0,fr FRA,DM,19-133,55,0,0,0,0,1,0,0,0,56,2,1,0,0.0,0.0,0.0,2,0,46,51,90.2,3,40,0,0,0,Arsenal
+Lucas Torreira,11.0,uy URU,DM,22-195,35,0,0,0,0,0,0,0,0,38,1,1,0,0.0,0.0,0.1,1,0,32,36,88.9,7,21,0,0,0,Arsenal
+Nacho Monreal,18.0,es ESP,LB,32-180,90,1,0,0,0,1,1,0,0,58,3,0,0,0.6,0.6,0.0,2,0,45,50,90.0,3,24,1,0,0,Arsenal
+Sokratis Papastathopoulos,5.0,gr GRE,CB,30-077,90,0,0,0,0,0,0,1,0,51,0,2,3,0.0,0.0,0.0,0,0,37,44,84.1,1,28,1,0,0,Arsenal
+Shkodran Mustafi,20.0,de GER,CB,26-130,90,0,0,0,0,2,1,0,0,72,1,0,2,0.1,0.1,0.0,1,1,47,53,88.7,3,43,0,0,0,Arsenal
+Héctor Bellerín,2.0,es ESP,RB,23-159,90,0,1,0,0,0,0,0,0,69,1,1,1,0.0,0.0,0.4,3,1,45,59,76.3,5,31,4,0,0,Arsenal
+Petr Čech,1.0,cz CZE,GK,36-097,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,28,32,87.5,0,18,0,0,0,Arsenal
+14 Players,,,,,990,2,2,0,0,17,10,1,0,695,15,6,14,1.8,1.8,1.6,32,4,484,589,82.2,57,385,23,15,9,Arsenal
+Marko Arnautović,7.0,at AUT,FW,29-128,58,1,0,0,0,5,2,0,0,30,1,0,0,0.3,0.3,0.0,2,1,14,17,82.4,1,15,1,0,0,West Ham United
+Javier Hernández,17.0,mx MEX,FW,30-085,32,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,0,0,8,11,72.7,0,9,0,0,0,West Ham United
+Felipe Anderson,8.0,br BRA,"FW,LM",25-132,90,0,1,0,0,2,1,0,0,63,2,4,1,0.1,0.1,0.2,7,1,32,51,62.7,5,37,5,3,1,West Ham United
+Michail Antonio,30.0,jm JAM,LM,28-150,62,0,0,0,0,2,1,0,0,20,0,0,1,0.1,0.1,0.5,2,0,9,13,69.2,4,11,2,2,2,West Ham United
+Lucas Pérez,27.0,es ESP,"LM,FW",29-349,28,0,0,0,0,0,0,0,0,15,2,0,0,0.0,0.0,0.0,2,0,7,13,53.8,1,7,1,0,0,West Ham United
+Jack Wilshere,19.0,eng ENG,CM,26-236,90,0,0,0,0,0,0,1,0,43,2,2,0,0.0,0.0,0.0,0,0,33,37,89.2,1,22,1,5,5,West Ham United
+Carlos Sánchez,15.0,co COL,CM,32-200,90,0,0,0,0,1,0,0,0,46,2,0,1,0.0,0.0,0.0,3,0,34,39,87.2,4,16,0,3,1,West Ham United
+Robert Snodgrass,11.0,sct SCO,RM,30-352,74,0,0,0,0,2,1,0,0,42,0,1,2,0.5,0.5,0.1,2,0,27,36,75.0,4,25,2,1,1,West Ham United
+Andriy Yarmolenko,20.0,ua UKR,RM,28-306,16,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,4,0,0,0,West Ham United
+Arthur Masuaku,26.0,cd COD,LB,24-291,90,0,0,0,0,0,0,0,0,62,3,5,2,0.0,0.0,0.0,3,0,37,49,75.5,5,31,5,4,4,West Ham United
+Issa Diop,23.0,fr FRA,CB,21-228,90,0,0,0,0,0,0,1,0,34,1,1,2,0.0,0.0,0.0,0,0,12,17,70.6,0,7,0,0,0,West Ham United
+Fabián Balbuena,4.0,py PAR,CB,27-002,90,0,0,0,0,0,0,0,0,33,0,2,1,0.0,0.0,0.0,0,0,16,22,72.7,1,12,0,0,0,West Ham United
+Ryan Fredericks,24.0,eng ENG,RB,25-319,90,0,0,0,0,0,0,1,0,52,1,2,2,0.0,0.0,0.1,3,0,32,42,76.2,2,22,4,6,3,West Ham United
+Łukasz Fabiański,1.0,pl POL,GK,33-129,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,15,29,51.7,0,12,0,0,0,West Ham United
+14 Players,,,,,990,1,1,0,0,13,5,3,0,499,14,17,12,1.1,1.1,1.0,25,2,281,384,73.2,28,230,21,24,17,West Ham United

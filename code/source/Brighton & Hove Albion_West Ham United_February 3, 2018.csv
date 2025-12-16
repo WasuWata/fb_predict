@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Glenn Murray,17.0,eng ENG,FW,34-131,71,1,0,0,0,3,1,0,0,36,0,0,0,0.5,0.5,0.0,2,0,18,29,62.1,1,16,2,2,0,Brighton & Hove Albion
+Leonardo Ulloa,16.0,ar ARG,FW,31-192,19,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,1,0,12,17,70.6,1,12,0,1,1,Brighton & Hove Albion
+Pascal Groß,13.0,de GER,FW,26-233,82,1,1,0,0,5,2,0,0,56,0,1,2,0.2,0.2,0.6,8,1,28,48,58.3,7,28,2,0,0,Brighton & Hove Albion
+Beram Kayal,7.0,il ISR,AM,29-277,8,0,0,0,0,1,1,0,0,3,0,0,1,0.1,0.1,0.0,1,0,1,1,100.0,0,2,0,0,0,Brighton & Hove Albion
+José Izquierdo,19.0,co COL,"LM,LW",25-211,90,1,0,0,0,3,1,1,0,49,0,0,0,0.1,0.1,0.1,7,0,33,40,82.5,3,31,4,2,1,Brighton & Hove Albion
+Davy Pröpper,24.0,nl NED,"CM,DM",26-154,90,0,1,0,0,0,0,0,0,68,1,0,0,0.0,0.0,0.0,3,2,47,61,77.0,8,37,1,3,1,Brighton & Hove Albion
+Dale Stephens,6.0,eng ENG,"CM,DM",28-236,90,0,0,0,0,1,0,1,0,59,3,0,2,0.0,0.0,0.1,3,0,43,49,87.8,5,27,3,1,1,Brighton & Hove Albion
+Anthony Knockaert,11.0,fr FRA,RM,26-075,76,0,0,0,0,5,0,0,0,50,1,1,0,0.3,0.3,0.0,4,1,30,38,78.9,4,32,1,4,4,Brighton & Hove Albion
+Solly March,20.0,eng ENG,"RW,RM",23-198,14,0,0,0,0,1,0,0,0,12,1,0,0,0.3,0.3,0.0,1,0,7,8,87.5,1,7,1,0,0,Brighton & Hove Albion
+Gaëtan Bong,3.0,cm CMR,LB,29-284,90,0,0,0,0,0,0,0,0,73,0,2,0,0.0,0.0,0.3,5,0,46,66,69.7,3,35,4,2,1,Brighton & Hove Albion
+Lewis Dunk,5.0,eng ENG,CB,26-074,90,0,0,0,0,1,0,1,0,59,1,0,1,0.1,0.1,0.0,0,0,40,50,80.0,0,26,1,0,0,Brighton & Hove Albion
+Shane Duffy,22.0,ie IRL,CB,26-033,90,0,0,0,0,1,0,0,0,43,0,1,1,0.1,0.1,0.0,0,0,21,37,56.8,1,19,0,0,0,Brighton & Hove Albion
+Ezequiel Schelotto,21.0,it ITA,RB,28-256,90,0,0,0,0,0,0,0,0,51,1,1,0,0.0,0.0,0.1,3,1,38,48,79.2,4,23,4,0,0,Brighton & Hove Albion
+Mathew Ryan,1.0,au AUS,GK,25-301,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,11,26,42.3,0,7,0,0,0,Brighton & Hove Albion
+14 Players,,,,,990,3,2,0,0,21,5,3,0,607,8,6,7,1.8,1.8,1.2,38,5,375,518,72.4,38,302,23,15,9,Brighton & Hove Albion
+Javier Hernández,17.0,mx MEX,FW,29-247,90,1,0,0,0,1,1,0,0,30,1,0,0,0.1,0.1,0.0,2,2,17,25,68.0,1,17,2,5,4,West Ham United
+João Mário,18.0,pt POR,"AM,LM",25-015,90,0,1,0,0,1,0,0,0,56,1,0,0,0.1,0.1,0.1,1,0,34,45,75.6,4,35,2,7,3,West Ham United
+Cheikhou Kouyaté,8.0,sn SEN,"AM,CM,RM",28-044,90,0,0,0,0,0,0,0,0,45,4,1,1,0.0,0.0,0.0,1,0,22,30,73.3,1,20,1,1,1,West Ham United
+Mark Noble,16.0,eng ENG,CM,30-271,90,0,0,0,0,0,0,0,0,64,2,2,1,0.0,0.0,0.0,1,0,46,55,83.6,8,31,0,0,0,West Ham United
+Pablo Zabaleta,5.0,ar ARG,"CM,RB",33-018,90,0,0,0,0,0,0,0,0,51,0,4,5,0.0,0.0,0.0,0,0,28,35,80.0,5,21,0,0,0,West Ham United
+Aaron Cresswell,3.0,eng ENG,"WB,LB",28-050,90,0,0,0,0,0,0,1,0,59,1,2,1,0.0,0.0,0.3,3,0,40,53,75.5,2,28,0,1,1,West Ham United
+Sam Byram,22.0,eng ENG,"WB,RB",24-140,79,0,0,0,0,2,0,0,0,55,4,2,2,0.2,0.2,0.0,0,0,16,34,47.1,2,11,1,1,1,West Ham United
+Jordan Hugill,12.0,eng ENG,"FW,RB",25-244,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,1,1,West Ham United
+Declan Rice,41.0,eng ENG,CB,19-020,65,0,0,0,0,0,0,0,0,38,1,1,0,0.0,0.0,0.0,0,0,25,32,78.1,4,17,3,0,0,West Ham United
+Michail Antonio,30.0,jm JAM,"RM,FW,CB",27-312,25,0,0,0,0,0,0,0,0,17,0,0,2,0.0,0.0,0.0,0,0,7,11,63.6,1,10,1,0,0,West Ham United
+Angelo Ogbonna,21.0,it ITA,CB,29-256,90,0,0,0,0,0,0,0,0,56,2,2,2,0.0,0.0,0.0,0,0,30,42,71.4,4,26,0,0,0,West Ham United
+James Collins,19.0,wls WAL,CB,34-164,90,0,0,0,0,0,0,0,0,42,1,4,1,0.0,0.0,0.0,0,0,22,28,78.6,2,18,0,0,0,West Ham United
+Adrián,13.0,es ESP,GK,31-031,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,15,32,46.9,0,12,0,0,0,West Ham United
+13 Players,,,,,990,1,1,0,0,4,1,1,0,552,17,18,15,0.4,0.4,0.4,8,2,305,426,71.6,34,251,10,16,11,West Ham United

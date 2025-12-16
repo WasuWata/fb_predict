@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Oumar Niasse,29.0,sn SEN,FW,28-347,84,0,0,0,0,1,0,0,0,34,2,1,2,0.1,0.1,0.0,0,0,10,18,55.6,3,19,1,1,1,Cardiff City
+Kenneth Zohore,10.0,dk DEN,FW,25-059,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,1,0,0,0,Cardiff City
+Junior Hoilett,33.0,ca CAN,LW,28-299,90,0,0,0,0,1,0,0,0,29,0,1,1,0.0,0.0,0.1,2,0,13,22,59.1,2,22,2,4,2,Cardiff City
+Josh Murphy,11.0,eng ENG,RW,24-035,89,0,0,0,0,1,0,0,0,31,2,0,1,0.1,0.1,0.0,4,0,7,17,41.2,1,23,4,6,4,Cardiff City
+Nathaniel Mendez-Laing,19.0,gt GUA,"RW,WB",26-350,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Cardiff City
+Víctor Camarasa,21.0,es ESP,AM,24-307,90,1,0,0,0,3,1,0,0,31,1,1,1,0.3,0.3,0.0,0,0,12,22,54.5,0,17,0,0,0,Cardiff City
+Harry Arter,7.0,ie IRL,DM,29-093,79,0,1,0,0,0,0,1,0,39,9,2,2,0.0,0.0,0.1,3,1,16,24,66.7,2,14,0,0,0,Cardiff City
+Joe Ralls,8.0,eng ENG,"DM,CM",25-170,11,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Cardiff City
+Aron Gunnarsson,17.0,is ISL,DM,29-343,90,0,0,0,0,0,0,1,0,49,6,1,1,0.0,0.0,0.0,3,1,26,36,72.2,7,21,0,0,0,Cardiff City
+Joe Bennett,3.0,eng ENG,LB,29-003,90,0,0,0,0,1,1,0,0,31,1,4,0,0.1,0.1,0.0,0,0,14,24,58.3,4,16,1,2,2,Cardiff City
+Bruno Ecuele Manga,5.0,ga GAB,CB,30-258,90,0,0,0,0,0,0,0,0,33,2,2,4,0.0,0.0,0.0,1,0,12,21,57.1,1,14,0,0,0,Cardiff City
+Sean Morrison,4.0,eng ENG,CB,28-082,90,0,0,0,0,0,0,0,0,41,2,2,3,0.0,0.0,0.1,2,0,14,22,63.6,1,8,0,1,1,Cardiff City
+Lee Peltier,2.0,eng ENG,RB,32-110,90,0,0,0,0,1,1,0,0,29,2,0,1,0.0,0.0,0.0,0,0,6,22,27.3,0,8,0,0,0,Cardiff City
+Neil Etheridge,1.0,ph PHI,GK,29-052,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,10,38,26.3,0,18,0,0,0,Cardiff City
+14 Players,,,,,990,1,1,0,0,8,3,2,0,390,27,14,16,0.5,0.5,0.4,16,2,144,270,53.3,21,183,8,14,10,Cardiff City
+Gonzalo Higuaín,9.0,ar ARG,FW,31-111,76,0,0,0,0,3,0,0,0,38,0,0,0,0.1,0.1,0.0,1,0,26,31,83.9,1,21,1,0,0,Chelsea
+Olivier Giroud,18.0,fr FRA,FW,32-182,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,0,0,Chelsea
+Willian,22.0,br BRA,"LW,RW",30-234,90,0,1,0,0,5,1,0,0,74,1,0,1,0.2,0.2,0.5,11,1,48,64,75.0,7,47,6,3,3,Chelsea
+Pedro,11.0,es ESP,RW,31-246,52,0,0,0,0,1,0,0,0,40,0,0,0,0.0,0.0,0.1,4,0,29,36,80.6,2,26,0,2,1,Chelsea
+Eden Hazard,10.0,be BEL,LW,28-083,38,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.3,5,0,30,35,85.7,6,32,3,8,4,Chelsea
+Ross Barkley,8.0,eng ENG,"LM,RM",25-116,90,0,0,0,0,2,0,0,0,65,1,1,0,0.4,0.4,0.1,3,0,48,57,84.2,4,37,3,3,2,Chelsea
+Jorginho,5.0,it ITA,CM,27-101,63,0,0,0,0,0,0,1,0,47,0,4,2,0.0,0.0,0.0,0,0,30,38,78.9,4,20,1,2,1,Chelsea
+Ruben Loftus-Cheek,12.0,eng ENG,LM,23-067,27,1,0,0,0,3,1,0,0,23,0,0,1,0.4,0.4,0.0,0,0,15,16,93.8,1,15,3,3,2,Chelsea
+Mateo Kovačić,17.0,hr CRO,"RM,CM",24-329,90,0,0,0,0,1,0,0,0,65,2,0,0,0.0,0.0,0.0,2,0,48,55,87.3,5,49,3,3,3,Chelsea
+Marcos Alonso,3.0,es ESP,LB,28-093,90,0,1,0,0,3,0,0,0,78,0,2,1,0.2,0.2,0.6,7,1,51,66,77.3,6,36,3,1,1,Chelsea
+David Luiz,30.0,br BRA,CB,31-343,90,0,0,0,0,1,0,0,0,70,2,1,0,0.0,0.0,0.0,1,0,43,59,72.9,4,31,2,0,0,Chelsea
+Antonio Rüdiger,2.0,de GER,CB,26-028,90,0,0,0,0,1,0,1,0,99,1,1,0,0.0,0.0,0.0,4,0,78,88,88.6,13,62,6,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,RB,29-215,90,1,0,0,0,1,1,1,0,60,3,0,0,0.4,0.4,0.0,1,1,44,51,86.3,1,25,1,0,0,Chelsea
+Kepa Arrizabalaga,1.0,es ESP,GK,24-179,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,30,35,85.7,0,22,0,0,0,Chelsea
+14 Players,,,,,990,2,2,0,0,21,3,3,0,742,10,9,5,1.9,1.9,1.7,39,3,522,634,82.3,54,427,32,25,17,Chelsea

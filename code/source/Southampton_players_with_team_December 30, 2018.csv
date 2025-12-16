@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Charlie Austin,10.0,eng ENG,FW,29-178,67,0,0,0,0,1,1,1,0,21,2,0,0,0.0,0.0,0.0,0,0,5,11,45.5,0,8,0,1,0,Southampton
+Shane Long,7.0,ie IRL,FW,31-342,23,0,0,0,0,1,0,0,0,8,0,0,1,0.1,0.1,0.0,1,0,4,5,80.0,0,4,0,0,0,Southampton
+Mohamed Elyounoussi,11.0,no NOR,"LW,AM,FW,CM",24-148,90,0,0,0,0,0,0,0,0,26,2,0,0,0.0,0.0,0.0,0,0,11,15,73.3,1,12,0,2,0,Southampton
+James Ward-Prowse,16.0,eng ENG,"CM,AM,RB,RM",24-059,90,0,0,0,0,0,0,0,0,53,5,1,1,0.0,0.0,0.1,2,0,22,33,66.7,1,9,1,0,0,Southampton
+Mario Lemina,18.0,ga GAB,"LM,CM",25-120,45,0,0,0,0,0,0,0,0,20,1,0,1,0.0,0.0,0.0,0,0,10,11,90.9,1,9,0,1,1,Southampton
+Nathan Redmond,22.0,eng ENG,"RW,LM",24-299,45,0,0,0,0,0,0,0,0,14,1,0,1,0.0,0.0,0.0,1,0,6,8,75.0,1,8,0,2,1,Southampton
+Oriol Romeu,14.0,es ESP,CM,27-097,58,0,0,0,0,0,0,0,0,35,3,2,2,0.0,0.0,0.0,0,0,19,25,76.0,3,8,0,0,0,Southampton
+Yan Valery,43.0,tn TUN,"RM,RB",19-311,32,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,6,33.3,1,4,1,0,0,Southampton
+Pierre Højbjerg,23.0,dk DEN,"CM,RM",23-147,84,1,0,0,0,3,3,0,1,39,3,2,1,0.1,0.1,0.0,3,1,19,29,65.5,2,15,2,3,2,Southampton
+Matt Targett,33.0,eng ENG,"LB,LM",23-103,90,0,0,0,0,0,0,0,0,34,1,2,1,0.0,0.0,0.0,1,0,16,26,61.5,7,14,5,0,0,Southampton
+Jan Bednarek,35.0,pl POL,CB,22-262,90,0,0,0,0,0,0,1,0,29,5,2,1,0.0,0.0,0.0,1,0,11,22,50.0,1,7,0,0,0,Southampton
+Jack Stephens,5.0,eng ENG,CB,24-337,90,0,0,0,0,0,0,0,0,40,1,4,1,0.0,0.0,0.0,0,0,20,25,80.0,1,18,0,0,0,Southampton
+Kayne Ramsey,66.0,eng ENG,"CB,RB",18-081,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,14,18,77.8,0,4,0,0,0,Southampton
+Alex McCarthy,1.0,eng ENG,GK,29-027,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,11,24,45.8,0,14,0,0,0,Southampton
+14 Players,,,,,984,1,0,0,0,5,4,2,1,384,25,13,10,0.2,0.2,0.2,9,1,170,258,65.9,19,134,9,9,4,Southampton

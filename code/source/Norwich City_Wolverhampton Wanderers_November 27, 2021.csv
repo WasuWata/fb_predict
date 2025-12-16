@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Teemu Pukki,22.0,fi FIN,FW,31-243,90,0,0,0,0,5,2,0,0,25,0,0,1,0.9,0.9,0.1,4,0,13,14,92.9,2,15,2,4,3,Norwich City
+Milot Rashica,17.0,xk KVX,LM,25-152,81,0,0,0,0,3,0,0,0,52,3,2,2,0.1,0.1,0.3,5,0,23,35,65.7,4,35,6,5,2,Norwich City
+Kieran Dowell,10.0,eng ENG,LM,24-048,9,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.2,1,0,3,6,50.0,1,4,0,0,0,Norwich City
+Kenny McLean,23.0,sct SCO,CM,29-323,90,0,0,0,0,0,0,0,0,62,5,1,0,0.0,0.0,0.0,2,0,36,48,75.0,6,34,1,1,0,Norwich City
+Billy Gilmour,8.0,sct SCO,CM,20-169,90,0,0,0,0,0,0,1,0,80,1,0,1,0.0,0.0,0.1,2,0,62,73,84.9,13,46,0,0,0,Norwich City
+Josh Sargent,24.0,us USA,RM,21-280,67,0,0,0,0,1,0,0,0,25,1,0,0,0.1,0.1,0.0,0,0,17,20,85.0,0,19,2,2,0,Norwich City
+Christos Tzolis,18.0,gr GRE,RM,19-301,23,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,6,0,0,0,Norwich City
+Mathias Normann,16.0,no NOR,DM,25-183,34,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,1,0,13,20,65.0,2,14,0,0,0,Norwich City
+Lukas Rupp,7.0,de GER,DM,30-323,56,0,0,0,0,3,1,0,0,46,2,0,2,0.3,0.3,0.9,5,0,25,32,78.1,2,29,0,4,2,Norwich City
+Brandon Williams,21.0,eng ENG,LB,21-085,90,0,0,0,0,0,0,0,0,62,5,1,2,0.0,0.0,0.0,1,0,44,48,91.7,9,40,5,3,1,Norwich City
+Ben Gibson,4.0,eng ENG,CB,28-316,90,0,0,0,0,0,0,1,0,67,1,1,0,0.0,0.0,0.0,0,0,50,62,80.6,3,48,2,1,1,Norwich City
+Grant Hanley,5.0,sct SCO,CB,30-007,90,0,0,0,0,1,0,0,0,59,2,3,0,0.0,0.0,0.0,0,0,42,51,82.4,1,30,0,0,0,Norwich City
+Max Aarons,2.0,eng ENG,RB,21-327,90,0,0,0,0,1,1,0,0,53,2,0,0,0.4,0.4,0.0,4,0,36,43,83.7,6,27,5,4,2,Norwich City
+Tim Krul,1.0,nl NED,GK,33-238,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,22,26,84.6,0,12,0,0,0,Norwich City
+14 Players,,,,,990,0,0,0,0,14,4,2,0,596,23,8,8,1.7,1.7,1.5,25,0,390,483,80.7,50,359,23,24,11,Norwich City
+Raúl Jiménez,9.0,mx MEX,FW,30-206,90,0,0,0,0,2,0,0,0,38,2,0,1,0.1,0.1,0.0,0,0,16,24,66.7,2,19,1,5,1,Wolverhampton Wanderers
+Hwang Hee-chan,26.0,kr KOR,LW,25-305,89,0,0,0,0,0,0,0,0,34,2,1,1,0.0,0.0,0.0,1,0,24,26,92.3,3,18,2,2,1,Wolverhampton Wanderers
+Ki-Jana Hoever,2.0,nl NED,LW,19-313,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,0,0,0,Wolverhampton Wanderers
+Francisco Trincão,11.0,pt POR,RW,21-333,67,0,0,0,0,0,0,0,0,27,1,1,2,0.0,0.0,0.0,0,0,18,20,90.0,1,15,0,2,1,Wolverhampton Wanderers
+Adama Traoré,37.0,es ESP,RW,25-306,23,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,11,12,91.7,0,9,0,2,1,Wolverhampton Wanderers
+Rayan Aït-Nouri,3.0,dz ALG,"LM,LB",20-174,90,0,0,0,0,1,1,0,0,78,3,4,0,0.0,0.0,0.1,1,0,46,65,70.8,2,41,2,3,0,Wolverhampton Wanderers
+João Moutinho,28.0,pt POR,"CM,LM",35-080,90,0,0,0,0,1,1,0,0,91,0,2,2,0.1,0.1,0.1,2,0,76,84,90.5,9,44,0,2,1,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,CM,24-259,90,0,0,0,0,0,0,1,0,86,3,2,1,0.0,0.0,0.0,1,0,71,78,91.0,7,44,0,1,1,Wolverhampton Wanderers
+Nélson Semedo,22.0,pt POR,RM,28-011,75,0,0,0,0,0,0,1,0,68,2,0,0,0.0,0.0,0.0,0,0,42,57,73.7,1,35,4,2,2,Wolverhampton Wanderers
+Leander Dendoncker,32.0,be BEL,RM,26-226,15,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,10,10,100.0,0,5,0,0,0,Wolverhampton Wanderers
+Romain Saïss,27.0,ma MAR,CB,31-246,90,0,0,0,0,0,0,0,0,92,2,0,0,0.0,0.0,0.0,0,0,69,82,84.1,5,44,0,0,0,Wolverhampton Wanderers
+Conor Coady,16.0,eng ENG,CB,28-275,90,0,0,0,0,1,0,0,0,76,2,0,3,0.0,0.0,0.0,0,0,60,68,88.2,1,45,0,0,0,Wolverhampton Wanderers
+Max Kilman,23.0,eng ENG,"CB,RB",24-188,90,0,0,0,0,0,0,0,0,80,2,0,0,0.0,0.0,0.0,0,0,70,75,93.3,7,41,2,1,1,Wolverhampton Wanderers
+José Sá,1.0,pt POR,GK,28-314,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,24,31,77.4,0,19,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,990,0,0,0,0,5,2,2,0,734,21,10,10,0.3,0.3,0.2,6,0,537,634,84.7,38,381,11,20,9,Wolverhampton Wanderers

@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Chris Wood,11.0,nz NZL,FW,26-338,90,0,0,0,0,3,1,0,0,33,0,0,1,0.2,0.2,0.0,1,0,17,23,73.9,0,11,1,1,0,Leicester City
+Sam Vokes,9.0,wls WAL,FW,29-020,72,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,12,25,48.0,0,12,0,0,0,Leicester City
+Ashley Barnes,10.0,eng ENG,FW,29-011,18,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,1,0,0,2,0.0,0,1,1,0,0,Leicester City
+Jóhann Berg Guðmundsson,7.0,is ISL,LM,28-014,64,0,0,0,0,1,0,0,0,24,0,2,0,0.1,0.1,0.1,2,0,11,16,68.8,1,17,2,2,0,Leicester City
+Robbie Brady,12.0,ie IRL,LM,26-300,26,0,0,0,0,1,0,0,0,14,1,0,0,0.1,0.1,0.0,2,0,5,11,45.5,0,6,0,0,0,Leicester City
+Jack Cork,4.0,eng ENG,CM,29-138,90,0,0,0,0,0,0,0,0,50,1,0,3,0.0,0.0,0.0,1,0,25,36,69.4,2,20,0,0,0,Leicester City
+Steven Defour,16.0,be BEL,CM,30-209,54,0,0,0,0,0,0,0,0,36,1,1,1,0.0,0.0,0.0,0,0,23,31,74.2,1,13,0,1,0,Leicester City
+Jeff Hendrick,13.0,ie IRL,CM,26-283,36,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,0,0,9,10,90.0,0,5,0,0,0,Leicester City
+Aaron Lennon,25.0,eng ENG,RM,31-208,90,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.0,2,0,12,16,75.0,1,10,3,1,1,Leicester City
+Charlie Taylor,3.0,eng ENG,LB,25-053,90,0,0,0,0,0,0,0,0,45,2,1,4,0.0,0.0,0.0,0,0,27,30,90.0,3,13,2,2,2,Leicester City
+Ben Mee,6.0,eng ENG,CB,29-050,90,0,0,0,0,1,0,0,0,44,0,1,2,0.1,0.1,0.0,0,0,18,28,64.3,0,13,0,0,0,Leicester City
+Kevin Long,28.0,ie IRL,CB,28-084,90,0,0,0,0,0,0,0,0,28,1,0,1,0.0,0.0,0.0,0,0,10,19,52.6,0,7,0,0,0,Leicester City
+Matthew Lowton,2.0,eng ENG,RB,29-154,90,0,0,0,0,0,0,0,0,75,1,1,5,0.0,0.0,0.1,1,0,37,59,62.7,3,18,1,1,1,Leicester City
+Joe Hart,20.0,eng ENG,GK,31-205,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,14,33,42.4,0,7,0,0,0,Leicester City
+14 Players,,,,,990,0,0,0,0,6,1,0,0,465,9,7,18,0.4,0.4,0.2,10,0,220,339,64.9,11,153,10,8,4,Leicester City
+Chris Wood,11.0,nz NZL,FW,26-338,90,0,0,0,0,3,1,0,0,33,0,0,1,0.2,0.2,0.0,1,0,17,23,73.9,0,11,1,1,0,Burnley
+Sam Vokes,9.0,wls WAL,FW,29-020,72,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,12,25,48.0,0,12,0,0,0,Burnley
+Ashley Barnes,10.0,eng ENG,FW,29-011,18,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,1,0,0,2,0.0,0,1,1,0,0,Burnley
+Jóhann Berg Guðmundsson,7.0,is ISL,LM,28-014,64,0,0,0,0,1,0,0,0,24,0,2,0,0.1,0.1,0.1,2,0,11,16,68.8,1,17,2,2,0,Burnley
+Robbie Brady,12.0,ie IRL,LM,26-300,26,0,0,0,0,1,0,0,0,14,1,0,0,0.1,0.1,0.0,2,0,5,11,45.5,0,6,0,0,0,Burnley
+Jack Cork,4.0,eng ENG,CM,29-138,90,0,0,0,0,0,0,0,0,50,1,0,3,0.0,0.0,0.0,1,0,25,36,69.4,2,20,0,0,0,Burnley
+Steven Defour,16.0,be BEL,CM,30-209,54,0,0,0,0,0,0,0,0,36,1,1,1,0.0,0.0,0.0,0,0,23,31,74.2,1,13,0,1,0,Burnley
+Jeff Hendrick,13.0,ie IRL,CM,26-283,36,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,0,0,9,10,90.0,0,5,0,0,0,Burnley
+Aaron Lennon,25.0,eng ENG,RM,31-208,90,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.0,2,0,12,16,75.0,1,10,3,1,1,Burnley
+Charlie Taylor,3.0,eng ENG,LB,25-053,90,0,0,0,0,0,0,0,0,45,2,1,4,0.0,0.0,0.0,0,0,27,30,90.0,3,13,2,2,2,Burnley
+Ben Mee,6.0,eng ENG,CB,29-050,90,0,0,0,0,1,0,0,0,44,0,1,2,0.1,0.1,0.0,0,0,18,28,64.3,0,13,0,0,0,Burnley
+Kevin Long,28.0,ie IRL,CB,28-084,90,0,0,0,0,0,0,0,0,28,1,0,1,0.0,0.0,0.0,0,0,10,19,52.6,0,7,0,0,0,Burnley
+Matthew Lowton,2.0,eng ENG,RB,29-154,90,0,0,0,0,0,0,0,0,75,1,1,5,0.0,0.0,0.1,1,0,37,59,62.7,3,18,1,1,1,Burnley
+Joe Hart,20.0,eng ENG,GK,31-205,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,14,33,42.4,0,7,0,0,0,Burnley
+14 Players,,,,,990,0,0,0,0,6,1,0,0,465,9,7,18,0.4,0.4,0.2,10,0,220,339,64.9,11,153,10,8,4,Burnley

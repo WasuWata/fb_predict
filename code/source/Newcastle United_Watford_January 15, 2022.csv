@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Chris Wood,20.0,nz NZL,FW,30-039,90,0,0,0,0,3,0,0,0,30,0,0,0,0.5,0.5,0.0,2,0,10,18,55.6,0,16,0,0,0,Newcastle United
+Allan Saint-Maximin,10.0,fr FRA,LW,24-309,85,1,0,0,0,1,1,0,0,41,0,0,1,0.1,0.1,0.0,5,1,20,28,71.4,0,39,11,10,7,Newcastle United
+Miguel Almirón,24.0,py PAR,LW,27-339,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,Newcastle United
+Ryan Fraser,21.0,sct SCO,RW,27-325,73,0,0,0,0,1,0,1,0,31,0,1,1,0.0,0.0,0.3,4,0,19,24,79.2,0,19,1,0,0,Newcastle United
+Jacob Murphy,23.0,eng ENG,RW,26-325,17,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0,Newcastle United
+Joelinton,7.0,br BRA,LM,25-154,90,0,0,0,0,2,0,0,0,54,7,1,2,0.4,0.4,0.0,3,0,30,38,78.9,4,33,2,4,3,Newcastle United
+Jonjo Shelvey,8.0,eng ENG,CM,29-322,90,0,0,0,0,2,0,1,0,58,0,2,1,0.0,0.0,0.0,1,0,41,52,78.8,8,28,0,1,1,Newcastle United
+Sean Longstaff,36.0,eng ENG,RM,24-077,90,0,0,0,0,1,0,0,0,46,6,0,1,0.1,0.1,0.0,1,0,25,34,73.5,2,22,0,0,0,Newcastle United
+Paul Dummett,3.0,wls WAL,LB,30-111,90,0,0,0,0,0,0,1,0,55,4,1,3,0.0,0.0,0.0,1,1,34,47,72.3,2,22,0,0,0,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,30-026,90,0,0,0,0,1,0,0,0,59,2,0,1,0.1,0.1,0.0,0,0,42,53,79.2,3,35,2,0,0,Newcastle United
+Jamaal Lascelles,6.0,eng ENG,CB,28-065,90,0,0,0,0,1,0,0,0,68,3,1,2,0.1,0.1,0.2,1,0,39,54,72.2,2,32,0,0,0,Newcastle United
+Kieran Trippier,15.0,eng ENG,RB,31-118,90,0,0,0,0,0,0,0,0,91,5,4,2,0.0,0.0,0.1,3,0,52,79,65.8,5,29,1,0,0,Newcastle United
+Martin Dúbravka,1.0,sk SVK,GK,33-000,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,24,29,82.8,0,15,0,0,0,Newcastle United
+13 Players,,,,,990,1,0,0,0,12,1,3,0,570,27,10,15,1.2,1.2,0.7,21,2,341,463,73.7,26,294,17,15,11,Newcastle United
+Joshua King,7.0,no NOR,FW,30-000,90,0,0,0,0,4,1,0,0,34,1,0,0,0.4,0.4,0.2,4,0,19,24,79.2,3,25,5,1,0,Watford
+João Pedro,10.0,br BRA,LW,20-111,90,1,0,0,0,6,3,0,0,41,0,0,1,0.3,0.3,0.1,4,0,20,27,74.1,5,28,0,4,2,Watford
+Emmanuel Dennis,25.0,ng NGA,RW,24-061,83,0,0,0,0,2,0,0,0,35,1,0,0,0.1,0.1,0.4,5,0,15,23,65.2,3,21,3,10,6,Watford
+Cucho,29.0,co COL,RW,22-270,7,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,2,1,6,7,85.7,1,4,0,1,0,Watford
+Juraj Kucka,33.0,sk SVK,LM,34-323,76,0,0,0,0,1,0,0,0,43,0,2,0,0.0,0.0,0.0,6,0,25,29,86.2,5,13,0,1,0,Watford
+Tom Cleverley,8.0,eng ENG,LM,32-156,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,2,0,0,0,Watford
+Edo Kayembe,39.0,cd COD,CM,23-226,90,0,0,0,0,2,0,0,0,73,1,1,0,0.0,0.0,0.3,3,0,46,58,79.3,9,29,2,2,1,Watford
+Moussa Sissoko,19.0,fr FRA,RM,32-152,90,0,0,0,0,1,0,1,0,36,1,2,1,0.4,0.4,0.0,0,0,17,24,70.8,1,10,1,1,1,Watford
+Hassane Kamara,14.0,ci CIV,LB,27-316,90,0,0,0,0,0,0,0,0,71,3,5,1,0.0,0.0,0.0,2,0,41,60,68.3,3,26,4,2,2,Watford
+Samir Santos,22.0,br BRA,CB,27-041,90,0,0,0,0,1,1,1,0,54,3,5,1,0.1,0.1,0.0,0,0,30,36,83.3,0,20,0,0,0,Watford
+Craig Cathcart,15.0,nir NIR,CB,32-343,90,0,0,0,0,0,0,0,0,58,3,0,1,0.0,0.0,0.0,1,0,41,44,93.2,4,16,0,0,0,Watford
+Jeremy Ngakia,2.0,,RB,21-130,65,0,0,0,0,0,0,0,0,36,4,2,1,0.0,0.0,0.1,1,0,18,25,72.0,2,10,1,0,0,Watford
+Kiko Femenía,21.0,es ESP,RB,30-347,25,0,1,0,0,1,0,0,0,29,2,0,0,0.0,0.0,0.1,2,1,23,27,85.2,3,12,1,0,0,Watford
+Ben Foster,1.0,eng ENG,GK,38-287,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,18,30,60.0,0,8,0,0,0,Watford
+14 Players,,,,,990,1,1,0,0,18,5,2,0,555,19,17,6,1.4,1.4,1.2,31,2,324,420,77.1,40,224,17,22,12,Watford

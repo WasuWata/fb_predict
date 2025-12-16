@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Michail Antonio,30.0,jm JAM,FW,30-312,90,0,2,0,0,5,1,0,0,27,0,0,2,0.7,0.7,0.2,5,3,9,15,60.0,1,14,0,2,0,West Ham United
+Saïd Benrahma,9.0,dz ALG,LW,25-177,87,0,1,0,0,2,1,0,0,41,0,1,0,0.3,0.3,0.2,6,2,29,33,87.9,2,24,3,1,0,West Ham United
+Ben Johnson,31.0,eng ENG,"DM,LW",21-010,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,West Ham United
+Ryan Fredericks,24.0,eng ENG,RW,28-116,83,0,0,0,0,0,0,0,0,38,2,0,0,0.0,0.0,0.2,5,0,21,31,67.7,2,13,3,1,1,West Ham United
+Pablo Fornals,18.0,es ESP,RW,24-347,7,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,6,6,100.0,1,4,0,0,0,West Ham United
+Jesse Lingard,11.0,eng ENG,"AM,LW",28-050,89,2,0,0,0,6,3,0,0,64,1,0,0,0.3,0.3,0.1,5,0,43,47,91.5,9,35,5,6,2,West Ham United
+Jarrod Bowen,20.0,eng ENG,LW,24-045,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,West Ham United
+Declan Rice,41.0,eng ENG,DM,22-020,90,0,0,0,0,0,0,0,0,57,0,0,2,0.0,0.0,0.0,2,0,41,51,80.4,6,27,1,0,0,West Ham United
+Tomáš Souček,28.0,cz CZE,"DM,AM",25-342,90,1,0,0,0,4,2,0,0,67,4,1,0,0.3,0.3,0.1,5,1,38,51,74.5,4,21,1,2,2,West Ham United
+Aaron Cresswell,3.0,eng ENG,LB,31-050,90,0,0,0,0,2,1,1,0,51,2,2,0,0.1,0.1,0.4,3,0,32,46,69.6,3,13,0,0,0,West Ham United
+Angelo Ogbonna,21.0,it ITA,CB,32-256,90,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.0,1,0,29,33,87.9,0,23,0,0,0,West Ham United
+Craig Dawson,15.0,eng ENG,CB,30-273,90,0,0,0,0,0,0,0,0,38,2,1,1,0.0,0.0,0.0,0,0,21,26,80.8,5,14,0,0,0,West Ham United
+Vladimír Coufal,5.0,cz CZE,RB,28-165,90,0,0,0,0,1,1,0,0,64,3,0,2,0.0,0.0,0.3,3,0,29,50,58.0,7,17,3,1,1,West Ham United
+Łukasz Fabiański,1.0,pl POL,GK,35-291,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,14,22,63.6,0,10,0,0,0,West Ham United
+14 Players,,,,,990,3,3,0,0,20,9,1,0,516,15,5,7,1.7,1.7,1.4,36,6,313,412,76.0,40,215,16,13,6,West Ham United

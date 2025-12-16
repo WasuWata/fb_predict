@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Troy Deeney,9.0,eng ENG,FW,29-216,90,0,0,0,0,1,0,0,0,33,1,0,0,0.1,0.1,0.0,2,0,13,27,48.1,8,13,0,0,0,Watford
+Richarlison,11.0,br BRA,LW,20-266,67,0,0,0,0,2,0,0,0,21,0,0,1,0.2,0.2,0.0,2,0,7,11,63.6,0,13,2,1,1,Watford
+Andre Gray,18.0,jm JAM,"LW,FW",26-219,23,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,3,6,50.0,0,4,0,0,0,Watford
+Gerard Deulofeu,7.0,es ESP,RW,23-324,87,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.2,3,0,11,21,52.4,0,24,5,4,4,Watford
+André Carrillo,28.0,pe PER,"RM,RW",26-231,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Watford
+Tom Cleverley,8.0,eng ENG,LM,28-172,71,0,0,0,0,1,0,0,0,29,0,2,0,0.0,0.0,0.0,2,0,19,26,73.1,3,21,2,0,0,Watford
+Roberto Pereyra,37.0,ar ARG,LM,27-024,19,0,0,0,0,2,1,0,0,14,1,0,0,0.1,0.1,0.0,2,0,6,8,75.0,0,8,0,1,0,Watford
+Étienne Capoue,29.0,fr FRA,CM,29-204,90,0,0,0,0,0,0,0,0,60,3,3,3,0.0,0.0,0.0,1,0,29,41,70.7,3,24,0,0,0,Watford
+Abdoulaye Doucouré,16.0,ml MLI,"RM,CM",25-030,90,0,0,0,0,4,0,1,0,50,2,0,1,0.2,0.2,0.1,4,0,29,38,76.3,4,29,2,1,1,Watford
+José Holebas,25.0,gr GRE,LB,33-218,90,0,0,0,0,0,0,1,0,63,2,0,0,0.0,0.0,0.1,1,0,20,51,39.2,2,19,0,2,0,Watford
+Christian Kabasele,27.0,be BEL,CB,26-341,90,0,0,0,0,0,0,1,0,31,1,0,1,0.0,0.0,0.0,0,0,14,21,66.7,1,9,0,0,0,Watford
+Sebastian Prödl,5.0,at AUT,CB,30-224,90,0,0,0,0,1,1,0,0,35,2,1,1,0.1,0.1,0.0,0,0,15,26,57.7,3,8,0,0,0,Watford
+Adrian Mariappa,6.0,jm JAM,RB,31-120,90,0,0,0,0,0,0,0,0,44,0,1,2,0.0,0.0,0.0,0,0,21,32,65.6,1,15,0,1,0,Watford
+Orestis Karnezis,30.0,gr GRE,GK,32-204,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,12,32,37.5,0,14,0,0,0,Watford
+14 Players,,,,,990,0,0,0,0,11,2,3,0,451,13,8,9,0.7,0.7,0.6,18,0,201,343,58.6,25,204,11,10,6,Watford

@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Oumar Niasse,29.0,sn SEN,FW,28-286,72,0,0,0,0,2,0,0,0,27,0,0,1,0.1,0.1,0.0,6,0,9,14,64.3,1,18,0,2,1,Cardiff City
+Kenneth Zohore,10.0,dk DEN,FW,24-363,18,0,1,0,0,1,1,0,0,9,0,0,0,0.0,0.0,0.1,3,1,7,7,100.0,0,3,0,0,0,Cardiff City
+Bobby De Cordova-Reid,14.0,jm JAM,"FW,LW",25-361,69,0,0,0,0,2,0,0,0,14,2,1,0,0.1,0.1,0.0,1,0,4,5,80.0,0,10,0,0,0,Cardiff City
+Nathaniel Mendez-Laing,19.0,gt GUA,"RM,LW",26-289,21,1,0,0,0,1,1,0,0,16,1,2,0,0.1,0.1,0.1,3,1,5,7,71.4,1,9,0,2,1,Cardiff City
+Joe Ralls,8.0,eng ENG,CM,25-109,90,0,0,0,0,3,0,1,0,50,2,1,2,0.1,0.1,0.3,5,0,26,38,68.4,4,20,0,1,1,Cardiff City
+Aron Gunnarsson,17.0,is ISL,CM,29-282,90,0,0,0,0,1,0,0,0,38,1,0,2,0.0,0.0,0.0,1,0,18,28,64.3,1,10,0,0,0,Cardiff City
+Harry Arter,7.0,ie IRL,CM,29-032,80,0,0,0,0,2,0,1,0,29,3,0,1,0.0,0.0,0.0,2,0,17,20,85.0,0,7,0,1,0,Cardiff City
+Kadeem Harris,23.0,eng ENG,LM,25-235,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,4,1,0,0,Cardiff City
+Joe Bennett,3.0,eng ENG,"LB,WB",28-307,90,0,0,0,0,1,0,0,0,41,0,0,1,0.1,0.1,0.0,0,0,21,31,67.7,5,16,2,0,0,Cardiff City
+Callum Paterson,13.0,sct SCO,"WB,RW,FW",24-108,90,0,0,0,0,5,0,1,0,37,0,0,0,0.2,0.2,0.1,5,0,11,26,42.3,2,11,1,0,0,Cardiff City
+Bruno Ecuele Manga,5.0,ga GAB,CB,30-197,90,0,0,0,0,0,0,0,0,29,3,1,4,0.0,0.0,0.0,0,0,10,14,71.4,2,8,0,1,1,Cardiff City
+Sol Bamba,22.0,ci CIV,CB,34-016,90,0,0,0,0,1,0,0,0,34,1,4,2,0.0,0.0,0.0,2,0,14,16,87.5,4,8,0,1,0,Cardiff City
+Lee Peltier,2.0,eng ENG,"RB,CB",32-049,90,0,0,0,0,0,0,0,0,43,3,1,3,0.0,0.0,0.0,3,0,17,31,54.8,1,10,0,0,0,Cardiff City
+Neil Etheridge,1.0,ph PHI,GK,28-356,90,0,0,0,0,0,0,0,0,34,0,1,0,0.0,0.0,0.0,1,0,17,29,58.6,0,9,0,0,0,Cardiff City
+14 Players,,,,,990,1,1,0,0,19,2,3,0,406,16,11,16,0.8,0.8,0.6,33,2,179,270,66.3,21,143,4,8,4,Cardiff City

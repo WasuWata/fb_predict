@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Aleksandar Mitrović,9.0,rs SRB,FW,26-236,90,0,0,0,0,4,1,0,0,34,0,0,1,0.3,0.3,0.0,2,0,13,24,54.2,2,10,0,0,0,Fulham
+Ademola Lookman,19.0,ng NGA,LW,23-202,90,0,0,0,0,4,0,0,0,64,0,2,0,0.2,0.2,0.1,5,0,40,54,74.1,5,41,4,2,1,Fulham
+Ivan Cavaleiro,17.0,pt POR,RW,27-204,90,0,0,0,0,1,1,0,0,55,1,1,1,0.0,0.0,0.3,10,0,27,38,71.1,4,33,5,4,3,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,AM,28-097,65,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,2,0,11,18,61.1,0,12,1,1,0,Fulham
+Josh Onomah,25.0,eng ENG,"DM,AM",24-013,25,0,0,0,0,1,0,0,0,14,1,0,0,0.1,0.1,0.0,3,0,9,11,81.8,4,7,1,0,0,Fulham
+Mario Lemina,18.0,ga GAB,"DM,CB,RB",27-251,90,0,0,0,0,2,0,1,0,76,4,1,1,0.0,0.0,0.0,0,0,50,63,79.4,7,43,3,1,1,Fulham
+Andre-Frank Zambo Anguissa,29.0,cm CMR,"DM,CB",25-175,90,0,0,0,0,5,1,1,0,73,2,1,0,0.3,0.3,0.1,6,0,45,56,80.4,16,35,6,4,3,Fulham
+Antonee Robinson,33.0,us USA,LB,23-275,90,0,0,0,0,0,0,0,0,98,2,0,0,0.0,0.0,0.1,6,0,61,92,66.3,8,60,9,5,4,Fulham
+Tosin Adarabioyo,16.0,eng ENG,CB,23-228,73,0,0,0,0,0,0,0,0,68,3,2,1,0.0,0.0,0.0,1,0,49,57,86.0,0,39,0,0,0,Fulham
+Ruben Loftus-Cheek,15.0,eng ENG,"CB,AM",25-107,17,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,12,14,85.7,2,12,1,0,0,Fulham
+Joachim Andersen,5.0,dk DEN,"CB,RB",24-344,90,0,0,0,0,0,0,0,0,95,1,2,1,0.0,0.0,0.0,0,0,56,84,66.7,4,51,2,0,0,Fulham
+Kenny Tete,2.0,nl NED,RB,25-213,53,0,0,0,0,2,0,0,0,41,1,1,1,0.1,0.1,0.0,1,0,22,34,64.7,3,17,2,3,3,Fulham
+Josh Maja,27.0,ng NGA,"AM,RB,DM",22-134,37,0,0,0,0,1,0,0,0,15,0,0,2,0.0,0.0,0.0,1,0,9,10,90.0,4,10,1,1,0,Fulham
+Alphonse Areola,1.0,fr FRA,GK,28-072,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,1,0,27,37,73.0,0,23,0,0,0,Fulham
+14 Players,,,,,990,0,0,0,0,21,3,2,0,713,16,11,8,1.0,1.0,0.8,39,0,431,592,72.8,59,393,35,21,15,Fulham
+Chris Wood,9.0,nz NZL,FW,29-154,85,1,0,0,0,5,2,0,0,34,0,0,0,0.6,0.6,0.1,6,1,11,21,52.4,1,20,0,3,1,Burnley
+Ashley Barnes,10.0,eng ENG,FW,31-192,5,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,3,0,0,0,Burnley
+Matěj Vydra,27.0,cz CZE,FW,29-009,66,0,1,0,0,2,0,0,0,20,2,1,0,0.1,0.1,0.5,1,0,6,11,54.5,1,9,1,1,0,Burnley
+Jay Rodriguez,19.0,eng ENG,FW,31-285,24,0,0,0,0,1,1,0,0,11,0,0,2,0.1,0.1,0.0,1,0,3,7,42.9,1,8,0,0,0,Burnley
+Dwight McNeil,11.0,eng ENG,LM,21-169,90,0,0,0,0,0,0,0,0,38,3,0,0,0.0,0.0,0.3,4,0,14,28,50.0,3,20,0,3,1,Burnley
+Jack Cork,4.0,eng ENG,CM,31-319,90,0,0,0,0,0,0,0,0,28,3,0,3,0.0,0.0,0.0,0,0,12,15,80.0,1,10,1,0,0,Burnley
+Ashley Westwood,18.0,eng ENG,CM,31-039,90,1,0,0,0,1,1,0,0,35,0,0,2,0.5,0.5,0.0,1,0,11,26,42.3,1,15,0,0,0,Burnley
+Josh Brownhill,8.0,eng ENG,RM,25-142,90,0,1,0,0,1,0,0,0,43,1,3,0,0.1,0.1,0.1,3,2,16,32,50.0,4,19,1,1,0,Burnley
+Charlie Taylor,3.0,eng ENG,LB,27-234,90,0,0,0,0,0,0,0,0,59,4,1,1,0.0,0.0,0.2,2,0,20,42,47.6,1,21,1,1,1,Burnley
+Ben Mee,6.0,eng ENG,CB,31-231,90,0,0,0,0,1,1,0,0,28,0,1,2,0.1,0.1,0.1,1,0,10,19,52.6,3,8,0,0,0,Burnley
+James Tarkowski,5.0,eng ENG,CB,28-172,90,0,0,0,0,1,0,0,0,42,3,1,2,0.1,0.1,0.3,2,0,11,22,50.0,2,11,0,0,0,Burnley
+Matthew Lowton,2.0,eng ENG,RB,31-335,90,0,0,0,0,1,0,0,0,44,1,4,5,0.0,0.0,0.0,2,1,17,29,58.6,0,17,0,2,2,Burnley
+Nick Pope,1.0,eng ENG,GK,29-021,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,12,32,37.5,0,12,0,0,0,Burnley
+13 Players,,,,,990,2,2,0,0,14,5,0,0,421,17,11,17,1.6,1.6,1.6,24,4,143,284,50.4,18,173,4,11,5,Burnley

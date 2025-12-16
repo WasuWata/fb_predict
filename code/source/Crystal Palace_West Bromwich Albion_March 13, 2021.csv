@@ -1,0 +1,30 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Wilfried Zaha,11.0,ci CIV,"FW,LW",28-123,90,0,0,0,0,0,0,0,0,35,1,0,0,0.0,0.0,0.1,1,0,15,21,71.4,1,28,2,6,3,Crystal Palace
+Christian Benteke,20.0,be BEL,FW,30-100,90,0,0,0,0,3,2,0,0,47,0,0,3,0.3,0.3,0.0,2,0,16,29,55.2,0,17,2,1,0,Crystal Palace
+Eberechi Eze,25.0,eng ENG,LM,22-257,73,0,0,0,0,1,1,1,0,37,1,0,1,0.0,0.0,0.0,4,0,24,33,72.7,4,29,2,4,3,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,LM,28-080,17,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Crystal Palace
+Jaïro Riedewald,44.0,nl NED,CM,24-185,90,0,0,0,0,0,0,0,0,33,1,0,1,0.0,0.0,0.0,0,0,24,27,88.9,4,18,0,0,0,Crystal Palace
+Luka Milivojević,4.0,rs SRB,"CM,RM",29-340,90,1,0,1,1,0,0,0,0,53,4,1,1,0.8,0.0,0.0,0,0,28,40,70.0,2,17,0,1,1,Crystal Palace
+Jordan Ayew,9.0,gh GHA,RM,29-183,83,0,0,0,0,1,0,0,0,44,1,1,3,0.0,0.0,0.0,2,0,25,31,80.6,1,25,2,2,1,Crystal Palace
+Andros Townsend,10.0,eng ENG,RW,29-240,7,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,1,1,Crystal Palace
+Patrick van Aanholt,3.0,nl NED,LB,30-196,90,0,0,0,0,0,0,1,0,64,2,1,1,0.0,0.0,0.0,1,1,31,53,58.5,4,21,0,1,0,Crystal Palace
+Gary Cahill,24.0,eng ENG,CB,35-084,90,0,0,0,0,0,0,1,0,42,1,0,0,0.0,0.0,0.0,0,0,19,31,61.3,1,15,0,0,0,Crystal Palace
+Cheikhou Kouyaté,8.0,sn SEN,CB,31-082,90,0,0,0,0,0,0,0,0,38,3,0,3,0.0,0.0,0.0,0,0,19,31,61.3,0,13,0,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,RB,31-135,90,0,0,0,0,0,0,0,0,43,3,1,0,0.0,0.0,0.0,0,0,25,32,78.1,0,11,1,3,2,Crystal Palace
+Vicente Guaita,31.0,es ESP,GK,34-062,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,1,0,20,37,54.1,0,20,0,0,0,Crystal Palace
+13 Players,,,,,990,1,0,1,1,5,3,3,0,486,17,4,13,1.2,0.4,0.1,11,1,251,372,67.5,17,218,9,19,11,Crystal Palace
+Mbaye Diagne,17.0,sn SEN,FW,29-136,90,0,0,0,0,1,1,0,0,31,0,0,0,0.3,0.3,0.1,3,0,19,25,76.0,1,22,0,2,2,West Bromwich Albion
+Matheus Pereira,12.0,br BRA,"LM,CM",24-312,62,0,0,0,0,1,0,0,0,39,1,0,0,0.0,0.0,0.1,6,0,27,30,90.0,4,19,2,3,1,West Bromwich Albion
+Hal Robson-Kanu,4.0,wls WAL,FW,31-296,28,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,5,6,83.3,3,6,1,1,1,West Bromwich Albion
+Ainsley Maitland-Niles,30.0,eng ENG,"LM,CM",23-196,90,0,0,0,0,1,0,0,0,49,4,1,2,0.0,0.0,0.0,1,0,27,34,79.4,2,29,2,5,2,West Bromwich Albion
+Conor Gallagher,18.0,eng ENG,CM,21-035,90,0,0,0,0,2,0,0,0,56,1,1,2,0.1,0.1,0.0,1,0,33,43,76.7,8,33,2,1,0,West Bromwich Albion
+Matt Phillips,10.0,sct SCO,RM,30-000,70,0,0,0,0,2,0,0,0,31,2,1,3,0.1,0.1,0.1,2,0,12,19,63.2,1,24,2,1,1,West Bromwich Albion
+Robert Snodgrass,23.0,sct SCO,RM,33-187,20,0,0,0,0,1,0,0,0,10,0,0,0,0.1,0.1,0.0,0,0,6,7,85.7,0,6,0,0,0,West Bromwich Albion
+Okay Yokuşlu,35.0,tr TUR,"DM,CM",27-004,90,0,0,0,0,1,0,0,0,71,1,0,0,0.0,0.0,0.3,2,0,51,59,86.4,10,37,1,4,2,West Bromwich Albion
+Conor Townsend,14.0,eng ENG,LB,28-009,90,0,0,0,0,2,0,0,0,72,1,0,1,0.1,0.1,0.1,4,0,48,63,76.2,3,35,1,0,0,West Bromwich Albion
+Kyle Bartley,5.0,eng ENG,CB,29-295,90,0,0,0,0,0,0,0,0,57,1,0,1,0.0,0.0,0.0,0,0,37,47,78.7,4,27,0,0,0,West Bromwich Albion
+Dara O'Shea,27.0,ie IRL,CB,22-009,90,0,0,0,0,1,0,0,0,61,4,2,0,0.0,0.0,0.0,2,0,29,48,60.4,4,23,0,0,0,West Bromwich Albion
+Darnell Furlong,2.0,eng ENG,RB,25-133,90,0,0,0,0,0,0,1,0,59,4,3,2,0.0,0.0,0.0,1,0,29,47,61.7,2,17,1,1,0,West Bromwich Albion
+Sam Johnstone,1.0,eng ENG,GK,27-353,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,20,30,66.7,0,22,0,0,0,West Bromwich Albion
+13 Players,,,,,990,0,0,0,0,12,1,1,0,576,19,8,11,0.8,0.8,0.7,23,0,343,458,74.9,42,300,12,18,9,West Bromwich Albion

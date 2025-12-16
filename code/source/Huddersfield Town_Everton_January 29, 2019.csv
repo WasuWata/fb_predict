@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Steve Mounié,24.0,bj BEN,FW,24-122,90,0,0,0,0,4,0,0,0,47,0,0,1,0.2,0.2,0.1,1,0,24,33,72.7,2,22,1,3,3,Huddersfield Town
+Adama Diakhaby,11.0,fr FRA,"LW,RW,FW",22-208,86,0,0,0,0,1,0,0,0,43,0,0,2,0.0,0.0,0.2,4,0,25,34,73.5,0,37,3,5,3,Huddersfield Town
+Laurent Depoitre,20.0,be BEL,FW,30-053,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Huddersfield Town
+Elias Kachunga,9.0,cd COD,"RW,LW",26-282,80,0,0,0,0,2,1,0,0,35,1,1,0,0.3,0.3,0.0,0,0,19,25,76.0,0,20,0,4,1,Huddersfield Town
+Chris Löwe,15.0,de GER,WB,29-288,10,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,8,50.0,2,3,0,0,0,Huddersfield Town
+Jason Puncheon,42.0,eng ENG,"LM,DM,CM",32-225,90,0,0,0,0,0,0,1,0,74,2,1,1,0.0,0.0,0.0,1,0,45,58,77.6,4,39,1,3,3,Huddersfield Town
+Jonathan Hogg,6.0,eng ENG,CM,30-054,54,0,0,0,0,0,0,0,0,42,1,2,1,0.0,0.0,0.0,0,0,30,38,78.9,2,19,1,0,0,Huddersfield Town
+Aaron Mooy,10.0,au AUS,AM,28-136,36,0,0,0,0,2,1,0,0,41,0,0,1,0.2,0.2,0.0,1,0,27,35,77.1,8,26,1,1,0,Huddersfield Town
+Juninho Bacuna,7.0,cw CUW,"RM,DM,CM",21-175,90,0,0,0,0,0,0,0,0,79,2,1,0,0.0,0.0,0.1,4,0,54,69,78.3,13,52,1,4,1,Huddersfield Town
+Terence Kongolo,5.0,nl NED,"LB,CB",24-349,90,0,0,0,0,0,0,0,0,58,4,0,0,0.0,0.0,0.1,1,0,38,49,77.6,1,34,1,2,1,Huddersfield Town
+Christopher Schindler,26.0,de GER,CB,28-275,90,0,0,0,0,0,0,0,0,79,0,2,2,0.0,0.0,0.0,1,0,58,71,81.7,3,41,1,0,0,Huddersfield Town
+Mathias Jørgensen,25.0,dk DEN,CB,28-281,90,0,0,0,0,1,0,0,0,91,2,2,3,0.1,0.1,0.0,2,0,67,80,83.8,7,54,0,0,0,Huddersfield Town
+Florent Hadergjonaj,33.0,xk KVX,"RB,WB",24-182,90,0,0,0,0,0,0,0,0,66,5,1,0,0.0,0.0,0.1,5,0,45,60,75.0,4,30,6,2,1,Huddersfield Town
+Jonas Lössl,1.0,dk DEN,GK,29-362,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,29,39,74.4,0,25,0,0,0,Huddersfield Town
+14 Players,,,,,990,0,0,0,0,10,2,1,0,706,17,10,11,0.7,0.7,0.6,20,0,467,601,77.7,46,404,16,24,13,Huddersfield Town
+Cenk Tosun,14.0,tr TUR,FW,27-236,69,0,0,0,0,1,0,1,0,43,1,0,1,0.1,0.1,0.1,3,0,19,31,61.3,0,28,0,2,0,Everton
+Jonjoe Kenny,43.0,eng ENG,LB,21-320,21,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,1,0,0,0,Everton
+Richarlison,30.0,br BRA,"LM,FW",21-264,85,1,0,0,0,3,2,0,0,50,2,0,3,0.7,0.7,0.0,2,1,23,32,71.9,4,32,4,4,2,Everton
+Dominic Calvert-Lewin,29.0,eng ENG,FW,21-319,5,0,0,0,0,0,0,1,0,1,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Everton
+Gylfi Sigurðsson,10.0,is ISL,"CM,LM",29-143,90,0,0,0,0,3,2,0,0,51,7,0,1,0.2,0.2,0.1,5,0,24,34,70.6,1,23,1,3,3,Everton
+Tom Davies,26.0,eng ENG,CM,20-213,90,0,0,0,0,1,1,0,0,47,3,4,0,0.0,0.0,0.4,1,0,28,31,90.3,2,26,2,1,1,Everton
+Bernard,20.0,br BRA,RM,26-143,90,0,0,0,0,0,0,1,0,47,3,1,4,0.0,0.0,0.1,3,0,21,32,65.6,4,27,2,3,2,Everton
+André Gomes,8.0,pt POR,"DM,CM",25-183,90,0,0,0,0,0,0,1,0,54,2,1,1,0.0,0.0,0.0,0,0,40,46,87.0,2,30,0,2,1,Everton
+Leighton Baines,3.0,eng ENG,LB,34-049,54,0,0,0,0,0,0,0,0,43,2,0,0,0.0,0.0,0.1,1,0,32,38,84.2,2,16,0,0,0,Everton
+Lucas Digne,12.0,fr FRA,LB,25-193,11,0,0,0,0,0,0,0,1,11,1,1,0,0.0,0.0,0.0,0,0,7,10,70.0,2,5,0,0,0,Everton
+Kurt Zouma,5.0,fr FRA,CB,24-094,90,0,0,0,0,1,0,0,0,56,0,5,2,0.1,0.1,0.0,0,0,29,44,65.9,0,31,1,0,0,Everton
+Michael Keane,4.0,eng ENG,CB,26-018,90,0,0,0,0,0,0,0,0,54,0,2,2,0.0,0.0,0.0,1,0,29,37,78.4,0,28,0,0,0,Everton
+Séamus Coleman,23.0,ie IRL,RB,30-110,90,0,0,0,0,1,0,0,0,58,4,1,0,0.0,0.0,0.0,1,0,35,48,72.9,4,25,2,0,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,24-328,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,17,40,42.5,0,15,0,0,0,Everton
+14 Players,,,,,965,1,0,0,0,10,5,4,1,565,25,15,15,1.1,1.1,0.7,17,1,307,430,71.4,21,287,12,15,9,Everton

@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Timo Werner,11.0,de GER,FW,25-073,89,0,0,0,0,4,1,0,0,22,1,0,0,0.3,0.3,0.1,4,1,12,14,85.7,2,14,3,2,1,Leicester City
+Olivier Giroud,18.0,fr FRA,FW,34-230,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Leicester City
+Mason Mount,19.0,eng ENG,AM,22-128,90,0,0,0,0,2,1,0,0,56,1,2,0,0.1,0.1,0.4,7,1,31,45,68.9,10,34,5,2,1,Leicester City
+Christian Pulisic,10.0,us USA,AM,22-242,90,0,0,0,0,2,1,0,0,46,2,0,1,0.4,0.4,0.0,3,0,19,27,70.4,2,36,4,6,1,Leicester City
+Jorginho,5.0,it ITA,CM,29-149,90,1,0,1,1,0,0,0,0,75,3,2,1,0.8,0.0,0.1,4,0,54,63,85.7,9,44,0,3,2,Leicester City
+N'Golo Kanté,7.0,fr FRA,CM,30-050,31,0,0,0,0,1,1,0,0,16,0,0,1,0.0,0.0,0.1,1,0,10,12,83.3,3,11,1,0,0,Leicester City
+Mateo Kovačić,17.0,hr CRO,CM,27-012,59,0,0,0,0,0,0,0,0,60,4,0,2,0.0,0.0,0.1,1,0,41,50,82.0,7,41,2,4,4,Leicester City
+Ben Chilwell,21.0,eng ENG,WB,24-148,90,0,0,0,0,1,0,0,0,73,0,3,1,0.1,0.1,0.4,4,0,41,61,67.2,3,37,4,2,1,Leicester City
+César Azpilicueta,28.0,es ESP,WB,31-263,87,0,0,0,0,0,0,1,0,65,4,2,2,0.0,0.0,0.2,3,0,45,53,84.9,3,28,0,2,0,Leicester City
+Kurt Zouma,15.0,fr FRA,"CB,WB",26-203,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Leicester City
+Antonio Rüdiger,2.0,de GER,CB,28-076,90,1,0,0,0,1,1,0,0,83,2,2,2,0.7,0.7,0.0,2,0,63,73,86.3,4,59,2,0,0,Leicester City
+Thiago Silva,6.0,br BRA,CB,36-238,90,0,0,0,0,3,0,0,0,88,1,1,0,0.7,0.7,0.0,1,0,71,77,92.2,0,57,1,0,0,Leicester City
+Reece James,24.0,eng ENG,"CB,WB",21-161,90,0,0,0,0,2,0,0,0,98,1,0,1,0.0,0.0,0.2,1,0,83,90,92.2,7,67,0,0,0,Leicester City
+Edouard Mendy,16.0,sn SEN,GK,29-078,90,0,0,0,0,0,0,1,0,28,0,0,0,0.0,0.0,0.0,0,0,26,28,92.9,0,18,0,0,0,Leicester City
+14 Players,,,,,990,2,0,1,1,16,5,2,0,715,19,12,11,3.2,2.4,1.5,31,2,498,597,83.4,50,447,22,21,10,Leicester City

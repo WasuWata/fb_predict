@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Wilfried Zaha,11.0,ci CIV,FW,25-289,90,1,0,0,0,1,1,1,0,33,1,1,0,0.1,0.1,0.0,1,0,15,20,75.0,2,24,0,2,0,Crystal Palace
+Christian Benteke,17.0,be BEL,FW,27-266,84,0,0,0,0,3,1,0,0,42,0,0,1,0.2,0.2,0.0,0,0,16,30,53.3,0,21,1,0,0,Crystal Palace
+Alexander Sørloth,9.0,no NOR,FW,22-264,6,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,1,4,25.0,0,0,0,0,0,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,LM,25-246,74,0,0,0,0,0,0,0,0,36,2,0,1,0.0,0.0,0.0,1,0,20,26,76.9,0,21,0,3,0,Crystal Palace
+Max Meyer,7.0,de GER,LM,22-342,16,0,1,0,0,0,0,1,0,19,3,0,0,0.0,0.0,0.1,1,1,14,16,87.5,1,6,0,0,0,Crystal Palace
+James McArthur,18.0,sct SCO,CM,30-323,90,0,0,0,0,2,1,0,0,78,2,0,6,0.6,0.6,0.1,2,0,50,62,80.6,5,43,0,2,1,Crystal Palace
+Luka Milivojević,4.0,rs SRB,CM,27-141,90,0,0,0,0,0,0,0,0,67,2,0,1,0.0,0.0,0.2,3,0,47,60,78.3,4,30,0,0,0,Crystal Palace
+Andros Townsend,10.0,eng ENG,RM,27-041,90,0,0,0,0,0,0,0,0,65,2,2,1,0.0,0.0,0.1,4,0,38,56,67.9,3,41,4,2,2,Crystal Palace
+Patrick van Aanholt,3.0,nl NED,LB,27-362,90,0,0,0,0,1,0,0,0,62,0,1,1,0.1,0.1,0.0,1,0,42,51,82.4,7,32,6,1,0,Crystal Palace
+Mamadou Sakho,12.0,fr FRA,CB,28-194,90,0,0,0,0,0,0,0,0,47,2,0,1,0.0,0.0,0.0,1,0,35,37,94.6,4,21,0,0,0,Crystal Palace
+Martin Kelly,34.0,eng ENG,CB,28-121,90,0,0,0,0,0,0,0,0,40,0,1,2,0.0,0.0,0.0,1,0,20,29,69.0,3,18,0,1,0,Crystal Palace
+Joel Ward,2.0,eng ENG,RB,28-301,90,0,0,0,0,1,0,0,0,81,5,0,0,0.1,0.1,0.0,2,0,42,63,66.7,3,11,1,1,0,Crystal Palace
+Wayne Hennessey,13.0,wls WAL,GK,31-214,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,19,31,61.3,0,10,0,0,0,Crystal Palace
+13 Players,,,,,990,1,1,0,0,9,3,2,0,608,19,5,14,1.0,1.0,0.5,17,1,359,485,74.0,32,278,12,12,3,Crystal Palace

@@ -1,0 +1,30 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Richarlison,30.0,br BRA,"FW,LW,LM",21-164,90,0,0,0,0,1,0,0,0,44,0,1,0,0.1,0.1,0.0,4,1,21,31,67.7,2,34,2,4,3,Everton
+Bernard,20.0,br BRA,LW,26-043,66,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.1,2,0,24,32,75.0,5,35,1,1,0,Everton
+Cenk Tosun,14.0,tr TUR,FW,27-136,24,1,0,0,0,3,1,0,0,12,0,0,0,0.5,0.5,0.0,1,0,6,6,100.0,0,9,2,0,0,Everton
+Theo Walcott,11.0,eng ENG,RW,29-219,81,0,0,0,0,1,1,0,0,38,0,1,0,0.3,0.3,0.1,4,0,22,32,68.8,2,30,4,3,3,Everton
+Ademola Lookman,31.0,ng NGA,RM,21-001,9,0,1,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.3,2,1,7,8,87.5,1,6,2,1,1,Everton
+Gylfi Sigurðsson,10.0,is ISL,"AM,CM",29-043,90,0,0,0,0,5,1,0,0,54,1,0,3,0.2,0.2,0.5,6,0,23,37,62.2,3,29,0,2,1,Everton
+Idrissa Gana Gueye,17.0,sn SEN,"DM,CM",29-025,90,0,0,0,0,0,0,1,0,77,6,5,1,0.0,0.0,0.0,1,0,59,64,92.2,3,45,0,0,0,Everton
+André Gomes,8.0,pt POR,DM,25-083,81,0,0,0,0,2,0,0,0,73,1,2,1,0.1,0.1,0.0,5,0,57,62,91.9,11,51,3,1,0,Everton
+Dominic Calvert-Lewin,29.0,eng ENG,"FW,DM",21-219,9,1,0,0,0,2,1,0,0,6,0,0,0,0.4,0.4,0.0,1,0,3,4,75.0,0,4,0,0,0,Everton
+Lucas Digne,12.0,fr FRA,LB,25-093,90,0,0,0,0,2,0,0,0,96,3,0,0,0.1,0.1,0.2,6,0,67,83,80.7,15,64,6,4,0,Everton
+Kurt Zouma,5.0,fr FRA,CB,23-359,90,0,0,0,0,1,0,0,0,64,2,2,1,0.0,0.0,0.0,1,0,50,55,90.9,8,41,2,0,0,Everton
+Michael Keane,4.0,eng ENG,CB,25-283,90,0,1,0,0,2,0,0,0,73,3,0,0,0.2,0.2,0.4,2,1,46,58,79.3,8,30,2,0,0,Everton
+Séamus Coleman,23.0,ie IRL,RB,30-010,90,0,0,0,0,1,0,1,0,77,3,0,0,0.0,0.0,0.1,2,0,48,62,77.4,2,46,2,2,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,24-228,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,18,27,66.7,0,13,0,0,0,Everton
+14 Players,,,,,990,2,2,0,0,20,4,2,0,692,21,11,6,1.8,1.8,1.7,37,3,451,561,80.4,60,437,26,18,8,Everton
+Wilfried Zaha,11.0,ci CIV,FW,25-345,90,0,0,0,0,1,0,0,0,36,1,0,0,0.0,0.0,0.0,3,0,21,24,87.5,6,29,4,4,2,Crystal Palace
+Andros Townsend,10.0,eng ENG,"FW,RM",27-097,90,0,0,0,0,1,1,0,0,51,1,0,0,0.0,0.0,0.1,5,0,31,43,72.1,2,21,5,1,0,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,LM,25-302,90,0,0,0,0,0,0,0,0,47,1,2,0,0.0,0.0,0.0,0,0,24,35,68.6,6,23,4,2,2,Crystal Palace
+Cheikhou Kouyaté,8.0,sn SEN,CM,28-304,90,0,0,0,0,1,0,0,0,47,4,2,1,0.3,0.3,0.0,0,0,19,29,65.5,4,15,1,0,0,Crystal Palace
+Luka Milivojević,4.0,rs SRB,CM,27-197,90,0,0,0,1,2,1,1,0,61,3,3,2,0.9,0.1,0.0,0,0,32,48,66.7,2,18,0,0,0,Crystal Palace
+James McArthur,18.0,sct SCO,RM,31-014,88,0,0,0,0,0,0,0,0,38,4,0,1,0.0,0.0,0.0,2,0,22,29,75.9,2,19,1,1,0,Crystal Palace
+Connor Wickham,21.0,eng ENG,FW,25-204,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,4,0,0,0,Crystal Palace
+Patrick van Aanholt,3.0,nl NED,LB,28-053,90,0,0,0,0,0,0,0,0,60,3,0,3,0.0,0.0,0.0,0,0,37,49,75.5,1,13,1,1,0,Crystal Palace
+Mamadou Sakho,12.0,fr FRA,CB,28-250,90,0,0,0,0,0,0,0,0,52,1,2,1,0.0,0.0,0.0,0,0,34,39,87.2,2,16,0,1,1,Crystal Palace
+James Tomkins,5.0,eng ENG,CB,29-206,90,0,0,0,0,1,0,0,0,40,2,0,4,0.1,0.1,0.3,1,0,22,27,81.5,2,12,0,0,0,Crystal Palace
+Aaron Wan-Bissaka,29.0,cd COD,RB,20-329,90,0,0,0,0,0,0,0,0,45,3,4,2,0.0,0.0,0.0,0,0,21,29,72.4,4,16,2,2,1,Crystal Palace
+Wayne Hennessey,13.0,wls WAL,GK,31-270,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,9,30,30.0,0,11,0,0,0,Crystal Palace
+12 Players,,,,,990,0,0,0,1,6,2,1,0,512,23,13,14,1.3,0.6,0.5,11,0,272,384,70.8,31,197,18,12,6,Crystal Palace

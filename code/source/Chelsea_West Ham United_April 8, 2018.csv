@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Álvaro Morata,9.0,es ESP,FW,25-167,77,0,1,0,0,3,0,0,0,53,0,0,3,0.3,0.3,0.4,6,1,32,39,82.1,2,25,2,4,3,Chelsea
+Olivier Giroud,18.0,fr FRA,FW,31-190,13,0,0,0,0,1,1,0,0,10,0,0,0,0.1,0.1,0.0,1,0,5,7,71.4,0,3,0,0,0,Chelsea
+Eden Hazard,10.0,be BEL,AM,27-091,90,0,0,0,0,5,1,0,0,82,1,0,0,0.2,0.2,0.6,7,0,53,67,79.1,11,59,13,6,5,Chelsea
+Willian,22.0,br BRA,AM,29-242,90,0,0,0,0,5,1,0,0,68,1,0,2,0.7,0.7,0.4,9,0,39,56,69.6,5,43,6,3,2,Chelsea
+N'Golo Kanté,7.0,fr FRA,CM,27-010,90,0,0,0,0,0,0,0,0,78,3,3,1,0.0,0.0,0.0,3,0,66,71,93.0,13,59,6,1,1,Chelsea
+Cesc Fàbregas,4.0,es ESP,CM,30-339,90,0,0,0,0,0,0,0,0,107,0,1,1,0.0,0.0,0.3,8,0,92,103,89.3,25,70,6,2,0,Chelsea
+Marcos Alonso,3.0,es ESP,WB,27-101,90,0,0,0,0,1,1,0,0,59,2,1,3,0.0,0.0,0.0,2,0,36,47,76.6,5,30,1,3,1,Chelsea
+Victor Moses,15.0,ng NGA,WB,27-117,77,0,0,0,0,2,0,0,0,54,4,0,2,0.1,0.1,0.0,3,1,35,42,83.3,3,30,1,3,1,Chelsea
+Pedro,11.0,es ESP,WB,30-254,13,0,0,0,0,2,0,0,0,14,0,1,1,0.1,0.1,0.0,1,0,5,7,71.4,0,9,3,1,1,Chelsea
+Antonio Rüdiger,2.0,de GER,CB,25-036,90,0,0,0,0,1,0,0,0,62,0,3,2,0.0,0.0,0.0,1,0,44,52,84.6,2,33,1,0,0,Chelsea
+Gary Cahill,24.0,eng ENG,CB,32-110,90,0,0,0,0,1,1,0,0,72,1,1,2,0.0,0.0,0.0,0,0,50,56,89.3,0,31,0,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,CB,28-223,90,1,0,0,0,2,1,0,0,84,2,1,0,0.4,0.4,0.1,3,0,60,74,81.1,3,59,0,0,0,Chelsea
+Thibaut Courtois,13.0,be BEL,GK,25-332,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,25,29,86.2,0,14,0,0,0,Chelsea
+13 Players,,,,,990,1,1,0,0,23,6,0,0,772,14,11,17,1.9,1.9,1.8,44,2,542,650,83.4,69,465,39,23,14,Chelsea
+Marko Arnautović,7.0,at AUT,FW,28-354,90,0,1,0,0,4,1,0,0,47,2,2,1,0.2,0.2,0.1,1,1,19,29,65.5,2,23,2,5,5,West Ham United
+João Mário,18.0,pt POR,AM,25-079,84,0,0,0,0,0,0,0,0,40,1,0,1,0.0,0.0,0.0,0,0,27,37,73.0,3,21,2,1,0,West Ham United
+Josh Cullen,33.0,ie IRL,AM,22-001,6,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,West Ham United
+Edimilson Fernandes,31.0,ch SUI,AM,21-358,69,0,0,0,0,0,0,0,0,23,0,0,2,0.0,0.0,0.0,1,0,13,19,68.4,0,17,1,0,0,West Ham United
+Javier Hernández,17.0,mx MEX,FW,29-311,21,1,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,1,0,5,6,83.3,0,8,0,0,0,West Ham United
+Mark Noble,16.0,eng ENG,CM,30-335,90,0,0,0,0,0,0,1,0,73,5,4,0,0.0,0.0,0.0,2,0,52,64,81.3,6,34,1,0,0,West Ham United
+Cheikhou Kouyaté,8.0,sn SEN,CM,28-108,90,0,0,0,0,0,0,0,0,46,3,0,1,0.0,0.0,0.0,0,0,30,37,81.1,4,24,0,2,1,West Ham United
+Arthur Masuaku,26.0,cd COD,WB,24-152,90,0,0,0,0,0,0,0,0,50,2,2,1,0.0,0.0,0.1,1,0,26,39,66.7,6,25,1,3,1,West Ham United
+Pablo Zabaleta,5.0,ar ARG,WB,33-082,90,0,0,0,0,0,0,0,0,51,1,2,1,0.0,0.0,0.0,2,0,32,44,72.7,3,24,1,0,0,West Ham United
+Aaron Cresswell,3.0,eng ENG,CB,28-114,63,0,0,0,0,0,0,0,0,43,0,0,2,0.0,0.0,0.0,0,0,29,37,78.4,5,15,1,0,0,West Ham United
+Patrice Evra,27.0,fr FRA,CB,36-328,27,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,0,0,15,19,78.9,2,10,0,0,0,West Ham United
+Angelo Ogbonna,21.0,it ITA,CB,29-320,90,0,0,0,0,0,0,0,0,42,2,2,4,0.0,0.0,0.0,0,0,28,31,90.3,0,16,0,0,0,West Ham United
+Declan Rice,41.0,eng ENG,CB,19-084,90,0,0,0,0,0,0,0,0,52,1,3,0,0.0,0.0,0.0,2,1,34,42,81.0,2,23,0,0,0,West Ham United
+Joe Hart,25.0,eng ENG,GK,30-354,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,13,37,35.1,0,18,0,0,0,West Ham United
+14 Players,,,,,990,1,1,0,0,5,2,1,0,543,17,15,15,0.3,0.3,0.3,10,2,324,443,73.1,33,259,9,11,7,West Ham United

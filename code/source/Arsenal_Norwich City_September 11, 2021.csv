@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Pierre-Emerick Aubameyang,14.0,ga GAB,FW,32-085,90,1,0,0,0,6,2,0,0,26,0,0,1,1.3,1.3,0.1,6,0,10,15,66.7,0,13,3,1,0,Arsenal
+Bukayo Saka,7.0,eng ENG,LW,20-006,90,0,0,0,0,6,0,0,0,44,2,0,0,0.4,0.4,0.5,8,0,27,33,81.8,8,34,7,1,0,Arsenal
+Nicolas Pépé,19.0,ci CIV,RW,26-105,90,0,1,0,0,6,2,0,0,76,2,1,2,0.5,0.5,1.3,12,1,36,46,78.3,4,43,4,8,3,Arsenal
+Martin Ødegaard,8.0,no NOR,AM,22-268,90,0,0,0,0,0,0,0,0,51,1,0,0,0.0,0.0,0.1,6,0,40,44,90.9,5,33,0,0,0,Arsenal
+Ainsley Maitland-Niles,15.0,eng ENG,"DM,RB",24-013,81,0,0,0,0,1,0,0,0,67,0,1,2,0.1,0.1,0.1,4,0,42,53,79.2,7,41,1,5,2,Arsenal
+Cédric Soares,17.0,pt POR,RB,30-011,9,0,0,0,0,1,0,0,0,8,0,0,1,0.0,0.0,0.1,1,0,5,5,100.0,1,2,0,0,0,Arsenal
+Albert Sambi Lokonga,23.0,be BEL,DM,21-324,61,0,0,0,0,2,1,0,0,65,5,0,2,0.1,0.1,0.0,2,0,45,52,86.5,4,37,0,0,0,Arsenal
+Thomas Partey,5.0,gh GHA,DM,28-090,29,0,0,0,0,1,0,1,0,19,1,1,1,0.0,0.0,0.0,0,0,10,14,71.4,2,12,0,0,0,Arsenal
+Kieran Tierney,3.0,sct SCO,LB,24-098,90,0,0,0,0,2,0,0,0,56,1,0,1,0.0,0.0,0.1,4,0,39,51,76.5,6,34,4,0,0,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,23-266,90,0,0,0,0,2,0,0,0,58,2,0,3,0.1,0.1,0.0,2,0,45,48,93.8,4,40,0,0,0,Arsenal
+Ben White,4.0,eng ENG,CB,23-338,90,0,0,0,0,0,0,1,0,47,1,0,0,0.0,0.0,0.1,3,0,32,42,76.2,2,26,0,0,0,Arsenal
+Takehiro Tomiyasu,18.0,jp JPN,RB,22-310,61,0,0,0,0,2,0,0,0,48,1,0,2,0.0,0.0,0.0,0,0,27,36,75.0,4,12,0,2,1,Arsenal
+Emile Smith Rowe,10.0,eng ENG,DM,21-045,29,0,0,0,0,1,1,0,0,15,0,0,0,0.3,0.3,0.1,4,0,12,13,92.3,4,9,4,0,0,Arsenal
+Aaron Ramsdale,32.0,eng ENG,GK,23-120,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,25,30,83.3,0,21,0,1,1,Arsenal
+14 Players,,,,,990,1,1,0,0,30,6,2,0,610,16,3,15,2.9,2.9,2.5,52,1,395,482,82.0,51,357,23,18,7,Arsenal
+Teemu Pukki,22.0,fi FIN,FW,31-166,90,0,0,0,0,3,0,0,0,24,1,0,0,0.3,0.3,0.0,1,0,9,12,75.0,0,16,0,3,0,Norwich City
+Christos Tzolis,18.0,gr GRE,LW,19-224,68,0,0,0,0,0,0,0,0,29,2,0,1,0.0,0.0,0.1,2,0,17,23,73.9,3,22,2,0,0,Norwich City
+Milot Rashica,17.0,xk KVX,"LM,LW",25-075,22,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,4,10,40.0,0,5,0,1,0,Norwich City
+Kieran Dowell,10.0,eng ENG,RW,23-336,61,0,0,0,0,1,0,0,0,28,2,0,0,0.1,0.1,0.0,2,0,14,21,66.7,2,19,0,4,2,Norwich City
+Todd Cantwell,14.0,eng ENG,"RW,RM",23-196,29,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,10,15,66.7,1,12,0,1,0,Norwich City
+Kenny McLean,23.0,sct SCO,"LM,CM",29-246,90,0,0,0,0,3,0,0,0,47,2,1,1,0.2,0.2,0.0,5,0,25,36,69.4,3,25,3,4,1,Norwich City
+Lukas Rupp,7.0,de GER,CM,30-246,79,0,0,0,0,1,0,0,0,51,1,3,0,0.0,0.0,0.0,1,0,37,43,86.0,1,32,1,0,0,Norwich City
+Adam Idah,35.0,ie IRL,FW,20-212,11,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.1,1,0,1,2,50.0,0,2,0,0,0,Norwich City
+Pierre Lees-Melou,20.0,fr FRA,"RM,CM",28-109,90,0,0,0,0,0,0,0,0,55,3,1,1,0.0,0.0,0.0,1,0,35,45,77.8,8,33,0,2,2,Norwich City
+Brandon Williams,21.0,eng ENG,LB,21-008,90,0,0,0,0,0,0,0,0,63,5,0,3,0.0,0.0,0.0,2,0,40,48,83.3,2,28,1,2,0,Norwich City
+Grant Hanley,5.0,sct SCO,CB,29-295,90,0,0,0,0,0,0,1,0,66,0,1,3,0.0,0.0,0.1,1,0,48,54,88.9,2,39,0,1,0,Norwich City
+Andrew Omobamidele,44.0,ie IRL,CB,19-080,90,0,0,0,0,0,0,0,0,60,1,0,3,0.0,0.0,0.0,1,0,45,51,88.2,3,39,0,0,0,Norwich City
+Max Aarons,2.0,eng ENG,RB,21-250,90,0,0,0,0,2,1,1,0,56,2,2,2,0.1,0.1,0.2,1,0,31,43,72.1,1,36,2,5,2,Norwich City
+Tim Krul,1.0,nl NED,GK,33-161,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,1,0,32,51,62.7,0,30,0,0,0,Norwich City
+14 Players,,,,,990,0,0,0,0,10,1,2,0,565,20,8,14,0.7,0.7,0.5,19,0,348,454,76.7,26,338,9,23,7,Norwich City

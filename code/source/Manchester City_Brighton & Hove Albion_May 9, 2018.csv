@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Gabriel Jesus,33.0,br BRA,FW,21-036,82,0,0,0,0,2,0,0,0,37,0,0,0,0.2,0.2,0.0,0,0,27,30,90.0,2,25,0,2,2,Manchester City
+Brahim Díaz,55.0,ma MAR,"AM,FW",18-279,8,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,1,0,7,8,87.5,0,8,0,0,0,Manchester City
+Leroy Sané,19.0,de GER,LW,22-118,90,0,3,0,0,1,1,0,0,70,3,1,0,0.1,0.1,0.7,11,4,46,57,80.7,4,58,6,10,7,Manchester City
+Bernardo Silva,20.0,pt POR,RW,23-272,90,1,0,0,0,1,1,0,0,57,1,1,1,0.1,0.1,0.0,3,0,44,52,84.6,6,48,6,2,1,Manchester City
+İlkay Gündoğan,8.0,de GER,"LM,DM",27-197,90,0,0,0,0,4,0,0,0,106,1,1,0,0.3,0.3,0.0,3,1,83,93,89.2,7,76,4,1,0,Manchester City
+Yaya Touré,42.0,ci CIV,CM,34-361,85,0,0,0,0,1,1,0,0,120,0,1,0,0.1,0.1,0.2,5,0,109,118,92.4,14,88,10,4,3,Manchester City
+Lukas Nmecha,43.0,de GER,FW,19-146,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Manchester City
+Fernandinho,25.0,br BRA,"RM,DM",33-005,90,1,0,0,0,2,2,0,0,99,2,1,0,0.1,0.1,0.2,6,1,83,91,91.2,10,80,2,2,1,Manchester City
+Oleksandr Zinchenko,35.0,ua UKR,LB,21-145,75,0,0,0,0,2,1,0,0,118,1,2,1,0.0,0.0,0.1,2,0,105,113,92.9,6,73,1,1,1,Manchester City
+Benjamin Mendy,22.0,fr FRA,LB,23-296,15,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.1,1,0,10,11,90.9,2,6,1,0,0,Manchester City
+Aymeric Laporte,14.0,es ESP,CB,23-347,90,0,0,0,0,1,0,0,0,111,2,2,0,0.0,0.0,0.1,1,0,93,101,92.1,11,68,2,0,0,Manchester City
+Vincent Kompany,4.0,be BEL,CB,32-029,90,0,0,0,0,0,0,0,0,126,0,0,0,0.0,0.0,0.0,1,0,121,124,97.6,5,91,2,0,0,Manchester City
+Danilo,3.0,br BRA,RB,26-298,90,1,0,0,0,4,1,0,0,83,4,4,0,0.6,0.6,0.0,2,0,59,70,84.3,3,47,2,1,0,Manchester City
+Claudio Bravo,1.0,cl CHI,GK,35-026,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,0,17,0,0,0,Manchester City
+14 Players,,,,,990,3,3,0,0,19,7,0,0,974,14,14,2,1.6,1.6,1.4,36,6,811,893,90.8,70,688,36,23,15,Manchester City
+Leonardo Ulloa,16.0,ar ARG,FW,31-287,72,1,0,0,0,1,1,0,0,28,0,0,0,0.7,0.7,0.0,1,0,15,21,71.4,1,19,0,0,0,Brighton & Hove Albion
+Jürgen Locadia,25.0,cw CUW,FW,24-183,18,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,8,0,1,0,Brighton & Hove Albion
+José Izquierdo,19.0,co COL,LM,25-306,78,0,0,0,0,1,1,0,0,13,1,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,9,0,2,0,Brighton & Hove Albion
+Solly March,20.0,eng ENG,LM,23-293,12,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,4,0,0,0,Brighton & Hove Albion
+Anthony Knockaert,11.0,fr FRA,RM,26-170,90,0,0,0,0,2,0,0,0,45,0,3,0,0.5,0.5,0.1,4,1,31,36,86.1,4,38,4,3,2,Brighton & Hove Albion
+Davy Pröpper,24.0,nl NED,CM,26-249,90,0,1,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.7,2,1,19,23,82.6,2,26,0,2,1,Brighton & Hove Albion
+Dale Stephens,6.0,eng ENG,CM,28-331,90,0,0,0,0,0,0,0,0,47,3,3,0,0.0,0.0,0.0,0,0,30,37,81.1,2,29,0,1,1,Brighton & Hove Albion
+Pascal Groß,13.0,de GER,FW,26-328,72,0,0,0,0,0,0,0,0,41,2,0,0,0.0,0.0,0.0,1,0,27,37,73.0,2,26,1,0,0,Brighton & Hove Albion
+Beram Kayal,7.0,il ISR,FW,30-007,18,0,0,0,0,0,0,0,0,9,2,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,7,0,0,0,Brighton & Hove Albion
+Gaëtan Bong,3.0,cm CMR,LB,30-014,90,0,0,0,0,0,0,0,0,32,1,2,1,0.0,0.0,0.0,1,0,14,24,58.3,0,19,7,1,0,Brighton & Hove Albion
+Lewis Dunk,5.0,eng ENG,CB,26-169,90,0,0,0,0,0,0,0,0,35,2,4,0,0.0,0.0,0.0,0,0,18,21,85.7,2,20,0,0,0,Brighton & Hove Albion
+Shane Duffy,22.0,ie IRL,CB,26-128,90,0,0,0,0,1,1,1,0,44,1,2,4,0.0,0.0,0.0,0,0,23,28,82.1,0,22,1,0,0,Brighton & Hove Albion
+Bruno,2.0,es ESP,RB,37-220,90,0,0,0,0,0,0,0,0,56,0,2,1,0.0,0.0,0.0,0,0,42,48,87.5,2,34,0,2,0,Brighton & Hove Albion
+Mathew Ryan,1.0,au AUS,GK,26-031,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,15,31,48.4,0,16,0,0,0,Brighton & Hove Albion
+14 Players,,,,,990,1,1,0,0,6,3,1,0,426,14,16,6,1.2,1.2,0.8,11,2,253,328,77.1,15,277,13,12,4,Brighton & Hove Albion

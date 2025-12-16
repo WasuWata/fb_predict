@@ -1,0 +1,30 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Romelu Lukaku,9.0,be BEL,FW,24-227,90,0,0,0,0,1,0,0,0,25,0,0,0,0.3,0.3,0.1,1,1,15,20,75.0,2,10,1,4,3,Manchester United
+Marcus Rashford,19.0,eng ENG,LW,20-056,90,0,0,0,0,3,0,0,0,67,1,1,1,0.1,0.1,0.4,6,0,39,54,72.2,2,33,8,2,2,Manchester United
+Juan Mata,8.0,es ESP,RW,29-242,90,0,0,0,0,2,0,0,0,73,0,1,1,0.1,0.1,0.1,5,0,53,66,80.3,7,40,3,0,0,Manchester United
+Zlatan Ibrahimović,10.0,se SWE,AM,36-084,45,0,0,0,0,1,0,0,0,36,1,0,0,0.1,0.1,0.1,4,0,22,30,73.3,2,19,2,0,0,Manchester United
+Jesse Lingard,14.0,eng ENG,LM,25-011,45,2,0,0,0,3,3,0,0,36,1,0,1,0.9,0.9,0.0,2,0,24,27,88.9,4,17,2,1,0,Manchester United
+Nemanja Matić,31.0,rs SRB,"CB,DM",29-147,90,0,0,0,0,0,0,0,0,109,2,0,0,0.0,0.0,0.1,5,0,91,105,86.7,14,75,7,0,0,Manchester United
+Paul Pogba,6.0,fr FRA,"CM,DM",24-286,90,0,0,0,0,5,0,0,0,99,3,0,1,0.2,0.2,0.1,4,0,75,86,87.2,6,55,1,2,2,Manchester United
+Luke Shaw,23.0,eng ENG,LB,22-167,90,0,0,0,0,6,2,1,0,101,1,0,1,0.2,0.2,0.0,3,0,57,83,68.7,7,47,6,1,0,Manchester United
+Marcos Rojo,5.0,ar ARG,CB,27-281,45,0,0,0,0,1,0,1,0,40,0,1,0,0.0,0.0,0.0,1,0,29,36,80.6,0,26,1,0,0,Manchester United
+Henrikh Mkhitaryan,22.0,am ARM,RM,28-339,45,0,0,0,0,1,0,1,0,43,1,0,2,0.0,0.0,0.0,4,0,30,39,76.9,6,24,1,1,1,Manchester United
+Phil Jones,4.0,eng ENG,CB,25-308,90,0,0,0,0,0,0,0,0,75,0,1,0,0.0,0.0,0.0,2,0,60,68,88.2,5,45,3,1,1,Manchester United
+Ashley Young,18.0,eng ENG,RB,32-170,90,0,1,0,0,1,0,0,0,83,1,1,0,0.1,0.1,0.9,8,2,59,78,75.6,6,57,10,1,1,Manchester United
+David de Gea,1.0,es ESP,GK,27-049,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,23,27,85.2,0,14,0,0,0,Manchester United
+13 Players,,,,,990,2,1,0,0,24,5,3,0,816,11,5,7,2.1,2.1,1.8,45,3,577,719,80.3,61,462,45,13,10,Manchester United
+Ashley Barnes,10.0,eng ENG,FW,28-057,80,1,0,0,0,1,1,1,0,36,0,0,2,0.3,0.3,0.0,2,2,14,22,63.6,1,20,0,1,1,Burnley
+Jonathan Walters,19.0,ie IRL,FW,34-097,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,3,0,0,0,Burnley
+Scott Arfield,37.0,ca CAN,LM,29-055,90,0,0,0,0,1,0,0,0,21,1,0,1,0.1,0.1,0.0,1,1,6,11,54.5,0,13,0,1,0,Burnley
+Steven Defour,16.0,be BEL,CM,29-255,66,1,0,0,0,1,1,0,0,28,1,0,1,0.1,0.1,0.0,0,0,15,24,62.5,1,17,1,0,0,Burnley
+Sam Vokes,9.0,wls WAL,FW,28-066,24,0,0,0,0,0,0,1,0,12,1,1,0,0.0,0.0,0.0,0,0,3,8,37.5,0,6,0,0,0,Burnley
+Jeff Hendrick,13.0,ie IRL,CM,25-329,90,0,0,0,0,0,0,0,0,37,2,1,1,0.0,0.0,0.0,0,0,20,26,76.9,2,17,0,1,1,Burnley
+Jóhann Berg Guðmundsson,17.0,is ISL,RM,27-060,90,0,0,0,0,0,0,1,0,45,2,2,0,0.0,0.0,0.1,1,0,20,32,62.5,2,21,2,0,0,Burnley
+Jack Cork,4.0,eng ENG,"DM,CM",28-184,90,0,0,0,0,0,0,1,0,39,2,1,0,0.0,0.0,0.0,1,0,23,32,71.9,3,22,0,0,0,Burnley
+Charlie Taylor,3.0,eng ENG,LB,24-099,90,0,0,0,0,0,0,1,0,40,0,1,1,0.0,0.0,0.0,0,0,17,29,58.6,2,14,1,1,0,Burnley
+Ben Mee,6.0,eng ENG,CB,28-096,90,0,0,0,0,0,0,0,0,33,0,0,3,0.0,0.0,0.0,0,0,9,17,52.9,0,10,0,0,0,Burnley
+Kevin Long,28.0,ie IRL,CB,27-130,90,0,1,0,0,0,0,0,0,38,2,0,3,0.0,0.0,0.3,1,1,8,16,50.0,0,6,0,0,0,Burnley
+Phil Bardsley,26.0,sct SCO,RB,32-181,90,0,0,0,0,0,0,1,0,50,3,0,1,0.0,0.0,0.0,0,0,24,40,60.0,2,19,0,1,1,Burnley
+Nick Pope,29.0,eng ENG,GK,25-251,90,0,0,0,0,0,0,1,0,41,0,0,0,0.0,0.0,0.0,0,0,12,38,31.6,0,23,0,0,0,Burnley
+13 Players,,,,,990,2,1,0,0,3,2,7,0,425,14,6,13,0.5,0.5,0.4,6,4,173,299,57.9,14,191,4,5,3,Burnley

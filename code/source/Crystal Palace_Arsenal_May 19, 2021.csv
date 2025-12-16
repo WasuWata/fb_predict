@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Christian Benteke,20.0,be BEL,FW,30-167,78,1,0,0,0,4,2,1,0,35,1,0,0,0.4,0.4,0.0,1,0,9,21,42.9,0,17,1,1,1,Crystal Palace
+Jordan Ayew,9.0,gh GHA,FW,29-250,12,0,0,0,0,1,1,0,0,8,0,0,0,0.3,0.3,0.0,0,0,5,6,83.3,1,4,0,0,0,Crystal Palace
+Wilfried Zaha,11.0,ci CIV,LW,28-190,90,0,0,0,0,2,0,0,0,32,2,0,2,0.1,0.1,0.1,4,1,12,19,63.2,6,21,1,0,0,Crystal Palace
+Andros Townsend,10.0,eng ENG,RW,29-307,90,0,1,0,0,2,1,0,0,58,4,2,3,0.1,0.1,0.4,9,1,25,39,64.1,4,29,5,2,1,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,LM,28-147,90,0,0,0,0,1,1,1,0,44,1,1,1,0.0,0.0,0.0,2,0,22,32,68.8,2,19,3,3,1,Crystal Palace
+James McCarthy,22.0,ie IRL,CM,30-188,81,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.1,2,0,17,23,73.9,4,16,1,0,0,Crystal Palace
+Jaïro Riedewald,44.0,nl NED,CM,24-252,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Crystal Palace
+Cheikhou Kouyaté,8.0,sn SEN,RM,31-149,90,0,0,0,0,0,0,0,0,38,3,0,2,0.0,0.0,0.0,0,0,20,27,74.1,2,18,0,2,2,Crystal Palace
+Tyrick Mitchell,27.0,eng ENG,LB,21-260,90,0,0,0,0,0,0,0,0,47,3,0,1,0.0,0.0,0.0,1,0,25,38,65.8,2,18,1,1,1,Crystal Palace
+Gary Cahill,24.0,eng ENG,CB,35-151,90,0,0,0,0,1,0,0,0,40,1,2,1,0.0,0.0,0.1,1,0,18,25,72.0,2,18,0,0,0,Crystal Palace
+James Tomkins,5.0,eng ENG,CB,32-051,90,0,0,0,0,1,1,0,0,30,1,0,1,0.0,0.0,0.3,1,0,19,21,90.5,2,17,0,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,RB,31-202,90,0,0,0,0,0,0,0,0,48,3,3,0,0.0,0.0,0.0,2,0,23,37,62.2,1,15,1,0,0,Crystal Palace
+Vicente Guaita,31.0,es ESP,GK,34-129,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,12,23,52.2,0,13,0,0,0,Crystal Palace
+13 Players,,,,,990,1,1,0,0,12,6,2,0,434,20,8,11,1.0,1.0,1.0,23,2,208,312,66.7,26,206,13,9,6,Crystal Palace
+Pierre-Emerick Aubameyang,14.0,ga GAB,FW,31-335,90,0,0,0,0,2,0,0,0,26,0,0,0,0.6,0.6,0.0,0,0,15,21,71.4,1,18,0,0,0,Arsenal
+Bukayo Saka,7.0,eng ENG,LW,19-256,64,0,0,0,0,0,0,0,0,44,1,0,0,0.0,0.0,0.0,2,1,24,34,70.6,2,26,1,3,1,Arsenal
+Martin Ødegaard,11.0,no NOR,AM,22-153,26,0,1,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.8,2,1,13,14,92.9,2,10,0,1,1,Arsenal
+Nicolas Pépé,19.0,ci CIV,RW,25-355,90,2,0,0,0,2,2,0,0,78,1,0,1,0.4,0.4,0.0,2,1,53,62,85.5,5,65,4,7,4,Arsenal
+Emile Smith Rowe,32.0,eng ENG,"AM,LW",20-295,90,0,0,0,0,0,0,0,0,52,1,0,1,0.0,0.0,0.0,0,0,38,47,80.9,5,44,5,0,0,Arsenal
+Mohamed Elneny,25.0,eg EGY,DM,28-312,90,0,0,0,0,0,0,1,0,82,0,1,0,0.0,0.0,0.0,0,0,75,79,94.9,13,68,0,0,0,Arsenal
+Thomas Partey,18.0,gh GHA,DM,27-340,77,0,0,0,0,1,0,0,0,85,2,2,1,0.0,0.0,0.0,1,0,66,77,85.7,8,60,1,1,1,Arsenal
+Gabriel Martinelli,35.0,br BRA,DM,19-335,13,1,0,0,0,1,1,0,0,5,0,0,0,0.8,0.8,0.0,0,0,2,3,66.7,0,4,1,1,0,Arsenal
+Kieran Tierney,3.0,sct SCO,LB,23-348,77,0,1,0,0,0,0,0,0,48,0,2,1,0.0,0.0,0.3,1,1,27,40,67.5,1,29,0,1,0,Arsenal
+Granit Xhaka,34.0,ch SUI,LB,28-234,13,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,17,19,89.5,2,13,0,0,0,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,23-151,90,0,0,0,0,0,0,0,0,72,1,0,0,0.0,0.0,0.0,0,0,55,64,85.9,6,49,1,0,0,Arsenal
+Rob Holding,16.0,eng ENG,CB,25-241,90,0,0,0,0,0,0,0,0,88,0,2,1,0.0,0.0,0.0,0,0,70,80,87.5,2,65,0,0,0,Arsenal
+Calum Chambers,21.0,eng ENG,RB,26-119,90,0,0,0,0,0,0,0,0,110,2,4,1,0.0,0.0,0.5,2,0,74,93,79.6,8,66,1,0,0,Arsenal
+Bernd Leno,1.0,de GER,GK,29-076,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,23,30,76.7,0,20,0,0,0,Arsenal
+14 Players,,,,,990,3,2,0,0,6,3,1,0,756,8,11,6,1.8,1.8,1.7,10,4,552,663,83.3,55,537,14,14,7,Arsenal

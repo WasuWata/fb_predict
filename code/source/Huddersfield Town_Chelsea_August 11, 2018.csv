@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Steve Mounié,24.0,bj BEN,FW,23-316,90,0,0,0,0,2,0,0,0,43,0,1,0,0.1,0.1,0.0,0,0,19,31,61.3,4,16,0,2,1,Huddersfield Town
+Alex Pritchard,21.0,eng ENG,FW,25-100,45,0,0,0,0,1,1,0,0,17,1,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,12,1,3,1,Huddersfield Town
+Laurent Depoitre,20.0,be BEL,FW,29-247,45,0,0,0,0,1,0,0,0,18,0,0,0,0.1,0.1,0.0,1,0,8,14,57.1,0,14,0,0,0,Huddersfield Town
+Philip Billing,8.0,dk DEN,"CM,DM",22-061,90,0,0,0,0,2,0,0,0,48,6,2,1,0.1,0.1,0.0,1,0,26,35,74.3,4,20,0,2,1,Huddersfield Town
+Jonathan Hogg,6.0,eng ENG,"CM,DM",29-248,90,0,0,0,0,0,0,0,0,57,2,3,2,0.0,0.0,0.0,1,0,41,47,87.2,2,24,0,1,1,Huddersfield Town
+Aaron Mooy,10.0,au AUS,"CM,DM",27-330,90,0,0,0,0,0,0,0,0,63,5,2,0,0.0,0.0,0.0,2,0,42,56,75.0,8,39,0,1,1,Huddersfield Town
+Chris Löwe,15.0,de GER,WB,29-117,70,0,0,0,0,0,0,0,0,35,1,0,1,0.0,0.0,0.0,2,0,22,31,71.0,4,20,4,0,0,Huddersfield Town
+Adama Diakhaby,11.0,fr FRA,WB,22-037,20,0,0,0,0,0,0,0,0,9,2,0,1,0.0,0.0,0.0,1,0,5,6,83.3,0,6,0,0,0,Huddersfield Town
+Florent Hadergjonaj,33.0,xk KVX,WB,24-011,90,0,0,0,0,0,0,0,0,58,2,0,1,0.0,0.0,0.1,1,0,35,52,67.3,4,30,1,1,0,Huddersfield Town
+Terence Kongolo,5.0,nl NED,CB,24-178,90,0,0,0,0,0,0,1,0,41,3,2,0,0.0,0.0,0.0,0,0,22,30,73.3,2,15,0,0,0,Huddersfield Town
+Christopher Schindler,26.0,de GER,CB,28-104,90,0,0,0,0,0,0,1,0,38,1,2,6,0.0,0.0,0.0,1,0,26,29,89.7,5,18,0,0,0,Huddersfield Town
+Mathias Jørgensen,25.0,dk DEN,CB,28-110,90,0,0,0,0,0,0,0,0,47,2,4,1,0.0,0.0,0.1,1,0,32,39,82.1,3,24,0,1,1,Huddersfield Town
+Ben Hamer,12.0,eng ENG,GK,30-264,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,1,0,23,42,54.8,0,29,0,0,0,Huddersfield Town
+13 Players,,,,,990,0,0,0,0,6,1,2,0,519,25,16,13,0.3,0.3,0.3,12,0,307,422,72.7,36,267,6,11,6,Huddersfield Town
+Álvaro Morata,29.0,es ESP,FW,25-292,90,0,0,0,0,2,0,0,0,37,0,0,1,0.1,0.1,0.0,3,0,18,28,64.3,2,24,2,3,2,Chelsea
+Willian,22.0,br BRA,LW,30-002,75,0,1,0,0,1,0,0,0,43,0,0,1,0.0,0.0,0.1,5,1,28,33,84.8,2,30,8,3,2,Chelsea
+Eden Hazard,10.0,be BEL,LW,27-216,15,0,1,0,0,1,0,0,0,26,0,0,0,0.1,0.1,0.3,4,2,20,23,87.0,1,19,4,5,5,Chelsea
+Pedro,11.0,es ESP,RW,31-014,80,1,0,0,0,1,1,0,0,57,0,2,0,0.3,0.3,0.0,2,1,42,52,80.8,1,34,3,4,4,Chelsea
+Victor Moses,15.0,ng NGA,RW,27-242,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,1,0,4,4,100.0,0,2,0,0,0,Chelsea
+Ross Barkley,8.0,eng ENG,LM,24-249,67,0,0,0,0,1,0,0,0,55,1,0,0,0.0,0.0,0.0,2,1,39,44,88.6,4,34,3,1,1,Chelsea
+Ruben Loftus-Cheek,12.0,eng ENG,LM,22-200,23,0,0,0,0,0,0,0,0,13,1,0,1,0.0,0.0,0.0,0,0,9,9,100.0,0,10,1,0,0,Chelsea
+Jorginho,5.0,it ITA,CM,26-234,90,1,0,1,1,0,0,0,0,78,2,0,1,0.8,0.0,0.0,1,0,62,66,93.9,5,32,0,1,0,Chelsea
+N'Golo Kanté,7.0,fr FRA,RM,27-135,90,1,0,0,0,1,1,0,0,66,1,2,0,0.1,0.1,0.0,1,0,45,54,83.3,3,37,2,0,0,Chelsea
+Marcos Alonso,3.0,es ESP,LB,27-226,90,0,0,0,0,3,0,0,0,100,2,0,0,0.4,0.4,0.1,2,1,81,89,91.0,5,56,4,2,1,Chelsea
+David Luiz,30.0,br BRA,CB,31-111,90,0,0,0,0,0,0,1,0,100,1,1,1,0.0,0.0,0.0,0,0,86,92,93.5,5,66,1,1,1,Chelsea
+Antonio Rüdiger,2.0,de GER,CB,25-161,90,0,0,0,0,2,1,0,0,84,3,1,0,0.1,0.1,0.3,3,0,70,75,93.3,3,56,0,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,RB,28-348,90,0,0,0,0,0,0,0,0,102,1,3,1,0.0,0.0,0.0,1,0,85,93,91.4,1,46,1,1,1,Chelsea
+Kepa Arrizabalaga,1.0,es ESP,GK,23-312,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,26,39,66.7,0,18,0,0,0,Chelsea
+14 Players,,,,,990,3,2,1,1,12,3,1,0,806,12,9,6,1.9,1.2,0.9,25,6,615,701,87.7,32,464,29,21,17,Chelsea

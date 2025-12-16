@@ -1,0 +1,30 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Michy Batshuayi,23.0,be BEL,FW,25-158,90,0,0,0,0,2,1,0,0,33,1,0,2,0.1,0.1,0.1,3,0,16,22,72.7,3,12,0,1,0,Crystal Palace
+Wilfried Zaha,11.0,ci CIV,"LW,RM",26-119,90,0,0,0,0,2,0,0,0,58,2,0,1,0.1,0.1,0.1,6,0,27,41,65.9,4,43,5,9,3,Crystal Palace
+Andros Townsend,10.0,eng ENG,RW,27-236,76,0,0,0,0,4,0,0,0,49,5,0,1,0.1,0.1,0.0,3,1,20,32,62.5,2,33,3,5,3,Crystal Palace
+Max Meyer,7.0,de GER,CM,23-172,14,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,0,0,9,10,90.0,2,11,1,1,0,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,LM,26-076,90,0,0,0,0,3,0,0,0,59,1,1,3,0.2,0.2,0.1,2,0,43,46,93.5,6,29,1,4,2,Crystal Palace
+Luka Milivojević,4.0,rs SRB,CM,27-336,90,1,0,1,1,1,0,0,0,112,2,1,2,0.8,0.0,0.1,5,0,83,105,79.0,14,66,6,0,0,Crystal Palace
+James McArthur,18.0,sct SCO,RM,31-153,76,0,0,0,0,1,0,0,0,57,5,1,1,0.0,0.0,0.0,1,1,37,47,78.7,4,33,4,1,0,Crystal Palace
+Christian Benteke,17.0,be BEL,FW,28-096,14,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,4,9,44.4,0,6,0,0,0,Crystal Palace
+Patrick van Aanholt,3.0,nl NED,LB,28-192,90,0,0,0,0,0,0,0,0,84,3,0,0,0.0,0.0,0.0,2,0,64,80,80.0,13,39,2,1,1,Crystal Palace
+Scott Dann,6.0,eng ENG,CB,32-023,90,0,0,0,0,0,0,1,0,92,2,0,0,0.0,0.0,0.0,1,0,74,87,85.1,5,49,3,1,1,Crystal Palace
+James Tomkins,5.0,eng ENG,CB,29-345,90,0,0,0,0,1,1,0,0,87,1,1,0,0.1,0.1,0.1,2,0,70,79,88.6,4,31,1,0,0,Crystal Palace
+Aaron Wan-Bissaka,29.0,cd COD,RB,21-103,90,0,0,0,0,0,0,0,0,71,6,1,2,0.0,0.0,0.0,0,0,42,54,77.8,8,26,2,0,0,Crystal Palace
+Vicente Guaita,31.0,es ESP,GK,32-058,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,21,26,80.8,0,11,0,0,0,Crystal Palace
+13 Players,,,,,990,1,0,1,1,14,2,1,0,754,28,6,12,1.5,0.7,0.5,25,2,510,638,79.9,65,389,28,23,10,Crystal Palace
+Glenn Murray,17.0,eng ENG,FW,35-165,90,1,0,0,0,1,1,1,0,36,1,0,0,0.1,0.1,0.0,0,0,16,26,61.5,1,22,0,2,0,Brighton & Hove Albion
+Alireza Jahanbakhsh,16.0,ir IRN,LW,25-210,89,0,0,0,0,2,1,0,0,51,3,1,4,0.1,0.1,0.0,1,0,24,33,72.7,0,25,0,5,1,Brighton & Hove Albion
+Jürgen Locadia,9.0,cw CUW,LW,25-122,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Brighton & Hove Albion
+Anthony Knockaert,11.0,fr FRA,RW,27-109,74,1,0,0,0,1,1,1,0,41,2,1,0,0.0,0.0,0.0,0,0,26,34,76.5,3,21,3,1,0,Brighton & Hove Albion
+Solly March,20.0,eng ENG,RW,24-232,16,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,5,1,1,0,Brighton & Hove Albion
+Davy Pröpper,24.0,nl NED,CM,27-188,90,0,0,0,0,0,0,0,0,54,1,4,2,0.0,0.0,0.0,1,0,20,38,52.6,4,30,2,4,2,Brighton & Hove Albion
+Dale Stephens,6.0,eng ENG,CM,29-270,90,0,1,0,0,0,0,0,0,67,7,3,1,0.0,0.0,0.1,2,1,39,46,84.8,4,28,1,0,0,Brighton & Hove Albion
+Yves Bissouma,8.0,ml MLI,CM,22-191,90,0,0,0,0,0,0,0,0,59,0,2,0,0.0,0.0,0.0,0,0,31,41,75.6,4,38,4,3,0,Brighton & Hove Albion
+Bernardo,30.0,br BRA,LB,23-299,90,0,0,0,0,0,0,1,0,71,5,2,2,0.0,0.0,0.0,0,0,38,50,76.0,2,20,1,0,0,Brighton & Hove Albion
+Lewis Dunk,5.0,eng ENG,CB,27-108,90,0,1,0,0,0,0,0,0,41,1,1,4,0.0,0.0,0.1,3,2,23,28,82.1,2,16,0,0,0,Brighton & Hove Albion
+Shane Duffy,4.0,ie IRL,CB,27-067,90,0,0,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.0,0,0,20,25,80.0,0,13,0,0,0,Brighton & Hove Albion
+Martín Montoya,22.0,es ESP,RB,27-329,90,0,0,0,0,0,0,1,0,52,4,3,0,0.0,0.0,0.0,0,0,23,35,65.7,2,18,1,0,0,Brighton & Hove Albion
+Mathew Ryan,1.0,au AUS,GK,26-335,90,0,0,0,0,0,0,1,0,24,0,0,0,0.0,0.0,0.0,0,0,10,22,45.5,0,9,0,0,0,Brighton & Hove Albion
+13 Players,,,,,990,2,2,0,0,4,3,5,0,543,26,17,14,0.2,0.2,0.2,7,3,276,386,71.5,22,245,13,16,3,Brighton & Hove Albion

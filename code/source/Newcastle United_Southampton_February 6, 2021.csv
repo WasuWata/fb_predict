@@ -1,0 +1,30 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Allan Saint-Maximin,10.0,fr FRA,FW,23-331,66,0,2,0,0,0,0,0,0,20,1,1,0,0.0,0.0,0.4,4,3,7,12,58.3,1,17,1,9,7,Newcastle United
+Paul Dummett,3.0,wls WAL,CB,29-133,24,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Newcastle United
+Callum Wilson,13.0,eng ENG,FW,28-345,35,0,0,0,0,1,1,0,0,14,1,0,0,0.1,0.1,0.0,0,0,4,9,44.4,0,9,3,1,0,Newcastle United
+Joelinton,9.0,br BRA,"FW,CM,RM",24-176,55,0,0,0,0,0,0,0,0,32,0,0,3,0.0,0.0,0.0,2,0,6,14,42.9,1,12,1,4,2,Newcastle United
+Miguel Almirón,24.0,py PAR,"AM,LM",26-362,90,2,0,0,0,2,2,0,0,29,3,1,0,0.1,0.1,0.0,2,1,14,21,66.7,2,22,0,2,1,Newcastle United
+Jonjo Shelvey,8.0,eng ENG,"LM,CM",28-345,90,0,0,0,0,1,0,0,0,30,1,0,1,0.1,0.1,0.0,0,0,15,24,62.5,2,15,0,0,0,Newcastle United
+Jeff Hendrick,16.0,ie IRL,CM,29-006,49,0,0,0,0,0,0,2,1,20,0,1,1,0.0,0.0,0.0,1,1,6,16,37.5,2,9,0,0,0,Newcastle United
+Joe Willock,28.0,eng ENG,"RM,CB,CM",21-170,90,1,0,0,0,1,1,0,0,30,5,2,2,0.3,0.3,0.2,2,0,7,12,58.3,2,11,3,3,2,Newcastle United
+Jamal Lewis,15.0,nir NIR,LB,23-012,90,0,0,0,0,0,0,0,0,50,2,1,1,0.0,0.0,0.0,0,0,24,39,61.5,1,23,0,1,0,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,29-048,78,0,0,0,0,1,0,0,0,29,0,2,3,0.1,0.1,0.0,0,0,13,21,61.9,3,9,0,0,0,Newcastle United
+Isaac Hayden,14.0,jm JAM,CB,25-321,90,0,0,0,0,0,0,0,0,30,0,1,1,0.0,0.0,0.0,0,0,18,23,78.3,0,13,0,0,0,Newcastle United
+Javier Manquillo,19.0,es ESP,RB,26-277,23,0,0,0,0,0,0,0,0,17,1,2,1,0.0,0.0,0.0,0,0,7,11,63.6,0,7,0,0,0,Newcastle United
+Emil Krafth,17.0,se SWE,RB,26-188,67,0,0,0,0,0,0,1,0,30,2,1,2,0.0,0.0,0.0,0,0,8,16,50.0,0,10,0,0,0,Newcastle United
+Karl Darlow,26.0,wls WAL,GK,30-121,90,0,0,0,0,0,0,1,0,32,0,0,0,0.0,0.0,0.0,0,0,11,30,36.7,0,9,0,0,0,Newcastle United
+14 Players,,,,,937,3,2,0,0,6,4,4,1,371,16,12,15,0.7,0.7,0.6,11,5,140,249,56.2,14,166,8,20,12,Newcastle United
+Danny Ings,9.0,eng ENG,FW,28-198,90,0,0,0,0,4,2,0,0,37,2,0,1,0.7,0.7,0.0,3,0,15,23,65.2,2,19,2,1,0,Southampton
+Che Adams,10.0,sct SCO,"FW,AM",24-208,90,0,0,0,0,2,0,0,0,29,1,0,0,0.1,0.1,0.3,5,1,16,23,69.6,0,19,2,1,1,Southampton
+Takumi Minamino,19.0,jp JPN,"LM,CM",26-021,90,1,0,0,0,2,1,0,0,50,1,0,0,0.1,0.1,0.0,4,1,34,42,81.0,1,34,3,0,0,Southampton
+Oriol Romeu,6.0,es ESP,"CM,RM",29-135,90,0,0,0,0,0,0,0,0,111,1,1,1,0.0,0.0,0.0,3,1,96,106,90.6,12,78,5,0,0,Southampton
+James Ward-Prowse,8.0,eng ENG,CM,26-097,90,1,0,0,0,1,1,0,0,115,2,0,0,0.1,0.1,0.2,4,0,93,111,83.8,17,66,5,0,0,Southampton
+Nathan Redmond,11.0,eng ENG,"RM,WB,RB",26-337,90,0,0,0,0,1,0,0,0,75,3,3,2,0.0,0.0,0.1,4,0,44,59,74.6,5,40,2,8,3,Southampton
+Ryan Bertrand,3.0,eng ENG,"LB,WB",31-185,90,0,1,0,0,1,0,0,0,71,1,1,0,0.1,0.1,0.1,3,1,45,65,69.2,9,41,8,1,0,Southampton
+Jannik Vestergaard,4.0,dk DEN,CB,28-187,90,0,0,0,0,2,1,0,0,86,3,3,1,0.2,0.2,0.0,0,0,56,75,74.7,7,47,2,2,0,Southampton
+Jan Bednarek,35.0,pl POL,CB,24-300,90,0,0,0,0,1,0,1,0,85,1,1,0,0.1,0.1,0.0,1,0,66,77,85.7,6,54,0,0,0,Southampton
+Jack Stephens,5.0,eng ENG,"RB,CB",27-010,80,0,0,0,0,0,0,0,0,70,2,2,3,0.0,0.0,0.0,1,0,53,61,86.9,6,40,2,0,0,Southampton
+Dan Nlundulu,40.0,eng ENG,AM,22-001,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Southampton
+Alex McCarthy,1.0,eng ENG,GK,31-065,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,21,25,84.0,0,11,0,0,0,Southampton
+12 Players,,,,,990,2,1,0,0,14,5,1,0,757,17,11,8,1.3,1.3,0.7,28,4,539,668,80.7,65,449,31,13,4,Southampton

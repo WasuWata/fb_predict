@@ -1,0 +1,29 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Wilfried Zaha,11.0,ci CIV,FW,25-015,90,0,0,0,0,0,0,0,0,30,4,0,0,0.0,0.0,0.2,7,0,16,23,69.6,6,23,7,4,3,Crystal Palace
+Andros Townsend,10.0,eng ENG,"LM,FW",26-132,90,0,1,0,0,0,0,0,0,49,1,0,0,0.0,0.0,0.3,2,1,26,36,72.2,3,30,4,5,3,Crystal Palace
+James McArthur,18.0,sct SCO,LM,30-049,45,0,0,0,0,2,1,0,0,23,1,0,1,0.3,0.3,0.0,2,0,10,17,58.8,2,13,1,1,1,Crystal Palace
+Christian Benteke,17.0,be BEL,FW,26-357,45,0,0,0,0,2,1,0,0,21,0,0,1,0.1,0.1,0.0,1,0,10,15,66.7,1,14,0,0,0,Crystal Palace
+Luka Milivojević,4.0,rs SRB,CM,26-232,90,0,0,0,0,1,0,0,0,83,5,1,0,0.0,0.0,0.0,0,0,53,70,75.7,8,53,0,0,0,Crystal Palace
+Yohan Cabaye,7.0,fr FRA,CM,31-315,90,0,0,0,0,1,1,0,0,89,2,5,2,0.1,0.1,0.1,3,1,55,78,70.5,12,50,1,1,0,Crystal Palace
+Ruben Loftus-Cheek,8.0,eng ENG,RM,21-306,90,1,0,0,0,2,1,0,0,57,0,1,2,0.4,0.4,0.1,1,0,26,44,59.1,4,45,5,4,2,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,LB,24-337,90,0,0,0,0,1,0,0,0,60,5,0,0,0.0,0.0,0.0,1,0,38,47,80.9,4,22,1,0,0,Crystal Palace
+Mamadou Sakho,12.0,fr FRA,CB,27-285,90,1,0,0,0,1,1,0,0,64,2,0,2,0.5,0.5,0.0,1,1,50,54,92.6,4,40,1,0,0,Crystal Palace
+James Tomkins,5.0,eng ENG,CB,28-241,90,0,0,0,0,0,0,1,0,86,4,4,1,0.0,0.0,0.0,0,0,65,75,86.7,7,49,1,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,RB,28-027,90,0,0,0,0,0,0,0,0,88,3,0,1,0.0,0.0,0.0,0,0,57,77,74.0,5,28,0,1,0,Crystal Palace
+Wayne Hennessey,13.0,wls WAL,GK,30-305,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,17,25,68.0,0,13,0,0,0,Crystal Palace
+12 Players,,,,,990,2,1,0,0,10,5,1,0,676,27,11,10,1.4,1.4,0.7,18,3,423,561,75.4,56,380,21,16,9,Crystal Palace
+Eric Maxim Choupo-Moting,10.0,cm CMR,"FW,WB,AM",28-247,90,0,0,0,0,0,0,0,0,51,3,2,0,0.0,0.0,0.0,2,0,31,40,77.5,2,34,1,7,4,Stoke City
+Ramadan Sobhi,32.0,eg EGY,AM,20-306,66,0,0,0,0,0,0,0,0,43,0,0,3,0.0,0.0,0.0,0,0,27,36,75.0,4,28,4,0,0,Stoke City
+Peter Crouch,25.0,eng ENG,FW,36-299,24,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,7,8,87.5,0,3,0,0,0,Stoke City
+Xherdan Shaqiri,22.0,ch SUI,AM,26-046,90,1,0,0,0,5,2,0,0,73,0,0,0,0.3,0.3,0.0,7,1,44,59,74.6,6,54,2,6,4,Stoke City
+Joe Allen,4.0,wls WAL,CM,27-256,90,0,0,0,0,0,0,0,0,66,5,2,1,0.0,0.0,0.0,1,0,46,53,86.8,10,37,3,3,2,Stoke City
+Darren Fletcher,24.0,sct SCO,CM,33-297,90,0,0,0,0,0,0,0,0,70,1,4,1,0.0,0.0,0.2,4,0,48,60,80.0,6,48,0,1,1,Stoke City
+Erik Pieters,3.0,nl NED,WB,29-110,90,0,0,0,0,0,0,0,0,54,5,4,4,0.0,0.0,0.0,1,0,23,35,65.7,1,19,0,3,1,Stoke City
+Mame Biram Diouf,18.0,sn SEN,WB,29-344,73,0,0,0,0,2,0,0,0,45,3,0,0,0.1,0.1,0.0,0,0,23,30,76.7,3,22,4,1,0,Stoke City
+Jesé,11.0,es ESP,AM,24-272,17,0,0,0,0,2,0,0,0,13,0,0,0,0.1,0.1,0.1,1,0,8,10,80.0,1,9,0,1,0,Stoke City
+Kevin Wimmer,5.0,at AUT,CB,25-010,90,0,0,0,0,0,0,1,0,72,1,5,0,0.0,0.0,0.0,0,0,37,61,60.7,3,21,0,0,0,Stoke City
+Ryan Shawcross,17.0,eng ENG,CB,30-052,90,0,1,0,0,0,0,0,0,33,1,3,0,0.0,0.0,0.1,1,1,15,20,75.0,3,10,0,1,1,Stoke City
+Kurt Zouma,6.0,fr FRA,CB,23-029,90,0,0,0,0,1,1,0,0,62,1,3,2,0.1,0.1,0.0,0,0,40,46,87.0,5,28,1,0,0,Stoke City
+Lee Grant,33.0,eng ENG,GK,34-302,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,14,25,56.0,0,11,0,0,0,Stoke City
+13 Players,,,,,990,1,1,0,0,10,3,1,0,621,20,23,12,0.7,0.7,0.5,17,2,363,483,75.2,44,324,15,23,13,Stoke City

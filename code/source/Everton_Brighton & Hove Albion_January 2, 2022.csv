@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Calvert-Lewin,9.0,eng ENG,FW,24-292,90,0,0,0,1,3,1,0,0,25,0,0,1,1.1,0.3,0.0,1,1,7,15,46.7,2,9,0,1,0,Everton
+Demarai Gray,11.0,jm JAM,LM,25-188,90,0,0,0,0,2,1,0,0,48,1,0,1,0.1,0.1,0.2,10,0,20,36,55.6,0,36,6,12,5,Everton
+Allan,6.0,br BRA,CM,30-359,86,0,1,0,0,1,1,0,0,48,1,1,1,0.0,0.0,0.0,2,1,29,37,78.4,4,26,2,2,1,Everton
+André Gomes,21.0,pt POR,CM,28-156,4,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,2,0,7,8,87.5,2,6,0,0,0,Everton
+Abdoulaye Doucouré,16.0,ml MLI,CM,29-001,90,0,0,0,0,1,0,0,0,48,2,2,2,0.0,0.0,0.0,2,0,24,35,68.6,3,30,3,4,3,Everton
+Anthony Gordon,24.0,eng ENG,RM,20-312,90,2,0,0,0,5,3,0,0,51,0,1,2,0.3,0.3,0.0,5,0,22,34,64.7,0,32,2,4,2,Everton
+Séamus Coleman,23.0,ie IRL,"LB,RB",33-083,90,0,0,0,0,1,0,0,0,61,3,1,0,0.0,0.0,0.0,2,0,36,51,70.6,4,40,7,4,3,Everton
+Mason Holgate,4.0,jm JAM,CB,25-072,90,0,0,0,0,0,0,0,0,66,1,2,1,0.0,0.0,0.0,0,0,38,60,63.3,4,27,1,1,1,Everton
+Michael Keane,5.0,eng ENG,CB,28-356,90,0,0,0,0,1,0,0,0,56,3,0,1,0.0,0.0,0.0,0,0,34,49,69.4,4,33,1,0,0,Everton
+Ben Godfrey,22.0,eng ENG,"CB,LB",23-352,90,0,0,0,0,0,0,0,0,56,2,0,1,0.0,0.0,0.2,2,0,45,51,88.2,4,37,5,1,1,Everton
+Jonjoe Kenny,2.0,eng ENG,RB,24-293,75,0,1,0,0,0,0,1,0,55,3,2,1,0.0,0.0,0.2,3,2,34,43,79.1,2,32,1,1,0,Everton
+Salomón Rondón,33.0,ve VEN,FW,32-108,15,0,0,0,0,2,0,0,0,13,0,0,0,0.1,0.1,0.1,1,0,5,6,83.3,1,8,0,0,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,27-301,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,1,0,24,38,63.2,0,26,0,0,0,Everton
+13 Players,,,,,990,2,2,0,1,16,6,1,0,575,17,9,11,1.7,0.9,0.7,31,4,325,463,70.2,30,342,28,30,16,Everton
+Leandro Trossard,11.0,be BEL,FW,27-029,80,0,0,0,0,1,0,0,0,34,1,0,0,0.0,0.0,0.0,4,1,24,28,85.7,5,31,0,0,0,Brighton & Hove Albion
+Jakub Moder,15.0,pl POL,CM,22-270,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,0,7,1,0,0,Brighton & Hove Albion
+Neal Maupay,9.0,fr FRA,FW,25-141,90,0,1,0,0,1,0,0,0,35,0,0,3,0.1,0.1,0.5,4,1,15,25,60.0,2,18,1,8,5,Brighton & Hove Albion
+Alexis Mac Allister,10.0,ar ARG,"LM,CM",23-009,90,2,0,0,0,3,2,0,0,63,5,0,0,0.6,0.6,0.1,3,1,32,44,72.7,9,30,1,1,0,Brighton & Hove Albion
+Yves Bissouma,8.0,ml MLI,CM,25-125,90,0,0,0,0,2,0,0,0,65,7,2,2,0.1,0.1,0.0,2,0,37,45,82.2,4,34,1,4,2,Brighton & Hove Albion
+Adam Lallana,14.0,eng ENG,CM,33-237,60,0,0,0,0,2,1,0,0,58,2,0,0,0.1,0.1,0.0,1,0,36,47,76.6,3,34,1,0,0,Brighton & Hove Albion
+Tariq Lamptey,2.0,gh GHA,RB,21-094,30,0,0,0,0,0,0,0,0,18,2,2,0,0.0,0.0,0.0,0,0,5,10,50.0,0,6,0,1,1,Brighton & Hove Albion
+Enock Mwepu,12.0,zm ZAM,"RM,CM,FW",24-001,90,0,2,0,0,0,0,0,0,50,2,0,1,0.0,0.0,0.9,3,2,29,38,76.3,2,29,0,2,1,Brighton & Hove Albion
+Marc Cucurella,3.0,es ESP,LB,23-164,90,0,0,0,0,1,0,0,0,64,4,0,2,0.0,0.0,0.0,0,0,33,48,68.8,6,30,3,2,1,Brighton & Hove Albion
+Dan Burn,33.0,eng ENG,CB,29-238,90,1,0,0,0,2,2,0,0,52,1,2,2,0.9,0.9,0.0,0,0,25,35,71.4,4,23,0,0,0,Brighton & Hove Albion
+Adam Webster,4.0,eng ENG,CB,26-363,90,0,0,0,0,0,0,1,0,52,1,0,0,0.0,0.0,0.0,1,0,34,46,73.9,1,29,0,0,0,Brighton & Hove Albion
+Joël Veltman,34.0,nl NED,RB,29-352,60,0,0,0,0,0,0,0,0,42,0,0,3,0.0,0.0,0.0,2,1,29,37,78.4,2,21,1,1,0,Brighton & Hove Albion
+Shane Duffy,24.0,ie IRL,CB,30-001,30,0,0,0,0,0,0,0,0,12,0,0,2,0.0,0.0,0.0,0,0,7,8,87.5,0,5,0,0,0,Brighton & Hove Albion
+Robert Sánchez,1.0,es ESP,GK,24-045,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,16,36,44.4,0,20,0,0,0,Brighton & Hove Albion
+14 Players,,,,,990,3,3,0,0,12,5,1,0,594,25,6,15,1.7,1.7,1.6,20,6,327,456,71.7,38,317,9,19,10,Brighton & Hove Albion

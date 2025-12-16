@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Patrick Bamford,9.0,eng ENG,FW,27-063,90,1,0,0,0,2,1,0,0,27,0,0,1,0.4,0.4,0.0,0,0,14,20,70.0,0,10,0,1,1,Leeds United
+Jack Harrison,22.0,eng ENG,LW,23-353,90,0,0,0,0,1,1,0,0,60,1,0,1,0.0,0.0,0.1,4,0,26,43,60.5,2,34,6,3,3,Leeds United
+Hélder Costa,17.0,ao ANG,RW,26-300,45,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.0,0,0,11,13,84.6,1,13,2,3,1,Leeds United
+Raphinha,18.0,br BRA,RW,23-329,45,0,0,0,0,1,0,0,0,29,1,0,2,0.1,0.1,0.0,1,0,15,18,83.3,2,19,2,2,1,Leeds United
+Mateusz Klich,43.0,pl POL,AM,30-147,90,0,1,0,0,0,0,1,0,73,3,1,0,0.0,0.0,0.5,6,1,50,65,76.9,8,36,2,2,1,Leeds United
+Ezgjan Alioski,10.0,mk MKD,CM,28-269,90,0,0,0,0,1,1,0,0,87,5,0,0,0.0,0.0,0.0,0,0,63,77,81.8,6,45,6,0,0,Leeds United
+Pascal Struijk,21.0,nl NED,CM,21-088,70,0,0,0,0,1,0,0,0,42,1,0,1,0.1,0.1,0.0,2,0,31,35,88.6,4,19,1,0,0,Leeds United
+Tyler Roberts,11.0,wls WAL,CM,21-300,20,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,8,10,80.0,3,7,0,1,0,Leeds United
+Stuart Dallas,15.0,nir NIR,CM,29-202,90,0,0,0,0,0,0,0,0,69,2,2,0,0.0,0.0,0.0,2,0,47,63,74.6,6,38,2,1,0,Leeds United
+Liam Cooper,6.0,sct SCO,CB,29-069,90,0,0,0,0,1,0,1,0,94,4,4,1,0.1,0.1,0.0,0,0,66,81,81.5,4,61,0,1,0,Leeds United
+Robin Koch,5.0,de GER,CB,24-113,90,0,0,0,0,1,0,0,0,116,2,5,2,0.1,0.1,0.0,1,0,88,101,87.1,6,63,0,0,0,Leeds United
+Luke Ayling,2.0,eng ENG,CB,29-074,90,0,0,0,0,1,0,0,0,107,5,1,0,0.0,0.0,0.0,1,1,78,97,80.4,14,70,3,1,1,Leeds United
+Illan Meslier,1.0,fr FRA,GK,20-250,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,30,31,96.8,0,23,0,0,0,Leeds United
+13 Players,,,,,990,1,1,0,0,9,3,2,0,771,25,14,10,0.8,0.8,0.7,17,2,527,654,80.6,56,438,24,15,8,Leeds United

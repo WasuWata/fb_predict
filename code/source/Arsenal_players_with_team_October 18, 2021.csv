@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Pierre-Emerick Aubameyang,14.0,ga GAB,FW,32-122,90,1,0,0,0,1,1,0,0,24,2,0,1,0.4,0.4,0.1,2,0,11,15,73.3,4,7,0,1,0,Arsenal
+Bukayo Saka,7.0,eng ENG,LM,20-043,45,0,0,0,0,0,0,1,0,17,0,0,0,0.0,0.0,0.1,2,0,12,16,75.0,1,13,3,0,0,Arsenal
+Albert Sambi Lokonga,23.0,be BEL,"DM,CM",21-361,45,0,0,0,0,0,0,0,0,46,1,0,0,0.0,0.0,0.0,3,0,43,44,97.7,3,27,3,0,0,Arsenal
+Martin Ødegaard,8.0,no NOR,"CM,AM",22-305,66,0,0,0,0,0,0,0,0,47,0,1,0,0.0,0.0,0.0,0,0,37,42,88.1,2,23,2,1,0,Arsenal
+Alexandre Lacazette,9.0,fr FRA,"FW,AM",30-143,24,1,0,0,0,3,2,0,0,17,0,0,0,0.6,0.6,0.2,4,0,9,12,75.0,3,7,1,2,1,Arsenal
+Emile Smith Rowe,10.0,eng ENG,"CM,LW",21-082,90,0,0,0,0,2,1,0,0,58,0,0,2,0.2,0.2,0.0,2,0,42,48,87.5,1,29,2,4,2,Arsenal
+Nicolas Pépé,19.0,ci CIV,"RM,RW",26-142,90,0,0,0,0,3,1,0,0,69,1,2,3,0.2,0.2,0.0,6,1,36,47,76.6,1,33,1,6,1,Arsenal
+Thomas Partey,5.0,gh GHA,DM,28-127,80,0,0,0,0,3,0,0,0,56,4,0,0,0.1,0.1,0.0,3,0,42,49,85.7,3,26,1,2,2,Arsenal
+Gabriel Martinelli,35.0,br BRA,LM,20-122,10,0,0,0,0,1,1,0,0,11,0,0,1,0.3,0.3,0.0,1,1,5,7,71.4,0,6,0,2,0,Arsenal
+Kieran Tierney,3.0,sct SCO,LB,24-135,90,0,0,0,0,1,0,0,0,70,1,1,0,0.1,0.1,0.0,1,0,59,65,90.8,4,45,3,0,0,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,23-303,90,0,0,0,0,1,0,0,0,86,1,1,0,0.0,0.0,0.0,1,0,71,79,89.9,7,58,0,1,1,Arsenal
+Ben White,4.0,eng ENG,CB,24-010,90,0,0,0,0,2,0,0,0,68,1,0,0,0.1,0.1,0.3,1,0,57,65,87.7,5,37,2,0,0,Arsenal
+Takehiro Tomiyasu,18.0,jp JPN,RB,22-347,90,0,0,0,0,0,0,0,0,89,6,2,0,0.0,0.0,0.0,1,0,63,78,80.8,1,27,1,1,1,Arsenal
+Aaron Ramsdale,32.0,eng ENG,GK,23-157,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,15,0,0,0,Arsenal
+14 Players,,,,,990,2,0,0,0,17,6,1,0,687,17,7,7,1.8,1.8,0.7,27,2,508,594,85.5,35,353,19,20,8,Arsenal

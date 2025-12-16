@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Wilfried Zaha,11.0,ci CIV,"FW,LW",25-008,90,1,0,0,0,2,1,0,0,34,0,0,0,0.6,0.6,0.3,4,0,11,19,57.9,3,36,4,10,5,Crystal Palace
+Andros Townsend,10.0,eng ENG,"FW,RW",26-125,90,0,0,0,0,2,0,0,0,62,1,2,0,0.1,0.1,0.1,5,1,38,51,74.5,7,43,4,5,1,Crystal Palace
+James McArthur,18.0,sct SCO,LM,30-042,74,1,0,0,0,2,2,0,0,40,1,1,1,0.6,0.6,0.0,2,0,26,32,81.3,6,29,0,0,0,Crystal Palace
+Christian Benteke,17.0,be BEL,FW,26-350,16,0,0,0,0,2,1,0,0,9,0,0,0,0.3,0.3,0.0,1,0,2,5,40.0,1,4,1,0,0,Crystal Palace
+Luka Milivojević,4.0,rs SRB,"CM,DM",26-225,90,0,0,0,0,2,1,1,0,89,2,2,1,0.1,0.1,0.0,0,0,68,81,84.0,5,62,1,1,1,Crystal Palace
+Yohan Cabaye,7.0,fr FRA,"CM,DM",31-308,84,0,0,0,0,2,1,0,0,85,2,2,3,0.1,0.1,0.5,6,0,62,74,83.8,4,47,1,0,0,Crystal Palace
+Jason Puncheon,42.0,eng ENG,DM,31-153,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,4,0,0,0,Crystal Palace
+Ruben Loftus-Cheek,8.0,eng ENG,"RM,AM",21-299,90,0,0,0,0,1,1,0,0,60,0,1,0,0.4,0.4,0.1,5,1,44,51,86.3,6,50,4,5,4,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,LB,24-330,90,0,0,0,0,1,0,0,0,84,2,0,0,0.0,0.0,0.0,0,0,58,75,77.3,4,39,3,2,1,Crystal Palace
+Mamadou Sakho,12.0,fr FRA,CB,27-278,90,0,0,0,0,0,0,1,0,71,1,2,0,0.0,0.0,0.0,0,0,55,63,87.3,4,50,1,1,0,Crystal Palace
+Scott Dann,6.0,eng ENG,CB,30-277,90,0,0,0,0,2,0,0,0,59,1,1,0,0.1,0.1,0.0,0,0,43,52,82.7,4,32,1,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,RB,28-020,90,0,1,0,0,0,0,0,0,85,2,2,1,0.0,0.0,0.5,1,1,57,73,78.1,14,45,0,0,0,Crystal Palace
+Julián Speroni,1.0,ar ARG,GK,38-184,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,16,27,59.3,0,22,0,1,1,Crystal Palace
+13 Players,,,,,990,2,1,0,0,16,7,2,0,714,12,13,6,2.2,2.2,1.5,24,3,485,609,79.6,59,463,20,25,13,Crystal Palace
+Oumar Niasse,19.0,sn SEN,FW,27-214,90,1,0,0,0,2,2,1,0,31,1,0,0,0.4,0.4,0.0,2,2,11,16,68.8,0,18,4,8,5,Everton
+Ademola Lookman,31.0,ng NGA,LW,20-029,45,0,0,0,0,2,0,0,0,15,1,1,1,0.1,0.1,0.0,0,0,4,4,100.0,1,6,1,1,1,Everton
+Tom Davies,26.0,eng ENG,CM,19-141,45,0,0,0,0,0,0,1,0,19,0,0,1,0.0,0.0,0.0,0,0,9,13,69.2,1,5,0,0,0,Everton
+Aaron Lennon,12.0,eng ENG,"RW,RM",30-216,75,0,0,0,0,0,0,0,0,22,3,1,1,0.0,0.0,0.0,1,0,10,13,76.9,2,11,1,2,1,Everton
+Sandro Ramírez,9.0,es ESP,FW,22-132,15,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,1,0,4,5,80.0,2,5,0,0,0,Everton
+Gylfi Sigurðsson,18.0,is ISL,LM,28-071,90,0,1,0,0,0,0,0,0,47,6,3,3,0.0,0.0,0.8,3,1,17,31,54.8,3,10,0,0,0,Everton
+Morgan Schneiderlin,2.0,fr FRA,CM,28-010,45,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,9,13,69.2,0,7,0,0,0,Everton
+Dominic Calvert-Lewin,29.0,eng ENG,"FW,RM",20-247,45,0,0,0,0,2,2,0,0,26,4,0,2,0.4,0.4,0.0,1,0,7,15,46.7,1,7,2,3,2,Everton
+Idrissa Gana Gueye,17.0,sn SEN,"CM,RM",28-053,90,0,0,0,0,0,0,0,0,43,10,1,1,0.0,0.0,0.0,3,1,24,30,80.0,1,17,0,0,0,Everton
+Leighton Baines,3.0,eng ENG,LB,32-342,90,1,0,1,1,0,0,0,0,42,1,1,0,0.8,0.0,0.0,1,0,21,33,63.6,2,10,1,0,0,Everton
+Michael Keane,4.0,eng ENG,CB,24-311,90,0,0,0,0,0,0,1,0,40,1,2,0,0.0,0.0,0.0,0,0,17,24,70.8,2,12,0,0,0,Everton
+Phil Jagielka,6.0,eng ENG,CB,35-093,90,0,0,0,0,0,0,0,0,39,0,3,1,0.0,0.0,0.0,0,0,11,21,52.4,0,11,0,0,0,Everton
+Jonjoe Kenny,43.0,eng ENG,RB,20-248,90,0,0,0,0,0,0,0,0,51,6,8,2,0.0,0.0,0.1,1,0,18,30,60.0,0,12,0,0,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,23-256,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,12,31,38.7,0,12,0,0,0,Everton
+14 Players,,,,,990,2,1,1,1,7,4,3,0,434,34,20,12,1.8,1.0,0.9,14,4,174,279,62.4,15,143,9,14,9,Everton

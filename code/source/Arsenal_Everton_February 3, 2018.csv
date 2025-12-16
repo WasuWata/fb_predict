@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Pierre-Emerick Aubameyang,14.0,ga GAB,FW,28-230,90,1,0,0,0,3,2,0,0,25,1,0,1,0.7,0.7,0.0,1,1,15,17,88.2,2,15,1,0,0,Arsenal
+Henrikh Mkhitaryan,7.0,am ARM,"LW,RW",29-013,90,0,3,0,0,2,1,0,0,57,4,3,0,0.1,0.1,1.2,5,3,33,42,78.6,7,43,5,2,1,Arsenal
+Alex Iwobi,17.0,ng NGA,"RW,LW",21-276,90,0,1,0,0,0,0,0,0,69,1,1,1,0.0,0.0,0.0,4,2,50,59,84.7,5,52,3,3,3,Arsenal
+Mesut Özil,11.0,de GER,AM,29-111,90,0,0,0,0,1,0,0,0,79,0,0,0,0.1,0.1,0.4,8,2,63,73,86.3,7,58,4,3,2,Arsenal
+Granit Xhaka,29.0,ch SUI,DM,25-129,90,0,0,0,0,1,0,0,0,92,3,2,2,0.1,0.1,0.2,4,0,74,80,92.5,7,62,0,1,1,Arsenal
+Aaron Ramsey,8.0,wls WAL,DM,27-039,74,3,0,0,0,3,3,0,0,68,2,3,1,0.8,0.8,0.1,2,0,52,57,91.2,5,49,3,1,1,Arsenal
+Jack Wilshere,10.0,eng ENG,DM,26-033,16,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,6,0,0,0,Arsenal
+Nacho Monreal,18.0,es ESP,LB,31-342,45,0,0,0,0,3,0,0,0,33,3,1,1,0.2,0.2,0.0,2,0,20,25,80.0,2,17,0,0,0,Arsenal
+Sead Kolašinac,31.0,ba BIH,LB,24-228,45,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,0,0,19,31,61.3,1,21,2,0,0,Arsenal
+Laurent Koscielny,6.0,fr FRA,CB,32-146,90,1,0,0,0,1,1,1,0,58,0,2,1,0.6,0.6,0.0,0,0,40,43,93.0,2,34,0,0,0,Arsenal
+Shkodran Mustafi,20.0,de GER,CB,25-292,90,0,1,0,0,1,0,1,0,79,5,1,2,0.0,0.0,0.6,1,1,54,63,85.7,4,48,0,0,0,Arsenal
+Héctor Bellerín,24.0,es ESP,RB,22-321,90,0,0,0,0,0,0,0,0,64,2,0,1,0.0,0.0,0.0,0,0,44,55,80.0,3,41,5,2,1,Arsenal
+Petr Čech,33.0,cz CZE,GK,35-259,69,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,8,19,42.1,0,9,0,0,0,Arsenal
+David Ospina,13.0,co COL,GK,29-156,21,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,5,0,0,0,Arsenal
+14 Players,,,,,990,5,5,0,0,15,7,2,0,700,22,13,10,2.7,2.7,2.5,27,9,488,582,83.8,45,460,23,12,9,Arsenal
+Oumar Niasse,19.0,sn SEN,FW,27-291,77,0,0,0,0,1,0,0,0,29,0,0,0,0.5,0.5,0.0,1,0,12,16,75.0,1,16,0,2,1,Everton
+Cenk Tosun,14.0,tr TUR,FW,26-241,13,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,1,4,0,0,0,Everton
+Yannick Bolasie,7.0,cd COD,LW,28-255,90,0,0,0,0,0,0,0,0,37,1,1,0,0.0,0.0,0.0,0,0,12,27,44.4,1,21,5,9,3,Everton
+Theo Walcott,11.0,eng ENG,RW,28-324,60,0,0,0,0,3,0,0,0,32,0,0,0,0.2,0.2,0.5,1,0,18,23,78.3,4,15,1,2,1,Everton
+Dominic Calvert-Lewin,29.0,eng ENG,RW,20-324,30,1,0,0,0,2,1,0,0,17,1,0,0,0.4,0.4,0.1,1,0,7,11,63.6,0,8,1,1,1,Everton
+Cuco Martina,15.0,cw CUW,"LB,LM",28-131,90,0,1,0,0,1,0,0,0,59,3,4,2,0.1,0.1,0.3,1,1,40,45,88.9,6,16,2,0,0,Everton
+Idrissa Gana Gueye,17.0,sn SEN,"DM,CM",28-130,90,0,0,0,0,1,1,0,0,52,2,4,3,0.0,0.0,0.0,1,0,34,43,79.1,7,24,0,0,0,Everton
+Morgan Schneiderlin,2.0,fr FRA,"DM,CM",28-087,90,0,0,0,0,0,0,0,0,65,2,4,0,0.0,0.0,0.0,2,0,46,56,82.1,7,33,1,0,0,Everton
+Jonjoe Kenny,43.0,eng ENG,"RB,RM",20-325,90,0,0,0,0,0,0,0,0,67,2,1,0,0.0,0.0,0.0,1,0,40,61,65.6,4,27,2,1,0,Everton
+Eliaquim Mangala,13.0,fr FRA,CB,26-355,90,0,0,0,0,1,0,0,0,57,0,1,0,0.1,0.1,0.0,1,0,39,47,83.0,4,37,2,2,2,Everton
+Ashley Williams,5.0,wls WAL,CB,33-164,90,0,0,0,0,0,0,0,0,52,0,0,4,0.0,0.0,0.0,0,0,35,42,83.3,3,18,0,0,0,Everton
+Michael Keane,4.0,eng ENG,CB,25-023,45,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.1,1,0,17,19,89.5,1,9,0,1,1,Everton
+Tom Davies,26.0,eng ENG,AM,19-218,45,0,0,0,0,0,0,0,0,21,0,1,0,0.0,0.0,0.1,5,1,15,18,83.3,4,18,2,5,4,Everton
+Jordan Pickford,1.0,eng ENG,GK,23-333,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,17,23,73.9,0,14,0,0,0,Everton
+14 Players,,,,,990,1,1,0,0,10,2,0,0,542,11,16,10,1.2,1.2,1.0,16,2,335,434,77.2,43,260,16,23,13,Everton

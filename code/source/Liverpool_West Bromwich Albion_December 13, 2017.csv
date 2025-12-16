@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Mohamed Salah,11.0,eg EGY,"FW,RM",25-181,90,0,0,0,0,2,0,0,0,33,0,0,1,0.5,0.5,0.4,3,0,21,26,80.8,1,23,2,5,5,Liverpool
+Roberto Firmino,9.0,br BRA,FW,26-072,90,0,0,0,0,2,0,0,0,44,2,0,1,0.5,0.5,0.1,6,0,22,34,64.7,3,26,2,3,3,Liverpool
+Philippe Coutinho,10.0,br BRA,"LM,CM",25-184,90,0,0,0,0,2,2,0,0,112,3,0,0,0.1,0.1,0.0,5,0,75,101,74.3,20,82,8,5,1,Liverpool
+Emre Can,23.0,de GER,CM,23-335,90,0,0,0,0,1,0,1,0,104,5,1,2,0.0,0.0,0.1,2,0,82,91,90.1,7,71,12,2,2,Liverpool
+Georginio Wijnaldum,5.0,nl NED,CM,27-032,75,0,0,0,0,1,0,0,0,66,2,0,0,0.8,0.8,0.0,2,0,53,60,88.3,4,41,2,0,0,Liverpool
+Alex Oxlade-Chamberlain,21.0,eng ENG,"LM,RM",24-120,15,0,0,0,0,1,1,0,0,16,1,0,1,0.1,0.1,0.0,0,0,9,9,100.0,1,11,1,3,0,Liverpool
+Sadio Mané,19.0,sn SEN,RM,25-247,75,0,0,0,0,2,0,0,0,42,2,1,1,0.1,0.1,0.0,5,0,18,30,60.0,5,33,5,4,3,Liverpool
+Dominic Solanke,29.0,eng ENG,FW,20-090,15,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.1,1,0,3,5,60.0,2,6,0,2,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,23-277,90,0,0,0,0,1,0,0,0,101,2,2,0,0.1,0.1,0.0,0,0,82,90,91.1,7,62,2,1,0,Liverpool
+Ragnar Klavan,17.0,ee EST,CB,32-044,90,0,0,0,0,0,0,0,0,107,1,1,0,0.0,0.0,0.0,0,0,93,97,95.9,7,70,2,0,0,Liverpool
+Dejan Lovren,6.0,hr CRO,CB,28-161,90,0,0,0,0,0,0,0,0,112,0,2,2,0.0,0.0,0.1,1,0,95,103,92.2,9,83,3,0,0,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,19-067,79,0,0,0,0,1,0,0,0,88,2,3,0,0.0,0.0,0.0,1,0,58,75,77.3,5,55,4,4,3,Liverpool
+Joe Gomez,12.0,eng ENG,RB,20-204,11,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,4,9,44.4,0,5,0,0,0,Liverpool
+Loris Karius,1.0,de GER,GK,24-174,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,30,32,93.8,0,16,0,0,0,Liverpool
+14 Players,,,,,990,0,0,0,0,14,3,1,0,881,20,11,8,2.2,2.2,0.7,26,0,645,762,84.6,71,584,43,29,17,Liverpool
+Salomón Rondón,9.0,ve VEN,FW,28-088,90,0,0,0,0,1,0,0,0,44,1,0,0,0.0,0.0,0.0,2,0,18,28,64.3,2,29,0,1,1,West Bromwich Albion
+James McClean,14.0,ie IRL,LW,28-235,90,0,0,0,0,0,0,0,0,39,3,1,2,0.0,0.0,0.0,0,0,18,28,64.3,0,27,2,5,2,West Bromwich Albion
+Hal Robson-Kanu,4.0,wls WAL,RW,28-206,70,0,0,0,0,1,0,0,0,22,0,1,0,0.0,0.0,0.0,0,0,7,16,43.8,1,19,1,1,1,West Bromwich Albion
+Jay Rodriguez,19.0,eng ENG,CM,28-137,20,0,0,0,0,0,0,0,0,8,2,1,0,0.0,0.0,0.0,0,0,1,4,25.0,0,4,0,0,0,West Bromwich Albion
+Grzegorz Krychowiak,20.0,pl POL,CM,27-318,78,0,0,0,0,0,0,0,0,62,2,4,3,0.0,0.0,0.2,4,0,34,50,68.0,4,30,1,2,2,West Bromwich Albion
+Chris Brunt,11.0,nir NIR,CM,32-364,12,0,0,0,0,1,0,0,0,7,0,0,2,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0,West Bromwich Albion
+Claudio Yacob,5.0,ar ARG,CM,30-148,90,0,0,0,0,2,1,0,0,37,6,0,2,0.1,0.1,0.0,1,0,21,26,80.8,1,15,0,0,0,West Bromwich Albion
+Jake Livermore,8.0,eng ENG,CM,28-029,90,0,0,0,0,0,0,0,0,34,4,1,3,0.0,0.0,0.0,1,0,17,22,77.3,3,15,1,0,0,West Bromwich Albion
+Kieran Gibbs,3.0,eng ENG,LB,28-078,90,0,0,0,0,0,0,0,0,42,0,2,3,0.0,0.0,0.0,0,0,24,31,77.4,3,12,1,1,1,West Bromwich Albion
+Jonny Evans,6.0,nir NIR,CB,29-344,90,0,0,0,0,0,0,0,0,38,1,4,1,0.0,0.0,0.0,0,0,16,28,57.1,1,10,0,0,0,West Bromwich Albion
+Ahmed Hegazi,26.0,eg EGY,CB,26-322,90,0,0,0,0,1,0,0,0,39,2,3,4,0.2,0.2,0.0,1,0,14,18,77.8,2,9,0,0,0,West Bromwich Albion
+Allan Nyom,2.0,cm CMR,RB,29-217,90,0,0,0,0,0,0,0,0,48,3,2,1,0.0,0.0,0.1,2,0,22,36,61.1,0,16,1,0,0,West Bromwich Albion
+Ben Foster,1.0,eng ENG,GK,34-254,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,1,0,17,41,41.5,0,20,0,0,0,West Bromwich Albion
+14 Players,,,,,990,0,0,0,0,6,1,1,0,462,24,19,21,0.4,0.4,0.4,12,0,211,332,63.6,17,209,7,10,7,West Bromwich Albion

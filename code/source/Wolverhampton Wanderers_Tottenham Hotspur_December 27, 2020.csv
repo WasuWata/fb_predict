@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Fábio Silva,17.0,pt POR,FW,18-161,90,0,0,0,0,3,1,0,0,31,1,0,1,0.4,0.4,0.0,0,0,13,19,68.4,2,14,1,1,0,Wolverhampton Wanderers
+Pedro Neto,7.0,pt POR,LW,20-293,90,0,1,0,0,1,0,0,0,64,0,1,0,0.0,0.0,0.2,4,1,41,53,77.4,1,34,8,5,3,Wolverhampton Wanderers
+Adama Traoré,37.0,es ESP,RW,24-337,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.1,3,0,24,34,70.6,4,32,6,5,4,Wolverhampton Wanderers
+Daniel Podence,10.0,pt POR,AM,25-067,89,0,0,0,0,2,2,1,0,61,0,0,1,0.1,0.1,0.0,2,0,35,46,76.1,8,42,6,3,2,Wolverhampton Wanderers
+Vitinha,20.0,pt POR,AM,20-318,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Wolverhampton Wanderers
+João Moutinho,28.0,pt POR,DM,34-110,82,0,0,0,0,0,0,0,0,76,3,0,0,0.0,0.0,0.0,0,0,56,71,78.9,8,47,1,0,0,Wolverhampton Wanderers
+Owen Otasowie,54.0,us USA,DM,19-356,8,0,0,0,0,0,0,0,0,8,2,0,0,0.0,0.0,0.0,0,0,4,7,57.1,1,6,0,1,1,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,DM,23-289,90,0,0,0,0,2,1,0,0,87,5,5,2,0.1,0.1,0.3,6,0,61,73,83.6,7,48,0,0,0,Wolverhampton Wanderers
+Fernando Marçal,5.0,br BRA,LB,31-312,74,0,0,0,0,0,0,1,0,71,2,1,4,0.0,0.0,0.0,1,0,53,61,86.9,3,35,2,3,2,Wolverhampton Wanderers
+Rayan Aït-Nouri,3.0,dz ALG,LB,19-204,16,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,5,1,1,1,Wolverhampton Wanderers
+Romain Saïss,27.0,ma MAR,CB,30-276,90,1,0,0,0,3,2,0,0,87,2,2,1,0.2,0.2,0.0,1,0,67,75,89.3,11,55,0,0,0,Wolverhampton Wanderers
+Conor Coady,16.0,eng ENG,CB,27-306,90,0,0,0,0,0,0,1,0,72,1,1,1,0.0,0.0,0.0,1,0,59,67,88.1,3,43,0,1,0,Wolverhampton Wanderers
+Nélson Semedo,22.0,pt POR,RB,27-041,90,0,0,0,0,0,0,1,0,80,4,2,0,0.0,0.0,0.1,3,1,57,68,83.8,11,37,2,2,1,Wolverhampton Wanderers
+Rui Patrício,11.0,pt POR,GK,32-316,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,15,16,93.8,0,10,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,990,1,1,0,0,11,6,4,0,711,21,12,10,0.9,0.9,0.7,21,2,495,601,82.4,60,410,27,22,14,Wolverhampton Wanderers
+Son Heung-min,7.0,kr KOR,FW,28-172,83,0,0,0,0,1,1,0,0,42,1,0,1,0.0,0.0,0.1,3,1,27,35,77.1,2,19,2,3,1,Tottenham Hotspur
+Érik Lamela,11.0,ar ARG,FW,28-298,7,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,7,0,1,0,Tottenham Hotspur
+Harry Kane,10.0,eng ENG,FW,27-152,90,0,0,0,0,1,0,0,0,51,0,0,0,0.1,0.1,0.0,0,0,26,39,66.7,3,29,1,4,2,Tottenham Hotspur
+Tanguy Ndombele,28.0,fr FRA,AM,23-365,69,1,0,0,0,1,1,0,0,37,2,0,0,0.0,0.0,0.1,5,0,22,30,73.3,1,18,2,4,2,Tottenham Hotspur
+Moussa Sissoko,17.0,fr FRA,CM,31-133,21,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,0,5,1,0,0,Tottenham Hotspur
+Pierre Højbjerg,5.0,dk DEN,"CM,AM",25-144,90,0,0,0,0,0,0,0,0,69,1,2,3,0.0,0.0,0.0,0,0,56,65,86.2,9,29,3,0,0,Tottenham Hotspur
+Harry Winks,8.0,eng ENG,CM,24-329,90,0,0,0,0,0,0,1,0,68,2,1,1,0.0,0.0,0.0,0,0,49,62,79.0,8,28,0,0,0,Tottenham Hotspur
+Sergio Reguilón,3.0,es ESP,WB,24-011,62,0,0,0,0,2,1,0,0,35,0,2,1,0.1,0.1,0.0,0,0,17,22,77.3,1,14,2,2,0,Tottenham Hotspur
+Steven Bergwijn,23.0,nl NED,WB,23-080,28,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,7,9,77.8,1,8,1,2,1,Tottenham Hotspur
+Matt Doherty,2.0,ie IRL,WB,28-346,90,0,0,0,0,0,0,0,0,62,4,3,1,0.0,0.0,0.0,1,0,39,51,76.5,0,18,1,0,0,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,CB,27-247,90,0,1,0,0,0,0,0,0,47,2,2,0,0.0,0.0,0.1,2,1,31,38,81.6,3,17,0,0,0,Tottenham Hotspur
+Eric Dier,15.0,eng ENG,CB,26-347,90,0,0,0,0,1,0,0,0,65,1,1,1,0.1,0.1,0.0,1,0,46,53,86.8,2,25,1,0,0,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,24-198,90,0,0,0,0,0,0,0,0,55,1,0,1,0.0,0.0,0.0,0,0,36,45,80.0,5,24,0,0,0,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,34-001,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,15,26,57.7,0,15,0,0,0,Tottenham Hotspur
+14 Players,,,,,990,1,1,0,0,6,3,1,0,595,14,11,10,0.4,0.4,0.3,12,2,385,494,77.9,35,256,14,16,6,Tottenham Hotspur

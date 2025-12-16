@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Alexandre Lacazette,9.0,fr FRA,FW,29-325,69,0,0,0,0,2,0,0,0,28,0,0,1,0.1,0.1,0.5,2,0,18,25,72.0,4,15,0,1,0,Arsenal
+Eddie Nketiah,30.0,eng ENG,FW,21-323,21,1,0,0,0,3,1,0,0,9,0,0,0,0.8,0.8,0.1,1,0,4,4,100.0,0,4,0,0,0,Arsenal
+Gabriel Martinelli,35.0,br BRA,"LW,RW",19-304,90,0,0,0,0,4,2,0,0,42,1,0,1,1.1,1.1,0.5,6,0,24,28,85.7,0,27,9,5,5,Arsenal
+Bukayo Saka,7.0,eng ENG,"RW,RB",19-225,90,0,0,0,0,2,0,0,0,61,0,0,0,0.0,0.0,0.2,6,0,43,55,78.2,3,39,4,6,4,Arsenal
+Emile Smith Rowe,32.0,eng ENG,AM,20-264,90,0,0,0,0,2,0,0,0,61,0,0,0,0.1,0.1,0.5,3,0,52,55,94.5,3,43,5,4,1,Arsenal
+Dani Ceballos,8.0,es ESP,DM,24-254,90,0,0,0,0,1,1,0,0,82,2,2,2,0.1,0.1,0.1,7,1,56,72,77.8,4,51,2,1,0,Arsenal
+Mohamed Elneny,25.0,eg EGY,DM,28-281,67,0,0,0,0,0,0,0,0,56,3,2,0,0.0,0.0,0.0,0,0,43,51,84.3,4,35,0,0,0,Arsenal
+Thomas Partey,18.0,gh GHA,DM,27-309,23,0,0,0,0,0,0,0,0,23,3,0,0,0.0,0.0,0.0,0,0,17,21,81.0,3,11,1,0,0,Arsenal
+Granit Xhaka,34.0,ch SUI,LB,28-203,90,0,0,0,0,1,0,0,0,120,4,0,0,0.0,0.0,0.0,2,0,105,113,92.9,14,81,3,0,0,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,23-120,90,0,0,0,0,1,0,0,0,82,2,2,1,0.1,0.1,0.0,0,0,65,74,87.8,6,59,0,0,0,Arsenal
+Rob Holding,16.0,eng ENG,CB,25-210,90,0,0,0,0,0,0,0,0,98,1,0,1,0.0,0.0,0.0,1,0,82,92,89.1,5,74,1,1,1,Arsenal
+Héctor Bellerín,2.0,es ESP,RB,26-030,67,0,0,0,0,1,0,0,0,69,2,2,0,0.2,0.2,0.0,0,0,49,63,77.8,8,43,1,1,0,Arsenal
+Nicolas Pépé,19.0,ci CIV,LW,25-324,23,0,0,0,0,1,1,0,0,17,0,0,0,0.3,0.3,0.0,1,0,10,15,66.7,0,12,1,1,0,Arsenal
+Mathew Ryan,33.0,au AUS,GK,29-010,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.1,1,0,19,21,90.5,0,14,0,0,0,Arsenal
+14 Players,,,,,990,1,0,0,0,18,5,0,0,770,18,8,6,2.7,2.7,1.9,30,1,587,689,85.2,54,508,27,20,11,Arsenal
+Ivan Cavaleiro,17.0,pt POR,"FW,LM",27-182,83,0,0,0,0,0,0,0,0,21,0,1,0,0.0,0.0,0.0,0,0,9,15,60.0,3,11,2,3,3,Fulham
+Joe Bryan,23.0,eng ENG,LM,27-213,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Fulham
+Josh Maja,27.0,ng NGA,FW,22-112,76,1,0,1,1,1,0,0,0,16,0,1,0,0.8,0.1,0.0,0,0,7,8,87.5,0,9,0,2,1,Fulham
+Ruben Loftus-Cheek,15.0,eng ENG,FW,25-085,14,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,5,7,71.4,0,7,0,1,0,Fulham
+Ademola Lookman,19.0,ng NGA,LM,23-180,68,0,0,0,0,0,0,0,0,29,0,0,1,0.0,0.0,0.0,1,0,16,20,80.0,0,19,2,4,2,Fulham
+Harrison Reed,21.0,eng ENG,DM,26-081,22,0,0,0,0,0,0,0,0,11,1,2,1,0.0,0.0,0.0,0,0,6,8,75.0,1,5,0,0,0,Fulham
+Mario Lemina,18.0,ga GAB,CM,27-229,90,0,0,0,0,0,0,0,0,38,4,3,3,0.0,0.0,0.0,1,1,17,24,70.8,1,16,1,2,0,Fulham
+Andre-Frank Zambo Anguissa,29.0,cm CMR,CM,25-153,90,0,0,0,0,0,0,0,0,37,0,1,2,0.0,0.0,0.0,0,0,22,24,91.7,3,18,1,5,2,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,RM,28-075,90,0,0,0,0,1,0,1,0,32,3,0,0,0.0,0.0,0.0,1,0,13,21,61.9,2,18,1,0,0,Fulham
+Antonee Robinson,33.0,us USA,LB,23-253,90,0,0,0,0,0,0,0,0,38,1,1,0,0.0,0.0,0.0,0,0,19,31,61.3,2,19,3,3,2,Fulham
+Tosin Adarabioyo,16.0,eng ENG,CB,23-206,90,0,0,0,0,0,0,0,0,56,1,2,2,0.0,0.0,0.0,1,0,33,42,78.6,3,33,0,0,0,Fulham
+Joachim Andersen,5.0,dk DEN,CB,24-322,90,0,0,0,0,0,0,1,0,50,0,0,0,0.0,0.0,0.0,0,0,34,41,82.9,0,35,0,0,0,Fulham
+Ola Aina,34.0,ng NGA,RB,24-192,90,0,0,0,0,0,0,0,0,34,2,0,0,0.0,0.0,0.0,0,0,16,29,55.2,0,22,0,1,1,Fulham
+Alphonse Areola,1.0,fr FRA,GK,28-050,90,0,0,0,0,0,0,1,0,39,0,0,0,0.0,0.0,0.0,0,0,20,34,58.8,0,12,0,0,0,Fulham
+14 Players,,,,,990,1,0,1,1,2,0,3,0,414,12,11,10,0.9,0.1,0.0,4,1,219,306,71.6,15,224,10,21,11,Fulham

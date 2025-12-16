@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Pierre-Emerick Aubameyang,14.0,ga GAB,FW,31-164,90,0,0,0,0,5,1,0,0,22,0,0,0,0.7,0.7,0.0,0,0,8,13,61.5,2,10,0,0,0,Arsenal
+Bukayo Saka,7.0,eng ENG,"LW,LM",19-085,90,0,0,0,0,1,0,0,0,56,0,1,1,0.4,0.4,0.3,3,0,29,45,64.4,6,33,3,3,2,Arsenal
+Willian,12.0,br BRA,RW,32-112,64,0,1,0,0,1,0,0,0,35,3,0,0,0.1,0.1,0.1,3,1,21,30,70.0,3,16,1,0,0,Arsenal
+Reiss Nelson,24.0,eng ENG,"RW,RM",20-355,26,0,0,0,0,1,0,0,0,23,1,1,0,0.1,0.1,0.0,1,0,11,19,57.9,4,13,3,1,0,Arsenal
+Joe Willock,28.0,eng ENG,AM,21-101,90,0,0,0,0,1,0,0,0,59,3,0,1,0.0,0.0,0.0,3,0,33,43,76.7,6,31,3,0,0,Arsenal
+Granit Xhaka,34.0,ch SUI,DM,28-063,80,0,0,0,0,0,0,0,0,69,2,4,1,0.0,0.0,0.0,2,0,54,60,90.0,10,44,0,0,0,Arsenal
+Alexandre Lacazette,9.0,fr FRA,FW,29-185,10,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Arsenal
+Dani Ceballos,8.0,es ESP,DM,24-114,90,0,0,0,0,0,0,0,0,67,2,0,1,0.0,0.0,0.0,4,0,54,64,84.4,10,50,4,1,0,Arsenal
+Kieran Tierney,3.0,sct SCO,LB,23-177,90,0,0,0,0,1,0,1,0,73,2,1,1,0.0,0.0,0.0,0,0,48,65,73.8,1,40,2,0,0,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,22-346,90,1,0,0,0,1,1,0,0,83,0,1,2,0.1,0.1,0.0,1,0,66,74,89.2,8,53,2,0,0,Arsenal
+David Luiz,23.0,br BRA,CB,33-221,45,0,0,0,0,1,0,0,0,35,0,0,1,0.0,0.0,0.1,1,0,23,31,74.2,1,23,1,0,0,Arsenal
+Rob Holding,16.0,eng ENG,CB,25-070,45,0,0,0,0,1,0,1,0,43,0,0,0,0.2,0.2,0.0,1,0,35,41,85.4,2,29,1,0,0,Arsenal
+Héctor Bellerín,2.0,es ESP,RB,25-255,90,0,0,0,0,0,0,1,0,61,0,1,4,0.0,0.0,0.4,4,1,44,50,88.0,9,33,0,1,0,Arsenal
+Bernd Leno,1.0,de GER,GK,28-270,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,20,20,100.0,1,14,0,0,0,Arsenal
+14 Players,,,,,990,1,1,0,0,13,2,3,0,651,13,9,13,1.5,1.5,0.8,23,2,447,557,80.3,63,392,20,6,2,Arsenal
+Raúl Jiménez,9.0,mx MEX,FW,29-208,14,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Wolverhampton Wanderers
+Fábio Silva,17.0,pt POR,FW,18-133,63,0,0,0,0,3,1,1,0,27,1,0,0,0.3,0.3,0.1,2,0,12,17,70.6,2,13,2,1,1,Wolverhampton Wanderers
+Max Kilman,49.0,eng ENG,CB,23-190,13,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,0,2,0,0,0,Wolverhampton Wanderers
+Pedro Neto,7.0,pt POR,"LW,FW",20-265,90,1,0,0,0,2,2,0,0,53,0,2,0,0.6,0.6,0.3,5,1,32,39,82.1,1,34,6,2,1,Wolverhampton Wanderers
+Adama Traoré,37.0,es ESP,"RW,FW",24-309,90,0,0,0,0,1,0,1,0,35,0,1,1,0.1,0.1,0.5,4,0,13,24,54.2,3,20,7,3,2,Wolverhampton Wanderers
+Daniel Podence,10.0,pt POR,AM,25-039,69,1,0,0,0,2,1,0,0,38,0,0,0,0.5,0.5,0.0,5,1,28,34,82.4,5,26,2,5,4,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,CM,23-261,21,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,0,0,5,8,62.5,1,4,0,0,0,Wolverhampton Wanderers
+João Moutinho,28.0,pt POR,"DM,CM,LM",34-082,90,0,0,0,0,1,0,0,0,72,6,2,2,0.0,0.0,0.0,1,0,45,55,81.8,5,35,1,0,0,Wolverhampton Wanderers
+Leander Dendoncker,32.0,be BEL,"DM,CM,RM",25-228,90,0,0,0,0,2,1,0,0,40,0,0,0,0.5,0.5,0.0,1,1,21,27,77.8,0,14,0,1,1,Wolverhampton Wanderers
+Fernando Marçal,5.0,br BRA,"LB,WB",31-284,90,0,0,0,0,0,0,0,0,73,3,1,0,0.0,0.0,0.0,0,0,52,58,89.7,2,29,1,0,0,Wolverhampton Wanderers
+Conor Coady,16.0,eng ENG,CB,27-278,90,0,0,0,0,0,0,1,0,60,0,1,3,0.0,0.0,0.0,0,0,41,46,89.1,0,30,0,0,0,Wolverhampton Wanderers
+Willy Boly,15.0,ci CIV,CB,29-300,90,0,0,0,0,0,0,1,0,57,1,4,0,0.0,0.0,0.0,1,0,36,46,78.3,1,33,0,0,0,Wolverhampton Wanderers
+Nélson Semedo,22.0,pt POR,"RB,WB",27-013,90,0,0,0,0,0,0,0,0,60,1,1,3,0.0,0.0,0.1,1,0,36,47,76.6,2,23,1,1,1,Wolverhampton Wanderers
+Rui Patrício,11.0,pt POR,GK,32-288,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,20,29,69.0,0,14,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,990,2,0,0,0,11,5,4,0,568,12,12,11,2.0,2.0,1.0,20,3,346,437,79.2,22,278,20,13,10,Wolverhampton Wanderers

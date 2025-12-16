@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Gabriel Jesus,33.0,br BRA,FW,21-263,90,0,0,0,0,2,0,0,0,27,1,1,0,0.3,0.3,0.0,0,0,12,18,66.7,1,18,2,1,0,Manchester City
+Leroy Sané,19.0,de GER,"LW,WB,LM",22-345,90,0,0,0,0,5,2,0,0,88,0,0,2,0.2,0.2,0.1,9,1,50,66,75.8,5,61,4,8,2,Manchester City
+Raheem Sterling,7.0,eng ENG,"RW,RM,WB",24-014,68,0,0,0,0,1,0,0,0,48,1,0,1,0.1,0.1,0.2,3,0,30,35,85.7,3,37,5,5,2,Manchester City
+Riyad Mahrez,26.0,dz ALG,WB,27-304,22,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,12,17,70.6,0,12,0,0,0,Manchester City
+Bernardo Silva,20.0,pt POR,"LM,AM,CM",24-134,90,0,1,0,0,2,0,0,0,76,2,0,1,0.2,0.2,0.2,5,1,56,66,84.8,10,58,2,4,2,Manchester City
+John Stones,5.0,eng ENG,"CM,CB",24-208,90,0,0,0,0,0,0,0,0,117,1,1,1,0.0,0.0,0.0,3,0,95,110,86.4,8,67,3,2,1,Manchester City
+İlkay Gündoğan,8.0,de GER,"RM,CM",28-059,90,1,0,0,0,2,1,0,0,82,2,1,0,0.3,0.3,0.3,4,0,59,74,79.7,5,55,1,0,0,Manchester City
+Fabian Delph,18.0,eng ENG,LB,29-031,61,0,1,0,0,1,1,0,0,81,2,0,0,0.0,0.0,0.3,1,1,69,75,92.0,8,69,2,0,0,Manchester City
+Kevin De Bruyne,17.0,be BEL,CM,27-177,29,1,0,0,0,1,1,0,0,61,0,0,0,0.0,0.0,0.3,5,1,50,60,83.3,16,52,3,1,1,Manchester City
+Aymeric Laporte,14.0,es ESP,CB,24-209,90,0,0,0,0,3,0,0,0,113,2,0,1,0.4,0.4,0.1,3,0,97,105,92.4,15,90,11,1,1,Manchester City
+Nicolás Otamendi,30.0,ar ARG,CB,30-313,49,0,0,0,0,1,0,0,0,63,3,0,0,0.0,0.0,0.0,0,0,52,58,89.7,9,49,2,0,0,Manchester City
+Sergio Agüero,10.0,ar ARG,FW,30-203,41,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,6,0,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,"RB,CB",28-208,90,0,0,0,0,1,0,0,0,109,3,3,1,0.0,0.0,0.0,3,0,86,100,86.0,13,77,1,2,1,Manchester City
+Ederson,31.0,br BRA,GK,25-127,90,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,16,16,100.0,3,12,0,0,0,Manchester City
+14 Players,,,,,990,2,2,0,0,19,5,0,0,912,17,6,7,1.5,1.5,1.3,36,4,688,807,85.3,96,663,36,24,10,Manchester City
+Wilfried Zaha,11.0,ci CIV,FW,26-042,87,0,0,0,0,0,0,1,0,36,0,1,1,0.0,0.0,0.0,4,2,15,22,68.2,0,31,2,8,3,Crystal Palace
+Jordan Ayew,14.0,gh GHA,FW,27-102,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Crystal Palace
+Max Meyer,7.0,de GER,LW,23-095,89,0,0,0,0,1,0,0,0,29,3,1,0,0.0,0.0,0.0,1,1,13,19,68.4,3,14,3,0,0,Crystal Palace
+Jason Puncheon,42.0,eng ENG,LW,32-187,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Crystal Palace
+Andros Townsend,10.0,eng ENG,RW,27-159,90,1,0,0,0,2,1,0,0,37,5,2,2,0.2,0.2,0.0,3,2,14,20,70.0,2,19,2,2,2,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,CM,25-364,90,1,0,0,0,1,1,0,0,43,2,2,2,0.0,0.0,0.0,0,0,16,27,59.3,1,19,2,3,1,Crystal Palace
+Luka Milivojević,4.0,rs SRB,CM,27-259,90,1,0,1,1,0,0,0,0,29,5,2,0,0.8,0.0,0.0,0,0,14,19,73.7,1,7,0,0,0,Crystal Palace
+James McArthur,18.0,sct SCO,CM,31-076,90,0,1,0,0,0,0,1,0,25,0,2,2,0.0,0.0,0.0,1,1,8,13,61.5,2,8,0,0,0,Crystal Palace
+Patrick van Aanholt,3.0,nl NED,LB,28-115,90,0,0,0,0,0,0,1,0,47,2,1,3,0.0,0.0,0.0,0,0,24,30,80.0,1,15,1,1,0,Crystal Palace
+Mamadou Sakho,12.0,fr FRA,CB,28-312,90,0,0,0,0,0,0,0,0,28,1,2,1,0.0,0.0,0.0,0,0,8,13,61.5,0,7,0,0,0,Crystal Palace
+James Tomkins,5.0,eng ENG,CB,29-268,90,0,0,0,0,0,0,0,0,24,0,1,2,0.0,0.0,0.0,0,0,4,8,50.0,0,4,0,0,0,Crystal Palace
+Aaron Wan-Bissaka,29.0,cd COD,RB,21-026,90,0,0,0,0,0,0,0,0,34,5,2,3,0.0,0.0,0.2,1,0,10,20,50.0,1,7,2,0,0,Crystal Palace
+Vicente Guaita,31.0,es ESP,GK,31-346,90,0,0,0,0,0,0,1,0,38,0,0,0,0.0,0.0,0.0,0,0,5,37,13.5,0,18,0,0,0,Crystal Palace
+13 Players,,,,,990,3,1,1,1,4,2,4,0,372,23,16,16,1.1,0.3,0.3,10,6,132,229,57.6,11,150,12,14,6,Crystal Palace

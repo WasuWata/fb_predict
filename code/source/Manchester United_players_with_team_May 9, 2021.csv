@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Marcus Rashford,10.0,eng ENG,"FW,RW",23-190,90,0,1,0,0,3,1,0,0,51,1,0,1,0.1,0.1,0.5,5,1,34,42,81.0,9,39,7,2,0,Manchester United
+Paul Pogba,6.0,fr FRA,LW,28-055,90,0,0,0,0,2,0,0,0,59,0,1,0,0.1,0.1,0.1,5,1,37,50,74.0,6,51,1,2,1,Manchester United
+Mason Greenwood,11.0,eng ENG,RW,19-220,64,1,0,0,0,3,2,0,0,40,0,0,0,0.1,0.1,0.0,0,0,26,33,78.8,2,32,6,4,2,Manchester United
+Edinson Cavani,7.0,uy URU,FW,34-084,26,1,0,0,0,2,1,0,0,12,0,0,0,0.3,0.3,0.0,1,0,7,7,100.0,0,8,0,0,0,Manchester United
+Bruno Fernandes,18.0,pt POR,AM,26-243,85,1,0,1,1,3,0,0,0,77,2,1,0,1.0,0.2,0.1,5,1,48,62,77.4,6,52,2,1,0,Manchester United
+Nemanja Matić,31.0,rs SRB,DM,32-281,5,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,12,12,100.0,1,12,0,0,0,Manchester United
+Fred,17.0,br BRA,"DM,AM",28-065,90,0,0,0,0,1,1,0,0,73,3,1,0,0.0,0.0,0.0,5,1,65,69,94.2,12,55,0,2,2,Manchester United
+Scott McTominay,39.0,sct SCO,DM,24-152,90,0,0,0,0,0,0,0,0,71,1,1,0,0.0,0.0,0.0,1,0,54,60,90.0,6,54,1,1,1,Manchester United
+Luke Shaw,23.0,eng ENG,LB,25-301,90,0,0,0,0,2,1,0,0,70,1,1,0,0.1,0.1,0.1,7,0,50,63,79.4,4,52,4,4,2,Manchester United
+Harry Maguire,5.0,eng ENG,CB,28-065,77,0,0,0,0,1,0,1,0,50,0,1,1,0.0,0.0,0.0,3,0,37,42,88.1,5,33,2,0,0,Manchester United
+Eric Bailly,3.0,ci CIV,CB,27-027,13,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,10,0,0,0,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,26-296,90,0,0,0,0,0,0,0,0,74,1,4,0,0.0,0.0,0.0,0,0,57,65,87.7,3,50,1,0,0,Manchester United
+Aaron Wan-Bissaka,29.0,cd COD,RB,23-164,90,0,1,0,0,0,0,0,0,65,0,1,4,0.0,0.0,0.0,2,2,44,53,83.0,4,43,1,1,1,Manchester United
+Dean Henderson,26.0,eng ENG,GK,24-058,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,25,32,78.1,0,25,0,0,0,Manchester United
+14 Players,,,,,990,3,2,1,1,17,6,1,0,704,10,11,6,1.7,0.9,0.9,34,6,506,603,83.9,58,516,25,17,9,Manchester United

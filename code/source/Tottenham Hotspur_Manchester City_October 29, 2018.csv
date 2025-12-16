@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Harry Kane,10.0,eng ENG,FW,25-093,90,0,0,0,0,1,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,13,19,68.4,2,20,1,1,0,Tottenham Hotspur
+Lucas Moura,27.0,br BRA,LW,26-077,80,0,0,0,0,0,0,1,0,30,1,0,0,0.0,0.0,0.0,0,0,16,23,69.6,1,23,2,4,3,Tottenham Hotspur
+Christian Eriksen,23.0,dk DEN,LW,26-257,10,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,5,12,41.7,0,5,0,0,0,Tottenham Hotspur
+Moussa Sissoko,17.0,fr FRA,"RW,DM",29-074,90,0,0,0,0,0,0,0,0,46,1,4,1,0.0,0.0,0.0,0,0,24,32,75.0,4,29,5,1,1,Tottenham Hotspur
+Érik Lamela,11.0,ar ARG,"AM,RW",26-239,90,0,0,0,0,2,0,0,0,38,0,0,0,0.4,0.4,0.0,3,0,23,27,85.2,5,29,4,1,1,Tottenham Hotspur
+Mousa Dembélé,19.0,be BEL,DM,31-105,74,0,0,0,0,0,0,0,0,42,2,2,0,0.0,0.0,0.0,0,0,31,35,88.6,2,29,1,2,1,Tottenham Hotspur
+Dele Alli,20.0,eng ENG,AM,22-201,16,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.3,2,0,10,18,55.6,3,14,1,1,1,Tottenham Hotspur
+Eric Dier,15.0,eng ENG,DM,24-287,66,0,0,0,0,0,0,0,0,35,1,0,1,0.0,0.0,0.0,0,0,26,31,83.9,0,25,0,0,0,Tottenham Hotspur
+Harry Winks,8.0,eng ENG,DM,22-269,24,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,0,0,23,26,88.5,1,16,2,0,0,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,LB,25-188,90,0,0,0,0,0,0,1,0,78,4,1,3,0.0,0.0,0.0,0,0,55,64,85.9,8,44,1,0,0,Tottenham Hotspur
+Toby Alderweireld,4.0,be BEL,CB,29-241,90,0,0,0,0,1,1,0,0,65,2,0,2,0.1,0.1,0.0,0,0,52,60,86.7,3,39,0,0,0,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,22-139,90,0,0,0,0,0,0,0,0,66,2,0,1,0.0,0.0,0.0,1,0,51,56,91.1,3,44,0,0,0,Tottenham Hotspur
+Kieran Trippier,2.0,eng ENG,RB,28-040,90,0,0,0,0,0,0,0,0,77,3,0,2,0.0,0.0,0.1,2,0,49,73,67.1,8,35,0,0,0,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,31-307,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,29,44,65.9,0,28,0,0,0,Tottenham Hotspur
+14 Players,,,,,990,0,0,0,0,4,1,2,0,609,17,7,11,0.4,0.4,0.4,8,0,407,520,78.3,40,380,17,10,7,Tottenham Hotspur
+Sergio Agüero,10.0,ar ARG,FW,30-149,70,0,0,0,0,3,2,0,0,24,0,0,0,0.2,0.2,0.0,3,0,13,15,86.7,1,16,4,1,0,Manchester City
+Kevin De Bruyne,17.0,be BEL,"LM,RM",27-123,20,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,0,0,14,18,77.8,3,14,2,1,1,Manchester City
+Raheem Sterling,7.0,eng ENG,LW,23-325,90,0,1,0,0,2,0,0,0,50,1,0,0,0.5,0.5,0.6,5,2,29,38,76.3,3,35,3,3,1,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,27-250,89,1,0,0,0,2,2,0,0,64,2,0,0,0.6,0.6,0.0,2,0,47,58,81.0,6,45,5,3,3,Manchester City
+Gabriel Jesus,33.0,br BRA,FW,21-209,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Manchester City
+David Silva,21.0,es ESP,"LM,FW",32-294,88,0,0,0,0,3,1,0,0,69,1,2,2,0.2,0.2,0.7,7,0,50,59,84.7,13,32,4,1,0,Manchester City
+Vincent Kompany,4.0,be BEL,CB,32-202,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Manchester City
+Fernandinho,25.0,br BRA,CM,33-178,90,0,0,0,0,0,0,1,0,70,5,4,1,0.0,0.0,0.0,2,0,49,56,87.5,4,32,1,2,2,Manchester City
+Bernardo Silva,20.0,pt POR,"RM,FW,RW",24-080,90,0,0,0,0,2,0,0,0,75,0,3,4,0.1,0.1,0.0,4,0,51,60,85.0,6,42,2,6,3,Manchester City
+Benjamin Mendy,22.0,fr FRA,LB,24-104,90,0,0,0,0,0,0,0,0,57,0,1,0,0.0,0.0,0.0,0,0,44,47,93.6,8,29,1,1,0,Manchester City
+Aymeric Laporte,14.0,es ESP,CB,24-155,90,0,0,0,0,0,0,1,0,60,0,3,0,0.0,0.0,0.0,0,0,39,51,76.5,2,26,0,0,0,Manchester City
+John Stones,5.0,eng ENG,"CB,LM",24-154,90,0,0,0,0,0,0,0,0,64,1,0,1,0.0,0.0,0.0,0,0,48,56,85.7,2,32,0,1,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,28-154,90,0,0,0,0,1,0,0,0,60,0,1,0,0.0,0.0,0.0,0,0,39,49,79.6,1,20,1,4,3,Manchester City
+Ederson,31.0,br BRA,GK,25-073,90,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.0,0,0,23,38,60.5,0,25,0,0,0,Manchester City
+14 Players,,,,,990,1,1,0,0,13,5,2,0,660,12,14,8,1.6,1.6,1.4,23,2,446,547,81.5,49,348,23,23,13,Manchester City

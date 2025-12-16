@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ashley Barnes,10.0,eng ENG,FW,29-137,90,0,0,0,0,1,0,0,0,33,1,0,1,0.1,0.1,0.4,3,0,14,24,58.3,2,15,0,0,0,Burnley
+Chris Wood,11.0,nz NZL,FW,27-099,69,0,0,0,0,1,0,0,0,25,0,0,0,0.0,0.0,0.1,2,0,12,17,70.6,0,12,0,0,0,Burnley
+Peter Crouch,15.0,eng ENG,FW,38-045,21,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,1,0,3,8,37.5,1,2,0,0,0,Burnley
+Dwight McNeil,31.0,eng ENG,"LM,RM",19-114,89,1,0,0,0,4,1,0,0,54,0,0,0,0.2,0.2,0.0,2,1,30,40,75.0,9,40,2,5,3,Burnley
+Matěj Vydra,27.0,cz CZE,RM,26-319,1,0,0,0,0,1,1,0,0,2,1,0,0,0.4,0.4,0.0,1,0,0,0,,0,1,0,0,0,Burnley
+Jack Cork,4.0,eng ENG,CM,29-264,90,0,0,0,0,1,0,0,0,57,2,1,1,0.0,0.0,0.1,3,0,42,49,85.7,5,33,0,0,0,Burnley
+Ashley Westwood,18.0,eng ENG,CM,28-349,90,0,0,0,0,1,0,0,0,79,4,1,0,0.0,0.0,0.0,3,0,60,75,80.0,16,50,1,0,0,Burnley
+Jóhann Berg Guðmundsson,7.0,is ISL,RM,28-140,78,0,0,0,0,2,0,0,0,42,1,0,1,0.1,0.1,0.0,2,0,16,34,47.1,0,25,3,1,0,Burnley
+Robbie Brady,12.0,ie IRL,LM,27-061,12,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,1,0,Burnley
+Charlie Taylor,3.0,eng ENG,LB,25-179,90,0,1,0,0,0,0,0,0,82,0,0,2,0.0,0.0,0.1,3,1,51,71,71.8,7,40,6,1,0,Burnley
+Ben Mee,6.0,eng ENG,CB,29-176,90,0,0,0,0,0,0,0,0,70,1,0,3,0.0,0.0,0.0,1,0,48,61,78.7,3,45,1,0,0,Burnley
+James Tarkowski,5.0,eng ENG,CB,26-117,90,0,0,0,0,0,0,0,0,68,0,0,1,0.0,0.0,0.0,1,0,53,63,84.1,4,28,0,0,0,Burnley
+Phil Bardsley,26.0,sct SCO,RB,33-261,90,0,0,0,0,0,0,1,0,81,1,2,1,0.0,0.0,0.0,1,0,60,74,81.1,11,29,1,0,0,Burnley
+Tom Heaton,1.0,eng ENG,GK,32-335,90,0,0,0,0,1,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,23,26,88.5,0,20,0,0,0,Burnley
+14 Players,,,,,990,1,1,0,0,13,2,1,0,639,12,4,10,1.1,1.1,0.8,24,2,415,547,75.9,58,343,14,8,3,Burnley

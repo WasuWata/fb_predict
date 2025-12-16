@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Che Adams,10.0,sct SCO,FW,24-147,90,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,1,0,13,24,54.2,0,14,2,1,1,Southampton
+Theo Walcott,32.0,eng ENG,"FW,LM",31-266,68,0,0,0,0,2,0,0,0,21,0,0,2,0.1,0.1,0.0,0,0,11,15,73.3,1,10,1,1,0,Southampton
+Nathan Redmond,11.0,eng ENG,LM,26-276,22,0,0,0,0,1,0,0,0,16,0,0,0,0.3,0.3,0.0,1,0,10,12,83.3,2,9,1,0,0,Southampton
+Moussa Djenepo,12.0,ml MLI,LM,22-175,45,0,0,0,0,1,0,1,0,21,1,1,1,0.0,0.0,0.0,0,0,6,11,54.5,1,13,3,5,3,Southampton
+Danny Ings,9.0,eng ENG,FW,28-137,45,1,0,1,1,1,1,0,0,17,0,0,1,0.8,0.0,0.3,1,0,5,8,62.5,0,8,0,4,1,Southampton
+Oriol Romeu,6.0,es ESP,CM,29-074,90,0,0,0,0,1,0,1,0,69,4,0,0,0.0,0.0,0.0,2,0,44,55,80.0,5,38,0,3,2,Southampton
+James Ward-Prowse,8.0,eng ENG,CM,26-036,90,0,1,0,0,0,0,0,0,67,0,5,0,0.0,0.0,0.1,4,1,50,61,82.0,7,24,1,0,0,Southampton
+Stuart Armstrong,17.0,sct SCO,RM,28-252,90,0,0,0,0,0,0,0,0,64,5,1,4,0.0,0.0,0.1,2,0,38,48,79.2,5,28,3,3,1,Southampton
+Ryan Bertrand,3.0,eng ENG,LB,31-124,90,0,0,0,0,0,0,0,0,60,0,0,0,0.0,0.0,0.0,2,1,41,53,77.4,4,23,1,0,0,Southampton
+Jannik Vestergaard,4.0,dk DEN,CB,28-126,90,1,0,0,0,2,1,0,0,64,1,3,0,0.1,0.1,0.0,3,1,41,53,77.4,3,33,3,2,2,Southampton
+Jan Bednarek,35.0,pl POL,CB,24-239,90,0,0,0,0,0,0,0,0,54,2,3,1,0.0,0.0,0.0,1,0,33,46,71.7,1,25,0,0,0,Southampton
+Kyle Walker-Peters,2.0,eng ENG,RB,23-238,90,0,0,0,0,1,0,0,0,62,1,2,0,0.0,0.0,0.0,3,1,39,51,76.5,2,34,5,1,1,Southampton
+Alex McCarthy,1.0,eng ENG,GK,31-004,90,0,0,0,0,0,0,1,0,30,0,0,0,0.0,0.0,0.0,0,0,16,28,57.1,0,15,0,0,0,Southampton
+13 Players,,,,,990,2,1,1,1,9,2,3,0,578,15,15,9,1.4,0.6,0.6,20,4,347,465,74.6,31,274,20,20,11,Southampton

@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Danny Ings,9.0,eng ENG,FW,26-191,90,0,0,0,0,3,1,0,0,27,1,0,2,0.1,0.1,0.2,4,0,9,17,52.9,1,19,1,0,0,Southampton
+Nathan Redmond,22.0,eng ENG,FW,24-330,90,0,0,0,0,1,0,0,0,32,0,0,1,0.0,0.0,0.0,2,0,13,24,54.2,2,19,4,4,2,Southampton
+James Ward-Prowse,16.0,eng ENG,"CM,RB,WB",24-090,90,1,0,0,0,1,1,0,0,56,1,1,1,0.4,0.4,0.1,4,0,37,42,88.1,5,29,2,0,0,Southampton
+Oriol Romeu,14.0,es ESP,"CM,DM",27-128,90,0,0,0,0,1,0,0,0,87,3,2,0,0.0,0.0,0.1,3,0,63,77,81.8,16,44,3,0,0,Southampton
+Pierre Højbjerg,23.0,dk DEN,"CM,DM",23-178,83,0,0,0,0,3,1,1,0,78,0,0,0,0.3,0.3,0.0,1,0,60,66,90.9,13,55,3,2,0,Southampton
+Callum Slattery,55.0,eng ENG,DM,19-356,7,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,1,7,0,0,0,Southampton
+Matt Targett,33.0,eng ENG,"WB,LB",23-134,90,0,1,0,0,0,0,0,0,71,2,2,3,0.0,0.0,0.4,3,1,40,57,70.2,2,37,0,3,0,Southampton
+Yan Valery,43.0,tn TUN,WB,19-342,61,0,0,0,0,0,0,0,0,38,4,2,1,0.0,0.0,0.0,0,0,16,25,64.0,0,19,3,2,1,Southampton
+Stuart Armstrong,17.0,sct SCO,AM,26-306,29,0,0,0,0,4,1,0,0,27,3,0,0,0.3,0.3,0.0,3,1,15,21,71.4,2,16,2,1,1,Southampton
+Jannik Vestergaard,4.0,dk DEN,CB,26-180,74,0,0,0,0,0,0,0,0,66,4,1,2,0.0,0.0,0.0,0,0,46,56,82.1,5,38,2,0,0,Southampton
+Mohamed Elyounoussi,11.0,no NOR,AM,24-179,16,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,4,1,1,0,Southampton
+Jack Stephens,5.0,eng ENG,CB,25-003,90,0,0,0,0,0,0,0,0,110,3,0,3,0.0,0.0,0.0,1,0,86,100,86.0,11,74,1,0,0,Southampton
+Jan Bednarek,35.0,pl POL,CB,22-293,90,0,0,0,0,0,0,1,0,79,3,1,4,0.0,0.0,0.0,0,0,53,60,88.3,5,36,1,0,0,Southampton
+Alex McCarthy,1.0,eng ENG,GK,29-058,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,19,24,79.2,0,7,0,0,0,Southampton
+14 Players,,,,,990,1,1,0,0,13,4,2,0,710,24,9,17,1.2,1.2,0.9,22,2,467,582,80.2,64,404,23,13,4,Southampton
+Jordan Ayew,14.0,gh GHA,FW,27-141,90,0,0,0,0,3,0,0,0,40,3,1,1,0.5,0.5,0.1,3,1,16,22,72.7,2,19,2,5,2,Crystal Palace
+Wilfried Zaha,11.0,ci CIV,LW,26-081,86,1,0,0,0,2,1,2,1,49,4,1,0,0.1,0.1,0.1,6,0,23,29,79.3,4,35,6,9,5,Crystal Palace
+Andros Townsend,10.0,eng ENG,RW,27-198,90,0,1,0,0,1,0,0,0,37,0,1,0,0.0,0.0,0.1,7,1,21,28,75.0,3,25,3,6,3,Crystal Palace
+James McArthur,18.0,sct SCO,"LM,RM",31-115,90,0,0,0,0,1,0,0,0,48,2,0,6,0.1,0.1,0.1,2,0,25,34,73.5,2,21,0,2,2,Crystal Palace
+Luka Milivojević,4.0,rs SRB,CM,27-298,90,0,0,0,0,2,1,1,0,52,1,2,2,0.0,0.0,0.2,3,0,26,43,60.5,1,11,0,0,0,Crystal Palace
+Cheikhou Kouyaté,8.0,sn SEN,RM,29-040,70,0,0,0,0,1,0,0,0,40,2,0,1,0.0,0.0,0.0,2,0,24,34,70.6,1,12,1,0,0,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,LM,26-038,20,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,2,6,33.3,1,6,0,0,0,Crystal Palace
+Patrick van Aanholt,3.0,nl NED,LB,28-154,90,0,0,0,0,1,0,0,0,68,3,0,0,0.0,0.0,0.1,4,0,54,61,88.5,4,19,1,1,1,Crystal Palace
+Mamadou Sakho,12.0,fr FRA,CB,28-351,90,0,0,0,0,2,0,0,0,45,0,0,0,0.3,0.3,0.0,0,0,30,37,81.1,0,21,0,2,1,Crystal Palace
+James Tomkins,5.0,eng ENG,CB,29-307,89,0,0,0,0,1,0,0,0,47,2,0,0,0.0,0.0,0.0,0,0,31,37,83.8,2,17,0,0,0,Crystal Palace
+Scott Dann,6.0,eng ENG,CB,31-350,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,0,0,0,0,Crystal Palace
+Aaron Wan-Bissaka,29.0,cd COD,RB,21-065,90,0,0,0,0,0,0,1,0,65,6,3,2,0.0,0.0,0.0,2,0,31,47,66.0,4,20,0,0,0,Crystal Palace
+Vicente Guaita,31.0,es ESP,GK,32-020,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,11,34,32.4,0,17,0,0,0,Crystal Palace
+13 Players,,,,,986,1,1,0,0,15,2,4,1,542,23,8,12,1.1,1.1,0.7,29,2,296,417,71.0,24,223,13,25,14,Crystal Palace

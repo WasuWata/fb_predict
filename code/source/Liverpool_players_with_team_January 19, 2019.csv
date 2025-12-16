@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Mohamed Salah,11.0,eg EGY,FW,26-218,89,2,0,0,0,2,2,0,0,49,1,0,0,1.5,1.5,0.2,1,0,23,30,76.7,2,35,2,5,3,Liverpool
+Rafael Camacho,64.0,pt POR,RB,18-242,1,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Liverpool
+Naby Keïta,8.0,gn GUI,LW,23-343,70,0,1,0,0,0,0,0,0,57,1,0,3,0.0,0.0,0.0,1,1,38,45,84.4,3,42,3,1,0,Liverpool
+Xherdan Shaqiri,23.0,ch SUI,"RW,RM",27-101,20,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,1,5,0,0,0,Liverpool
+Sadio Mané,10.0,sn SEN,"RW,LW,LM",26-284,90,1,0,0,0,5,4,0,0,68,1,0,0,0.4,0.4,0.0,6,1,37,54,68.5,4,56,8,5,1,Liverpool
+Roberto Firmino,9.0,br BRA,"AM,RB",27-109,90,1,0,0,0,2,1,0,0,57,0,0,1,0.1,0.1,0.1,5,0,41,50,82.0,5,40,3,1,0,Liverpool
+Fabinho,3.0,br BRA,DM,25-088,86,0,0,0,0,2,0,0,0,89,2,0,2,0.1,0.1,0.2,3,1,73,79,92.4,13,70,2,1,0,Liverpool
+Adam Lallana,20.0,eng ENG,"CM,DM",30-254,4,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Liverpool
+Jordan Henderson,14.0,eng ENG,"DM,CM",28-216,90,0,0,0,0,0,0,0,0,120,3,1,0,0.0,0.0,0.0,4,0,106,114,93.0,28,106,4,0,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,24-314,90,0,1,0,0,2,1,0,0,103,5,0,1,0.1,0.1,0.1,5,3,70,89,78.7,11,67,6,4,1,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,27-195,90,0,0,0,0,3,0,0,0,123,0,0,0,0.2,0.2,0.0,1,1,109,114,95.6,11,93,2,0,0,Liverpool
+Joël Matip,32.0,cm CMR,CB,27-164,90,0,0,0,0,2,1,0,0,106,3,2,2,0.2,0.2,0.0,1,0,78,91,85.7,5,69,6,0,0,Liverpool
+James Milner,7.0,eng ENG,RB,33-015,88,0,0,0,0,1,0,2,1,91,2,0,0,0.1,0.1,0.4,7,0,66,86,76.7,9,57,4,4,3,Liverpool
+Alisson,13.0,br BRA,GK,26-109,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,20,23,87.0,0,16,0,0,0,Liverpool
+14 Players,,,,,988,4,2,0,0,19,9,2,1,900,19,3,9,2.6,2.6,1.1,34,7,668,787,84.9,92,660,40,21,8,Liverpool

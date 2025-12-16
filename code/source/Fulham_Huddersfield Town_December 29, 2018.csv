@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Aleksandar Mitrović,9.0,rs SRB,FW,24-104,90,1,0,0,0,5,2,0,0,42,0,0,0,0.6,0.6,0.1,4,0,19,28,67.9,4,13,0,0,0,Fulham
+Luciano Vietto,19.0,ar ARG,"AM,LW",25-024,76,0,0,0,0,0,0,0,0,43,1,1,0,0.0,0.0,0.1,4,0,22,36,61.1,3,22,2,0,0,Fulham
+Ryan Sessegnon,3.0,eng ENG,LW,18-225,14,0,1,0,0,2,0,0,0,11,0,0,0,0.1,0.1,0.2,3,1,2,5,40.0,1,4,1,0,0,Fulham
+Tom Cairney,10.0,sct SCO,"CM,AM",27-343,90,0,0,0,0,1,0,0,0,62,0,0,0,0.0,0.0,0.0,2,1,49,59,83.1,6,27,1,0,0,Fulham
+Jean Seri,24.0,ci CIV,CM,27-163,45,0,0,0,0,0,0,1,0,21,0,0,0,0.0,0.0,0.2,2,0,14,18,77.8,1,4,0,0,0,Fulham
+Aboubakar Kamara,47.0,mr MTN,RW,23-297,45,0,0,0,1,1,1,0,0,28,0,0,0,0.8,0.1,0.0,0,0,14,18,77.8,0,13,1,1,1,Fulham
+Calum Chambers,5.0,eng ENG,CM,23-343,90,0,0,0,0,1,0,0,0,67,0,5,3,0.1,0.1,0.0,1,0,31,50,62.0,8,16,1,2,1,Fulham
+Joe Bryan,23.0,eng ENG,"LM,WB",25-103,90,0,0,0,0,2,1,0,0,54,1,0,2,0.1,0.1,0.2,4,0,26,44,59.1,3,16,1,1,1,Fulham
+Cyrus Christie,22.0,ie IRL,"RM,WB",26-090,90,0,0,0,0,1,0,1,0,60,2,1,0,0.0,0.0,0.1,3,0,38,49,77.6,5,21,5,0,0,Fulham
+Tim Ream,13.0,us USA,CB,31-085,90,0,0,0,0,0,0,0,0,49,0,2,3,0.0,0.0,0.0,1,0,34,41,82.9,4,14,0,1,1,Fulham
+Alfie Mawson,26.0,eng ENG,CB,24-344,45,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,2,0,0,0,Fulham
+Maxime Le Marchand,20.0,fr FRA,CB,29-079,45,0,0,0,0,0,0,0,0,31,1,1,1,0.0,0.0,0.0,0,0,18,23,78.3,1,9,0,0,0,Fulham
+Denis Odoi,4.0,gh GHA,CB,30-216,90,0,0,0,0,0,0,1,0,53,3,0,1,0.0,0.0,0.0,2,0,32,44,72.7,6,24,2,1,1,Fulham
+Sergio Rico,25.0,es ESP,GK,25-119,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,21,30,70.0,0,17,0,0,0,Fulham
+14 Players,,,,,990,1,1,0,1,13,4,3,0,559,8,10,10,1.8,1.0,0.9,26,2,324,450,72.0,43,202,14,6,5,Fulham
+Steve Mounié,24.0,bj BEN,FW,24-091,64,0,0,0,0,2,2,0,0,27,1,0,0,0.1,0.1,0.1,1,0,10,16,62.5,2,8,0,1,1,Huddersfield Town
+Laurent Depoitre,20.0,be BEL,FW,30-022,26,0,0,0,0,1,0,0,0,19,0,0,1,0.1,0.1,0.0,1,0,3,12,25.0,0,4,1,1,0,Huddersfield Town
+Alex Pritchard,21.0,eng ENG,FW,25-240,64,0,0,0,0,1,1,0,0,30,0,0,0,0.0,0.0,0.0,1,0,18,26,69.2,2,20,2,2,2,Huddersfield Town
+Elias Kachunga,9.0,cd COD,FW,26-251,26,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,6,0,0,0,Huddersfield Town
+Philip Billing,8.0,dk DEN,DM,22-201,90,0,0,0,0,2,1,0,0,61,1,0,1,0.0,0.0,0.0,1,0,33,49,67.3,2,35,3,0,0,Huddersfield Town
+Jonathan Hogg,6.0,eng ENG,DM,30-023,90,0,0,0,0,0,0,1,0,93,1,3,2,0.0,0.0,0.1,1,0,67,82,81.7,8,62,1,1,1,Huddersfield Town
+Florent Hadergjonaj,33.0,xk KVX,DM,24-151,90,0,0,0,0,0,0,0,0,62,1,2,0,0.0,0.0,0.1,2,0,45,56,80.4,5,26,1,0,0,Huddersfield Town
+Chris Löwe,15.0,de GER,WB,29-257,90,0,0,0,0,1,0,0,0,46,1,2,1,0.1,0.1,0.0,0,0,22,35,62.9,0,15,1,0,0,Huddersfield Town
+Erik Durm,37.0,de GER,WB,26-231,90,0,0,0,0,1,0,0,0,51,1,4,0,0.0,0.0,0.0,2,0,29,45,64.4,2,25,2,1,1,Huddersfield Town
+Terence Kongolo,5.0,nl NED,CB,24-318,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,43,46,93.5,3,28,2,0,0,Huddersfield Town
+Christopher Schindler,26.0,de GER,CB,28-244,90,0,0,0,0,1,1,0,0,82,1,1,0,0.1,0.1,0.0,1,0,64,76,84.2,0,48,0,0,0,Huddersfield Town
+Mathias Jørgensen,25.0,dk DEN,CB,28-250,90,0,0,0,0,0,0,0,0,78,1,0,2,0.0,0.0,0.0,2,0,61,72,84.7,6,39,2,0,0,Huddersfield Town
+Jonas Lössl,1.0,dk DEN,GK,29-331,90,0,0,0,0,0,0,0,0,61,0,0,0,0.0,0.0,0.0,0,0,46,57,80.7,0,30,0,0,0,Huddersfield Town
+13 Players,,,,,990,0,0,0,0,9,5,1,0,673,9,12,7,0.4,0.4,0.3,12,0,445,579,76.9,30,346,15,6,5,Huddersfield Town

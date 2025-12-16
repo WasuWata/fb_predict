@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Anthony Martial,9.0,fr FRA,FW,25-021,74,0,0,0,0,2,1,0,0,20,0,0,0,0.1,0.1,0.1,1,0,6,11,54.5,1,12,1,3,2,Leicester City
+Edinson Cavani,7.0,uy URU,FW,33-316,16,0,1,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.4,1,1,4,5,80.0,1,1,0,0,0,Leicester City
+Marcus Rashford,10.0,eng ENG,"LW,RW",23-056,90,1,0,0,0,3,2,0,0,34,1,0,2,0.9,0.9,0.0,2,0,13,18,72.2,2,21,4,5,2,Leicester City
+Daniel James,21.0,wls WAL,RW,23-046,53,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,1,12,20,60.0,3,12,1,1,1,Leicester City
+Paul Pogba,6.0,fr FRA,"AM,RW",27-286,37,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,6,12,50.0,1,8,1,2,2,Leicester City
+Bruno Fernandes,18.0,pt POR,"AM,LW",26-109,90,1,1,0,0,3,1,1,0,64,3,1,1,0.6,0.6,0.7,3,1,33,49,67.3,6,30,4,0,0,Leicester City
+Fred,17.0,br BRA,DM,27-296,90,0,0,0,0,0,0,0,0,87,5,4,3,0.0,0.0,0.3,2,0,56,72,77.8,7,45,2,2,2,Leicester City
+Scott McTominay,39.0,sct SCO,DM,24-018,90,0,0,0,0,0,0,0,0,39,6,1,4,0.0,0.0,0.0,0,0,19,21,90.5,2,17,1,1,0,Leicester City
+Luke Shaw,23.0,eng ENG,LB,25-167,90,0,0,0,0,0,0,0,0,56,2,0,1,0.0,0.0,0.2,5,0,42,49,85.7,2,32,5,2,2,Leicester City
+Harry Maguire,5.0,eng ENG,CB,27-296,90,0,0,0,0,1,0,0,0,71,0,0,0,0.1,0.1,0.0,0,0,55,64,85.9,4,42,2,0,0,Leicester City
+Eric Bailly,3.0,ci CIV,CB,26-258,90,0,0,0,0,0,0,0,0,76,1,0,0,0.0,0.0,0.0,1,1,61,70,87.1,4,51,2,0,0,Leicester City
+Victor Lindelöf,2.0,se SWE,RB,26-162,65,0,0,0,0,0,0,0,0,59,2,2,1,0.0,0.0,0.0,0,0,39,52,75.0,2,23,0,0,0,Leicester City
+Axel Tuanzebe,38.0,cd COD,RB,23-042,25,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,12,15,80.0,0,10,0,1,0,Leicester City
+David de Gea,1.0,es ESP,GK,30-049,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,16,19,84.2,0,9,0,0,0,Leicester City
+14 Players,,,,,990,2,2,0,0,9,4,1,0,590,20,9,12,1.7,1.7,1.7,17,4,374,477,78.4,35,313,23,17,11,Leicester City

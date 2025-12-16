@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Andre Gray,18.0,jm JAM,FW,27-102,54,0,0,0,0,2,1,0,0,16,0,0,0,0.1,0.1,0.0,3,0,6,8,75.0,0,13,2,2,0,Watford
+Isaac Success,10.0,ng NGA,"FW,RM",22-272,36,0,0,0,0,0,0,0,0,13,2,0,0,0.0,0.0,0.0,1,0,7,9,77.8,1,7,0,0,0,Watford
+Troy Deeney,9.0,eng ENG,FW,30-099,90,0,0,0,0,3,0,0,0,32,0,0,0,0.3,0.3,0.1,3,0,13,24,54.2,1,13,1,0,0,Watford
+Roberto Pereyra,37.0,ar ARG,"AM,LM,RM",27-272,73,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.1,3,0,34,39,87.2,3,28,2,1,1,Watford
+Gerard Deulofeu,7.0,es ESP,LM,24-207,17,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,6,0,0,0,Watford
+Will Hughes,19.0,eng ENG,"AM,RM",23-172,54,0,0,0,0,2,1,0,0,30,1,1,1,0.1,0.1,0.0,0,0,16,20,80.0,3,19,0,2,1,Watford
+Adrian Mariappa,6.0,jm JAM,CB,32-003,36,0,0,0,0,0,0,0,0,26,3,0,0,0.0,0.0,0.0,1,0,16,22,72.7,1,11,0,0,0,Watford
+Abdoulaye Doucouré,16.0,ml MLI,"CM,DM,LM",25-278,90,0,0,0,0,2,0,1,0,52,2,0,1,0.1,0.1,0.0,3,0,34,45,75.6,6,33,1,0,0,Watford
+Étienne Capoue,29.0,fr FRA,"CM,DM,CB",30-087,90,0,0,0,0,2,0,0,0,59,4,4,2,0.2,0.2,0.0,2,0,31,39,79.5,4,31,1,2,1,Watford
+José Holebas,25.0,gr GRE,LB,34-101,90,0,0,0,0,1,0,1,0,71,2,0,1,0.1,0.1,0.3,4,0,34,64,53.1,3,21,1,2,0,Watford
+Christian Kabasele,27.0,be BEL,CB,27-224,31,0,0,0,0,0,0,2,1,24,1,2,0,0.0,0.0,0.0,0,0,19,21,90.5,0,16,0,0,0,Watford
+Craig Cathcart,15.0,nir NIR,CB,29-242,90,0,0,0,0,2,0,1,0,57,3,1,0,0.2,0.2,0.2,1,0,41,47,87.2,7,33,0,0,0,Watford
+Kiko Femenía,21.0,es ESP,RB,27-246,90,0,0,0,0,0,0,0,0,53,1,0,2,0.0,0.0,0.1,2,0,38,46,82.6,6,31,1,0,0,Watford
+Ben Foster,26.0,eng ENG,GK,35-186,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,17,31,54.8,0,18,0,0,0,Watford
+14 Players,,,,,931,0,0,0,0,14,2,5,1,520,19,8,7,1.1,1.1,0.8,23,0,311,423,73.5,35,280,9,9,3,Watford
+Callum Wilson,13.0,eng ENG,FW,26-221,90,1,1,0,0,3,2,0,0,33,0,0,0,1.4,1.4,0.4,2,2,12,19,63.2,4,24,1,4,0,Bournemouth
+Joshua King,17.0,no NOR,"FW,RW",26-264,90,2,0,1,1,3,2,0,0,49,1,0,3,1.3,0.5,0.4,3,1,24,31,77.4,5,30,5,1,0,Bournemouth
+Ryan Fraser,24.0,sct SCO,LM,24-224,65,0,1,0,0,0,0,0,0,27,0,0,0,0.0,0.0,1.0,3,1,19,25,76.0,3,18,4,0,0,Bournemouth
+Junior Stanislas,19.0,eng ENG,"LW,LM",28-314,25,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,3,13,0,0,0,Bournemouth
+Lewis Cook,16.0,eng ENG,"CM,LM",21-245,77,0,0,0,0,0,0,0,0,44,0,0,1,0.0,0.0,0.0,0,0,32,39,82.1,4,28,0,1,1,Bournemouth
+Andrew Surman,6.0,eng ENG,LM,32-047,13,0,0,0,0,0,0,1,0,19,0,0,1,0.0,0.0,0.0,1,0,17,17,100.0,2,10,0,0,0,Bournemouth
+Jefferson Lerma,8.0,co COL,CM,23-346,90,0,0,0,0,0,0,0,0,78,3,2,7,0.0,0.0,0.0,1,0,52,58,89.7,5,48,1,1,1,Bournemouth
+David Brooks,20.0,wls WAL,RM,21-090,69,1,0,0,0,1,1,0,0,48,0,2,0,0.7,0.7,0.1,3,1,22,35,62.9,4,32,6,1,1,Bournemouth
+Dan Gosling,4.0,eng ENG,RM,28-247,21,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,8,12,66.7,1,11,0,0,0,Bournemouth
+Adam Smith,15.0,eng ENG,LB,27-160,90,0,0,0,0,0,0,0,0,45,1,0,1,0.0,0.0,0.0,3,1,34,38,89.5,3,33,3,0,0,Bournemouth
+Nathan Aké,5.0,nl NED,CB,23-230,90,0,0,0,0,1,1,0,0,57,2,1,2,0.1,0.1,0.0,0,0,36,38,94.7,0,32,0,0,0,Bournemouth
+Steve Cook,3.0,eng ENG,CB,27-170,90,0,0,0,0,0,0,0,0,60,0,2,1,0.0,0.0,0.0,0,0,40,45,88.9,3,28,0,0,0,Bournemouth
+Simon Francis,2.0,eng ENG,RB,33-232,90,0,0,0,0,0,0,0,0,74,2,1,0,0.0,0.0,0.0,3,1,53,69,76.8,9,42,3,0,0,Bournemouth
+Asmir Begović,27.0,ba BIH,GK,31-108,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,20,27,74.1,0,15,0,0,0,Bournemouth
+14 Players,,,,,990,4,2,1,1,9,6,1,0,588,9,8,16,3.5,2.7,2.0,19,7,378,464,81.5,46,364,23,8,3,Bournemouth

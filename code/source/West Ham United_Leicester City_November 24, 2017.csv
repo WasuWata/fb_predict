@@ -1,0 +1,30 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Andy Carroll,9.0,eng ENG,FW,28-322,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,1,0,22,30,73.3,3,19,0,1,1,West Ham United
+Arthur Masuaku,26.0,cd COD,LW,24-017,89,0,0,0,0,1,1,0,0,64,1,2,2,0.0,0.0,0.0,2,0,29,44,65.9,2,40,8,12,8,West Ham United
+Diafra Sakho,15.0,sn SEN,AM,27-335,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,West Ham United
+Marko Arnautović,7.0,at AUT,RW,28-219,68,0,0,0,0,1,0,0,0,34,3,0,1,0.1,0.1,0.0,0,0,19,28,67.9,2,24,3,3,3,West Ham United
+André Ayew,20.0,gh GHA,RW,27-342,22,0,0,0,0,2,0,1,0,16,1,0,0,0.2,0.2,0.0,1,0,8,9,88.9,0,13,1,1,1,West Ham United
+Manuel Lanzini,10.0,ar ARG,"AM,LW",24-282,90,0,1,0,0,1,1,0,0,85,1,0,0,0.1,0.1,0.6,7,2,65,78,83.3,9,56,6,3,1,West Ham United
+Pedro Obiang,14.0,gq EQG,DM,25-242,90,0,0,0,0,0,0,0,0,53,2,0,1,0.0,0.0,0.0,0,0,34,43,79.1,3,30,0,1,1,West Ham United
+Cheikhou Kouyaté,8.0,sn SEN,DM,27-338,90,1,0,0,0,2,1,0,0,31,3,0,1,0.4,0.4,0.0,0,0,18,22,81.8,1,12,1,1,1,West Ham United
+Aaron Cresswell,3.0,eng ENG,LB,27-344,90,0,0,0,0,0,0,0,0,71,2,1,2,0.0,0.0,0.1,3,0,37,54,68.5,2,32,0,3,1,West Ham United
+Angelo Ogbonna,21.0,it ITA,CB,29-185,90,0,0,0,0,1,1,0,0,38,0,0,0,0.1,0.1,0.0,0,0,31,34,91.2,5,24,0,1,1,West Ham United
+Winston Reid,2.0,nz NZL,CB,29-144,90,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.1,1,0,15,25,60.0,1,16,1,0,0,West Ham United
+Pablo Zabaleta,5.0,ar ARG,RB,32-312,90,0,0,0,0,0,0,0,0,57,5,0,3,0.0,0.0,0.0,0,0,31,49,63.3,3,22,1,0,0,West Ham United
+Joe Hart,25.0,eng ENG,GK,30-219,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,16,25,64.0,0,10,0,0,0,West Ham United
+13 Players,,,,,990,1,1,0,0,8,4,1,0,548,19,4,10,0.9,0.9,0.8,15,2,325,441,73.7,31,298,21,26,18,West Ham United
+Andy Carroll,9.0,eng ENG,FW,28-322,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,1,0,22,30,73.3,3,19,0,1,1,Leicester City
+Arthur Masuaku,26.0,cd COD,LW,24-017,89,0,0,0,0,1,1,0,0,64,1,2,2,0.0,0.0,0.0,2,0,29,44,65.9,2,40,8,12,8,Leicester City
+Diafra Sakho,15.0,sn SEN,AM,27-335,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Leicester City
+Marko Arnautović,7.0,at AUT,RW,28-219,68,0,0,0,0,1,0,0,0,34,3,0,1,0.1,0.1,0.0,0,0,19,28,67.9,2,24,3,3,3,Leicester City
+André Ayew,20.0,gh GHA,RW,27-342,22,0,0,0,0,2,0,1,0,16,1,0,0,0.2,0.2,0.0,1,0,8,9,88.9,0,13,1,1,1,Leicester City
+Manuel Lanzini,10.0,ar ARG,"AM,LW",24-282,90,0,1,0,0,1,1,0,0,85,1,0,0,0.1,0.1,0.6,7,2,65,78,83.3,9,56,6,3,1,Leicester City
+Pedro Obiang,14.0,gq EQG,DM,25-242,90,0,0,0,0,0,0,0,0,53,2,0,1,0.0,0.0,0.0,0,0,34,43,79.1,3,30,0,1,1,Leicester City
+Cheikhou Kouyaté,8.0,sn SEN,DM,27-338,90,1,0,0,0,2,1,0,0,31,3,0,1,0.4,0.4,0.0,0,0,18,22,81.8,1,12,1,1,1,Leicester City
+Aaron Cresswell,3.0,eng ENG,LB,27-344,90,0,0,0,0,0,0,0,0,71,2,1,2,0.0,0.0,0.1,3,0,37,54,68.5,2,32,0,3,1,Leicester City
+Angelo Ogbonna,21.0,it ITA,CB,29-185,90,0,0,0,0,1,1,0,0,38,0,0,0,0.1,0.1,0.0,0,0,31,34,91.2,5,24,0,1,1,Leicester City
+Winston Reid,2.0,nz NZL,CB,29-144,90,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.1,1,0,15,25,60.0,1,16,1,0,0,Leicester City
+Pablo Zabaleta,5.0,ar ARG,RB,32-312,90,0,0,0,0,0,0,0,0,57,5,0,3,0.0,0.0,0.0,0,0,31,49,63.3,3,22,1,0,0,Leicester City
+Joe Hart,25.0,eng ENG,GK,30-219,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,16,25,64.0,0,10,0,0,0,Leicester City
+13 Players,,,,,990,1,1,0,0,8,4,1,0,548,19,4,10,0.9,0.9,0.8,15,2,325,441,73.7,31,298,21,26,18,Leicester City

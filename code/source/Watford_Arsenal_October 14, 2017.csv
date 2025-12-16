@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Andre Gray,18.0,jm JAM,FW,26-110,62,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,13,16,81.3,0,15,1,1,1,Watford
+Troy Deeney,9.0,eng ENG,FW,29-107,28,1,0,1,1,1,0,0,0,16,0,0,0,0.8,0.1,0.1,2,0,7,12,58.3,0,8,0,0,0,Watford
+Richarlison,11.0,br BRA,LW,20-157,90,0,0,0,0,3,0,0,0,44,1,2,2,0.1,0.1,0.0,3,1,19,29,65.5,1,30,7,4,1,Watford
+Roberto Pereyra,37.0,ar ARG,RW,26-280,80,0,0,0,0,1,0,0,0,46,1,0,0,0.1,0.1,0.0,2,1,39,44,88.6,3,41,5,1,1,Watford
+Étienne Capoue,29.0,fr FRA,RM,29-095,10,0,0,0,0,2,0,0,0,10,1,0,0,0.1,0.1,0.0,2,1,6,7,85.7,2,5,0,0,0,Watford
+José Holebas,25.0,gr GRE,"LM,LB",33-109,90,0,0,0,0,1,0,0,0,70,2,1,0,0.0,0.0,0.0,3,0,32,57,56.1,6,35,2,2,1,Watford
+Abdoulaye Doucouré,16.0,ml MLI,"CM,LM",24-286,90,0,0,0,0,0,0,0,0,67,2,1,1,0.0,0.0,0.2,4,0,49,56,87.5,4,37,2,1,0,Watford
+Tom Cleverley,8.0,eng ENG,CM,28-063,90,1,0,0,0,1,1,0,0,68,4,2,0,0.4,0.4,0.0,1,0,46,59,78.0,6,44,0,0,0,Watford
+Kiko Femenía,21.0,es ESP,"RM,RB",26-254,90,0,0,0,0,0,0,0,0,65,2,2,1,0.0,0.0,0.0,0,0,45,55,81.8,2,39,0,0,0,Watford
+Miguel Britos,3.0,uy URU,CB,32-089,90,0,0,0,0,0,0,0,0,55,0,2,1,0.0,0.0,0.0,0,0,41,48,85.4,6,28,0,0,0,Watford
+Christian Kabasele,27.0,be BEL,CB,26-232,90,0,0,0,0,0,0,1,0,49,0,3,0,0.0,0.0,0.0,0,0,29,37,78.4,3,28,1,1,1,Watford
+Adrian Mariappa,6.0,jm JAM,CB,31-011,62,0,0,0,0,0,0,0,0,50,2,3,0,0.0,0.0,0.0,0,0,38,43,88.4,2,33,0,0,0,Watford
+André Carrillo,28.0,pe PER,"CB,RW",26-122,28,0,0,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.1,2,0,13,16,81.3,1,15,0,1,1,Watford
+Heurelho Gomes,1.0,br BRA,GK,36-241,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,13,30,43.3,0,21,0,0,0,Watford
+14 Players,,,,,990,2,0,1,1,10,1,1,0,614,15,16,5,1.7,0.9,0.4,20,3,390,509,76.6,36,379,18,11,6,Watford
+Alexandre Lacazette,9.0,fr FRA,FW,26-139,67,0,0,0,0,0,0,0,0,30,2,0,0,0.0,0.0,0.0,1,0,15,27,55.6,1,17,2,1,1,Arsenal
+Olivier Giroud,12.0,fr FRA,FW,31-014,23,0,0,0,0,1,1,0,0,16,0,0,0,0.0,0.0,0.0,0,0,7,11,63.6,0,10,0,0,0,Arsenal
+Danny Welbeck,23.0,eng ENG,AM,26-322,60,0,0,0,0,0,0,0,0,27,2,0,1,0.0,0.0,0.1,4,0,18,20,90.0,0,20,3,1,0,Arsenal
+Mesut Özil,11.0,de GER,AM,28-364,30,0,0,0,0,1,1,0,0,17,0,1,0,0.3,0.3,0.3,2,0,8,12,66.7,3,12,3,0,0,Arsenal
+Alex Iwobi,17.0,ng NGA,AM,21-164,90,0,0,0,0,1,1,0,0,69,1,0,1,0.3,0.3,0.3,2,0,52,61,85.2,9,50,11,2,1,Arsenal
+Granit Xhaka,29.0,ch SUI,CM,25-017,90,0,1,0,0,2,2,0,0,80,2,0,0,0.1,0.1,0.1,4,1,55,72,76.4,10,52,0,0,0,Arsenal
+Mohamed Elneny,35.0,eg EGY,CM,25-095,90,0,0,0,0,1,0,0,0,75,2,0,1,0.0,0.0,0.0,0,0,61,68,89.7,10,52,1,0,0,Arsenal
+Sead Kolašinac,31.0,ba BIH,WB,24-116,90,0,0,0,0,0,0,0,0,52,0,2,0,0.0,0.0,0.0,1,0,36,46,78.3,2,30,1,0,0,Arsenal
+Héctor Bellerín,24.0,es ESP,WB,22-209,90,0,0,0,0,1,0,0,0,80,1,1,1,0.1,0.1,0.0,1,0,56,71,78.9,5,51,3,0,0,Arsenal
+Nacho Monreal,18.0,es ESP,CB,31-230,90,0,0,0,0,1,0,0,0,67,3,1,2,0.0,0.0,0.0,1,0,48,56,85.7,6,44,1,0,0,Arsenal
+Per Mertesacker,4.0,de GER,CB,33-015,90,1,0,0,0,1,1,0,0,58,1,2,3,0.1,0.1,0.0,1,0,30,39,76.9,2,20,0,0,0,Arsenal
+Laurent Koscielny,6.0,fr FRA,CB,32-034,84,0,0,0,0,0,0,0,0,82,3,2,1,0.0,0.0,0.0,0,0,58,66,87.9,9,45,0,0,0,Arsenal
+Rob Holding,16.0,eng ENG,CB,22-024,6,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,1,0,Arsenal
+Petr Čech,33.0,cz CZE,GK,35-147,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,18,33,54.5,0,13,0,0,0,Arsenal
+14 Players,,,,,990,1,1,0,0,9,6,0,0,697,18,9,11,1.0,1.0,1.0,17,1,464,586,79.2,57,418,25,5,2,Arsenal

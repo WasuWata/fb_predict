@@ -1,0 +1,14 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ollie Watkins,11.0,eng ENG,FW,24-356,90,0,0,0,0,2,1,0,0,37,0,0,1,0.1,0.1,0.0,4,1,22,23,95.7,2,18,0,2,1,Aston Villa
+Anwar El Ghazi,21.0,nl NED,LW,25-231,90,2,0,1,1,7,5,0,0,54,0,0,0,1.6,0.8,0.0,5,0,29,41,70.7,5,36,4,2,2,Aston Villa
+Bertrand Traoré,15.0,bf BFA,RW,25-105,90,1,1,0,0,3,2,0,0,72,0,1,1,0.2,0.2,0.5,5,1,53,59,89.8,6,52,4,6,3,Aston Villa
+Jack Grealish,10.0,eng ENG,AM,25-101,90,0,1,0,0,1,1,0,0,90,0,0,0,0.0,0.0,0.6,11,2,72,84,85.7,16,66,13,5,4,Aston Villa
+John McGinn,7.0,sct SCO,DM,26-063,90,0,0,0,0,4,0,0,0,64,4,1,1,0.4,0.4,0.0,2,1,44,50,88.0,14,48,2,2,2,Aston Villa
+Douglas Luiz,6.0,br BRA,DM,22-225,90,0,0,0,0,1,0,0,0,76,1,1,0,0.0,0.0,0.1,5,0,61,68,89.7,4,51,1,2,1,Aston Villa
+Matt Targett,18.0,eng ENG,LB,25-093,90,0,0,0,0,0,0,0,0,90,2,3,0,0.0,0.0,0.1,2,0,62,83,74.7,7,51,0,0,0,Aston Villa
+Tyrone Mings,5.0,eng ENG,CB,27-282,90,0,0,0,0,0,0,1,0,81,1,2,0,0.0,0.0,0.0,2,0,58,75,77.3,7,53,0,0,0,Aston Villa
+Kortney Hause,30.0,eng ENG,CB,25-157,90,0,0,0,0,0,0,1,0,65,2,1,0,0.0,0.0,0.0,0,0,48,55,87.3,3,41,0,0,0,Aston Villa
+Matty Cash,2.0,pl POL,RB,23-135,90,0,0,0,0,0,0,0,0,83,1,1,0,0.0,0.0,0.0,1,0,59,80,73.8,7,55,3,1,1,Aston Villa
+Emiliano Martínez,26.0,ar ARG,GK,28-109,90,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,9,0,0,0,Aston Villa
+11 Players,,,,,990,3,2,1,1,18,9,2,0,724,11,10,3,2.4,1.6,1.4,37,5,519,630,82.4,71,480,27,20,14,Aston Villa

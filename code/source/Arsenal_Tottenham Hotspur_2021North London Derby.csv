@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Pierre-Emerick Aubameyang,14.0,ga GAB,FW,32-100,90,1,0,0,0,4,2,0,0,35,3,0,3,0.3,0.3,0.0,1,1,11,18,61.1,3,16,1,0,0,Arsenal
+Emile Smith Rowe,10.0,eng ENG,LW,21-060,87,1,1,0,0,1,1,0,0,32,0,0,0,0.2,0.2,0.2,4,2,23,26,88.5,3,28,2,2,2,Arsenal
+Nuno Tavares,20.0,pt POR,LW,21-243,3,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Arsenal
+Bukayo Saka,7.0,eng ENG,RW,20-021,86,1,1,0,0,2,2,0,0,51,3,1,0,0.4,0.4,0.2,4,1,30,37,81.1,4,36,4,3,0,Arsenal
+Ainsley Maitland-Niles,15.0,eng ENG,RW,24-028,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,Arsenal
+Martin Ødegaard,8.0,no NOR,AM,22-283,90,0,0,0,0,0,0,1,0,60,1,1,2,0.0,0.0,0.1,8,2,48,54,88.9,5,41,2,0,0,Arsenal
+Granit Xhaka,34.0,ch SUI,DM,28-364,81,0,0,0,0,0,0,0,0,54,3,1,1,0.0,0.0,0.0,1,0,41,48,85.4,5,31,0,2,2,Arsenal
+Albert Sambi Lokonga,23.0,be BEL,DM,21-339,9,0,0,0,0,0,0,1,0,7,2,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,1,1,Arsenal
+Thomas Partey,5.0,gh GHA,DM,28-105,90,0,0,0,0,2,1,0,0,45,3,3,1,0.0,0.0,0.0,3,0,26,28,92.9,2,26,0,1,0,Arsenal
+Kieran Tierney,3.0,sct SCO,LB,24-113,90,0,0,0,0,1,0,0,0,58,4,0,0,0.0,0.0,0.0,1,0,38,50,76.0,5,35,2,1,0,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,23-281,90,0,0,0,0,1,0,0,0,58,0,0,2,0.0,0.0,0.1,1,0,45,50,90.0,3,36,0,0,0,Arsenal
+Ben White,4.0,eng ENG,CB,23-353,90,0,0,0,0,0,0,0,0,50,1,3,1,0.0,0.0,0.0,0,0,40,42,95.2,1,38,0,0,0,Arsenal
+Takehiro Tomiyasu,18.0,jp JPN,RB,22-325,90,0,0,0,0,1,1,0,0,66,1,1,2,0.0,0.0,0.0,0,0,44,56,78.6,4,33,2,0,0,Arsenal
+Aaron Ramsdale,32.0,eng ENG,GK,23-135,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,24,38,63.2,0,20,0,0,0,Arsenal
+14 Players,,,,,990,3,2,0,0,12,7,2,0,566,22,10,12,1.1,1.1,0.7,23,6,377,457,82.5,36,345,13,10,5,Arsenal
+Harry Kane,10.0,eng ENG,FW,28-060,90,0,0,0,0,5,1,0,0,22,0,0,1,0.5,0.5,0.0,1,0,5,11,45.5,0,14,0,1,0,Tottenham Hotspur
+Son Heung-min,7.0,kr KOR,"LW,AM",29-080,90,1,0,0,0,2,2,0,0,40,1,0,1,0.5,0.5,0.2,6,0,28,33,84.8,2,24,3,2,0,Tottenham Hotspur
+Lucas Moura,27.0,br BRA,RW,29-044,90,0,0,0,0,2,1,0,0,55,0,0,1,0.0,0.0,0.0,1,0,34,47,72.3,3,41,3,3,3,Tottenham Hotspur
+Tanguy Ndombele,28.0,fr FRA,"LM,AM",24-272,69,0,0,0,0,0,0,0,0,38,2,0,0,0.0,0.0,0.0,1,0,28,33,84.8,2,21,3,4,4,Tottenham Hotspur
+Bryan Gil,11.0,es ESP,LW,20-227,21,0,0,0,0,0,0,0,0,18,0,0,2,0.0,0.0,0.0,1,1,11,15,73.3,2,9,3,3,3,Tottenham Hotspur
+Pierre Højbjerg,5.0,dk DEN,"DM,CM",26-052,90,0,0,0,0,0,0,0,0,85,4,4,1,0.0,0.0,0.0,2,0,67,73,91.8,6,41,1,1,0,Tottenham Hotspur
+Dele Alli,20.0,eng ENG,RM,25-168,45,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,0,0,14,16,87.5,0,7,0,2,0,Tottenham Hotspur
+Oliver Skipp,29.0,eng ENG,DM,21-010,45,0,0,0,0,0,0,1,0,36,3,0,1,0.0,0.0,0.0,0,0,28,30,93.3,3,13,0,0,0,Tottenham Hotspur
+Sergio Reguilón,3.0,es ESP,LB,24-284,90,0,1,0,0,0,0,0,0,64,1,2,1,0.0,0.0,0.5,4,1,41,55,74.5,3,27,1,0,0,Tottenham Hotspur
+Eric Dier,15.0,eng ENG,CB,27-254,90,0,0,0,0,0,0,0,0,73,0,1,1,0.0,0.0,0.3,1,0,59,71,83.1,3,41,0,0,0,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,25-106,90,0,0,0,0,0,0,0,0,66,0,0,0,0.0,0.0,0.0,0,0,56,63,88.9,1,40,2,0,0,Tottenham Hotspur
+Japhet Tanganga,25.0,eng ENG,RB,22-179,45,0,0,0,0,1,0,0,0,29,1,1,0,0.1,0.1,0.0,0,0,17,25,68.0,0,15,1,0,0,Tottenham Hotspur
+Emerson,12.0,br BRA,RB,22-255,45,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,1,0,34,37,91.9,2,17,1,0,0,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,34-274,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,23,28,82.1,0,16,0,0,0,Tottenham Hotspur
+14 Players,,,,,990,1,1,0,0,10,4,1,0,617,14,8,9,1.0,1.0,1.0,18,2,445,537,82.9,27,326,18,16,10,Tottenham Hotspur

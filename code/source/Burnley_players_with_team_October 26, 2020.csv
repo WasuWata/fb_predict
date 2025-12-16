@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Chris Wood,9.0,nz NZL,FW,28-324,90,0,0,0,0,3,1,0,0,28,0,0,0,0.1,0.1,0.1,1,0,13,19,68.4,2,13,0,0,0,Burnley
+Ashley Barnes,10.0,eng ENG,FW,30-362,88,0,0,0,0,2,0,0,0,31,1,0,0,0.1,0.1,0.0,6,0,17,20,85.0,0,14,1,0,0,Burnley
+Matěj Vydra,27.0,cz CZE,FW,28-178,2,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Burnley
+Dwight McNeil,11.0,eng ENG,LM,20-339,90,0,0,0,0,0,0,0,0,43,2,1,0,0.0,0.0,0.0,1,0,28,37,75.7,7,30,1,2,1,Burnley
+Josh Brownhill,8.0,eng ENG,CM,24-312,90,0,0,0,0,2,0,1,0,60,4,3,1,0.1,0.1,0.1,5,0,39,46,84.8,0,29,1,1,1,Burnley
+Ashley Westwood,18.0,eng ENG,CM,30-208,90,0,0,0,0,2,1,0,0,53,1,0,1,0.1,0.1,0.7,5,0,35,45,77.8,6,36,0,1,1,Burnley
+Jóhann Berg Guðmundsson,7.0,is ISL,RM,29-365,83,0,0,0,0,2,1,0,0,37,0,1,0,0.1,0.1,0.0,1,0,22,32,68.8,1,29,1,3,2,Burnley
+Jay Rodriguez,19.0,eng ENG,RM,31-089,7,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,1,0,4,4,100.0,0,3,0,0,0,Burnley
+Charlie Taylor,3.0,eng ENG,LB,27-038,90,0,0,0,0,0,0,0,0,59,2,0,0,0.0,0.0,0.0,2,0,39,51,76.5,4,34,1,3,1,Burnley
+James Tarkowski,5.0,eng ENG,CB,27-342,90,0,0,0,0,2,0,0,0,41,1,2,3,0.6,0.6,0.0,0,0,25,28,89.3,2,22,0,0,0,Burnley
+Kevin Long,28.0,ie IRL,CB,30-069,90,0,0,0,0,0,0,1,0,41,2,2,3,0.0,0.0,0.0,1,0,22,33,66.7,4,18,0,0,0,Burnley
+Matthew Lowton,2.0,eng ENG,RB,31-139,90,0,0,0,0,0,0,0,0,61,2,5,0,0.0,0.0,0.0,1,0,32,49,65.3,3,30,0,1,1,Burnley
+Nick Pope,1.0,eng ENG,GK,28-190,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,18,41,43.9,0,29,0,0,0,Burnley
+13 Players,,,,,990,0,0,0,0,13,3,2,0,503,15,14,10,1.0,1.0,0.8,24,0,294,405,72.6,29,288,5,11,7,Burnley

@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Lucas Moura,27.0,br BRA,FW,26-243,90,3,0,0,0,4,4,0,0,59,4,1,2,0.3,0.3,0.0,7,0,41,47,87.2,4,45,3,3,2,Tottenham Hotspur
+Fernando Llorente,18.0,es ESP,FW,34-046,86,0,1,0,0,6,0,0,0,45,0,0,1,0.8,0.8,0.8,5,0,25,36,69.4,2,26,0,1,1,Tottenham Hotspur
+Son Heung-min,7.0,kr KOR,FW,26-279,4,0,1,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.1,1,1,2,2,100.0,1,2,1,0,0,Tottenham Hotspur
+Christian Eriksen,23.0,dk DEN,AM,27-058,90,0,1,0,0,5,0,0,0,96,1,0,0,0.3,0.3,0.5,11,1,54,83,65.1,10,67,3,2,1,Tottenham Hotspur
+Victor Wanyama,12.0,ke KEN,CM,27-292,90,1,0,0,0,2,1,0,0,83,5,0,2,0.7,0.7,0.0,3,2,63,71,88.7,6,54,3,4,2,Tottenham Hotspur
+Moussa Sissoko,17.0,fr FRA,CM,29-240,73,0,1,0,0,1,0,0,0,67,0,0,1,0.0,0.0,0.1,3,1,57,60,95.0,5,48,6,4,4,Tottenham Hotspur
+Oliver Skipp,52.0,eng ENG,CM,18-209,17,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,7,8,87.5,2,2,0,0,0,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,"WB,CB",25-354,90,0,0,0,0,3,0,0,0,72,0,2,1,0.1,0.1,0.0,2,0,56,62,90.3,6,49,5,0,0,Tottenham Hotspur
+Kyle Walker-Peters,16.0,eng ENG,WB,22-000,90,0,0,0,0,0,0,0,0,61,0,0,2,0.0,0.0,0.3,5,1,51,55,92.7,6,44,5,1,1,Tottenham Hotspur
+Jan Vertonghen,5.0,be BEL,CB,31-354,84,0,0,0,0,0,0,1,0,125,1,0,1,0.0,0.0,0.0,0,0,106,117,90.6,13,94,2,2,1,Tottenham Hotspur
+Danny Rose,3.0,eng ENG,WB,28-285,6,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,1,1,3,3,100.0,0,2,0,0,0,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,22-305,90,0,0,0,0,1,0,0,0,99,2,1,0,0.3,0.3,0.0,1,0,85,91,93.4,3,75,0,0,0,Tottenham Hotspur
+Juan Foyth,21.0,ar ARG,CB,21-091,90,0,0,0,0,0,0,1,0,123,2,0,0,0.0,0.0,0.4,3,1,105,119,88.2,10,96,4,2,2,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,32-108,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,15,17,88.2,0,6,0,0,0,Tottenham Hotspur
+14 Players,,,,,990,4,4,0,0,22,5,2,0,864,16,4,11,2.5,2.5,2.1,42,8,670,771,86.9,68,610,32,19,14,Tottenham Hotspur
+Karlan Grant,16.0,eng ENG,"FW,LW",21-207,90,0,0,0,0,2,0,0,0,34,0,1,2,0.1,0.1,0.0,1,0,19,22,86.4,1,21,4,6,3,Huddersfield Town
+Chris Löwe,15.0,de GER,"LM,LB",29-362,90,0,0,0,0,1,0,1,0,47,0,2,4,0.0,0.0,0.0,0,0,25,36,69.4,3,28,4,0,0,Huddersfield Town
+Juninho Bacuna,7.0,cw CUW,"CM,LM",21-249,89,0,0,0,0,1,1,1,0,42,0,1,1,0.0,0.0,0.3,6,0,25,36,69.4,3,25,2,6,4,Huddersfield Town
+Danny Williams,19.0,us USA,LM,30-036,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Huddersfield Town
+Jonathan Hogg,6.0,eng ENG,"CM,RM",30-128,90,0,0,0,0,0,0,0,0,50,4,2,1,0.0,0.0,0.3,1,0,34,39,87.2,6,18,1,0,0,Huddersfield Town
+Elias Kachunga,9.0,cd COD,"RM,RW",26-356,90,0,0,0,0,0,0,0,0,24,2,1,1,0.0,0.0,0.0,0,0,11,16,68.8,1,15,2,1,1,Huddersfield Town
+Erik Durm,37.0,de GER,LB,26-336,68,0,0,0,0,0,0,0,0,41,0,1,0,0.0,0.0,0.0,0,0,23,38,60.5,3,13,0,1,1,Huddersfield Town
+Steve Mounié,24.0,bj BEN,FW,24-196,22,0,0,0,0,2,0,0,0,17,0,0,0,0.4,0.4,0.0,1,0,10,14,71.4,0,5,0,0,0,Huddersfield Town
+Terence Kongolo,5.0,nl NED,CB,25-058,90,0,0,0,0,0,0,0,0,37,3,3,2,0.0,0.0,0.0,1,0,19,24,79.2,2,22,0,1,1,Huddersfield Town
+Jon Gorenc Stanković,27.0,si SVN,"CB,CM",23-089,81,0,0,0,0,1,0,0,0,31,3,0,4,0.2,0.2,0.0,1,0,13,18,72.2,0,11,0,0,0,Huddersfield Town
+Aaron Mooy,10.0,au AUS,RM,28-210,9,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,2,9,1,0,0,Huddersfield Town
+Christopher Schindler,26.0,de GER,CB,28-349,90,0,0,0,0,0,0,0,0,37,1,4,2,0.0,0.0,0.0,0,0,21,28,75.0,0,16,0,0,0,Huddersfield Town
+Florent Hadergjonaj,33.0,xk KVX,RB,24-256,90,0,0,0,0,0,0,0,0,41,0,1,3,0.0,0.0,0.1,1,0,25,33,75.8,6,23,3,3,1,Huddersfield Town
+Ben Hamer,12.0,eng ENG,GK,31-144,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,11,31,35.5,0,16,0,0,0,Huddersfield Town
+14 Players,,,,,990,0,0,0,0,7,1,2,0,442,13,16,20,0.8,0.8,0.7,12,0,244,344,70.9,27,222,17,18,11,Huddersfield Town

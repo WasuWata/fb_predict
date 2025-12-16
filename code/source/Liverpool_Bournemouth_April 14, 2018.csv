@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Roberto Firmino,9.0,br BRA,FW,26-194,89,1,0,0,0,2,1,0,0,52,4,0,1,0.4,0.4,0.1,2,0,31,41,75.6,8,21,5,4,2,Liverpool
+Dominic Solanke,29.0,eng ENG,FW,20-212,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Liverpool
+Sadio Mané,19.0,sn SEN,LW,26-004,76,1,0,0,0,6,2,0,0,49,1,0,0,0.8,0.8,0.0,2,1,30,37,81.1,4,28,5,4,2,Liverpool
+James Milner,7.0,eng ENG,LM,32-100,14,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,1,0,2,3,66.7,1,0,0,0,0,Liverpool
+Mohamed Salah,11.0,eg EGY,RW,25-303,90,1,0,0,0,6,3,0,0,49,0,0,0,0.6,0.6,0.1,4,0,24,33,72.7,3,28,5,6,2,Liverpool
+Georginio Wijnaldum,5.0,nl NED,"LM,RM",27-154,90,0,0,0,0,0,0,0,0,46,4,0,0,0.0,0.0,0.1,7,1,42,42,100.0,2,29,2,1,1,Liverpool
+Jordan Henderson,14.0,eng ENG,CM,27-301,90,0,0,0,0,0,0,0,0,97,5,3,0,0.0,0.0,0.1,5,0,68,86,79.1,15,46,2,1,0,Liverpool
+Alex Oxlade-Chamberlain,21.0,eng ENG,"RM,LW",24-242,90,0,1,0,0,3,0,1,0,68,5,0,4,0.1,0.1,0.4,4,1,38,52,73.1,11,39,6,5,5,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,24-034,90,0,0,0,0,1,0,0,0,68,1,1,1,0.0,0.0,0.0,1,0,53,60,88.3,3,35,1,0,0,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,26-280,90,0,0,0,0,1,0,0,0,107,1,1,2,0.0,0.0,0.0,0,0,84,93,90.3,7,59,1,0,0,Liverpool
+Dejan Lovren,6.0,hr CRO,CB,28-283,82,0,0,0,0,0,0,0,0,109,3,2,0,0.0,0.0,0.1,3,1,88,98,89.8,7,64,4,0,0,Liverpool
+Ragnar Klavan,17.0,ee EST,CB,32-166,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,19-189,90,0,1,0,0,1,0,0,0,98,2,3,3,0.1,0.1,0.5,7,1,70,88,79.5,12,43,4,1,1,Liverpool
+Loris Karius,1.0,de GER,GK,24-296,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,18,23,78.3,0,5,0,0,0,Liverpool
+14 Players,,,,,990,3,2,0,0,20,6,1,0,779,26,10,12,2.0,2.0,1.4,37,5,552,660,83.6,73,400,35,22,13,Liverpool
+Jermain Defoe,18.0,eng ENG,FW,35-189,69,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,6,0,0,0,Bournemouth
+Callum Wilson,13.0,eng ENG,FW,26-046,21,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,5,10,50.0,1,10,1,2,1,Bournemouth
+Joshua King,17.0,no NOR,LM,26-089,90,0,0,0,0,3,0,0,0,51,1,0,0,0.1,0.1,0.1,3,0,24,34,70.6,3,35,2,9,2,Bournemouth
+Dan Gosling,4.0,eng ENG,CM,28-072,90,0,0,0,0,1,1,0,0,54,2,0,1,0.1,0.1,0.0,1,0,39,43,90.7,4,24,0,0,0,Bournemouth
+Lewis Cook,16.0,eng ENG,CM,21-070,72,0,0,0,0,0,0,0,0,41,2,0,0,0.0,0.0,0.0,0,0,28,34,82.4,0,22,0,1,1,Bournemouth
+Andrew Surman,6.0,eng ENG,CM,31-237,18,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,2,0,14,17,82.4,2,9,0,0,0,Bournemouth
+Jordon Ibe,33.0,eng ENG,RM,22-127,57,0,0,0,0,1,0,0,0,19,2,1,0,0.0,0.0,0.0,0,0,11,13,84.6,1,15,1,1,0,Bournemouth
+Lys Mousset,31.0,fr FRA,RM,22-065,33,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,4,6,66.7,0,7,0,1,0,Bournemouth
+Charlie Daniels,11.0,eng ENG,LB,31-219,90,0,0,0,0,0,0,0,0,65,0,0,0,0.0,0.0,0.0,1,0,44,60,73.3,7,28,1,1,1,Bournemouth
+Nathan Aké,5.0,nl NED,CB,23-055,90,0,0,0,0,0,0,1,0,50,3,3,1,0.0,0.0,0.0,0,0,22,33,66.7,1,11,0,0,0,Bournemouth
+Steve Cook,3.0,eng ENG,CB,26-360,90,0,0,0,0,0,0,0,0,52,3,3,3,0.0,0.0,0.0,0,0,25,33,75.8,2,11,0,0,0,Bournemouth
+Simon Francis,2.0,eng ENG,CB,33-057,90,0,0,0,0,0,0,0,0,59,1,0,1,0.0,0.0,0.0,2,0,34,44,77.3,1,24,1,0,0,Bournemouth
+Ryan Fraser,24.0,sct SCO,RB,24-049,90,0,0,0,0,0,0,0,0,49,0,2,0,0.0,0.0,0.0,2,0,35,44,79.5,4,28,2,0,0,Bournemouth
+Asmir Begović,27.0,ba BIH,GK,30-298,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,1,0,25,42,59.5,0,17,0,0,0,Bournemouth
+14 Players,,,,,990,0,0,0,0,6,1,1,0,534,15,10,7,0.3,0.3,0.2,12,0,315,418,75.4,26,247,8,15,5,Bournemouth

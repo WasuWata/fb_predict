@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Pedro Neto,7.0,pt POR,FW,20-281,90,1,0,0,0,4,2,0,0,58,0,0,0,0.2,0.2,0.1,7,0,38,51,74.5,1,32,10,3,1,Wolverhampton Wanderers
+Fábio Silva,17.0,pt POR,FW,18-149,60,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,1,0,9,14,64.3,0,13,0,0,0,Wolverhampton Wanderers
+Adama Traoré,37.0,es ESP,FW,24-325,30,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.0,1,0,5,7,71.4,2,8,2,2,1,Wolverhampton Wanderers
+Daniel Podence,10.0,pt POR,AM,25-055,89,1,0,0,0,1,1,1,0,47,1,2,0,0.0,0.0,0.0,3,1,27,37,73.0,3,35,1,7,6,Wolverhampton Wanderers
+Vitinha,20.0,pt POR,AM,20-306,1,0,1,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,1,1,3,3,100.0,1,1,0,0,0,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,CM,23-277,90,0,0,0,0,1,1,0,0,90,3,2,2,0.0,0.0,0.0,1,0,67,81,82.7,7,64,1,1,1,Wolverhampton Wanderers
+Leander Dendoncker,32.0,be BEL,CM,25-244,45,0,0,0,0,0,0,0,0,18,1,0,1,0.0,0.0,0.0,1,0,11,14,78.6,1,5,0,0,0,Wolverhampton Wanderers
+Owen Otasowie,54.0,us USA,CM,19-344,45,0,1,0,0,1,0,0,0,30,2,3,1,0.0,0.0,0.1,2,1,13,16,81.3,0,10,0,0,0,Wolverhampton Wanderers
+Fernando Marçal,5.0,br BRA,WB,31-300,90,0,0,0,0,0,0,0,0,59,2,3,1,0.0,0.0,0.0,1,0,35,45,77.8,3,31,0,4,1,Wolverhampton Wanderers
+Nélson Semedo,22.0,pt POR,WB,27-029,90,0,0,0,0,2,0,1,0,74,5,0,3,0.0,0.0,0.0,3,0,38,55,69.1,4,39,5,5,4,Wolverhampton Wanderers
+Romain Saïss,27.0,ma MAR,CB,30-264,90,0,0,0,0,1,0,0,0,53,2,1,0,0.0,0.0,0.0,1,1,38,44,86.4,2,33,1,0,0,Wolverhampton Wanderers
+Conor Coady,16.0,eng ENG,CB,27-294,90,0,0,0,0,1,0,0,0,50,0,1,1,0.0,0.0,0.0,0,0,30,35,85.7,0,33,0,0,0,Wolverhampton Wanderers
+Willy Boly,15.0,ci CIV,CB,29-316,90,0,0,0,0,0,0,0,0,46,1,2,1,0.0,0.0,0.0,0,0,26,32,81.3,2,25,0,1,1,Wolverhampton Wanderers
+Rui Patrício,11.0,pt POR,GK,32-304,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,14,19,73.7,0,8,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,990,2,2,0,0,12,4,2,0,584,17,14,11,0.5,0.5,0.4,22,4,354,453,78.1,26,337,20,23,15,Wolverhampton Wanderers
+Olivier Giroud,18.0,fr FRA,FW,34-076,70,1,0,0,0,3,1,0,0,22,0,0,0,0.6,0.6,0.1,1,0,9,12,75.0,1,9,0,0,0,Chelsea
+Tammy Abraham,9.0,eng ENG,FW,23-074,20,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,1,0,2,4,50.0,0,1,0,0,0,Chelsea
+Christian Pulisic,10.0,us USA,LW,22-088,90,0,0,0,0,0,0,0,0,50,0,1,0,0.0,0.0,0.1,5,0,35,44,79.5,8,40,3,7,4,Chelsea
+Timo Werner,11.0,de GER,RW,24-284,90,0,0,0,0,3,0,0,0,40,0,0,0,0.2,0.2,0.0,5,1,23,30,76.7,7,22,3,4,2,Chelsea
+Mason Mount,19.0,eng ENG,LM,21-340,90,0,0,0,0,0,0,1,0,52,3,0,1,0.0,0.0,0.1,2,0,40,46,87.0,5,28,7,2,1,Chelsea
+N'Golo Kanté,7.0,fr FRA,CM,29-261,90,0,0,0,0,0,0,1,0,75,2,0,2,0.0,0.0,0.0,2,0,49,60,81.7,2,32,0,2,1,Chelsea
+Kai Havertz,29.0,de GER,RM,21-187,70,0,0,0,0,0,0,0,0,47,0,0,3,0.0,0.0,0.0,0,0,27,34,79.4,4,19,2,1,0,Chelsea
+Mateo Kovačić,17.0,hr CRO,RM,26-223,20,0,0,0,0,2,1,0,0,15,1,0,0,0.1,0.1,0.0,1,0,9,10,90.0,1,11,1,1,1,Chelsea
+Ben Chilwell,21.0,eng ENG,LB,23-360,90,0,1,0,0,0,0,0,0,108,2,2,1,0.0,0.0,0.3,4,1,75,100,75.0,9,53,11,2,1,Chelsea
+Thiago Silva,6.0,br BRA,CB,36-084,90,0,0,0,0,0,0,0,0,71,2,2,2,0.0,0.0,0.0,1,0,52,61,85.2,3,35,0,0,0,Chelsea
+Kurt Zouma,15.0,fr FRA,CB,26-049,90,0,0,0,0,2,0,0,0,71,2,1,0,0.1,0.1,0.0,2,0,50,54,92.6,3,34,0,0,0,Chelsea
+Reece James,24.0,eng ENG,RB,21-007,90,0,0,0,0,3,1,0,0,75,2,1,0,0.1,0.1,0.1,1,0,55,67,82.1,3,39,5,0,0,Chelsea
+Edouard Mendy,16.0,sn SEN,GK,28-289,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,28,29,96.6,0,17,0,0,0,Chelsea
+13 Players,,,,,990,1,1,0,0,13,3,2,0,661,14,7,10,1.1,1.1,0.6,25,2,454,551,82.4,46,340,32,19,10,Chelsea

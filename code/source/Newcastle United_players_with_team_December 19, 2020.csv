@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Joelinton,9.0,br BRA,FW,24-127,74,0,0,0,0,2,1,0,0,30,1,0,0,0.1,0.1,0.0,2,0,11,22,50.0,1,19,1,1,1,Newcastle United
+Dwight Gayle,12.0,eng ENG,FW,30-063,16,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,6,0,0,0,Newcastle United
+Callum Wilson,13.0,eng ENG,FW,28-296,90,1,0,1,1,2,1,0,0,20,0,0,2,0.9,0.1,0.0,2,1,4,6,66.7,0,10,1,3,2,Newcastle United
+Miguel Almirón,24.0,py PAR,"LM,RM",26-313,90,0,0,0,0,1,1,0,0,35,1,2,0,0.1,0.1,0.0,5,1,24,29,82.8,2,27,2,1,1,Newcastle United
+Sean Longstaff,36.0,eng ENG,CM,23-050,90,0,0,0,0,1,1,0,0,81,6,4,3,0.1,0.1,0.0,4,0,54,65,83.1,6,54,1,1,1,Newcastle United
+Jonjo Shelvey,8.0,eng ENG,CM,28-296,90,0,0,0,0,2,0,0,0,88,1,0,1,0.1,0.1,0.1,2,0,66,82,80.5,10,68,2,0,0,Newcastle United
+Matt Ritchie,11.0,sct SCO,"RM,LB",31-100,90,0,0,0,0,2,0,0,0,65,2,0,1,0.0,0.0,0.2,5,0,39,55,70.9,3,37,3,0,0,Newcastle United
+Paul Dummett,3.0,wls WAL,LB,29-084,78,0,0,0,0,0,0,0,0,29,0,3,1,0.0,0.0,0.0,0,0,18,25,72.0,4,16,0,0,0,Newcastle United
+Ryan Fraser,21.0,sct SCO,LM,26-299,12,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,0,0,11,13,84.6,1,12,0,0,0,Newcastle United
+Ciaran Clark,2.0,ie IRL,CB,31-084,90,0,0,0,0,0,0,1,0,69,0,3,2,0.0,0.0,0.0,0,0,53,59,89.8,3,50,0,0,0,Newcastle United
+Federico Fernández,18.0,ar ARG,CB,31-302,45,0,0,0,0,0,0,0,0,30,0,0,1,0.0,0.0,0.0,0,0,21,24,87.5,3,16,0,0,0,Newcastle United
+Isaac Hayden,14.0,jm JAM,CB,25-272,45,0,0,0,0,1,0,0,0,52,1,4,0,0.1,0.1,0.0,0,0,32,40,80.0,1,32,0,0,0,Newcastle United
+DeAndre Yedlin,22.0,us USA,RB,27-163,90,0,0,0,0,0,0,0,0,59,0,3,0,0.0,0.0,0.0,2,0,39,51,76.5,6,37,2,0,0,Newcastle United
+Karl Darlow,26.0,wls WAL,GK,30-072,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,18,23,78.3,0,13,0,0,0,Newcastle United
+14 Players,,,,,990,1,0,1,1,11,4,1,0,606,12,20,11,1.4,0.6,0.4,22,2,398,503,79.1,41,397,12,6,5,Newcastle United

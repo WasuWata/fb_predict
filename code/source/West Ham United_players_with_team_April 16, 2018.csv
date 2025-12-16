@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Marko Arnautović,7.0,at AUT,"FW,AM",28-362,90,0,0,0,0,2,1,0,0,46,1,0,1,0.1,0.1,0.0,3,0,25,34,73.5,3,23,5,4,2,West Ham United
+João Mário,18.0,pt POR,AM,25-087,85,0,0,0,0,3,0,0,0,60,2,0,0,0.1,0.1,0.1,7,0,38,50,76.0,7,39,3,4,4,West Ham United
+Andy Carroll,9.0,eng ENG,FW,29-100,5,1,0,0,0,1,1,0,0,6,0,0,0,0.1,0.1,0.0,1,0,4,5,80.0,0,5,0,0,0,West Ham United
+Edimilson Fernandes,31.0,ch SUI,AM,22-001,75,0,0,0,0,1,0,0,0,39,0,2,0,0.0,0.0,0.0,0,0,25,31,80.6,3,25,2,0,0,West Ham United
+Javier Hernández,17.0,mx MEX,FW,29-319,15,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,2,0,5,7,71.4,0,8,0,1,1,West Ham United
+Cheikhou Kouyaté,8.0,sn SEN,"CM,DM",28-116,90,0,0,0,0,0,0,1,0,47,0,0,1,0.0,0.0,0.0,2,0,30,41,73.2,2,29,1,1,1,West Ham United
+Mark Noble,16.0,eng ENG,"CM,LM",30-343,90,0,0,0,0,3,1,0,0,83,1,0,1,0.1,0.1,0.0,5,0,66,74,89.2,14,52,0,3,3,West Ham United
+Arthur Masuaku,26.0,cd COD,WB,24-160,80,0,0,0,0,1,0,0,0,69,2,1,0,0.0,0.0,0.1,2,0,41,57,71.9,3,43,4,4,4,West Ham United
+Manuel Lanzini,10.0,ar ARG,"RM,WB",25-060,10,0,0,0,0,2,0,0,0,14,1,0,0,0.1,0.1,0.0,1,0,10,10,100.0,0,9,0,1,0,West Ham United
+Pablo Zabaleta,5.0,ar ARG,"WB,RB",33-090,90,0,0,0,0,0,0,0,0,60,0,0,1,0.0,0.0,0.1,2,0,33,48,68.8,5,31,1,1,0,West Ham United
+Aaron Cresswell,3.0,eng ENG,"CB,LB",28-122,90,0,1,0,0,4,3,1,0,87,1,2,1,0.2,0.2,0.1,4,1,50,76,65.8,8,33,0,0,0,West Ham United
+Angelo Ogbonna,21.0,it ITA,CB,29-328,90,0,0,0,0,0,0,0,0,49,1,0,0,0.0,0.0,0.0,3,0,30,39,76.9,1,22,0,0,0,West Ham United
+Declan Rice,41.0,eng ENG,CB,19-092,90,0,0,0,0,1,0,0,0,51,0,1,2,0.0,0.0,0.0,1,0,30,39,76.9,3,27,1,1,1,West Ham United
+Joe Hart,25.0,eng ENG,GK,30-362,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,12,24,50.0,0,13,0,0,0,West Ham United
+14 Players,,,,,990,1,1,0,0,18,6,2,0,647,9,6,7,0.8,0.8,0.4,33,1,399,535,74.6,49,359,17,20,16,West Ham United

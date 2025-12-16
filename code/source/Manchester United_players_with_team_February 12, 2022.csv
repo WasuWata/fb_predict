@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Cristiano Ronaldo,7.0,pt POR,FW,37-007,90,0,0,0,0,2,1,0,0,28,1,0,0,0.7,0.7,0.2,2,0,10,14,71.4,0,11,0,4,2,Manchester United
+Jadon Sancho,25.0,eng ENG,"LW,AM",21-324,90,1,0,0,0,2,2,0,0,42,0,2,1,0.7,0.7,0.6,1,0,25,32,78.1,3,23,3,4,1,Manchester United
+Marcus Rashford,10.0,eng ENG,"RW,FW",24-104,81,0,1,0,0,1,0,1,0,39,0,0,0,0.0,0.0,0.4,1,1,14,27,51.9,0,24,4,5,2,Manchester United
+Jesse Lingard,14.0,eng ENG,FW,29-059,9,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,2,0,0,0,Manchester United
+Bruno Fernandes,18.0,pt POR,"AM,DM",27-157,90,0,0,0,0,0,0,0,0,60,2,0,1,0.0,0.0,0.1,4,1,36,54,66.7,7,34,0,1,1,Manchester United
+Paul Pogba,6.0,fr FRA,DM,28-334,90,0,0,0,0,2,1,1,0,66,2,1,1,0.3,0.3,0.0,2,0,40,48,83.3,8,29,0,3,2,Manchester United
+Scott McTominay,39.0,sct SCO,DM,25-066,74,0,0,0,0,1,0,1,0,53,3,1,1,0.0,0.0,0.0,0,0,37,42,88.1,3,24,0,3,2,Manchester United
+Anthony Elanga,36.0,se SWE,AM,19-291,16,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,7,0,0,0,Manchester United
+Luke Shaw,23.0,eng ENG,LB,26-215,90,0,0,0,0,0,0,0,0,75,2,0,3,0.0,0.0,0.7,4,0,58,69,84.1,5,43,3,0,0,Manchester United
+Harry Maguire,5.0,eng ENG,CB,28-344,90,0,0,0,0,3,2,0,0,65,2,1,2,0.3,0.3,0.0,2,0,47,56,83.9,1,25,0,0,0,Manchester United
+Raphaël Varane,19.0,fr FRA,CB,28-293,90,0,0,0,0,0,0,0,0,60,1,0,0,0.0,0.0,0.0,0,0,48,57,84.2,1,30,0,0,0,Manchester United
+Diogo Dalot,20.0,pt POR,RB,22-331,90,0,0,0,0,1,1,0,0,79,1,1,1,0.0,0.0,0.0,0,0,60,73,82.2,9,46,2,0,0,Manchester United
+David de Gea,1.0,es ESP,GK,31-097,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,22,27,81.5,0,13,0,0,0,Manchester United
+13 Players,,,,,990,1,1,0,0,12,7,4,0,612,14,6,10,2.1,2.1,2.0,17,2,407,512,79.5,38,311,12,20,10,Manchester United

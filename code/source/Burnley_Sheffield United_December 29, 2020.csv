@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ashley Barnes,10.0,eng ENG,FW,31-060,78,0,0,0,0,1,1,0,0,26,2,0,1,0.4,0.4,0.0,1,0,6,15,40.0,0,15,0,1,0,Burnley
+Dale Stephens,16.0,eng ENG,CM,31-200,12,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0,Burnley
+Chris Wood,9.0,nz NZL,FW,29-022,90,0,0,0,0,1,1,0,0,27,0,0,1,0.3,0.3,0.4,2,1,11,15,73.3,1,14,0,2,0,Burnley
+Erik Pieters,23.0,nl NED,"LB,LM",32-144,90,0,0,0,0,0,0,0,0,45,2,0,0,0.0,0.0,0.0,0,0,31,41,75.6,2,22,0,3,3,Burnley
+Ashley Westwood,18.0,eng ENG,CM,30-272,90,0,0,0,0,0,0,0,0,52,1,1,0,0.0,0.0,0.0,1,0,33,46,71.7,2,20,1,0,0,Burnley
+Josh Brownhill,8.0,eng ENG,"CM,FW",25-010,90,0,0,0,0,0,0,0,0,38,1,4,1,0.0,0.0,0.0,0,0,26,29,89.7,0,19,0,0,0,Burnley
+Robbie Brady,12.0,ie IRL,"LM,RM",28-350,90,0,1,0,0,1,0,0,0,35,0,0,1,0.1,0.1,0.4,2,1,19,29,65.5,0,14,1,0,0,Burnley
+Charlie Taylor,3.0,eng ENG,LB,27-102,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,5,0,0,0,Burnley
+Josh Benson,41.0,eng ENG,RM,21-024,82,0,0,0,0,0,0,0,0,29,1,0,1,0.0,0.0,0.0,0,0,13,23,56.5,2,12,0,3,0,Burnley
+Ben Mee,6.0,eng ENG,CB,31-099,90,1,0,0,0,2,1,0,0,49,1,0,2,0.2,0.2,0.0,0,0,28,38,73.7,0,23,0,0,0,Burnley
+James Tarkowski,5.0,eng ENG,CB,28-040,90,0,0,0,0,0,0,0,0,48,3,0,1,0.0,0.0,0.0,1,0,16,32,50.0,1,16,0,0,0,Burnley
+Matthew Lowton,2.0,eng ENG,RB,31-203,90,0,0,0,0,0,0,1,0,56,1,2,1,0.0,0.0,0.1,2,0,32,43,74.4,7,25,1,0,0,Burnley
+Nick Pope,1.0,eng ENG,GK,28-254,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,23,33,69.7,0,17,0,0,0,Burnley
+13 Players,,,,,990,1,1,0,0,5,3,1,0,451,12,8,9,1.0,1.0,0.9,9,2,245,353,69.4,16,203,3,9,3,Burnley
+Lys Mousset,11.0,fr FRA,FW,24-325,62,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.1,1,0,5,6,83.3,1,5,0,2,2,Sheffield United
+Oliver Burke,14.0,sct SCO,FW,23-266,28,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,6,0,0,0,Sheffield United
+Rhian Brewster,24.0,eng ENG,"LW,FW",20-272,90,0,0,0,0,2,1,0,0,30,2,0,1,0.3,0.3,0.0,0,0,14,20,70.0,2,15,1,3,3,Sheffield United
+David McGoldrick,17.0,ie IRL,"RW,AM",33-030,90,0,0,0,0,3,1,0,0,58,1,1,0,0.3,0.3,0.0,0,0,35,47,74.5,8,40,1,0,0,Sheffield United
+Enda Stevens,3.0,ie IRL,"LM,CB",30-173,90,0,0,0,0,0,0,1,0,94,3,1,1,0.0,0.0,0.2,2,0,64,85,75.3,11,62,2,1,1,Sheffield United
+Ben Osborn,23.0,eng ENG,"CM,WB",26-146,90,0,0,0,0,0,0,0,0,93,2,1,0,0.0,0.0,0.0,2,0,63,83,75.9,7,62,0,3,1,Sheffield United
+Ethan Ampadu,22.0,wls WAL,CM,20-106,66,0,0,0,0,0,0,0,0,51,0,1,0,0.0,0.0,0.3,1,0,40,49,81.6,7,34,0,1,1,Sheffield United
+Oliver Norwood,16.0,nir NIR,CM,29-261,24,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.1,1,0,31,36,86.1,3,24,2,0,0,Sheffield United
+George Baldock,2.0,gr GRE,"RM,WB",27-295,90,0,0,0,0,1,0,0,0,57,0,0,0,0.0,0.0,0.0,2,0,42,54,77.8,2,35,0,0,0,Sheffield United
+Jack Robinson,19.0,eng ENG,CB,27-119,56,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,0,0,28,36,77.8,0,25,0,0,0,Sheffield United
+John Fleck,4.0,sct SCO,"CM,CB",29-127,34,0,0,0,0,0,0,0,0,40,1,1,2,0.0,0.0,0.0,1,0,32,35,91.4,3,28,3,2,2,Sheffield United
+John Egan,12.0,ie IRL,CB,28-070,90,0,0,0,0,1,0,0,0,67,1,1,0,0.0,0.0,0.0,2,0,55,63,87.3,4,48,2,0,0,Sheffield United
+Chris Basham,6.0,eng ENG,CB,32-162,90,0,0,0,0,0,0,0,0,69,2,2,1,0.0,0.0,0.0,0,0,53,61,86.9,6,49,4,1,1,Sheffield United
+Aaron Ramsdale,1.0,eng ENG,GK,22-229,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,10,27,37.0,0,19,0,0,0,Sheffield United
+14 Players,,,,,990,0,0,0,0,7,2,2,0,680,13,8,6,0.7,0.7,0.6,13,0,475,606,78.4,54,452,15,13,11,Sheffield United

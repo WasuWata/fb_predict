@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Leandro Trossard,11.0,be BEL,"FW,CM,AM",25-285,90,1,0,0,0,1,1,0,0,52,0,0,3,0.0,0.0,0.2,3,0,26,42,61.9,2,30,1,0,0,Brighton & Hove Albion
+Neal Maupay,9.0,fr FRA,FW,24-031,90,0,0,0,0,1,0,0,0,16,0,1,0,0.4,0.4,0.0,0,0,10,14,71.4,1,8,1,0,0,Brighton & Hove Albion
+Steven Alzate,17.0,co COL,CM,22-006,78,0,0,0,0,2,1,0,0,41,0,1,0,0.1,0.1,0.1,3,0,28,34,82.4,5,24,1,2,1,Brighton & Hove Albion
+Alireza Jahanbakhsh,16.0,ir IRN,"AM,CM",27-034,12,0,0,0,0,0,0,0,0,13,1,0,1,0.0,0.0,0.0,1,0,6,10,60.0,1,8,0,0,0,Brighton & Hove Albion
+Yves Bissouma,8.0,ml MLI,"CM,DM",24-015,90,0,0,0,0,2,0,0,0,68,3,3,0,0.0,0.0,0.0,2,1,46,57,80.7,4,38,0,2,0,Brighton & Hove Albion
+Adam Lallana,14.0,eng ENG,CM,32-127,44,0,0,0,0,0,0,0,0,21,0,1,0,0.0,0.0,0.1,4,0,17,19,89.5,2,11,0,1,1,Brighton & Hove Albion
+Aaron Connolly,7.0,ie IRL,FW,20-230,46,0,0,0,0,3,1,0,0,11,0,0,0,0.2,0.2,0.0,1,0,2,2,100.0,0,7,0,2,0,Brighton & Hove Albion
+Solly March,20.0,eng ENG,"WB,LB",26-056,90,0,0,0,0,1,0,0,0,76,2,2,0,0.0,0.0,0.1,3,0,49,64,76.6,7,44,6,5,3,Brighton & Hove Albion
+Tariq Lamptey,2.0,gh GHA,"WB,RB",19-350,90,0,1,0,0,1,0,1,0,75,3,3,0,0.1,0.1,0.4,5,1,40,61,65.6,3,41,7,3,2,Brighton & Hove Albion
+Adam Webster,4.0,eng ENG,CB,25-254,90,0,0,0,0,1,0,0,0,73,3,2,0,0.0,0.0,0.1,1,0,55,65,84.6,3,47,0,0,0,Brighton & Hove Albion
+Lewis Dunk,5.0,eng ENG,CB,28-298,90,0,0,0,0,1,0,0,0,83,2,1,2,0.2,0.2,0.0,1,0,73,77,94.8,3,39,0,0,0,Brighton & Hove Albion
+Ben White,3.0,eng ENG,CB,22-342,78,0,0,0,0,0,0,0,0,56,2,0,2,0.0,0.0,0.0,0,0,39,48,81.3,2,28,0,1,1,Brighton & Hove Albion
+Pascal Groß,13.0,de GER,DM,29-091,12,0,0,0,0,0,0,0,0,14,1,1,0,0.0,0.0,0.0,0,0,12,13,92.3,3,9,0,0,0,Brighton & Hove Albion
+Mathew Ryan,1.0,au AUS,GK,28-159,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,41,46,89.1,0,30,0,0,0,Brighton & Hove Albion
+14 Players,,,,,990,1,1,0,0,13,3,1,0,648,17,15,8,1.1,1.1,1.0,24,2,444,552,80.4,36,364,16,16,8,Brighton & Hove Albion
+Timo Werner,11.0,de GER,FW,24-192,90,0,0,0,0,5,1,0,0,32,0,2,1,0.3,0.3,0.0,3,1,17,23,73.9,1,23,5,3,2,Chelsea
+Ruben Loftus-Cheek,12.0,eng ENG,FW,24-235,60,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,11,17,64.7,0,13,1,3,0,Chelsea
+Ross Barkley,8.0,eng ENG,FW,26-284,30,0,0,0,0,1,1,0,0,27,0,0,0,0.0,0.0,0.1,2,0,20,23,87.0,2,14,2,0,0,Chelsea
+Mason Mount,19.0,eng ENG,AM,21-248,90,0,0,0,0,1,0,0,0,55,4,0,2,0.0,0.0,0.1,3,1,34,40,85.0,2,28,2,4,2,Chelsea
+Kai Havertz,29.0,de GER,AM,21-095,79,0,0,0,0,0,0,0,0,34,3,0,0,0.0,0.0,0.1,2,0,24,27,88.9,4,19,1,2,1,Chelsea
+Callum Hudson-Odoi,20.0,eng ENG,AM,19-312,11,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,4,4,1,0,0,Chelsea
+Jorginho,5.0,it ITA,DM,28-269,84,1,1,1,1,0,0,0,0,61,2,2,0,0.8,0.0,0.0,3,2,45,54,83.3,6,29,1,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,RB,31-017,6,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,1,0,0,0,Chelsea
+N'Golo Kanté,7.0,fr FRA,DM,29-169,90,0,0,0,0,0,0,0,0,51,3,6,2,0.0,0.0,0.0,1,0,35,39,89.7,4,22,0,0,0,Chelsea
+Marcos Alonso,3.0,es ESP,LB,29-261,90,0,0,0,0,0,0,0,0,99,0,5,1,0.0,0.0,0.0,1,0,68,83,81.9,5,44,1,0,0,Chelsea
+Kurt Zouma,15.0,fr FRA,CB,25-323,90,1,0,0,0,1,1,0,0,61,0,4,2,0.1,0.1,0.0,0,0,43,51,84.3,1,32,0,0,0,Chelsea
+Andreas Christensen,4.0,dk DEN,CB,24-157,90,0,0,0,0,0,0,0,0,55,2,3,1,0.0,0.0,0.0,0,0,44,47,93.6,1,28,0,0,0,Chelsea
+Reece James,24.0,eng ENG,"RB,DM",20-281,90,1,1,0,0,1,1,0,0,71,2,3,3,0.0,0.0,0.1,2,1,47,60,78.3,0,34,1,0,0,Chelsea
+Kepa Arrizabalaga,1.0,es ESP,GK,25-347,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,16,28,57.1,0,15,0,0,0,Chelsea
+14 Players,,,,,990,3,2,1,1,9,4,0,0,614,16,25,12,1.2,0.4,0.4,18,5,415,506,82.0,30,306,15,12,5,Chelsea

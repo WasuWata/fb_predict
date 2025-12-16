@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Che Adams,10.0,sct SCO,FW,25-214,90,1,0,0,0,3,1,0,0,26,0,2,0,0.1,0.1,0.1,1,0,11,16,68.8,0,16,2,1,0,Southampton
+Armando Broja,18.0,al ALB,FW,20-155,90,0,0,0,0,2,1,0,0,34,0,0,1,0.1,0.1,0.0,2,0,12,24,50.0,0,22,4,5,3,Southampton
+Mohamed Elyounoussi,24.0,no NOR,LM,27-192,70,0,1,0,0,0,0,0,0,34,1,1,1,0.0,0.0,0.2,6,1,23,27,85.2,6,24,6,1,1,Southampton
+Valentino Livramento,21.0,eng ENG,RB,19-092,20,0,0,0,0,0,0,0,0,12,1,1,0,0.0,0.0,0.0,0,0,9,9,100.0,1,7,0,0,0,Southampton
+Oriol Romeu,6.0,es ESP,CM,30-141,89,0,0,0,0,1,0,0,0,63,4,4,1,0.0,0.0,0.2,5,0,46,48,95.8,4,40,0,2,2,Southampton
+Ibrahima Diallo,27.0,fr FRA,CM,22-341,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Southampton
+James Ward-Prowse,8.0,eng ENG,CM,27-103,90,0,0,0,0,1,0,0,0,66,1,1,0,0.1,0.1,0.0,2,0,49,60,81.7,4,39,0,1,1,Southampton
+Stuart Armstrong,17.0,sct SCO,"RM,LM",29-319,90,0,0,0,0,4,1,0,0,52,2,2,1,0.4,0.4,0.0,2,0,30,37,81.1,3,36,3,1,0,Southampton
+Romain Perraud,15.0,fr FRA,LB,24-143,90,0,0,0,0,1,1,0,0,42,2,0,3,0.1,0.1,0.0,3,1,28,35,80.0,1,26,1,2,1,Southampton
+Mohammed Salisu,22.0,gh GHA,CB,22-301,90,0,0,0,0,0,0,0,0,65,3,0,0,0.0,0.0,0.0,1,0,42,60,70.0,5,42,1,1,0,Southampton
+Jan Bednarek,35.0,pl POL,CB,25-306,45,0,0,0,0,0,0,0,0,42,0,2,2,0.0,0.0,0.0,0,0,33,36,91.7,1,26,0,0,0,Southampton
+Jack Stephens,5.0,eng ENG,CB,28-016,45,0,0,0,0,0,0,0,0,27,0,3,1,0.0,0.0,0.0,0,0,12,16,75.0,1,9,0,0,0,Southampton
+Kyle Walker-Peters,2.0,eng ENG,"RB,RM",24-305,90,0,0,0,0,1,0,0,0,68,3,3,0,0.0,0.0,0.1,2,0,43,56,76.8,2,44,6,6,4,Southampton
+Fraser Forster,44.0,eng ENG,GK,33-332,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,23,36,63.9,0,25,0,0,0,Southampton
+14 Players,,,,,990,1,1,0,0,13,4,0,0,572,17,19,10,0.8,0.8,0.7,24,2,361,460,78.5,28,356,23,20,12,Southampton

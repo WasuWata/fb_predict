@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Roberto Firmino,9.0,br BRA,FW,27-194,90,0,0,0,0,2,1,0,0,59,2,0,1,0.1,0.1,0.1,5,0,36,46,78.3,6,44,3,3,1,Liverpool
+Sadio Mané,10.0,sn SEN,LW,27-004,90,1,0,0,0,3,2,0,0,51,0,0,1,0.7,0.7,0.1,2,0,33,39,84.6,6,35,1,2,0,Liverpool
+Mohamed Salah,11.0,eg EGY,RW,26-303,89,1,0,0,0,5,3,0,0,66,1,1,1,0.2,0.2,0.2,6,0,36,47,76.6,9,58,7,11,5,Liverpool
+Xherdan Shaqiri,23.0,ch SUI,RW,27-186,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Liverpool
+Naby Keïta,8.0,gn GUI,LM,24-063,65,0,0,0,0,1,0,0,0,55,2,1,0,0.1,0.1,0.0,1,0,38,41,92.7,4,44,9,2,0,Liverpool
+Georginio Wijnaldum,5.0,nl NED,"RM,LM",28-154,25,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,8,0,1,0,Liverpool
+Fabinho,3.0,br BRA,CM,25-173,90,0,0,0,0,1,0,0,0,94,4,1,0,0.0,0.0,0.0,2,0,79,87,90.8,10,67,0,0,0,Liverpool
+Jordan Henderson,14.0,eng ENG,RM,28-301,76,0,1,0,0,1,0,0,0,60,1,2,2,0.1,0.1,0.6,4,1,44,54,81.5,3,41,2,0,0,Liverpool
+James Milner,7.0,eng ENG,LM,33-100,14,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,1,0,19,20,95.0,1,15,0,0,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,25-034,90,0,0,0,0,0,0,0,0,88,1,2,0,0.0,0.0,0.0,0,0,67,82,81.7,8,61,0,1,0,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,27-280,90,0,1,0,0,0,0,0,0,83,1,1,0,0.0,0.0,0.0,2,1,65,72,90.3,6,63,0,0,0,Liverpool
+Joël Matip,32.0,cm CMR,CB,27-249,90,0,0,0,0,0,0,0,0,86,3,3,0,0.0,0.0,0.0,0,0,67,76,88.2,4,67,0,0,0,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,20-189,90,0,0,0,0,2,1,0,0,109,3,2,1,0.1,0.1,0.0,5,0,68,98,69.4,9,68,2,3,2,Liverpool
+Alisson,13.0,br BRA,GK,26-194,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,31,34,91.2,0,28,0,0,0,Liverpool
+14 Players,,,,,990,2,2,0,0,15,7,0,0,822,19,13,6,1.2,1.2,1.2,28,2,591,705,83.8,67,601,24,23,8,Liverpool
+Eden Hazard,10.0,be BEL,"FW,LW",28-097,90,0,0,0,0,3,2,0,0,41,0,0,0,0.5,0.5,0.0,1,0,22,30,73.3,4,34,5,11,9,Chelsea
+Willian,22.0,br BRA,"LW,RW",30-248,90,0,0,0,0,2,0,0,0,59,2,1,2,0.1,0.1,0.4,4,0,37,45,82.2,7,35,6,2,1,Chelsea
+Callum Hudson-Odoi,20.0,eng ENG,RW,18-158,55,0,0,0,0,0,0,0,0,21,3,0,0,0.0,0.0,0.0,0,0,9,13,69.2,0,12,2,1,0,Chelsea
+Gonzalo Higuaín,9.0,ar ARG,FW,31-125,35,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,9,12,75.0,1,9,1,0,0,Chelsea
+Ruben Loftus-Cheek,12.0,eng ENG,LM,23-081,74,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,33,35,94.3,3,28,4,3,1,Chelsea
+Ross Barkley,8.0,eng ENG,LM,25-130,16,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,1,3,33.3,0,2,0,0,0,Chelsea
+Jorginho,5.0,it ITA,CM,27-115,90,0,0,0,0,0,0,0,0,64,5,2,2,0.0,0.0,0.0,0,0,42,52,80.8,7,27,0,1,1,Chelsea
+N'Golo Kanté,7.0,fr FRA,RM,28-016,90,0,0,0,0,1,1,0,0,51,4,3,3,0.2,0.2,0.0,1,0,26,33,78.8,2,22,5,4,4,Chelsea
+Emerson Palmieri,33.0,it ITA,LB,24-254,90,0,0,0,0,0,0,0,0,63,4,3,2,0.0,0.0,0.1,2,0,39,49,79.6,2,24,2,0,0,Chelsea
+David Luiz,30.0,br BRA,CB,31-357,90,0,0,0,0,0,0,0,0,58,4,0,4,0.0,0.0,0.1,1,0,36,46,78.3,5,31,0,0,0,Chelsea
+Antonio Rüdiger,2.0,de GER,CB,26-042,39,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,15,16,93.8,2,5,0,0,0,Chelsea
+Andreas Christensen,27.0,dk DEN,CB,23-004,51,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,0,0,19,21,90.5,1,11,0,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,RB,29-229,90,0,0,0,0,0,0,1,0,62,7,1,2,0.0,0.0,0.0,0,0,27,42,64.3,3,20,1,1,1,Chelsea
+Kepa Arrizabalaga,1.0,es ESP,GK,24-193,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,28,39,71.8,0,22,0,0,0,Chelsea
+14 Players,,,,,990,0,0,0,0,6,3,1,0,570,30,10,15,0.7,0.7,0.6,11,0,343,436,78.7,37,282,26,23,17,Chelsea

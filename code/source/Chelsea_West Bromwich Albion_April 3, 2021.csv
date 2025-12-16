@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Timo Werner,11.0,de GER,"AM,FW",25-028,90,0,1,0,0,1,0,0,0,45,1,0,1,0.0,0.0,0.6,3,1,30,34,88.2,2,20,4,3,1,Chelsea
+Christian Pulisic,10.0,us USA,AM,22-197,45,1,0,0,0,1,1,0,0,18,1,0,0,0.2,0.2,0.0,2,0,13,15,86.7,1,12,2,0,0,Chelsea
+Mason Mount,19.0,eng ENG,AM,22-083,45,1,0,0,0,4,2,0,0,32,2,1,0,0.6,0.6,0.0,1,0,16,22,72.7,4,15,3,2,0,Chelsea
+Hakim Ziyech,22.0,ma MAR,AM,28-015,32,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.0,0,0,14,21,66.7,1,17,1,0,0,Chelsea
+Andreas Christensen,4.0,dk DEN,CB,24-358,58,0,0,0,0,1,0,0,0,50,0,2,1,0.0,0.0,0.0,1,0,38,42,90.5,1,29,1,0,0,Chelsea
+Mateo Kovačić,17.0,hr CRO,CM,26-332,90,0,0,0,0,2,0,1,0,99,5,1,0,0.1,0.1,0.1,4,0,69,86,80.2,13,67,7,5,5,Chelsea
+Jorginho,5.0,it ITA,CM,29-104,71,0,0,0,0,0,0,0,0,68,1,2,1,0.0,0.0,0.1,2,0,55,63,87.3,8,45,0,0,0,Chelsea
+Kai Havertz,29.0,de GER,CM,21-296,19,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,1,0,6,8,75.0,0,9,0,2,1,Chelsea
+Marcos Alonso,3.0,es ESP,WB,30-096,90,0,0,0,0,3,2,0,0,55,1,0,2,0.5,0.5,0.0,4,2,34,42,81.0,4,25,0,0,0,Chelsea
+Reece James,24.0,eng ENG,WB,21-116,90,0,0,0,0,2,2,0,0,79,3,1,2,0.1,0.1,0.3,10,0,54,68,79.4,3,39,2,4,2,Chelsea
+Kurt Zouma,15.0,fr FRA,CB,26-158,90,0,0,0,0,4,0,0,0,71,2,1,1,0.5,0.5,0.0,1,0,51,58,87.9,4,35,1,0,0,Chelsea
+Thiago Silva,6.0,br BRA,CB,36-193,28,0,0,0,0,0,0,2,1,39,0,0,0,0.0,0.0,0.0,2,0,37,38,97.4,3,22,0,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,CB,31-218,90,0,0,0,0,0,0,0,0,99,1,2,3,0.0,0.0,0.1,2,0,78,96,81.3,9,40,4,0,0,Chelsea
+Edouard Mendy,16.0,sn SEN,GK,29-033,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,30,34,88.2,0,20,0,0,0,Chelsea
+14 Players,,,,,928,2,1,0,0,18,7,3,1,723,17,10,13,2.1,2.1,1.4,34,3,525,627,83.7,53,395,25,16,9,Chelsea
+Mbaye Diagne,17.0,sn SEN,FW,29-157,90,1,0,0,0,2,1,1,0,27,1,0,0,0.1,0.1,0.0,2,1,12,18,66.7,0,16,0,0,0,West Bromwich Albion
+Matheus Pereira,12.0,br BRA,"FW,LM",24-333,90,2,2,0,0,6,4,0,0,45,1,1,0,0.6,0.6,0.8,8,3,25,32,78.1,4,31,3,4,2,West Bromwich Albion
+Ainsley Maitland-Niles,30.0,eng ENG,"CM,RM",23-217,90,0,0,0,0,1,0,0,0,46,6,1,2,0.0,0.0,0.0,0,0,22,26,84.6,2,29,1,1,1,West Bromwich Albion
+Okay Yokuşlu,35.0,tr TUR,CM,27-025,90,0,0,0,0,1,0,0,0,62,5,4,0,0.3,0.3,0.0,2,0,36,44,81.8,1,35,0,4,2,West Bromwich Albion
+Matt Phillips,10.0,sct SCO,RM,30-021,88,0,0,0,0,1,0,0,0,30,0,0,1,0.0,0.0,0.0,1,0,15,24,62.5,2,19,5,2,2,West Bromwich Albion
+Jake Livermore,8.0,eng ENG,CM,31-140,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,West Bromwich Albion
+Conor Townsend,14.0,eng ENG,LB,28-030,90,0,0,0,0,1,0,0,0,54,1,2,0,0.1,0.1,0.0,2,2,30,45,66.7,0,31,2,2,0,West Bromwich Albion
+Semi Ajayi,6.0,ng NGA,CB,27-145,90,0,0,0,0,0,0,0,0,40,3,3,4,0.0,0.0,0.0,1,0,23,24,95.8,3,17,0,0,0,West Bromwich Albion
+Kyle Bartley,5.0,eng ENG,CB,29-316,90,0,0,0,0,0,0,0,0,41,2,1,2,0.0,0.0,0.0,1,0,25,33,75.8,2,20,0,0,0,West Bromwich Albion
+Dara O'Shea,27.0,ie IRL,CB,22-030,23,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,6,12,50.0,0,3,0,0,0,West Bromwich Albion
+Branislav Ivanović,20.0,rs SRB,CB,37-040,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,0,0,0,0,West Bromwich Albion
+Callum Robinson,7.0,ie IRL,LM,26-060,54,2,0,0,0,2,2,0,0,21,0,1,0,0.4,0.4,0.1,4,0,16,17,94.1,3,19,3,2,2,West Bromwich Albion
+Darnell Furlong,2.0,eng ENG,RB,25-154,90,0,1,0,0,0,0,0,0,44,0,1,1,0.0,0.0,0.1,1,1,19,33,57.6,0,19,1,1,1,West Bromwich Albion
+Sam Johnstone,1.0,eng ENG,GK,28-009,90,0,1,0,0,0,0,0,0,34,0,1,0,0.0,0.0,0.2,1,1,13,27,48.1,0,14,0,0,0,West Bromwich Albion
+14 Players,,,,,990,5,4,0,0,14,7,1,0,462,19,15,11,1.6,1.6,1.3,23,8,244,339,72.0,17,254,15,16,10,West Bromwich Albion

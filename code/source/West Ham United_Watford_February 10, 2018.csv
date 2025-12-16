@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Javier Hernández,17.0,mx MEX,FW,29-254,87,1,0,0,0,1,1,0,0,19,1,0,2,0.3,0.3,0.0,0,0,5,10,50.0,0,11,1,3,3,West Ham United
+Jordan Hugill,12.0,eng ENG,FW,25-251,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,West Ham United
+Marko Arnautović,7.0,at AUT,LW,28-297,83,1,0,0,0,2,2,0,0,36,1,1,1,0.7,0.7,0.3,2,0,15,23,65.2,3,18,3,9,8,West Ham United
+Declan Rice,41.0,eng ENG,CM,19-027,7,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,West Ham United
+João Mário,18.0,pt POR,RW,25-022,76,0,0,0,0,1,1,0,0,39,2,0,1,0.3,0.3,0.2,2,0,15,29,51.7,3,22,2,0,0,West Ham United
+Sam Byram,22.0,eng ENG,"RB,LM",24-147,14,0,0,0,0,0,0,0,0,6,0,0,2,0.0,0.0,0.0,0,0,0,3,0.0,0,0,0,0,0,West Ham United
+Michail Antonio,30.0,jm JAM,"LM,LB,RW",27-319,90,0,1,0,0,2,0,0,0,44,4,1,1,0.1,0.1,0.3,4,2,13,27,48.1,0,22,4,9,7,West Ham United
+Mark Noble,16.0,eng ENG,"CM,LM",30-278,90,0,0,0,0,0,0,0,0,43,0,1,1,0.0,0.0,0.0,2,0,26,36,72.2,5,20,0,3,2,West Ham United
+Cheikhou Kouyaté,8.0,sn SEN,CM,28-051,90,0,0,0,0,2,0,0,0,44,4,2,3,0.2,0.2,0.0,1,0,18,27,66.7,2,17,2,1,0,West Ham United
+Pablo Zabaleta,5.0,ar ARG,RM,33-025,90,0,0,0,0,0,0,1,0,50,3,2,0,0.0,0.0,0.0,0,0,28,43,65.1,5,13,1,1,1,West Ham United
+Aaron Cresswell,3.0,eng ENG,CB,28-057,90,0,1,0,0,0,0,0,0,41,2,1,1,0.0,0.0,0.5,0,0,15,29,51.7,1,8,0,0,0,West Ham United
+Angelo Ogbonna,21.0,it ITA,CB,29-263,90,0,0,0,0,0,0,0,0,32,1,2,1,0.0,0.0,0.0,0,0,9,19,47.4,2,8,0,0,0,West Ham United
+James Collins,19.0,wls WAL,CB,34-171,90,0,0,0,0,0,0,0,0,40,2,1,0,0.0,0.0,0.2,1,0,12,18,66.7,2,5,0,0,0,West Ham United
+Adrián,13.0,es ESP,GK,31-038,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,11,30,36.7,0,15,0,0,0,West Ham United
+14 Players,,,,,990,2,2,0,0,8,4,1,0,432,21,11,13,1.5,1.5,1.5,12,2,167,296,56.4,23,159,13,26,21,West Ham United
+Troy Deeney,9.0,eng ENG,FW,29-226,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,14,32,43.8,1,13,0,0,0,Watford
+Richarlison,11.0,br BRA,LW,20-276,81,0,0,0,0,1,1,0,0,31,1,0,0,0.0,0.0,0.0,1,0,11,18,61.1,2,18,2,1,0,Watford
+Andre Gray,18.0,jm JAM,FW,26-229,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,2,0,0,0,Watford
+Gerard Deulofeu,7.0,es ESP,RW,23-334,74,0,0,0,0,1,1,0,0,44,1,0,0,0.1,0.1,0.0,3,0,24,32,75.0,3,32,3,8,5,Watford
+Dodi Lukebakio,20.0,be BEL,"RM,RW",20-139,16,0,0,0,0,1,0,0,0,12,1,0,0,0.0,0.0,0.1,2,0,7,8,87.5,1,8,0,0,0,Watford
+Marvin Zeegelaar,22.0,nl NED,LM,27-182,55,0,0,0,0,0,0,0,0,41,1,5,1,0.0,0.0,0.0,0,0,22,34,64.7,0,17,2,1,1,Watford
+Roberto Pereyra,37.0,ar ARG,"LM,AM",27-034,35,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,2,0,21,27,77.8,4,26,8,5,3,Watford
+Étienne Capoue,29.0,fr FRA,"CM,DM",29-214,90,0,0,0,0,3,1,0,0,68,3,1,2,0.1,0.1,0.0,2,0,43,59,72.9,6,44,2,0,0,Watford
+Abdoulaye Doucouré,16.0,ml MLI,"CM,DM",25-040,90,0,0,0,0,1,0,0,0,83,2,0,1,0.0,0.0,0.1,5,0,61,73,83.6,5,53,2,2,2,Watford
+Daryl Janmaat,2.0,nl NED,"RM,RB",28-203,90,0,0,0,0,0,0,0,0,76,4,0,1,0.0,0.0,0.0,2,0,43,65,66.2,8,34,2,0,0,Watford
+José Holebas,25.0,gr GRE,"CB,LB",33-228,90,0,0,0,0,0,0,0,0,55,1,0,0,0.0,0.0,0.3,4,0,34,49,69.4,5,20,2,2,1,Watford
+Sebastian Prödl,5.0,at AUT,CB,30-234,90,0,0,0,0,1,0,1,0,51,1,3,0,0.2,0.2,0.0,0,0,31,39,79.5,5,16,1,0,0,Watford
+Adrian Mariappa,6.0,jm JAM,CB,31-130,90,0,0,0,0,3,1,0,0,52,1,2,1,0.2,0.2,0.0,0,0,32,39,82.1,3,27,0,0,0,Watford
+Orestis Karnezis,30.0,gr GRE,GK,32-214,90,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,0,0,11,24,45.8,0,14,0,0,0,Watford
+14 Players,,,,,990,0,0,0,0,11,4,1,0,613,16,12,6,0.6,0.6,0.5,21,0,358,503,71.2,44,324,24,19,12,Watford

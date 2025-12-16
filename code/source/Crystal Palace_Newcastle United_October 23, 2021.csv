@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Christian Benteke,20.0,be BEL,FW,30-324,90,1,0,0,0,7,2,1,0,43,0,0,0,1.6,1.6,0.2,4,0,20,28,71.4,3,23,2,1,1,Crystal Palace
+Odsonne Édouard,22.0,fr FRA,"LW,LM",23-280,90,0,0,0,0,1,0,0,0,55,2,0,0,0.1,0.1,0.0,2,0,25,35,71.4,0,25,3,6,3,Crystal Palace
+Michael Olise,7.0,fr FRA,RW,19-315,66,0,0,0,0,0,0,0,0,43,1,0,0,0.0,0.0,0.5,2,0,29,38,76.3,3,26,5,2,0,Crystal Palace
+Wilfried Zaha,11.0,ci CIV,RM,28-347,24,0,0,0,0,2,0,0,0,21,0,0,1,0.1,0.1,0.2,2,0,11,15,73.3,2,12,4,3,1,Crystal Palace
+James McArthur,18.0,sct SCO,"LM,DM,CM",34-016,90,0,0,0,0,1,0,0,0,86,2,1,1,0.1,0.1,0.4,2,0,61,78,78.2,10,48,7,4,3,Crystal Palace
+Luka Milivojević,4.0,rs SRB,CM,30-199,72,0,0,0,0,1,0,0,0,61,1,1,0,0.0,0.0,0.0,0,0,45,53,84.9,5,33,0,0,0,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,CM,28-304,18,0,0,0,0,1,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,7,8,87.5,0,9,0,0,0,Crystal Palace
+Conor Gallagher,23.0,eng ENG,"RM,CM",21-259,85,0,0,0,0,1,0,0,0,67,0,0,3,0.0,0.0,0.1,6,1,46,57,80.7,5,47,2,6,4,Crystal Palace
+Jean-Philippe Mateta,14.0,fr FRA,FW,24-117,5,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,LB,22-052,90,0,1,0,0,0,0,0,0,69,2,2,0,0.0,0.0,0.2,3,1,48,62,77.4,3,28,1,0,0,Crystal Palace
+Marc Guéhi,6.0,eng ENG,CB,21-102,90,0,0,0,0,1,1,0,0,122,1,2,2,0.0,0.0,0.0,2,0,99,109,90.8,11,84,3,0,0,Crystal Palace
+Joachim Andersen,16.0,dk DEN,CB,25-145,90,0,0,0,0,0,0,1,0,110,0,0,0,0.0,0.0,0.0,1,0,97,104,93.3,0,83,0,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,RB,31-359,90,0,0,0,0,0,0,1,0,119,1,0,1,0.0,0.0,0.0,2,0,100,107,93.5,10,80,1,1,1,Crystal Palace
+Vicente Guaita,13.0,es ESP,GK,34-286,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,16,19,84.2,0,9,0,0,0,Crystal Palace
+14 Players,,,,,990,1,1,0,0,15,3,3,0,828,11,6,9,1.9,1.9,1.5,26,2,604,713,84.7,52,507,28,23,13,Crystal Palace
+Allan Saint-Maximin,10.0,fr FRA,FW,24-225,80,0,0,0,0,1,0,0,0,26,0,1,0,0.0,0.0,0.0,0,0,6,13,46.2,1,17,4,1,0,Newcastle United
+Joelinton,7.0,br BRA,FW,25-070,10,0,0,0,0,0,0,1,0,8,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,4,3,0,0,0,Newcastle United
+Callum Wilson,9.0,eng ENG,FW,29-238,90,1,0,0,0,2,1,1,0,31,0,0,0,0.2,0.2,0.0,1,0,9,14,64.3,2,16,1,1,0,Newcastle United
+Ryan Fraser,21.0,sct SCO,CM,27-241,65,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,5,10,50.0,0,10,0,1,0,Newcastle United
+Miguel Almirón,24.0,py PAR,CM,27-255,25,0,0,0,0,0,0,0,0,16,2,2,0,0.0,0.0,0.0,1,0,6,10,60.0,0,10,2,1,1,Newcastle United
+Sean Longstaff,36.0,eng ENG,CM,23-358,65,0,0,0,0,0,0,0,0,36,5,1,1,0.0,0.0,0.0,1,1,19,23,82.6,1,9,0,1,1,Newcastle United
+Joe Willock,28.0,eng ENG,CM,22-064,25,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,4,0,1,0,Newcastle United
+Isaac Hayden,14.0,jm JAM,CM,26-215,90,0,0,0,0,0,0,0,0,40,1,0,2,0.0,0.0,0.0,0,0,15,23,65.2,4,6,0,3,2,Newcastle United
+Matt Ritchie,11.0,sct SCO,LB,32-043,90,0,0,0,0,1,0,1,0,40,4,0,1,0.0,0.0,0.0,2,0,17,33,51.5,2,14,0,1,1,Newcastle United
+Ciaran Clark,2.0,ie IRL,CB,32-027,90,0,0,0,0,0,0,0,0,27,1,1,0,0.0,0.0,0.0,0,0,10,19,52.6,0,6,1,0,0,Newcastle United
+Jamaal Lascelles,6.0,eng ENG,CB,27-346,90,0,0,0,0,1,0,1,0,25,0,1,0,0.0,0.0,0.1,3,1,10,14,71.4,0,9,0,0,0,Newcastle United
+Emil Krafth,17.0,se SWE,CB,27-082,90,0,1,0,0,1,0,0,0,49,4,1,2,0.1,0.1,0.1,1,0,17,27,63.0,1,7,1,0,0,Newcastle United
+Javier Manquillo,19.0,es ESP,RB,27-171,90,0,0,0,0,0,0,0,0,34,1,0,2,0.0,0.0,0.0,0,0,15,23,65.2,3,11,0,2,0,Newcastle United
+Karl Darlow,26.0,wls WAL,GK,31-015,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,16,33,48.5,0,11,0,0,0,Newcastle United
+14 Players,,,,,990,1,1,0,0,6,1,4,0,391,18,7,9,0.4,0.4,0.2,11,2,152,249,61.0,18,133,9,12,5,Newcastle United

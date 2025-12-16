@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Patrick Bamford,9.0,eng ENG,FW,28-012,90,0,1,0,0,4,1,0,0,27,1,0,0,0.4,0.4,0.0,4,1,15,18,83.3,5,15,1,3,1,Leeds United
+Daniel James,20.0,wls WAL,LM,23-311,60,0,0,0,0,2,0,0,0,27,2,1,0,0.2,0.2,0.1,1,0,10,16,62.5,1,14,0,4,2,Leeds United
+Tyler Roberts,11.0,wls WAL,RM,22-248,30,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.1,2,0,10,16,62.5,1,16,0,2,1,Leeds United
+Mateusz Klich,43.0,pl POL,CM,31-096,90,0,0,0,0,5,4,0,0,64,1,0,0,0.2,0.2,0.1,5,0,45,53,84.9,9,42,6,2,1,Leeds United
+Rodrigo,19.0,es ESP,CM,30-195,90,0,0,0,0,3,1,1,0,54,1,0,0,0.2,0.2,0.5,6,0,33,42,78.6,9,34,2,3,2,Leeds United
+Raphinha,10.0,br BRA,"RM,LM",24-277,66,1,0,0,0,5,3,0,0,52,2,0,0,0.5,0.5,0.3,6,0,25,40,62.5,3,31,4,1,0,Leeds United
+Crysencio Summerville,38.0,nl NED,LM,19-322,24,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,12,14,85.7,2,11,0,3,2,Leeds United
+Kalvin Phillips,23.0,eng ENG,"DM,CB",25-289,90,0,0,0,0,1,0,0,0,78,3,0,1,0.1,0.1,0.0,2,1,59,68,86.8,7,44,0,0,0,Leeds United
+Junior Firpo,3.0,do DOM,LB,25-026,90,0,0,0,0,2,0,1,0,72,2,1,0,0.2,0.2,0.4,8,0,53,62,85.5,5,38,2,1,1,Leeds United
+Liam Cooper,6.0,sct SCO,CB,30-018,90,0,0,0,0,0,0,0,0,90,4,3,2,0.0,0.0,0.0,0,0,69,75,92.0,4,48,0,0,0,Leeds United
+Luke Ayling,2.0,eng ENG,CB,30-023,88,0,0,0,0,0,0,0,0,94,3,0,2,0.0,0.0,0.1,2,0,73,85,85.9,9,64,4,1,1,Leeds United
+Jamie Shackleton,46.0,eng ENG,DM,21-344,2,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,10,10,100.0,2,8,0,0,0,Leeds United
+Stuart Dallas,15.0,nir NIR,RB,30-151,90,0,0,0,0,0,0,0,0,65,0,1,0,0.0,0.0,0.0,2,0,49,63,77.8,5,32,2,0,0,Leeds United
+Illan Meslier,1.0,fr FRA,GK,21-199,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,35,38,92.1,0,26,0,0,0,Leeds United
+14 Players,,,,,990,1,1,0,0,22,9,2,0,708,19,6,7,1.6,1.6,1.4,38,2,498,600,83.0,62,423,21,20,11,Leeds United

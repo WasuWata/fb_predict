@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Patrick Bamford,9.0,eng ENG,FW,27-175,90,0,0,0,0,2,0,0,0,23,0,0,1,0.1,0.1,0.0,2,0,10,12,83.3,0,10,1,2,1,Leeds United
+Raphinha,18.0,br BRA,LM,24-075,90,0,0,0,0,2,0,0,0,50,0,0,1,0.4,0.4,0.2,8,0,22,39,56.4,5,30,5,3,3,Leeds United
+Mateusz Klich,43.0,pl POL,CM,30-259,90,0,0,0,0,2,0,1,0,87,2,0,0,0.0,0.0,0.1,1,0,63,78,80.8,10,56,0,2,0,Leeds United
+Tyler Roberts,11.0,wls WAL,CM,22-046,70,0,0,0,0,2,1,1,0,35,0,1,0,0.1,0.1,0.1,2,0,20,30,66.7,3,25,4,0,0,Leeds United
+Pablo Hernández,19.0,es ESP,CM,35-322,20,0,0,0,0,1,0,1,0,19,0,0,0,0.0,0.0,0.0,3,0,12,16,75.0,3,9,1,0,0,Leeds United
+Hélder Costa,17.0,ao ANG,RM,27-046,63,0,0,0,0,1,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,13,20,65.0,3,18,3,4,1,Leeds United
+Jack Harrison,22.0,eng ENG,RM,24-099,27,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.3,2,0,7,8,87.5,1,9,1,0,0,Leeds United
+Pascal Struijk,21.0,nl NED,DM,21-200,52,0,0,0,0,0,0,0,0,38,2,0,0,0.0,0.0,0.0,1,0,21,32,65.6,3,21,1,0,0,Leeds United
+Ezgjan Alioski,10.0,mk MKD,LB,29-015,38,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,27,32,84.4,0,13,0,2,1,Leeds United
+Stuart Dallas,15.0,nir NIR,"LB,DM",29-314,90,0,0,0,0,1,0,0,0,65,2,1,0,0.1,0.1,0.0,0,0,48,60,80.0,3,42,3,1,1,Leeds United
+Liam Cooper,6.0,sct SCO,CB,29-181,90,0,0,0,0,0,0,0,0,81,3,2,1,0.0,0.0,0.0,1,0,61,71,85.9,10,50,4,0,0,Leeds United
+Diego Llorente,14.0,es ESP,CB,27-195,90,0,0,0,0,1,1,0,0,69,4,1,1,0.1,0.1,0.0,1,0,53,61,86.9,2,44,1,0,0,Leeds United
+Luke Ayling,2.0,eng ENG,RB,29-186,90,0,0,0,0,1,1,0,0,103,5,2,0,0.0,0.0,0.0,2,0,64,90,71.1,8,54,2,2,1,Leeds United
+Illan Meslier,1.0,fr FRA,GK,20-362,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,27,30,90.0,0,17,0,0,0,Leeds United
+14 Players,,,,,990,0,0,0,0,13,3,3,0,669,18,7,4,0.9,0.9,0.8,24,0,448,579,77.4,51,398,26,16,8,Leeds United

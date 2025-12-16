@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Steve Mounié,24.0,bj BEN,FW,23-094,90,0,0,0,0,0,0,0,0,39,0,2,1,0.0,0.0,0.1,2,0,19,30,63.3,3,17,0,0,0,Leicester City
+Joe Lolley,18.0,eng ENG,LW,25-129,58,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,0,0,14,18,77.8,3,18,0,2,0,Leicester City
+Collin Quaner,23.0,de GER,"RW,WB",26-197,32,0,0,0,0,1,0,0,0,12,2,0,0,0.0,0.0,0.0,1,0,7,8,87.5,0,8,1,0,0,Leicester City
+Rajiv van La Parra,17.0,nl NED,"RW,LW,WB,AM",26-211,90,0,0,0,0,0,0,0,0,53,3,0,1,0.0,0.0,0.0,1,0,31,44,70.5,5,33,5,6,6,Leicester City
+Tom Ince,22.0,eng ENG,"AM,WB",25-336,90,0,0,0,0,1,0,0,0,57,1,0,1,0.0,0.0,0.0,4,0,36,45,80.0,4,28,2,3,1,Leicester City
+Aaron Mooy,10.0,au AUS,"DM,CM",27-108,90,0,0,0,0,1,0,0,0,69,5,1,2,0.0,0.0,0.0,1,0,46,58,79.3,7,28,1,2,2,Leicester City
+Danny Williams,19.0,us USA,"DM,CM",28-299,90,0,0,0,0,1,0,0,0,61,2,3,0,0.1,0.1,0.0,0,0,44,47,93.6,2,35,0,1,1,Leicester City
+Chris Löwe,15.0,de GER,LB,28-260,75,0,0,0,0,1,1,0,0,65,6,0,0,0.0,0.0,0.0,0,0,36,54,66.7,4,24,3,0,0,Leicester City
+Scott Malone,3.0,eng ENG,"CB,LB",26-282,15,0,0,0,0,0,0,1,0,11,1,1,2,0.0,0.0,0.0,0,0,4,5,80.0,0,2,1,0,0,Leicester City
+Christopher Schindler,26.0,de GER,CB,27-247,90,0,0,0,0,0,0,0,0,75,3,7,0,0.0,0.0,0.0,0,0,44,53,83.0,4,28,0,1,1,Leicester City
+Mathias Jørgensen,25.0,dk DEN,CB,27-253,90,0,0,0,0,1,0,0,0,57,1,1,0,0.1,0.1,0.0,0,0,31,39,79.5,4,20,0,0,0,Leicester City
+Tommy Smith,2.0,eng ENG,RB,25-262,81,0,0,0,0,0,0,0,0,64,5,0,2,0.0,0.0,0.1,3,0,43,53,81.1,5,22,2,0,0,Leicester City
+Laurent Depoitre,20.0,be BEL,"FW,RB",29-025,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Leicester City
+Jonas Lössl,1.0,dk DEN,GK,28-334,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,30,41,73.2,0,23,0,0,0,Leicester City
+14 Players,,,,,990,0,0,0,0,6,1,1,0,634,29,16,9,0.2,0.2,0.2,12,0,387,497,77.9,41,287,15,15,11,Leicester City
+Steve Mounié,24.0,bj BEN,FW,23-094,90,0,0,0,0,0,0,0,0,39,0,2,1,0.0,0.0,0.1,2,0,19,30,63.3,3,17,0,0,0,Huddersfield Town
+Joe Lolley,18.0,eng ENG,LW,25-129,58,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,0,0,14,18,77.8,3,18,0,2,0,Huddersfield Town
+Collin Quaner,23.0,de GER,"RW,WB",26-197,32,0,0,0,0,1,0,0,0,12,2,0,0,0.0,0.0,0.0,1,0,7,8,87.5,0,8,1,0,0,Huddersfield Town
+Rajiv van La Parra,17.0,nl NED,"RW,LW,WB,AM",26-211,90,0,0,0,0,0,0,0,0,53,3,0,1,0.0,0.0,0.0,1,0,31,44,70.5,5,33,5,6,6,Huddersfield Town
+Tom Ince,22.0,eng ENG,"AM,WB",25-336,90,0,0,0,0,1,0,0,0,57,1,0,1,0.0,0.0,0.0,4,0,36,45,80.0,4,28,2,3,1,Huddersfield Town
+Aaron Mooy,10.0,au AUS,"DM,CM",27-108,90,0,0,0,0,1,0,0,0,69,5,1,2,0.0,0.0,0.0,1,0,46,58,79.3,7,28,1,2,2,Huddersfield Town
+Danny Williams,19.0,us USA,"DM,CM",28-299,90,0,0,0,0,1,0,0,0,61,2,3,0,0.1,0.1,0.0,0,0,44,47,93.6,2,35,0,1,1,Huddersfield Town
+Chris Löwe,15.0,de GER,LB,28-260,75,0,0,0,0,1,1,0,0,65,6,0,0,0.0,0.0,0.0,0,0,36,54,66.7,4,24,3,0,0,Huddersfield Town
+Scott Malone,3.0,eng ENG,"CB,LB",26-282,15,0,0,0,0,0,0,1,0,11,1,1,2,0.0,0.0,0.0,0,0,4,5,80.0,0,2,1,0,0,Huddersfield Town
+Christopher Schindler,26.0,de GER,CB,27-247,90,0,0,0,0,0,0,0,0,75,3,7,0,0.0,0.0,0.0,0,0,44,53,83.0,4,28,0,1,1,Huddersfield Town
+Mathias Jørgensen,25.0,dk DEN,CB,27-253,90,0,0,0,0,1,0,0,0,57,1,1,0,0.1,0.1,0.0,0,0,31,39,79.5,4,20,0,0,0,Huddersfield Town
+Tommy Smith,2.0,eng ENG,RB,25-262,81,0,0,0,0,0,0,0,0,64,5,0,2,0.0,0.0,0.1,3,0,43,53,81.1,5,22,2,0,0,Huddersfield Town
+Laurent Depoitre,20.0,be BEL,"FW,RB",29-025,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Huddersfield Town
+Jonas Lössl,1.0,dk DEN,GK,28-334,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,30,41,73.2,0,23,0,0,0,Huddersfield Town
+14 Players,,,,,990,0,0,0,0,6,1,1,0,634,29,16,9,0.2,0.2,0.2,12,0,387,497,77.9,41,287,15,15,11,Huddersfield Town

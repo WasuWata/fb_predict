@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Troy Deeney,9.0,eng ENG,FW,29-310,61,0,0,0,1,2,2,0,0,28,0,0,0,0.9,0.1,0.3,4,1,14,22,63.6,7,11,0,0,0,Watford
+Adrian Mariappa,6.0,jm JAM,CB,31-214,29,0,0,0,0,0,0,0,0,14,1,0,2,0.0,0.0,0.0,0,0,6,8,75.0,1,6,0,1,1,Watford
+Andre Gray,18.0,jm JAM,FW,26-313,79,1,0,0,0,2,2,0,0,29,0,0,1,0.6,0.6,0.5,2,0,10,18,55.6,1,18,4,0,0,Watford
+Richarlison,11.0,br BRA,FW,20-360,11,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,1,0,0,Watford
+Roberto Pereyra,37.0,ar ARG,LM,27-118,55,1,1,0,0,3,2,0,0,35,1,0,0,0.9,0.9,0.5,2,1,22,24,91.7,1,26,2,1,0,Watford
+Gerard Deulofeu,7.0,es ESP,"AM,LM",24-053,35,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,1,0,4,7,57.1,1,6,1,0,0,Watford
+Étienne Capoue,29.0,fr FRA,CM,29-298,90,0,0,0,0,2,0,0,0,66,2,3,2,0.1,0.1,0.0,0,0,46,54,85.2,3,43,1,2,1,Watford
+Abdoulaye Doucouré,16.0,ml MLI,CM,25-124,90,0,1,0,0,0,0,0,0,62,3,1,0,0.0,0.0,0.4,3,1,46,57,80.7,5,36,2,0,0,Watford
+Will Hughes,19.0,eng ENG,"RM,AM",23-018,90,0,0,0,0,0,0,0,0,40,1,1,1,0.0,0.0,0.0,4,1,27,33,81.8,3,23,2,0,0,Watford
+José Holebas,25.0,gr GRE,"LB,WB",33-312,90,0,0,0,0,0,0,1,0,67,4,1,1,0.0,0.0,0.1,3,0,37,52,71.2,2,31,0,0,0,Watford
+Christian Kabasele,27.0,be BEL,CB,27-070,90,0,0,0,0,1,1,1,0,50,0,0,2,0.0,0.0,0.0,0,0,23,32,71.9,1,23,0,0,0,Watford
+Craig Cathcart,15.0,nir NIR,CB,29-088,90,0,0,0,0,0,0,0,0,51,1,1,2,0.0,0.0,0.0,0,0,26,34,76.5,2,20,0,0,0,Watford
+Daryl Janmaat,2.0,nl NED,"RB,WB",28-287,90,0,0,0,0,0,0,0,0,53,0,1,0,0.0,0.0,0.0,0,0,35,49,71.4,2,31,2,0,0,Watford
+Orestis Karnezis,30.0,gr GRE,GK,32-298,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,7,25,28.0,0,8,0,0,0,Watford
+14 Players,,,,,990,2,2,0,1,10,7,2,0,535,14,8,11,2.5,1.7,1.6,19,4,303,417,72.7,29,284,15,4,2,Watford
+Dwight Gayle,9.0,eng ENG,FW,27-200,90,0,0,0,0,2,0,0,0,19,0,0,0,0.1,0.1,0.1,2,0,11,15,73.3,0,10,3,0,0,Newcastle United
+Ayoze Pérez,17.0,es ESP,"FW,AM",24-280,90,1,0,0,0,2,1,1,0,36,0,1,1,0.4,0.4,0.0,1,0,15,25,60.0,3,26,4,2,2,Newcastle United
+Kenedy,15.0,br BRA,"LM,WB",22-086,90,0,0,0,0,1,0,0,0,57,1,1,1,0.0,0.0,0.0,1,0,39,49,79.6,1,45,4,1,1,Newcastle United
+Jonjo Shelvey,8.0,eng ENG,CM,26-067,90,0,0,0,0,1,0,0,0,108,0,2,1,0.1,0.1,0.1,3,1,80,99,80.8,15,69,3,1,0,Newcastle United
+Mohamed Diamé,10.0,sn SEN,CM,30-325,83,0,0,0,0,0,0,0,0,62,5,0,1,0.0,0.0,0.0,0,0,43,51,84.3,4,34,2,3,1,Newcastle United
+Mikel Merino,23.0,es ESP,CM,21-317,7,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,1,0,10,13,76.9,3,8,1,2,2,Newcastle United
+Jacob Murphy,7.0,eng ENG,RM,23-070,52,0,0,0,0,0,0,0,0,29,0,0,1,0.0,0.0,0.0,0,0,13,22,59.1,0,21,2,2,1,Newcastle United
+Matt Ritchie,11.0,sct SCO,"AM,RM",28-237,38,0,0,0,0,1,0,0,0,38,1,0,0,0.0,0.0,0.1,3,0,26,35,74.3,2,22,2,0,0,Newcastle United
+Paul Dummett,3.0,wls WAL,"LB,CB",26-221,90,0,0,0,0,0,0,0,0,65,0,1,1,0.0,0.0,0.0,0,0,53,62,85.5,4,37,0,0,0,Newcastle United
+Florian Lejeune,20.0,fr FRA,CB,26-350,90,0,0,0,0,1,0,0,0,82,0,2,0,0.0,0.0,0.0,0,0,66,78,84.6,7,50,1,0,0,Newcastle United
+Jamaal Lascelles,6.0,eng ENG,CB,24-175,90,0,0,0,0,0,0,0,0,91,1,0,2,0.0,0.0,0.0,0,0,66,79,83.5,3,56,1,0,0,Newcastle United
+Javier Manquillo,19.0,es ESP,"RB,WB",24-000,66,0,1,0,0,0,0,0,0,52,0,1,1,0.0,0.0,0.3,3,1,33,47,70.2,3,26,4,2,1,Newcastle United
+DeAndre Yedlin,22.0,us USA,"WB,RB",24-300,24,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.1,2,0,23,30,76.7,5,18,1,1,1,Newcastle United
+Martin Dúbravka,12.0,sk SVK,GK,29-110,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,34,37,91.9,0,23,0,0,0,Newcastle United
+14 Players,,,,,990,1,1,0,0,9,1,1,0,731,8,8,9,0.7,0.7,0.6,16,2,512,642,79.8,50,445,28,14,9,Newcastle United

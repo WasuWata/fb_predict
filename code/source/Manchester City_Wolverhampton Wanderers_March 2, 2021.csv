@@ -1,0 +1,29 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Gabriel Jesus,9.0,br BRA,FW,23-333,90,2,0,0,0,5,3,0,0,36,1,0,0,1.8,1.8,0.1,5,0,23,26,88.5,1,22,2,2,1,Manchester City
+Raheem Sterling,7.0,eng ENG,LW,26-084,90,0,0,0,0,5,1,0,0,44,1,1,0,0.6,0.6,0.1,2,0,30,36,83.3,1,25,4,2,1,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,30-009,90,1,0,0,0,3,2,0,0,82,2,1,1,0.2,0.2,0.3,6,1,60,72,83.3,11,56,7,7,5,Manchester City
+Kevin De Bruyne,17.0,be BEL,LM,29-247,90,0,0,0,0,4,2,0,0,108,3,0,0,0.2,0.2,0.0,3,0,70,94,74.5,18,70,3,1,1,Manchester City
+Rodri,16.0,es ESP,CM,24-253,90,0,0,0,0,0,0,0,0,124,1,2,1,0.0,0.0,0.1,6,1,113,118,95.8,17,84,0,3,2,Manchester City
+Bernardo Silva,20.0,pt POR,RM,26-204,81,0,0,0,0,2,1,0,0,71,0,0,0,0.5,0.5,0.3,9,1,60,69,87.0,11,53,6,0,0,Manchester City
+İlkay Gündoğan,8.0,de GER,RM,30-129,9,0,0,0,0,1,1,0,0,7,0,0,0,0.0,0.0,0.0,2,2,6,6,100.0,0,3,0,0,0,Manchester City
+João Cancelo,27.0,pt POR,LB,26-279,90,0,0,0,0,2,0,0,0,96,2,2,0,0.1,0.1,0.3,3,0,76,88,86.4,5,60,2,5,3,Manchester City
+Aymeric Laporte,14.0,es ESP,CB,26-279,90,0,0,0,0,0,0,0,0,114,1,0,2,0.0,0.0,0.0,0,0,101,106,95.3,12,89,2,0,0,Manchester City
+Rúben Dias,3.0,pt POR,CB,23-292,90,0,0,0,0,0,0,0,0,108,1,1,1,0.0,0.0,0.0,1,0,101,105,96.2,7,88,2,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,30-278,90,0,0,0,0,0,0,0,0,97,2,0,0,0.0,0.0,0.0,1,0,86,91,94.5,8,68,6,4,3,Manchester City
+Ederson,31.0,br BRA,GK,27-197,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,28,31,90.3,0,20,0,0,0,Manchester City
+12 Players,,,,,990,3,0,0,0,22,10,0,0,919,14,7,5,3.4,3.4,1.2,38,5,754,842,89.5,91,638,34,24,16,Manchester City
+Adama Traoré,37.0,es ESP,"FW,AM",25-036,90,0,0,0,0,3,0,0,0,33,3,0,0,0.2,0.2,0.0,0,0,14,16,87.5,2,22,4,3,3,Wolverhampton Wanderers
+Pedro Neto,7.0,pt POR,AM,20-358,90,0,0,0,0,1,0,1,0,41,0,0,2,0.1,0.1,0.1,3,0,25,31,80.6,1,24,2,6,3,Wolverhampton Wanderers
+Nélson Semedo,22.0,pt POR,"AM,WB",27-106,90,0,0,0,0,0,0,0,0,35,2,1,1,0.0,0.0,0.0,1,0,19,21,90.5,3,21,3,2,1,Wolverhampton Wanderers
+João Moutinho,28.0,pt POR,CM,34-175,90,0,1,0,0,0,0,0,0,46,1,2,0,0.0,0.0,0.1,4,2,31,37,83.8,3,24,3,2,2,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,CM,23-354,89,0,0,0,0,0,0,0,0,52,1,0,2,0.0,0.0,0.0,0,0,40,49,81.6,2,23,0,0,0,Wolverhampton Wanderers
+Owen Otasowie,54.0,us USA,CM,20-055,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Wolverhampton Wanderers
+Jonny Castro,19.0,es ESP,WB,26-364,54,0,0,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.0,0,0,8,9,88.9,2,5,1,0,0,Wolverhampton Wanderers
+Fábio Silva,17.0,pt POR,FW,18-226,36,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,6,10,60.0,0,5,0,1,1,Wolverhampton Wanderers
+Ki-Jana Hoever,2.0,nl NED,WB,19-043,90,0,0,0,0,0,0,0,0,50,4,0,0,0.0,0.0,0.0,1,0,26,35,74.3,0,21,1,3,2,Wolverhampton Wanderers
+Romain Saïss,27.0,ma MAR,CB,30-341,90,0,0,0,0,0,0,0,0,43,2,1,0,0.0,0.0,0.0,0,0,28,33,84.8,2,20,0,0,0,Wolverhampton Wanderers
+Conor Coady,16.0,eng ENG,CB,28-005,90,1,0,0,0,1,1,0,0,43,1,0,2,0.1,0.1,0.0,0,0,28,31,90.3,0,22,0,0,0,Wolverhampton Wanderers
+Leander Dendoncker,32.0,be BEL,CB,25-321,90,0,0,0,0,1,0,0,0,48,2,2,7,0.0,0.0,0.0,0,0,24,27,88.9,0,16,0,1,0,Wolverhampton Wanderers
+Rui Patrício,11.0,pt POR,GK,33-015,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,17,26,65.4,0,10,0,0,0,Wolverhampton Wanderers
+13 Players,,,,,990,1,1,0,0,6,1,1,0,450,17,7,14,0.3,0.3,0.2,10,2,266,325,81.8,15,214,14,18,12,Wolverhampton Wanderers

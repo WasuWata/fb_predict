@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Chris Wood,11.0,nz NZL,FW,25-290,90,0,0,0,0,2,1,0,0,35,0,0,0,0.3,0.3,0.0,0,0,13,27,48.1,0,21,0,0,0,Burnley
+Scott Arfield,37.0,ca CAN,LW,28-326,76,0,0,0,0,1,0,1,0,35,1,0,1,0.0,0.0,0.0,1,0,18,26,69.2,1,15,0,4,2,Burnley
+Jóhann Berg Guðmundsson,17.0,is ISL,LW,26-331,14,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Burnley
+Robbie Brady,12.0,ie IRL,RW,25-252,90,0,0,0,0,1,1,0,0,56,3,1,2,0.0,0.0,0.0,1,0,25,46,54.3,8,30,2,4,2,Burnley
+Steven Defour,16.0,be BEL,CM,29-161,90,0,0,0,0,0,0,0,0,67,1,4,3,0.0,0.0,0.0,0,0,47,57,82.5,3,36,2,2,2,Burnley
+Jeff Hendrick,13.0,ie IRL,CM,25-235,73,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,1,0,26,28,92.9,2,28,2,0,0,Burnley
+Ashley Barnes,10.0,eng ENG,CM,27-328,17,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,3,0,0,0,Burnley
+Jack Cork,4.0,eng ENG,CM,28-090,90,0,0,0,0,0,0,1,0,66,3,2,1,0.0,0.0,0.0,1,0,46,57,80.7,3,37,1,1,1,Burnley
+Stephen Ward,23.0,ie IRL,LB,32-034,90,0,0,0,0,0,0,0,0,75,2,3,0,0.0,0.0,0.3,1,0,46,61,75.4,4,30,4,1,0,Burnley
+Ben Mee,6.0,eng ENG,CB,28-002,90,0,0,0,0,0,0,0,0,68,1,1,1,0.0,0.0,0.0,1,0,48,63,76.2,5,39,1,0,0,Burnley
+James Tarkowski,5.0,eng ENG,CB,24-308,90,0,0,0,0,0,0,1,0,56,0,0,0,0.0,0.0,0.0,0,0,38,49,77.6,4,29,0,0,0,Burnley
+Matthew Lowton,2.0,eng ENG,RB,28-106,90,0,0,0,0,0,0,0,0,62,3,2,0,0.0,0.0,0.0,0,0,36,52,69.2,1,25,0,1,0,Burnley
+Nick Pope,29.0,eng ENG,GK,25-157,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,20,36,55.6,0,19,0,0,0,Burnley
+13 Players,,,,,990,0,0,0,0,4,2,3,0,600,15,13,9,0.3,0.3,0.3,6,0,367,510,72.0,31,316,12,13,7,Burnley

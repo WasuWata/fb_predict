@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Sergio Agüero,10.0,ar ARG,FW,32-137,64,0,0,0,0,1,0,0,0,28,0,0,1,0.1,0.1,0.6,3,0,18,22,81.8,1,21,4,0,0,Manchester City
+İlkay Gündoğan,8.0,de GER,CM,29-359,26,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,20,20,100.0,0,12,0,0,0,Manchester City
+Raheem Sterling,7.0,eng ENG,FW,25-314,90,1,0,0,0,2,1,0,0,67,0,1,0,0.3,0.3,0.0,5,0,52,60,86.7,6,53,2,2,1,Manchester City
+Phil Foden,47.0,eng ENG,LW,20-142,88,0,0,0,0,4,2,0,0,61,0,1,1,0.7,0.7,0.0,2,1,39,49,79.6,3,42,4,3,0,Manchester City
+Fernandinho,25.0,br BRA,FW,35-166,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,29-239,90,0,0,0,0,6,2,0,0,58,1,0,2,0.3,0.3,0.1,4,0,35,43,81.4,2,42,2,6,4,Manchester City
+Bernardo Silva,20.0,pt POR,"CM,FW,LW",26-068,90,0,0,0,0,0,0,0,0,89,3,0,1,0.0,0.0,0.0,4,0,72,82,87.8,5,64,4,2,2,Manchester City
+João Cancelo,27.0,pt POR,CM,26-143,90,0,0,0,0,0,0,1,0,62,4,3,1,0.0,0.0,0.1,3,0,43,47,91.5,3,36,2,4,3,Manchester City
+Rodri,16.0,es ESP,DM,24-117,90,0,0,0,0,0,0,1,0,85,0,1,0,0.0,0.0,0.1,2,0,79,83,95.2,4,70,0,0,0,Manchester City
+Nathan Aké,6.0,nl NED,CB,25-242,90,0,0,0,0,0,0,1,0,77,1,0,0,0.0,0.0,0.0,0,0,68,72,94.4,3,59,0,1,0,Manchester City
+Rúben Dias,3.0,pt POR,CB,23-156,90,0,0,0,0,0,0,1,0,102,0,1,0,0.0,0.0,0.0,0,0,89,96,92.7,3,74,2,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,CB,30-142,90,0,0,0,0,0,0,0,0,72,2,1,1,0.0,0.0,0.0,0,0,59,68,86.8,1,48,1,0,0,Manchester City
+Ederson,31.0,br BRA,GK,27-061,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,29,46,63.0,0,28,0,0,0,Manchester City
+13 Players,,,,,990,1,0,0,0,13,5,4,0,771,11,8,7,1.4,1.4,0.9,24,1,604,689,87.7,32,550,21,18,10,Manchester City
+Willian,12.0,br BRA,FW,32-069,68,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.1,2,0,23,29,79.3,0,14,0,0,0,Arsenal
+Alexandre Lacazette,9.0,fr FRA,FW,29-142,22,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,2,1,0,0,Arsenal
+Pierre-Emerick Aubameyang,14.0,ga GAB,LW,31-121,90,0,0,0,0,0,0,0,0,24,0,0,2,0.0,0.0,0.5,3,0,11,16,68.8,3,15,1,1,0,Arsenal
+Nicolas Pépé,19.0,ci CIV,RW,25-141,82,0,0,0,0,3,1,0,0,23,0,1,0,0.2,0.2,0.0,0,0,7,12,58.3,1,14,0,4,2,Arsenal
+Eddie Nketiah,30.0,eng ENG,RW,21-140,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,2,1,Arsenal
+Bukayo Saka,7.0,eng ENG,LM,19-042,90,0,0,0,0,2,2,0,0,54,2,0,1,0.5,0.5,0.0,7,0,32,41,78.0,2,30,5,5,4,Arsenal
+Granit Xhaka,34.0,ch SUI,CM,28-020,82,0,0,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.0,2,0,37,38,97.4,5,26,1,0,0,Arsenal
+Thomas Partey,18.0,gh GHA,CM,27-126,8,0,0,0,0,0,0,1,0,13,1,1,0,0.0,0.0,0.0,0,0,8,9,88.9,1,6,1,0,0,Arsenal
+Dani Ceballos,8.0,es ESP,RM,24-071,90,0,0,0,0,0,0,0,0,54,3,0,0,0.0,0.0,0.1,2,0,47,51,92.2,3,36,1,0,0,Arsenal
+Kieran Tierney,3.0,sct SCO,LB,23-134,90,0,0,0,0,2,0,0,0,77,0,0,3,0.0,0.0,0.0,1,0,47,64,73.4,3,40,5,1,1,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,22-303,90,0,0,0,0,2,0,0,0,83,0,1,3,0.1,0.1,0.0,1,0,63,76,82.9,0,59,0,0,0,Arsenal
+David Luiz,23.0,br BRA,CB,33-178,90,0,0,0,0,2,0,0,0,72,2,2,2,0.1,0.1,0.0,1,0,52,60,86.7,2,47,2,1,1,Arsenal
+Héctor Bellerín,2.0,es ESP,RB,25-212,90,0,0,0,0,0,0,0,0,48,5,1,1,0.0,0.0,0.0,0,0,34,40,85.0,2,19,0,0,0,Arsenal
+Bernd Leno,1.0,de GER,GK,28-227,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,45,52,86.5,0,34,0,0,0,Arsenal
+14 Players,,,,,990,0,0,0,0,11,3,1,0,587,13,6,13,0.9,0.9,0.7,19,0,411,496,82.9,22,346,17,14,9,Arsenal

@@ -1,0 +1,30 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Chris Wood,11.0,nz NZL,FW,26-002,90,0,0,0,0,2,2,0,0,38,0,0,1,0.1,0.1,0.0,3,0,15,30,50.0,1,22,4,1,1,Burnley
+Scott Arfield,37.0,ca CAN,LW,29-038,90,1,0,0,0,2,1,0,0,51,0,1,0,0.2,0.2,0.0,3,1,26,43,60.5,6,20,2,2,2,Burnley
+Jóhann Berg Guðmundsson,17.0,is ISL,RW,27-043,90,0,1,0,0,3,2,0,0,53,1,1,1,0.1,0.1,0.1,2,1,20,41,48.8,3,23,5,1,1,Burnley
+Jeff Hendrick,13.0,ie IRL,AM,25-312,59,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,3,0,9,17,52.9,0,10,0,0,0,Burnley
+Ashley Barnes,10.0,eng ENG,AM,28-040,31,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,0,6,0.0,0,4,0,1,0,Burnley
+Jack Cork,4.0,eng ENG,DM,28-167,90,0,0,0,0,0,0,0,0,54,0,2,1,0.0,0.0,0.0,0,0,37,43,86.0,5,27,0,1,0,Burnley
+Steven Defour,16.0,be BEL,DM,29-238,89,0,0,0,0,1,0,0,0,61,0,1,0,0.1,0.1,0.1,2,0,42,54,77.8,6,32,2,1,0,Burnley
+Ashley Westwood,18.0,eng ENG,DM,27-252,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Burnley
+Stephen Ward,23.0,ie IRL,LB,32-111,90,0,0,0,0,0,0,0,0,63,2,0,1,0.0,0.0,0.0,1,0,29,52,55.8,4,17,1,0,0,Burnley
+James Tarkowski,5.0,eng ENG,CB,25-020,90,0,0,0,0,0,0,0,0,50,2,3,0,0.0,0.0,0.0,0,0,24,38,63.2,3,11,0,1,1,Burnley
+Kevin Long,28.0,ie IRL,CB,27-113,90,0,0,0,0,0,0,0,0,43,1,2,1,0.0,0.0,0.0,0,0,23,28,82.1,1,14,0,0,0,Burnley
+Phil Bardsley,26.0,sct SCO,RB,32-164,90,0,0,0,0,0,0,1,0,58,0,3,6,0.0,0.0,0.0,1,0,30,40,75.0,1,11,1,1,0,Burnley
+Nick Pope,29.0,eng ENG,GK,25-234,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,20,34,58.8,0,16,0,0,0,Burnley
+13 Players,,,,,990,1,1,0,0,8,5,1,0,539,8,13,11,0.5,0.5,0.3,15,2,275,426,64.6,30,207,15,9,5,Burnley
+Troy Deeney,9.0,eng ENG,FW,29-163,90,0,0,0,0,1,0,0,0,29,0,0,0,0.2,0.2,0.0,1,0,16,25,64.0,0,15,0,0,0,Watford
+Richarlison,11.0,br BRA,LW,20-213,90,0,0,0,0,1,0,0,0,35,0,0,0,0.4,0.4,0.0,3,0,15,25,60.0,4,22,3,1,0,Watford
+André Carrillo,28.0,pe PER,RW,26-178,78,0,0,0,0,0,0,0,0,54,0,0,1,0.0,0.0,0.5,4,0,41,45,91.1,6,41,3,2,1,Watford
+Andre Gray,18.0,jm JAM,RW,26-166,12,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Watford
+Roberto Pereyra,37.0,ar ARG,AM,26-336,43,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.4,3,0,15,18,83.3,1,16,2,0,0,Watford
+José Holebas,25.0,gr GRE,LB,33-165,47,0,0,0,0,1,0,0,0,32,0,0,1,0.1,0.1,0.0,0,0,10,26,38.5,1,13,1,0,0,Watford
+Abdoulaye Doucouré,16.0,ml MLI,DM,24-342,90,0,0,0,0,2,1,0,0,62,0,5,0,0.1,0.1,0.0,2,0,38,55,69.1,4,32,1,0,0,Watford
+Tom Cleverley,8.0,eng ENG,DM,28-119,90,0,0,0,0,1,0,0,0,72,3,1,1,0.0,0.0,0.1,6,0,49,64,76.6,9,30,3,0,0,Watford
+Marvin Zeegelaar,22.0,nl NED,LB,27-119,38,0,0,0,0,0,0,0,1,25,1,0,0,0.0,0.0,0.0,0,0,14,21,66.7,1,10,0,0,0,Watford
+Christian Kabasele,27.0,be BEL,CB,26-288,90,0,0,0,0,1,0,0,0,50,1,4,0,0.1,0.1,0.0,1,0,21,34,61.8,3,18,0,1,1,Watford
+Adrian Mariappa,6.0,jm JAM,CB,31-067,90,0,0,0,0,0,0,0,0,54,2,1,1,0.0,0.0,0.0,0,0,20,37,54.1,1,21,0,1,1,Watford
+Daryl Janmaat,2.0,nl NED,RB,28-140,90,0,0,0,0,3,1,0,0,75,3,3,3,0.2,0.2,0.0,0,0,34,52,65.4,4,25,1,1,1,Watford
+Heurelho Gomes,1.0,br BRA,GK,36-297,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,21,39,53.8,0,24,0,0,0,Watford
+13 Players,,,,,938,0,0,0,0,11,2,0,1,552,10,14,7,1.1,1.1,1.0,20,0,294,442,66.5,34,267,14,6,4,Watford

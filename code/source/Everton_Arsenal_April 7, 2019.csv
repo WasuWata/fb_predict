@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Calvert-Lewin,29.0,eng ENG,FW,22-022,90,0,0,0,0,2,1,0,0,37,1,1,2,0.2,0.2,0.0,2,1,13,21,61.9,2,22,3,3,1,Everton
+Bernard,20.0,br BRA,LW,26-211,87,0,0,0,0,2,2,0,0,49,3,3,2,0.4,0.4,0.0,3,0,24,32,75.0,2,24,3,3,1,Everton
+Ademola Lookman,31.0,ng NGA,LW,21-169,3,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0,Everton
+Richarlison,30.0,br BRA,RW,21-332,78,0,0,0,0,3,0,0,0,46,3,2,3,0.3,0.3,0.4,4,0,18,26,69.2,3,25,3,0,0,Everton
+Theo Walcott,11.0,eng ENG,RW,30-022,12,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.1,2,0,5,9,55.6,1,6,2,0,0,Everton
+Gylfi Sigurðsson,10.0,is ISL,AM,29-211,89,0,0,0,0,7,2,0,0,42,2,1,0,0.6,0.6,0.2,6,0,24,28,85.7,3,20,2,2,1,Everton
+Tom Davies,26.0,eng ENG,AM,20-281,1,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,2,2,1,0,0,Everton
+Idrissa Gana Gueye,17.0,sn SEN,DM,29-193,90,0,0,0,0,2,0,0,0,59,4,2,0,0.1,0.1,0.1,6,0,36,45,80.0,5,30,2,3,2,Everton
+André Gomes,8.0,pt POR,DM,25-251,90,0,0,0,0,2,0,1,0,66,2,0,0,0.0,0.0,0.0,4,0,51,58,87.9,9,41,1,3,2,Everton
+Lucas Digne,12.0,fr FRA,LB,25-261,90,0,0,0,0,0,0,0,0,69,4,3,1,0.0,0.0,0.0,5,0,40,58,69.0,8,27,5,0,0,Everton
+Kurt Zouma,5.0,fr FRA,CB,24-162,90,0,0,0,0,2,0,0,0,40,0,0,1,0.1,0.1,0.0,1,0,24,28,85.7,0,18,1,1,1,Everton
+Phil Jagielka,6.0,eng ENG,CB,36-233,90,1,0,0,0,1,1,0,0,40,0,0,1,0.6,0.6,0.2,1,0,28,36,77.8,3,16,0,0,0,Everton
+Séamus Coleman,23.0,ie IRL,RB,30-178,90,0,0,0,0,0,0,0,0,50,0,1,1,0.0,0.0,0.0,1,0,34,43,79.1,4,19,2,1,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,25-031,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,17,33,51.5,0,15,0,0,0,Everton
+14 Players,,,,,990,1,0,0,0,23,6,1,0,554,19,14,11,2.6,2.6,1.1,36,1,321,425,75.5,42,268,25,16,8,Everton
+Alexandre Lacazette,9.0,fr FRA,FW,27-314,90,0,0,0,0,1,1,0,0,28,2,0,1,0.0,0.0,0.0,0,0,14,18,77.8,1,13,1,1,1,Arsenal
+Henrikh Mkhitaryan,7.0,am ARM,"AM,LW",30-076,90,0,0,0,0,1,0,0,0,64,0,0,1,0.0,0.0,0.1,2,0,39,54,72.2,5,35,5,7,4,Arsenal
+Mesut Özil,10.0,de GER,AM,30-174,73,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,1,0,39,47,83.0,6,32,4,1,0,Arsenal
+Alex Iwobi,17.0,ng NGA,LW,22-339,17,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,7,3,2,2,Arsenal
+Mattéo Guendouzi,29.0,fr FRA,"DM,CM",19-358,90,0,0,0,0,0,0,1,0,59,2,1,1,0.0,0.0,0.0,0,0,43,51,84.3,12,35,2,0,0,Arsenal
+Mohamed Elneny,4.0,eg EGY,CM,26-270,45,0,0,0,0,0,0,0,0,38,0,1,1,0.0,0.0,0.1,1,0,26,33,78.8,3,21,1,1,0,Arsenal
+Aaron Ramsey,8.0,wls WAL,DM,28-102,45,0,0,0,0,3,1,0,0,45,2,0,0,0.2,0.2,0.0,2,0,28,37,75.7,5,29,3,2,2,Arsenal
+Sead Kolašinac,31.0,ba BIH,WB,25-291,45,0,0,0,0,0,0,0,0,30,1,0,1,0.0,0.0,0.0,0,0,16,25,64.0,1,12,1,1,1,Arsenal
+Pierre-Emerick Aubameyang,14.0,ga GAB,RW,29-293,45,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,2,0,5,11,45.5,1,7,2,1,1,Arsenal
+Ainsley Maitland-Niles,15.0,eng ENG,"RB,WB",21-221,90,0,0,0,0,1,0,0,0,62,3,3,1,0.1,0.1,0.0,3,0,31,45,68.9,5,24,3,4,1,Arsenal
+Nacho Monreal,18.0,es ESP,"LB,CB",33-040,90,0,0,0,0,0,0,1,0,64,3,2,4,0.0,0.0,0.0,0,0,45,53,84.9,6,38,0,1,1,Arsenal
+Sokratis Papastathopoulos,5.0,gr GRE,CB,30-302,90,0,0,0,0,1,0,1,0,74,3,2,5,0.1,0.1,0.0,1,0,51,57,89.5,2,47,0,1,1,Arsenal
+Shkodran Mustafi,20.0,de GER,CB,26-355,90,0,0,0,0,0,0,1,0,95,4,0,3,0.0,0.0,0.0,1,0,62,81,76.5,4,56,0,1,0,Arsenal
+Bernd Leno,19.0,de GER,GK,27-034,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,34,41,82.9,0,22,0,0,0,Arsenal
+14 Players,,,,,990,0,0,0,0,7,2,4,0,678,21,9,18,0.3,0.3,0.2,13,0,440,561,78.4,52,378,25,23,14,Arsenal

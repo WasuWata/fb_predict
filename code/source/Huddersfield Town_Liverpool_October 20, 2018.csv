@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Laurent Depoitre,20.0,be BEL,FW,29-317,90,0,0,0,0,4,1,0,0,32,1,0,1,0.2,0.2,0.0,3,0,13,22,59.1,2,20,1,0,0,Huddersfield Town
+Alex Pritchard,21.0,eng ENG,"FW,CM",25-170,90,0,0,0,0,1,0,0,0,52,1,0,0,0.1,0.1,0.0,6,0,35,46,76.1,8,38,4,5,3,Huddersfield Town
+Philip Billing,8.0,dk DEN,DM,22-131,69,0,0,0,0,2,0,0,0,49,0,0,4,0.1,0.1,0.0,0,0,28,37,75.7,3,22,0,1,0,Huddersfield Town
+Steve Mounié,24.0,bj BEN,FW,24-021,21,0,0,0,0,2,0,0,0,12,0,0,0,0.1,0.1,0.0,0,0,4,6,66.7,0,8,0,1,0,Huddersfield Town
+Jonathan Hogg,6.0,eng ENG,"DM,CM",29-318,89,0,0,0,0,1,0,0,0,86,2,2,4,0.0,0.0,0.0,1,0,58,69,84.1,3,39,0,0,0,Huddersfield Town
+Adama Diakhaby,11.0,fr FRA,CM,22-107,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.1,1,0,1,2,50.0,0,2,1,1,1,Huddersfield Town
+Aaron Mooy,10.0,au AUS,"DM,CM",28-035,90,0,0,0,0,1,0,0,0,84,2,2,2,0.0,0.0,0.1,4,0,55,73,75.3,8,44,1,1,0,Huddersfield Town
+Erik Durm,37.0,de GER,WB,26-161,90,0,0,0,0,1,0,0,0,59,1,1,2,0.1,0.1,0.0,2,0,31,45,68.9,6,25,3,1,0,Huddersfield Town
+Florent Hadergjonaj,33.0,xk KVX,WB,24-081,68,0,0,0,0,0,0,0,0,62,1,0,1,0.0,0.0,0.1,3,0,36,56,64.3,2,29,2,0,0,Huddersfield Town
+Isaac Mbenza,18.0,be BEL,WB,22-226,22,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,6,1,0,0,Huddersfield Town
+Chris Löwe,15.0,de GER,CB,29-187,90,0,0,0,0,0,0,0,0,59,3,2,1,0.0,0.0,0.0,1,0,33,45,73.3,2,26,0,0,0,Huddersfield Town
+Christopher Schindler,26.0,de GER,CB,28-174,90,0,0,0,0,0,0,0,0,77,6,1,4,0.0,0.0,0.0,0,0,55,62,88.7,1,35,0,0,0,Huddersfield Town
+Mathias Jørgensen,25.0,dk DEN,CB,28-180,90,0,0,0,0,1,0,0,0,87,2,4,0,0.1,0.1,0.0,3,0,65,76,85.5,3,47,0,0,0,Huddersfield Town
+Jonas Lössl,1.0,dk DEN,GK,29-261,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,2,0,25,33,75.8,0,16,0,0,0,Huddersfield Town
+14 Players,,,,,990,0,0,0,0,13,1,0,0,705,20,12,19,0.7,0.7,0.4,26,0,445,581,76.6,38,357,13,10,4,Huddersfield Town
+Daniel Sturridge,15.0,eng ENG,FW,29-049,90,0,0,0,0,2,0,1,0,50,0,0,1,0.1,0.1,0.2,4,0,30,41,73.2,8,43,3,4,2,Liverpool
+Adam Lallana,20.0,eng ENG,LW,30-163,68,0,0,0,0,0,0,1,0,56,2,2,1,0.0,0.0,0.0,3,0,35,44,79.5,4,41,2,2,2,Liverpool
+Fabinho,3.0,br BRA,CM,24-362,22,0,0,0,0,0,0,0,0,15,2,1,0,0.0,0.0,0.0,0,0,7,12,58.3,2,10,0,0,0,Liverpool
+Mohamed Salah,11.0,eg EGY,RW,26-127,90,1,0,0,0,4,2,0,0,59,1,1,2,0.3,0.3,0.0,3,0,35,46,76.1,3,49,4,4,2,Liverpool
+James Milner,7.0,eng ENG,LM,32-289,76,0,0,0,0,0,0,0,0,72,2,2,3,0.0,0.0,0.0,3,0,47,57,82.5,5,40,1,2,1,Liverpool
+Roberto Firmino,9.0,br BRA,LM,27-018,14,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,0,0,6,9,66.7,0,9,0,0,0,Liverpool
+Jordan Henderson,14.0,eng ENG,CM,28-125,45,0,0,0,0,0,0,0,0,42,1,0,1,0.0,0.0,0.0,1,0,34,39,87.2,1,29,1,0,0,Liverpool
+Georginio Wijnaldum,5.0,nl NED,"RM,CM",27-343,45,0,0,0,0,0,0,0,0,36,0,0,2,0.0,0.0,0.0,1,0,26,29,89.7,3,22,0,1,0,Liverpool
+Xherdan Shaqiri,23.0,ch SUI,"RM,LW",27-010,90,0,1,0,0,2,0,0,0,74,1,0,0,0.1,0.1,0.1,3,1,55,66,83.3,10,58,3,1,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,24-223,90,0,0,0,0,2,0,0,0,93,2,1,0,0.1,0.1,0.0,2,0,68,84,81.0,10,55,0,2,1,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,27-104,90,0,0,0,0,0,0,0,0,66,0,1,1,0.0,0.0,0.0,0,0,42,51,82.4,2,33,0,0,0,Liverpool
+Dejan Lovren,6.0,hr CRO,CB,29-107,90,0,0,0,0,0,0,0,0,61,2,0,2,0.0,0.0,0.0,0,0,40,46,87.0,1,32,0,0,0,Liverpool
+Joe Gomez,12.0,eng ENG,RB,21-150,90,0,0,0,0,0,0,0,0,77,1,1,1,0.0,0.0,0.2,2,1,57,73,78.1,5,38,2,0,0,Liverpool
+Alisson,13.0,br BRA,GK,26-018,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,25,41,61.0,0,24,0,0,0,Liverpool
+14 Players,,,,,990,1,1,0,0,11,2,2,0,754,14,9,14,0.6,0.6,0.5,22,2,507,638,79.5,54,483,16,16,8,Liverpool

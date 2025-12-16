@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Raheem Sterling,7.0,eng ENG,FW,23-156,90,0,0,0,0,2,0,0,0,31,0,1,0,0.1,0.1,0.0,2,0,14,19,73.7,3,21,3,6,1,Manchester City
+Leroy Sané,19.0,de GER,"LW,WB",22-122,90,0,0,0,0,2,0,0,0,54,2,0,2,0.1,0.1,0.0,4,0,31,44,70.5,2,32,1,5,5,Manchester City
+Bernardo Silva,20.0,pt POR,"RW,WB",23-276,77,0,0,0,0,1,0,0,0,28,1,0,0,0.1,0.1,0.1,4,0,16,21,76.2,0,19,2,1,0,Manchester City
+Brahim Díaz,55.0,ma MAR,WB,18-283,13,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Manchester City
+İlkay Gündoğan,8.0,de GER,"LM,CM",27-201,81,0,0,0,0,1,0,0,0,39,0,0,3,0.0,0.0,0.0,2,0,33,35,94.3,5,30,2,1,1,Manchester City
+Phil Foden,47.0,eng ENG,CM,17-350,9,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,4,1,0,0,Manchester City
+Fernandinho,25.0,br BRA,CM,33-009,90,0,0,0,0,1,0,0,0,104,3,0,4,0.1,0.1,0.0,1,0,73,86,84.9,11,60,6,0,0,Manchester City
+Kevin De Bruyne,17.0,be BEL,"RM,AM",26-319,90,0,1,0,0,2,0,0,0,83,1,1,1,0.1,0.1,0.3,7,1,43,70,61.4,8,48,5,6,2,Manchester City
+Fabian Delph,18.0,eng ENG,LB,28-173,58,0,0,0,0,0,0,0,0,78,0,0,1,0.0,0.0,0.0,1,0,65,71,91.5,2,55,5,1,0,Manchester City
+Gabriel Jesus,33.0,br BRA,"FW,LB",21-040,32,1,0,0,0,1,1,1,0,9,0,0,0,0.3,0.3,0.0,0,0,4,6,66.7,1,6,1,2,1,Manchester City
+Aymeric Laporte,14.0,es ESP,CB,23-351,90,0,0,0,0,1,0,0,0,93,0,0,0,0.0,0.0,0.0,4,1,78,89,87.6,8,58,4,2,2,Manchester City
+John Stones,5.0,eng ENG,CB,23-350,90,0,0,0,0,1,1,0,0,82,0,1,0,0.0,0.0,0.0,0,0,70,75,93.3,9,58,0,1,1,Manchester City
+Danilo,3.0,br BRA,"RB,CB",26-302,90,0,0,0,0,1,0,0,0,99,6,1,0,0.0,0.0,0.0,1,0,73,83,88.0,10,53,5,3,1,Manchester City
+Claudio Bravo,1.0,cl CHI,GK,35-030,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,27,33,81.8,0,21,0,0,0,Manchester City
+15 Players,,,,,990,1,1,0,0,13,2,2,0,745,13,4,11,0.8,0.8,0.5,26,2,534,642,83.2,59,468,35,28,14,Manchester City

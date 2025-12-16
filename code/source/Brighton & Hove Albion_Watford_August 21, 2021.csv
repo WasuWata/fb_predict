@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Neal Maupay,9.0,fr FRA,FW,25-007,45,1,0,0,0,1,1,0,0,15,0,0,0,0.4,0.4,0.0,1,0,5,8,62.5,0,12,1,1,1,Brighton & Hove Albion
+Aaron Connolly,7.0,ie IRL,FW,21-205,45,0,0,0,0,1,0,0,0,8,0,0,1,0.3,0.3,0.0,1,0,1,2,50.0,0,5,2,0,0,Brighton & Hove Albion
+Leandro Trossard,11.0,be BEL,FW,26-260,71,0,0,0,0,2,0,0,0,45,2,0,1,0.1,0.1,0.0,0,0,29,39,74.4,6,26,7,0,0,Brighton & Hove Albion
+Enock Mwepu,12.0,zm ZAM,CM,23-232,19,0,0,0,0,1,0,1,0,15,0,0,2,0.0,0.0,0.0,1,0,3,8,37.5,0,2,0,0,0,Brighton & Hove Albion
+Alexis Mac Allister,10.0,ar ARG,"LM,AM",22-240,90,0,0,0,0,3,0,0,0,50,4,1,2,0.3,0.3,0.1,5,0,25,32,78.1,4,19,2,2,1,Brighton & Hove Albion
+Yves Bissouma,8.0,ml MLI,CM,24-356,90,0,1,0,0,1,0,0,0,65,5,5,1,0.0,0.0,0.4,4,2,47,55,85.5,5,35,2,2,2,Brighton & Hove Albion
+Adam Lallana,14.0,eng ENG,"CM,AM",33-103,79,0,0,0,0,0,0,0,0,80,2,0,0,0.0,0.0,0.0,2,0,68,77,88.3,2,42,1,1,1,Brighton & Hove Albion
+Jakub Moder,15.0,pl POL,AM,22-136,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,1,0,0,0,Brighton & Hove Albion
+Pascal Groß,13.0,de GER,"RM,WB",30-067,90,0,1,0,0,1,1,0,0,71,0,0,1,0.0,0.0,0.2,6,1,51,64,79.7,6,32,2,1,1,Brighton & Hove Albion
+Solly March,20.0,eng ENG,"LB,WB",27-032,90,0,0,0,0,0,0,1,0,54,2,0,3,0.0,0.0,0.0,2,0,26,42,61.9,4,27,1,0,0,Brighton & Hove Albion
+Lewis Dunk,5.0,eng ENG,CB,29-273,90,0,0,0,0,0,0,0,0,69,0,1,1,0.0,0.0,0.0,0,0,60,62,96.8,1,36,0,0,0,Brighton & Hove Albion
+Shane Duffy,24.0,ie IRL,CB,29-232,90,1,0,0,0,3,1,1,0,92,0,0,4,0.1,0.1,0.0,0,0,74,79,93.7,2,34,0,0,0,Brighton & Hove Albion
+Adam Webster,4.0,eng ENG,"RB,CB",26-229,90,0,0,0,0,0,0,1,0,118,4,1,2,0.0,0.0,0.0,1,1,105,113,92.9,13,71,1,1,1,Brighton & Hove Albion
+Robert Sánchez,1.0,es ESP,GK,23-276,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,28,40,70.0,0,24,0,0,0,Brighton & Hove Albion
+14 Players,,,,,990,2,2,0,0,13,3,4,0,730,19,8,18,1.3,1.3,0.7,23,4,522,624,83.7,43,366,19,8,7,Brighton & Hove Albion
+Emmanuel Dennis,25.0,ng NGA,"FW,RW",23-279,90,0,0,0,0,1,0,0,0,31,3,0,1,0.1,0.1,0.0,1,0,13,24,54.2,0,14,2,3,2,Watford
+Ken Sema,12.0,se SWE,LM,27-325,77,0,0,0,0,1,0,0,0,26,0,0,1,0.0,0.0,0.1,1,0,12,20,60.0,2,16,3,1,0,Watford
+Troy Deeney,9.0,eng ENG,FW,33-053,13,0,0,0,0,2,0,0,0,9,0,0,0,0.1,0.1,0.1,1,0,2,5,40.0,1,2,0,0,0,Watford
+Imran Louza,6.0,ma MAR,CM,22-112,45,0,0,0,0,0,0,0,0,24,1,1,0,0.0,0.0,0.1,0,0,9,16,56.3,2,9,0,1,1,Watford
+Cucho,29.0,co COL,"LW,LM",22-123,45,0,0,0,0,1,0,0,0,23,1,0,1,0.0,0.0,0.0,2,0,12,19,63.2,4,16,0,2,1,Watford
+Tom Cleverley,8.0,eng ENG,"CM,RM",32-009,90,0,0,0,0,2,1,0,0,60,1,1,2,0.2,0.2,0.0,3,0,45,52,86.5,10,23,1,1,0,Watford
+Ismaila Sarr,23.0,sn SEN,"RM,RW",23-177,90,0,0,0,0,2,0,0,0,47,0,1,0,0.1,0.1,0.2,5,0,30,40,75.0,11,33,4,3,2,Watford
+Oghenekaro Etebo,4.0,ng NGA,"CM,DM",25-285,90,0,0,0,0,1,0,0,0,46,3,1,0,0.0,0.0,0.0,1,0,33,37,89.2,2,22,0,1,0,Watford
+Adam Masina,11.0,ma MAR,"LB,CB",27-231,90,0,0,0,0,0,0,0,0,66,2,1,1,0.0,0.0,0.1,1,0,44,56,78.6,9,37,1,0,0,Watford
+Christian Kabasele,27.0,be BEL,CB,30-178,90,0,0,0,0,0,0,0,0,72,0,1,3,0.0,0.0,0.0,1,0,58,60,96.7,0,44,0,0,0,Watford
+William Troost-Ekong,5.0,ng NGA,CB,27-354,90,0,0,0,0,0,0,0,0,95,0,3,3,0.0,0.0,0.0,1,0,68,75,90.7,6,58,3,0,0,Watford
+Craig Cathcart,15.0,nir NIR,RB,32-196,64,0,0,0,0,0,0,0,0,49,2,0,0,0.0,0.0,0.0,0,0,32,41,78.0,3,19,0,0,0,Watford
+Joshua King,7.0,no NOR,"LW,FW",29-218,26,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.1,3,0,11,13,84.6,0,10,2,1,0,Watford
+Daniel Bachmann,26.0,at AUT,GK,27-043,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,22,27,81.5,0,13,0,0,0,Watford
+14 Players,,,,,990,0,0,0,0,10,1,0,0,592,13,10,12,0.6,0.6,0.6,20,0,391,485,80.6,50,316,16,13,6,Watford

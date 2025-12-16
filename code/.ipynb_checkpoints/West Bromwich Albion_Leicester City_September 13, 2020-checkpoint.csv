@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Callum Robinson,7.0,ie IRL,FW,25-224,59,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,1,0,7,9,77.8,0,5,0,0,0,West Bromwich Albion
+Hal Robson-Kanu,4.0,wls WAL,FW,31-115,31,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,West Bromwich Albion
+Grady Diangana,11.0,cd COD,LM,22-147,90,0,0,0,0,1,0,0,0,47,0,2,0,0.1,0.1,0.0,3,0,22,32,68.8,5,30,1,2,1,West Bromwich Albion
+Romaine Sawyers,19.0,kn SKN,CM,28-316,67,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,1,0,15,19,78.9,1,12,0,2,0,West Bromwich Albion
+Kyle Edwards,21.0,eng ENG,"RM,CM",22-209,23,0,0,0,0,1,0,0,0,9,2,0,0,0.1,0.1,0.0,0,0,5,5,100.0,0,5,1,0,0,West Bromwich Albion
+Jake Livermore,8.0,eng ENG,CM,30-304,90,0,0,0,0,0,0,0,0,33,2,1,1,0.0,0.0,0.0,1,0,20,27,74.1,1,14,0,0,0,West Bromwich Albion
+Matheus Pereira,12.0,br BRA,"RM,FW",24-131,90,0,0,0,0,3,1,0,0,51,1,1,0,0.2,0.2,0.0,1,0,26,36,72.2,3,24,0,5,1,West Bromwich Albion
+Kieran Gibbs,3.0,eng ENG,LB,30-353,90,0,0,0,0,0,0,0,0,47,0,1,0,0.0,0.0,0.0,1,0,32,43,74.4,2,22,1,0,0,West Bromwich Albion
+Dara O'Shea,27.0,ie IRL,"CB,RB",21-193,90,0,0,0,0,0,0,0,0,55,2,1,2,0.0,0.0,0.0,0,0,38,49,77.6,3,27,0,0,0,West Bromwich Albion
+Kyle Bartley,5.0,eng ENG,CB,29-114,90,0,0,0,0,0,0,0,0,54,0,2,1,0.0,0.0,0.0,0,0,34,44,77.3,4,25,0,0,0,West Bromwich Albion
+Semi Ajayi,6.0,ng NGA,CB,26-309,90,0,0,0,0,0,0,1,0,37,0,0,0,0.0,0.0,0.0,0,0,24,34,70.6,1,21,0,2,0,West Bromwich Albion
+Darnell Furlong,2.0,eng ENG,RB,24-318,68,0,0,0,0,1,0,0,0,37,0,0,1,0.0,0.0,0.1,2,0,19,29,65.5,2,16,4,0,0,West Bromwich Albion
+Rekeem Harper,16.0,eng ENG,"CM,RB",20-189,22,0,0,0,0,0,0,0,0,18,0,1,2,0.0,0.0,0.0,0,0,10,13,76.9,0,7,0,1,1,West Bromwich Albion
+Sam Johnstone,1.0,eng ENG,GK,27-172,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,19,31,61.3,0,21,0,0,0,West Bromwich Albion
+14 Players,,,,,990,0,0,0,0,7,1,1,0,466,7,10,8,0.4,0.4,0.2,11,0,272,374,72.7,22,230,7,12,3,West Bromwich Albion
+Callum Robinson,7.0,ie IRL,FW,25-224,59,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,1,0,7,9,77.8,0,5,0,0,0,Leicester City
+Hal Robson-Kanu,4.0,wls WAL,FW,31-115,31,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,Leicester City
+Grady Diangana,11.0,cd COD,LM,22-147,90,0,0,0,0,1,0,0,0,47,0,2,0,0.1,0.1,0.0,3,0,22,32,68.8,5,30,1,2,1,Leicester City
+Romaine Sawyers,19.0,kn SKN,CM,28-316,67,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,1,0,15,19,78.9,1,12,0,2,0,Leicester City
+Kyle Edwards,21.0,eng ENG,"RM,CM",22-209,23,0,0,0,0,1,0,0,0,9,2,0,0,0.1,0.1,0.0,0,0,5,5,100.0,0,5,1,0,0,Leicester City
+Jake Livermore,8.0,eng ENG,CM,30-304,90,0,0,0,0,0,0,0,0,33,2,1,1,0.0,0.0,0.0,1,0,20,27,74.1,1,14,0,0,0,Leicester City
+Matheus Pereira,12.0,br BRA,"RM,FW",24-131,90,0,0,0,0,3,1,0,0,51,1,1,0,0.2,0.2,0.0,1,0,26,36,72.2,3,24,0,5,1,Leicester City
+Kieran Gibbs,3.0,eng ENG,LB,30-353,90,0,0,0,0,0,0,0,0,47,0,1,0,0.0,0.0,0.0,1,0,32,43,74.4,2,22,1,0,0,Leicester City
+Dara O'Shea,27.0,ie IRL,"CB,RB",21-193,90,0,0,0,0,0,0,0,0,55,2,1,2,0.0,0.0,0.0,0,0,38,49,77.6,3,27,0,0,0,Leicester City
+Kyle Bartley,5.0,eng ENG,CB,29-114,90,0,0,0,0,0,0,0,0,54,0,2,1,0.0,0.0,0.0,0,0,34,44,77.3,4,25,0,0,0,Leicester City
+Semi Ajayi,6.0,ng NGA,CB,26-309,90,0,0,0,0,0,0,1,0,37,0,0,0,0.0,0.0,0.0,0,0,24,34,70.6,1,21,0,2,0,Leicester City
+Darnell Furlong,2.0,eng ENG,RB,24-318,68,0,0,0,0,1,0,0,0,37,0,0,1,0.0,0.0,0.1,2,0,19,29,65.5,2,16,4,0,0,Leicester City
+Rekeem Harper,16.0,eng ENG,"CM,RB",20-189,22,0,0,0,0,0,0,0,0,18,0,1,2,0.0,0.0,0.0,0,0,10,13,76.9,0,7,0,1,1,Leicester City
+Sam Johnstone,1.0,eng ENG,GK,27-172,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,19,31,61.3,0,21,0,0,0,Leicester City
+14 Players,,,,,990,0,0,0,0,7,1,1,0,466,7,10,8,0.4,0.4,0.2,11,0,272,374,72.7,22,230,7,12,3,Leicester City

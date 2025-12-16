@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Troy Deeney,9.0,eng ENG,FW,30-215,90,0,0,0,0,2,0,0,0,31,0,0,1,0.1,0.1,0.1,2,0,12,16,75.0,0,14,2,1,1,Watford
+Gerard Deulofeu,7.0,es ESP,FW,24-323,60,0,0,0,0,2,0,0,0,28,0,0,2,0.1,0.1,0.0,2,0,14,20,70.0,2,18,2,3,1,Watford
+Isaac Success,10.0,ng NGA,FW,23-023,30,0,0,0,0,1,0,1,0,8,0,0,0,0.1,0.1,0.1,1,0,4,6,66.7,0,8,1,1,1,Watford
+Roberto Pereyra,37.0,ar ARG,AM,28-023,90,0,0,0,0,0,0,0,0,34,3,1,0,0.0,0.0,0.1,1,0,18,20,90.0,1,20,0,0,0,Watford
+Will Hughes,19.0,eng ENG,AM,23-288,90,0,0,0,0,0,0,0,0,36,2,0,2,0.0,0.0,0.0,0,0,8,19,42.1,1,16,0,1,0,Watford
+Étienne Capoue,29.0,fr FRA,DM,30-203,90,0,0,0,0,0,0,1,0,37,2,2,3,0.0,0.0,0.0,2,0,19,25,76.0,3,15,1,1,1,Watford
+Tom Cleverley,8.0,eng ENG,DM,29-171,65,0,0,0,0,0,0,0,0,45,4,1,2,0.0,0.0,0.0,0,0,25,34,73.5,3,17,0,0,0,Watford
+Ben Wilmot,24.0,eng ENG,DM,19-087,25,0,0,0,0,0,0,0,0,13,0,0,2,0.0,0.0,0.0,1,0,6,9,66.7,2,5,0,0,0,Watford
+José Holebas,25.0,gr GRE,LB,34-217,90,0,0,0,0,1,0,1,0,57,3,1,2,0.0,0.0,0.0,1,0,23,43,53.5,1,22,2,1,0,Watford
+Craig Cathcart,15.0,nir NIR,CB,29-358,90,1,0,0,0,1,1,0,0,32,2,0,2,0.1,0.1,0.0,0,0,11,20,55.0,1,12,0,0,0,Watford
+Adrian Mariappa,6.0,jm JAM,CB,32-119,90,0,0,0,0,1,0,1,0,34,0,2,2,0.1,0.1,0.0,2,1,13,20,65.0,1,14,0,0,0,Watford
+Daryl Janmaat,2.0,nl NED,RB,29-192,90,0,0,0,0,1,0,0,0,56,2,1,0,0.0,0.0,0.0,1,0,26,43,60.5,3,25,2,2,0,Watford
+Ben Foster,26.0,eng ENG,GK,35-302,90,0,0,0,0,0,0,0,0,36,0,1,0,0.0,0.0,0.0,1,0,13,32,40.6,0,25,0,0,0,Watford
+13 Players,,,,,990,1,0,0,0,9,1,4,0,447,18,9,18,0.5,0.5,0.3,14,1,192,307,62.5,18,211,10,10,4,Watford

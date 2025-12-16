@@ -1,0 +1,15 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Chris Wood,11.0,nz NZL,FW,25-298,90,0,0,0,0,2,1,0,0,49,0,0,1,0.2,0.2,0.0,1,0,15,34,44.1,0,24,0,1,1,Burnley
+Jeff Hendrick,13.0,ie IRL,FW,25-243,87,1,0,0,0,1,1,0,0,27,0,0,2,0.2,0.2,0.0,1,1,16,24,66.7,2,14,0,1,1,Burnley
+Ashley Barnes,10.0,eng ENG,FW,27-336,3,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Burnley
+Scott Arfield,37.0,ca CAN,LM,28-334,90,0,0,0,0,0,0,1,0,28,1,1,1,0.0,0.0,0.0,1,0,13,20,65.0,2,10,2,3,2,Burnley
+Jack Cork,4.0,eng ENG,CM,28-098,90,0,0,0,0,1,0,0,0,55,4,1,2,0.1,0.1,0.0,0,0,24,31,77.4,1,23,2,2,2,Burnley
+Steven Defour,16.0,be BEL,CM,29-169,90,0,0,0,0,0,0,1,0,46,2,4,2,0.0,0.0,0.0,1,0,25,37,67.6,6,22,0,0,0,Burnley
+Robbie Brady,12.0,ie IRL,RM,25-260,90,0,0,0,0,1,0,0,0,37,1,0,1,0.0,0.0,0.0,0,0,18,33,54.5,3,17,4,1,1,Burnley
+Stephen Ward,23.0,ie IRL,LB,32-042,90,0,1,0,0,0,0,0,0,62,2,2,0,0.0,0.0,0.3,2,1,29,49,59.2,2,20,2,0,0,Burnley
+Ben Mee,6.0,eng ENG,CB,28-010,90,0,0,0,0,0,0,0,0,44,3,0,1,0.0,0.0,0.0,0,0,12,19,63.2,0,14,0,0,0,Burnley
+James Tarkowski,5.0,eng ENG,CB,24-316,90,0,0,0,0,0,0,0,0,46,4,0,4,0.0,0.0,0.0,2,0,17,24,70.8,0,14,0,0,0,Burnley
+Matthew Lowton,2.0,eng ENG,RB,28-114,90,0,0,0,0,0,0,0,0,38,1,4,4,0.0,0.0,0.0,0,0,10,18,55.6,1,12,0,1,0,Burnley
+Nick Pope,29.0,eng ENG,GK,25-165,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.1,1,0,16,42,38.1,0,15,0,0,0,Burnley
+12 Players,,,,,990,1,1,0,0,5,2,2,0,480,18,13,18,0.4,0.4,0.4,9,2,195,332,58.7,17,186,10,9,7,Burnley

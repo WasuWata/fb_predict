@@ -1,0 +1,30 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Willian José,12.0,br BRA,FW,29-153,90,0,0,0,0,3,0,0,0,24,0,0,0,0.1,0.1,0.0,3,0,14,18,77.8,1,19,2,2,2,Wolverhampton Wanderers
+Adama Traoré,37.0,es ESP,"FW,RW,WB",25-090,90,0,0,0,0,1,0,1,0,57,2,0,2,0.0,0.0,0.1,5,0,28,44,63.6,2,35,11,4,3,Wolverhampton Wanderers
+Daniel Podence,10.0,pt POR,AM,25-186,68,0,0,0,0,2,1,0,0,28,0,0,0,0.1,0.1,0.0,1,0,16,21,76.2,2,18,2,2,0,Wolverhampton Wanderers
+Morgan Gibbs-White,18.0,eng ENG,CM,21-088,22,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,1,0,12,12,100.0,2,11,2,0,0,Wolverhampton Wanderers
+Leander Dendoncker,32.0,be BEL,"CM,DM",26-010,90,0,0,0,0,0,0,0,0,72,6,0,2,0.0,0.0,0.0,0,0,47,59,79.7,1,30,0,3,2,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,CM,24-043,68,0,0,0,0,2,1,0,0,64,1,3,1,0.1,0.1,0.1,2,0,44,55,80.0,6,26,0,1,0,Wolverhampton Wanderers
+Vitinha,20.0,pt POR,CM,21-071,22,0,0,0,0,0,0,0,0,20,0,1,0,0.0,0.0,0.0,0,0,12,17,70.6,2,12,2,1,1,Wolverhampton Wanderers
+Rayan Aït-Nouri,3.0,dz ALG,"WB,LW",19-323,90,0,0,0,0,1,0,0,0,50,1,1,1,0.0,0.0,0.0,2,0,34,45,75.6,3,24,4,3,1,Wolverhampton Wanderers
+Nélson Semedo,22.0,pt POR,WB,27-160,57,0,0,0,0,1,0,0,0,53,0,1,0,0.0,0.0,0.0,1,0,38,48,79.2,0,22,3,1,0,Wolverhampton Wanderers
+Fábio Silva,17.0,pt POR,FW,18-280,33,0,0,0,0,1,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,6,9,66.7,1,10,1,0,0,Wolverhampton Wanderers
+Willy Boly,15.0,ci CIV,CB,30-081,90,0,0,0,0,0,0,0,0,61,0,0,0,0.0,0.0,0.1,1,0,40,52,76.9,3,35,0,0,0,Wolverhampton Wanderers
+Conor Coady,16.0,eng ENG,CB,28-059,90,0,0,0,0,0,0,0,0,53,1,2,0,0.0,0.0,0.0,1,0,40,47,85.1,1,30,0,0,0,Wolverhampton Wanderers
+Romain Saïss,27.0,ma MAR,CB,31-030,90,0,0,0,0,1,0,0,0,90,5,5,0,0.0,0.0,0.0,0,0,53,74,71.6,7,39,0,0,0,Wolverhampton Wanderers
+Rui Patrício,11.0,pt POR,GK,33-069,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,14,26,53.8,0,16,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,990,0,0,0,0,12,2,1,0,627,16,13,8,0.4,0.4,0.3,18,0,398,527,75.5,31,327,27,17,9,Wolverhampton Wanderers
+Chris Wood,9.0,nz NZL,FW,29-139,90,3,1,0,0,6,5,0,0,34,3,0,2,1.1,1.1,0.1,6,2,10,13,76.9,1,20,3,2,1,Burnley
+Matěj Vydra,27.0,cz CZE,FW,28-359,72,0,0,0,0,2,0,0,0,19,1,0,1,0.7,0.7,0.0,1,0,7,12,58.3,1,12,2,0,0,Burnley
+Jay Rodriguez,19.0,eng ENG,FW,31-270,18,0,0,0,0,1,0,0,0,6,0,0,1,0.0,0.0,0.0,2,1,3,4,75.0,1,2,1,1,1,Burnley
+Dwight McNeil,11.0,eng ENG,LM,21-154,90,0,2,0,0,0,0,0,0,61,2,2,0,0.0,0.0,1.0,3,3,34,49,69.4,4,37,3,6,2,Burnley
+Jack Cork,4.0,eng ENG,CM,31-304,90,0,0,0,0,0,0,0,0,49,3,3,2,0.0,0.0,0.0,1,0,29,35,82.9,1,25,0,4,2,Burnley
+Ashley Westwood,18.0,eng ENG,CM,31-024,90,1,0,0,0,2,1,0,0,49,1,2,1,0.1,0.1,0.1,2,0,31,43,72.1,2,27,0,1,1,Burnley
+Josh Brownhill,8.0,eng ENG,RM,25-127,90,0,0,0,0,1,0,0,0,34,2,0,0,0.0,0.0,0.0,1,0,22,27,81.5,2,15,1,0,0,Burnley
+Charlie Taylor,3.0,eng ENG,LB,27-219,90,0,0,0,0,0,0,0,0,64,0,1,4,0.0,0.0,0.7,3,0,35,52,67.3,4,29,0,1,1,Burnley
+Ben Mee,6.0,eng ENG,CB,31-216,90,0,0,0,0,0,0,0,0,37,0,3,1,0.0,0.0,0.0,0,0,20,28,71.4,3,16,0,0,0,Burnley
+James Tarkowski,5.0,eng ENG,CB,28-157,90,0,0,0,0,1,0,1,0,44,2,1,2,0.1,0.1,0.0,0,0,21,33,63.6,1,18,0,1,1,Burnley
+Matthew Lowton,2.0,eng ENG,RB,31-320,90,0,1,0,0,1,1,1,0,63,1,0,1,0.0,0.0,0.0,1,1,36,55,65.5,6,32,3,4,3,Burnley
+Nick Pope,1.0,eng ENG,GK,29-006,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,14,24,58.3,0,12,0,0,0,Burnley
+12 Players,,,,,990,4,4,0,0,14,7,2,0,485,15,12,15,2.0,2.0,1.9,21,7,262,375,69.9,26,245,13,20,12,Burnley

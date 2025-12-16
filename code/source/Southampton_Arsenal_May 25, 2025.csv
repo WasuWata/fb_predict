@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ross Stewart,11.0,sct SCO,FW,28-318,69,1,0,0,0,2,1,0,0,26,2,0,0,0.3,0.3,0.0,1,0,13,17,76.5,0,8,0,0,0,Southampton
+Paul Onuachu,32.0,ng NGA,FW,30-362,21,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,6,0,1,1,Southampton
+Kamaldeen Sulemana,20.0,gh GHA,LM,23-099,78,0,0,0,0,2,0,0,0,31,3,0,3,0.1,0.1,0.0,2,0,14,17,82.4,0,16,4,6,5,Southampton
+Cameron Archer,19.0,eng ENG,LM,23-308,12,0,0,0,0,0,0,0,0,13,2,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,3,1,1,0,Southampton
+Lesley Ugochukwu,26.0,fr FRA,CM,21-060,85,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,1,0,23,26,88.5,0,12,0,2,1,Southampton
+Joachim Kayi Sanda,39.0,fr FRA,CB,18-177,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,5,0,0,0,Southampton
+Mateus Fernandes,18.0,pt POR,"CM,RM",20-319,90,0,1,0,0,1,0,0,0,53,1,2,2,0.1,0.1,0.4,5,1,34,41,82.9,5,16,0,2,1,Southampton
+Jay Robinson,46.0,eng ENG,RM,18-071,78,0,0,0,0,1,1,0,0,25,1,0,0,0.0,0.0,0.0,3,1,7,15,46.7,0,12,1,5,3,Southampton
+William Smallbone,8.0,ie IRL,CM,25-093,12,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,1,0,0,0,Southampton
+Welington,34.0,br BRA,LB,24-095,90,0,0,0,0,0,0,0,0,39,1,0,1,0.0,0.0,0.0,0,0,20,28,71.4,1,13,2,2,1,Southampton
+Charlie Taylor,21.0,eng ENG,CB,31-249,90,0,0,0,0,0,0,0,0,60,0,2,3,0.0,0.0,0.0,0,0,42,46,91.3,1,25,0,0,0,Southampton
+Nathan Wood-Gordon,15.0,eng ENG,CB,22-359,90,0,0,0,0,0,0,0,0,51,3,0,1,0.0,0.0,0.0,0,0,35,38,92.1,0,26,0,1,1,Southampton
+Flynn Downes,4.0,eng ENG,"CB,CM",26-125,90,0,0,0,0,0,0,0,0,60,1,1,4,0.0,0.0,0.0,0,0,47,50,94.0,2,28,3,1,1,Southampton
+Yukinari Sugawara,16.0,jp JPN,RB,24-331,90,0,0,0,0,1,0,0,0,43,2,1,4,0.0,0.0,0.0,0,0,24,29,82.8,4,11,1,0,0,Southampton
+Aaron Ramsdale,30.0,eng ENG,GK,27-011,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,14,32,43.8,0,20,0,0,0,Southampton
+15 Players,,,,,990,1,1,0,0,7,2,0,0,492,18,6,18,0.6,0.6,0.4,12,2,289,363,79.6,13,202,12,21,14,Southampton
+Mikel Merino,23.0,es ESP,"FW,LM",28-337,90,0,0,0,0,3,0,0,0,22,3,0,0,0.3,0.3,0.0,2,0,9,12,75.0,2,10,1,1,0,Arsenal
+Gabriel Martinelli,11.0,br BRA,"LW,RW",23-341,69,0,0,0,0,4,2,0,0,42,2,0,1,0.9,0.9,0.3,7,1,24,32,75.0,3,30,4,2,1,Arsenal
+Kai Havertz,29.0,de GER,FW,25-348,21,0,0,0,0,1,0,0,0,10,0,0,0,0.1,0.1,0.0,1,0,5,7,71.4,1,4,0,0,0,Arsenal
+Raheem Sterling,30.0,eng ENG,"RW,LW",30-168,62,0,0,0,0,1,0,0,0,27,1,0,0,0.1,0.1,0.0,1,0,17,18,94.4,1,23,2,5,1,Arsenal
+Bukayo Saka,7.0,eng ENG,RW,23-262,28,0,0,0,0,2,0,0,0,24,1,0,0,0.1,0.1,0.4,5,0,16,21,76.2,3,16,2,1,1,Arsenal
+Ethan Nwaneri,53.0,eng ENG,"AM,RM",18-065,74,0,0,0,0,2,1,0,0,48,0,0,0,0.0,0.0,0.2,7,0,35,42,83.3,3,31,2,7,5,Arsenal
+Martin Ødegaard,8.0,no NOR,RM,26-159,16,1,0,0,0,1,1,0,0,20,0,0,0,0.1,0.1,0.0,1,1,13,18,72.2,3,16,1,1,1,Arsenal
+Declan Rice,41.0,eng ENG,"DM,CM",26-131,90,0,0,0,0,2,1,0,0,72,0,0,2,0.2,0.2,0.1,5,0,50,59,84.7,9,32,0,0,0,Arsenal
+Thomas Partey,5.0,gh GHA,"DM,CB",31-346,90,0,0,0,0,1,1,0,0,75,2,0,1,0.0,0.0,0.0,1,0,63,66,95.5,9,50,1,0,0,Arsenal
+Oleksandr Zinchenko,17.0,ua UKR,LB,28-161,69,0,0,0,0,4,0,0,0,86,2,1,2,0.4,0.4,0.0,6,0,67,71,94.4,11,46,0,1,0,Arsenal
+Myles Lewis-Skelly,49.0,eng ENG,LB,18-241,21,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.0,0,0,14,15,93.3,2,7,2,0,0,Arsenal
+Kieran Tierney,3.0,sct SCO,CB,27-354,62,1,0,0,0,1,1,0,0,61,1,1,0,0.1,0.1,0.5,2,0,48,53,90.6,3,46,3,1,1,Arsenal
+Leandro Trossard,19.0,be BEL,"LW,FW",30-172,28,0,1,0,0,1,0,0,0,17,1,0,0,0.1,0.1,0.1,1,1,12,15,80.0,0,11,0,0,0,Arsenal
+Jakub Kiwior,15.0,pl POL,CB,25-099,90,0,0,0,0,0,0,0,0,73,3,0,2,0.0,0.0,0.0,0,0,59,62,95.2,4,46,0,1,0,Arsenal
+Ben White,4.0,eng ENG,RB,27-229,90,0,1,0,0,0,0,0,0,77,2,0,0,0.0,0.0,0.5,4,1,63,73,86.3,8,40,4,0,0,Arsenal
+David Raya,22.0,es ESP,GK,29-252,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,14,17,82.4,0,10,0,0,0,Arsenal
+16 Players,,,,,990,2,2,0,0,23,7,0,0,693,18,2,9,2.4,2.4,2.1,43,4,509,581,87.6,62,418,22,20,10,Arsenal

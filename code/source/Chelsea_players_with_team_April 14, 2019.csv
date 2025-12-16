@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Eden Hazard,10.0,be BEL,"FW,LW",28-097,90,0,0,0,0,3,2,0,0,41,0,0,0,0.5,0.5,0.0,1,0,22,30,73.3,4,34,5,11,9,Chelsea
+Willian,22.0,br BRA,"LW,RW",30-248,90,0,0,0,0,2,0,0,0,59,2,1,2,0.1,0.1,0.4,4,0,37,45,82.2,7,35,6,2,1,Chelsea
+Callum Hudson-Odoi,20.0,eng ENG,RW,18-158,55,0,0,0,0,0,0,0,0,21,3,0,0,0.0,0.0,0.0,0,0,9,13,69.2,0,12,2,1,0,Chelsea
+Gonzalo Higuaín,9.0,ar ARG,FW,31-125,35,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,9,12,75.0,1,9,1,0,0,Chelsea
+Ruben Loftus-Cheek,12.0,eng ENG,LM,23-081,74,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,33,35,94.3,3,28,4,3,1,Chelsea
+Ross Barkley,8.0,eng ENG,LM,25-130,16,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,1,3,33.3,0,2,0,0,0,Chelsea
+Jorginho,5.0,it ITA,CM,27-115,90,0,0,0,0,0,0,0,0,64,5,2,2,0.0,0.0,0.0,0,0,42,52,80.8,7,27,0,1,1,Chelsea
+N'Golo Kanté,7.0,fr FRA,RM,28-016,90,0,0,0,0,1,1,0,0,51,4,3,3,0.2,0.2,0.0,1,0,26,33,78.8,2,22,5,4,4,Chelsea
+Emerson Palmieri,33.0,it ITA,LB,24-254,90,0,0,0,0,0,0,0,0,63,4,3,2,0.0,0.0,0.1,2,0,39,49,79.6,2,24,2,0,0,Chelsea
+David Luiz,30.0,br BRA,CB,31-357,90,0,0,0,0,0,0,0,0,58,4,0,4,0.0,0.0,0.1,1,0,36,46,78.3,5,31,0,0,0,Chelsea
+Antonio Rüdiger,2.0,de GER,CB,26-042,39,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,15,16,93.8,2,5,0,0,0,Chelsea
+Andreas Christensen,27.0,dk DEN,CB,23-004,51,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,0,0,19,21,90.5,1,11,0,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,RB,29-229,90,0,0,0,0,0,0,1,0,62,7,1,2,0.0,0.0,0.0,0,0,27,42,64.3,3,20,1,1,1,Chelsea
+Kepa Arrizabalaga,1.0,es ESP,GK,24-193,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,28,39,71.8,0,22,0,0,0,Chelsea
+14 Players,,,,,990,0,0,0,0,6,3,1,0,570,30,10,15,0.7,0.7,0.6,11,0,343,436,78.7,37,282,26,23,17,Chelsea

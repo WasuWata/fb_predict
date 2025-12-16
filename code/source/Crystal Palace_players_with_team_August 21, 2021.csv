@@ -1,0 +1,15 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Christian Benteke,20.0,be BEL,FW,30-261,90,0,0,0,0,1,0,1,0,32,0,0,1,0.1,0.1,0.0,1,0,15,24,62.5,3,8,0,1,1,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,LW,28-241,67,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.1,2,0,14,16,87.5,3,13,2,4,3,Crystal Palace
+Jordan Ayew,9.0,gh GHA,LW,29-344,23,0,0,0,0,1,0,0,0,15,1,0,0,0.0,0.0,0.0,1,0,8,10,80.0,0,6,1,1,0,Crystal Palace
+Wilfried Zaha,11.0,ci CIV,RW,28-284,90,0,0,0,0,0,0,0,0,50,2,0,3,0.0,0.0,0.3,3,0,23,32,71.9,3,30,3,4,1,Crystal Palace
+James McArthur,18.0,sct SCO,LM,33-318,90,0,0,0,0,1,1,0,0,50,2,2,2,0.0,0.0,0.0,1,0,25,37,67.6,7,19,1,1,1,Crystal Palace
+Cheikhou Kouyaté,8.0,sn SEN,CM,31-243,90,0,0,0,0,0,0,0,0,59,2,3,0,0.0,0.0,0.0,0,0,33,43,76.7,2,18,0,2,1,Crystal Palace
+Conor Gallagher,23.0,eng ENG,RM,21-196,90,0,0,0,0,2,1,0,0,44,3,2,1,0.3,0.3,0.0,3,0,21,29,72.4,1,20,2,1,1,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,LB,21-354,90,0,0,0,0,0,0,0,0,81,3,3,1,0.0,0.0,0.0,0,0,48,67,71.6,5,26,3,1,0,Crystal Palace
+Marc Guéhi,6.0,eng ENG,CB,21-039,90,0,0,0,0,0,0,0,0,62,1,0,3,0.0,0.0,0.0,0,0,46,54,85.2,2,25,0,0,0,Crystal Palace
+Joachim Andersen,16.0,dk DEN,CB,25-082,90,0,0,0,0,1,0,1,0,71,0,1,1,0.0,0.0,0.0,0,0,52,64,81.3,3,25,0,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,RB,31-296,90,0,0,0,0,1,0,1,0,74,1,1,1,0.0,0.0,0.1,2,0,55,68,80.9,6,26,3,1,0,Crystal Palace
+Vicente Guaita,13.0,es ESP,GK,34-223,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,22,37,59.5,0,19,0,0,0,Crystal Palace
+12 Players,,,,,990,0,0,0,0,7,2,3,0,601,15,13,13,0.5,0.5,0.5,13,0,362,481,75.3,35,235,15,16,8,Crystal Palace

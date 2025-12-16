@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Wilfried Zaha,11.0,ci CIV,FW,27-363,90,0,1,0,0,1,0,0,0,51,2,1,0,0.0,0.0,0.3,4,1,25,31,80.6,3,38,5,7,1,Crystal Palace
+Jordan Ayew,9.0,gh GHA,FW,29-057,84,1,0,0,0,2,1,0,0,39,1,1,0,0.3,0.3,0.0,2,0,25,30,83.3,2,31,5,3,3,Crystal Palace
+Christian Benteke,20.0,be BEL,FW,29-340,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,4,0,0,0,Crystal Palace
+Eberechi Eze,25.0,eng ENG,LM,22-131,90,1,1,0,0,2,1,0,0,56,5,4,0,0.1,0.1,0.1,4,2,29,37,78.4,4,36,3,2,0,Crystal Palace
+James McArthur,18.0,sct SCO,CM,33-031,90,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.0,1,0,22,28,78.6,4,22,1,2,1,Crystal Palace
+Jaïro Riedewald,44.0,nl NED,CM,24-059,76,0,0,0,0,0,0,0,0,31,1,1,2,0.0,0.0,0.0,0,0,23,26,88.5,5,13,0,0,0,Crystal Palace
+James McCarthy,22.0,ie IRL,CM,29-361,14,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,1,0,7,7,100.0,1,5,0,0,0,Crystal Palace
+Andros Townsend,10.0,eng ENG,RM,29-114,70,0,0,0,0,1,1,0,0,42,2,0,0,0.0,0.0,0.0,0,0,22,30,73.3,2,27,0,3,1,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,RM,27-320,20,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.2,1,0,5,8,62.5,2,7,0,0,0,Crystal Palace
+Patrick van Aanholt,3.0,nl NED,LB,30-070,90,0,0,0,0,3,2,0,0,65,1,0,3,0.3,0.3,0.0,3,1,38,52,73.1,3,35,2,1,1,Crystal Palace
+Scott Dann,6.0,eng ENG,CB,33-267,90,1,0,0,0,1,1,0,0,33,0,1,1,0.1,0.1,0.0,0,0,19,21,90.5,1,14,0,0,0,Crystal Palace
+Cheikhou Kouyaté,8.0,sn SEN,CB,30-322,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,2,1,16,27,59.3,1,15,0,1,1,Crystal Palace
+Nathaniel Clyne,17.0,eng ENG,RB,29-216,90,0,0,0,0,0,0,0,0,51,0,4,2,0.0,0.0,0.0,1,0,17,33,51.5,2,22,2,0,0,Crystal Palace
+Vicente Guaita,31.0,es ESP,GK,33-302,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,6,26,23.1,0,9,0,0,0,Crystal Palace
+14 Players,,,,,990,3,2,0,0,10,6,0,0,499,15,13,8,0.9,0.9,0.7,19,5,256,361,70.9,30,278,18,19,8,Crystal Palace
+Patrick Bamford,9.0,eng ENG,FW,27-063,90,1,0,0,0,2,1,0,0,27,0,0,1,0.4,0.4,0.0,0,0,14,20,70.0,0,10,0,1,1,Leeds United
+Jack Harrison,22.0,eng ENG,LW,23-353,90,0,0,0,0,1,1,0,0,60,1,0,1,0.0,0.0,0.1,4,0,26,43,60.5,2,34,6,3,3,Leeds United
+Hélder Costa,17.0,ao ANG,RW,26-300,45,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.0,0,0,11,13,84.6,1,13,2,3,1,Leeds United
+Raphinha,18.0,br BRA,RW,23-329,45,0,0,0,0,1,0,0,0,29,1,0,2,0.1,0.1,0.0,1,0,15,18,83.3,2,19,2,2,1,Leeds United
+Mateusz Klich,43.0,pl POL,AM,30-147,90,0,1,0,0,0,0,1,0,73,3,1,0,0.0,0.0,0.5,6,1,50,65,76.9,8,36,2,2,1,Leeds United
+Ezgjan Alioski,10.0,mk MKD,CM,28-269,90,0,0,0,0,1,1,0,0,87,5,0,0,0.0,0.0,0.0,0,0,63,77,81.8,6,45,6,0,0,Leeds United
+Pascal Struijk,21.0,nl NED,CM,21-088,70,0,0,0,0,1,0,0,0,42,1,0,1,0.1,0.1,0.0,2,0,31,35,88.6,4,19,1,0,0,Leeds United
+Tyler Roberts,11.0,wls WAL,CM,21-300,20,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,8,10,80.0,3,7,0,1,0,Leeds United
+Stuart Dallas,15.0,nir NIR,CM,29-202,90,0,0,0,0,0,0,0,0,69,2,2,0,0.0,0.0,0.0,2,0,47,63,74.6,6,38,2,1,0,Leeds United
+Liam Cooper,6.0,sct SCO,CB,29-069,90,0,0,0,0,1,0,1,0,94,4,4,1,0.1,0.1,0.0,0,0,66,81,81.5,4,61,0,1,0,Leeds United
+Robin Koch,5.0,de GER,CB,24-113,90,0,0,0,0,1,0,0,0,116,2,5,2,0.1,0.1,0.0,1,0,88,101,87.1,6,63,0,0,0,Leeds United
+Luke Ayling,2.0,eng ENG,CB,29-074,90,0,0,0,0,1,0,0,0,107,5,1,0,0.0,0.0,0.0,1,1,78,97,80.4,14,70,3,1,1,Leeds United
+Illan Meslier,1.0,fr FRA,GK,20-250,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,30,31,96.8,0,23,0,0,0,Leeds United
+13 Players,,,,,990,1,1,0,0,9,3,2,0,771,25,14,10,0.8,0.8,0.7,17,2,527,654,80.6,56,438,24,15,8,Leeds United

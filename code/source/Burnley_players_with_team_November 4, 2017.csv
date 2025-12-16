@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Chris Wood,11.0,nz NZL,FW,25-332,64,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,10,17,58.8,1,9,0,0,0,Burnley
+Sam Vokes,9.0,wls WAL,FW,28-014,26,1,0,0,0,1,1,0,0,12,0,0,0,0.0,0.0,0.0,0,0,3,9,33.3,0,6,1,1,1,Burnley
+Jeff Hendrick,13.0,ie IRL,FW,25-277,64,0,0,0,0,0,0,0,0,22,1,0,1,0.0,0.0,0.0,1,0,16,18,88.9,0,11,1,0,0,Burnley
+Ashley Barnes,10.0,eng ENG,FW,28-005,26,0,0,0,0,0,0,0,0,11,1,0,1,0.0,0.0,0.0,0,0,4,8,50.0,1,6,0,0,0,Burnley
+Robbie Brady,12.0,ie IRL,LM,25-294,90,0,0,0,0,1,0,0,0,42,2,0,1,0.1,0.1,0.0,0,0,27,36,75.0,3,21,2,1,1,Burnley
+Jack Cork,4.0,eng ENG,CM,28-132,90,0,0,0,0,0,0,0,0,59,1,2,2,0.0,0.0,0.0,4,1,32,46,69.6,9,27,1,0,0,Burnley
+Steven Defour,16.0,be BEL,CM,29-203,90,0,0,0,0,0,0,0,0,50,3,3,1,0.0,0.0,0.0,2,0,34,39,87.2,2,19,2,3,2,Burnley
+Jóhann Berg Guðmundsson,17.0,is ISL,RM,27-008,90,0,1,0,0,3,0,0,0,33,0,0,2,0.1,0.1,0.0,1,1,16,23,69.6,4,19,0,2,1,Burnley
+Stephen Ward,23.0,ie IRL,LB,32-076,90,0,0,0,0,0,0,0,0,57,0,1,1,0.0,0.0,0.0,0,0,32,51,62.7,2,20,1,0,0,Burnley
+Ben Mee,6.0,eng ENG,CB,28-044,90,0,0,0,0,0,0,0,0,55,1,0,1,0.0,0.0,0.0,0,0,36,43,83.7,3,26,0,0,0,Burnley
+James Tarkowski,5.0,eng ENG,CB,24-350,90,0,0,0,0,0,0,0,0,50,1,3,2,0.0,0.0,0.0,0,0,22,36,61.1,0,23,0,2,1,Burnley
+Matthew Lowton,2.0,eng ENG,RB,28-148,90,0,0,0,0,0,0,0,0,48,1,2,0,0.0,0.0,0.0,0,0,27,39,69.2,3,12,0,1,1,Burnley
+Nick Pope,29.0,eng ENG,GK,25-199,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,10,26,38.5,0,10,0,0,0,Burnley
+13 Players,,,,,990,1,1,0,0,5,1,0,0,491,11,11,12,0.2,0.2,0.1,8,2,269,391,68.8,28,209,8,10,7,Burnley

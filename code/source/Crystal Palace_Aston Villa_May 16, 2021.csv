@@ -1,0 +1,30 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Christian Benteke,20.0,be BEL,FW,30-164,90,1,0,0,0,3,2,0,0,39,0,0,1,0.2,0.2,0.0,2,0,10,21,47.6,2,15,0,1,0,Crystal Palace
+Wilfried Zaha,11.0,ci CIV,LW,28-187,90,1,0,0,0,5,2,1,0,49,0,1,2,0.2,0.2,0.2,10,1,21,29,72.4,1,34,5,5,5,Crystal Palace
+Andros Townsend,10.0,eng ENG,RW,29-304,90,0,0,0,0,4,1,0,0,59,3,1,5,0.2,0.2,0.2,8,0,27,42,64.3,5,30,6,4,3,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,LM,28-144,90,0,0,0,0,1,1,0,0,51,5,1,3,0.0,0.0,0.0,2,0,23,37,62.2,3,19,1,0,0,Crystal Palace
+James McCarthy,22.0,ie IRL,CM,30-185,72,0,0,0,0,0,0,0,0,39,1,1,1,0.0,0.0,0.0,3,0,30,33,90.9,3,10,0,0,0,Crystal Palace
+James Tomkins,5.0,eng ENG,CB,32-048,18,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Crystal Palace
+Eberechi Eze,25.0,eng ENG,RM,22-321,90,0,1,0,0,7,1,0,0,61,0,1,0,0.4,0.4,0.1,6,2,39,49,79.6,7,40,3,3,2,Crystal Palace
+Tyrick Mitchell,27.0,eng ENG,LB,21-257,90,1,1,0,0,1,1,0,0,50,1,0,2,0.8,0.8,0.1,1,1,30,41,73.2,2,11,0,1,1,Crystal Palace
+Gary Cahill,24.0,eng ENG,CB,35-148,90,0,0,0,0,2,0,0,0,46,0,0,1,0.1,0.1,0.1,5,1,29,36,80.6,1,16,0,0,0,Crystal Palace
+Cheikhou Kouyaté,8.0,sn SEN,"CB,CM",31-146,90,0,0,0,0,0,0,1,0,29,5,1,1,0.0,0.0,0.0,1,0,16,18,88.9,0,7,0,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,RB,31-199,90,0,0,0,0,0,0,1,0,44,0,0,0,0.0,0.0,0.0,5,0,27,39,69.2,7,10,0,0,0,Crystal Palace
+Jack Butland,1.0,eng ENG,GK,28-067,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,6,22,27.3,0,11,0,0,0,Crystal Palace
+12 Players,,,,,990,3,2,0,0,23,8,3,0,494,15,6,17,1.9,1.9,0.8,43,5,259,369,70.2,31,203,15,14,11,Crystal Palace
+Ollie Watkins,11.0,eng ENG,"FW,LW",25-137,90,0,1,0,0,1,1,0,0,37,1,0,1,0.1,0.1,0.5,6,2,18,25,72.0,1,30,1,1,0,Aston Villa
+Anwar El Ghazi,21.0,nl NED,"LW,RW",26-013,87,1,0,0,0,4,2,0,0,55,2,0,0,0.5,0.5,0.1,3,0,25,41,61.0,3,30,0,2,0,Aston Villa
+Wesley Moraes,9.0,br BRA,FW,24-171,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,0,0,,0,1,0,0,0,Aston Villa
+Bertrand Traoré,15.0,bf BFA,RW,25-252,63,0,0,0,0,2,0,0,0,41,1,0,0,0.1,0.1,0.1,5,0,25,32,78.1,3,27,0,0,0,Aston Villa
+Jack Grealish,10.0,eng ENG,"LW,AM",25-248,27,0,0,0,0,0,0,0,0,19,0,0,2,0.0,0.0,0.0,5,0,13,14,92.9,3,14,1,0,0,Aston Villa
+Jacob Ramsey,41.0,eng ENG,"LM,DM",19-353,84,0,0,0,0,4,0,0,0,40,1,0,2,0.2,0.2,0.0,2,0,18,24,75.0,1,17,1,1,0,Aston Villa
+Keinan Davis,39.0,eng ENG,"RW,DM",23-092,6,0,0,0,0,1,0,0,0,1,0,0,0,0.1,0.1,0.0,0,0,0,0,,0,1,0,0,0,Aston Villa
+Douglas Luiz,6.0,br BRA,"CM,DM",23-007,90,0,0,0,0,0,0,0,0,59,1,2,4,0.0,0.0,0.0,2,1,45,49,91.8,3,42,0,0,0,Aston Villa
+John McGinn,7.0,sct SCO,"RM,AM,DM",26-210,90,1,0,0,0,2,2,1,0,53,3,2,2,0.1,0.1,0.0,2,1,24,36,66.7,6,41,1,3,1,Aston Villa
+Matt Targett,18.0,eng ENG,LB,25-240,90,0,0,0,0,0,0,0,0,68,1,0,3,0.0,0.0,0.2,5,0,46,59,78.0,8,39,1,1,0,Aston Villa
+Kortney Hause,30.0,eng ENG,CB,25-304,90,0,0,0,0,2,0,1,0,47,0,0,1,0.1,0.1,0.0,0,0,25,37,67.6,3,23,1,0,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,CB,23-205,90,0,0,0,0,2,0,0,0,41,1,0,4,0.2,0.2,0.0,0,0,21,26,80.8,0,18,0,0,0,Aston Villa
+Ahmed Elmohamady,27.0,eg EGY,RB,33-249,90,0,0,0,0,1,0,0,0,86,1,4,0,0.1,0.1,0.0,3,0,63,76,82.9,13,40,1,0,0,Aston Villa
+Emiliano Martínez,26.0,ar ARG,GK,28-256,90,0,0,0,0,0,0,0,0,35,1,0,0,0.0,0.0,0.0,1,0,21,30,70.0,0,24,0,0,0,Aston Villa
+14 Players,,,,,990,2,1,0,0,19,5,2,0,584,13,8,19,1.4,1.4,1.0,35,4,344,449,76.6,44,347,7,8,1,Aston Villa

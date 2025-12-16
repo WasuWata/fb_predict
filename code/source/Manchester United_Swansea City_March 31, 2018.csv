@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Romelu Lukaku,9.0,be BEL,FW,24-322,90,1,0,0,0,3,3,0,0,35,0,0,0,0.6,0.6,0.6,5,0,19,27,70.4,1,22,1,2,2,Manchester United
+Alexis Sánchez,7.0,cl CHI,LW,29-102,74,1,1,0,0,2,1,0,0,61,2,2,1,0.6,0.6,0.2,2,1,40,53,75.5,4,47,2,2,1,Manchester United
+Marcus Rashford,19.0,eng ENG,LW,20-151,16,0,0,0,0,0,0,0,0,18,1,0,1,0.0,0.0,0.0,0,0,8,9,88.9,0,11,1,5,1,Manchester United
+Juan Mata,8.0,es ESP,RW,29-337,89,0,0,0,0,1,0,0,0,81,1,0,0,0.7,0.7,0.0,1,0,71,80,88.8,6,55,0,0,0,Manchester United
+Scott McTominay,39.0,sct SCO,RW,21-113,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester United
+Jesse Lingard,14.0,eng ENG,AM,25-106,75,0,0,0,0,4,1,0,0,63,3,1,1,0.3,0.3,0.1,4,1,42,53,79.2,4,33,7,3,2,Manchester United
+Ander Herrera,21.0,es ESP,DM,28-229,15,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.0,0,0,23,24,95.8,0,16,0,0,0,Manchester United
+Nemanja Matić,31.0,rs SRB,DM,29-242,90,0,0,0,0,0,0,0,0,128,2,1,1,0.0,0.0,0.0,1,0,115,123,93.5,11,79,3,2,2,Manchester United
+Paul Pogba,6.0,fr FRA,"DM,AM",25-016,90,0,0,0,0,1,0,0,0,112,1,1,0,0.0,0.0,1.2,3,0,94,105,89.5,16,71,5,3,2,Manchester United
+Ashley Young,18.0,eng ENG,LB,32-265,90,0,0,0,0,0,0,0,0,112,1,1,1,0.0,0.0,0.0,1,0,92,103,89.3,6,68,3,2,0,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,23-257,90,0,0,0,0,0,0,0,0,86,1,3,1,0.0,0.0,0.0,0,0,74,76,97.4,0,60,0,0,0,Manchester United
+Chris Smalling,12.0,eng ENG,CB,28-129,90,0,0,0,0,0,0,0,0,52,1,3,0,0.0,0.0,0.0,0,0,43,46,93.5,1,27,0,0,0,Manchester United
+Antonio Valencia,25.0,ec ECU,RB,32-239,90,0,0,0,0,0,0,0,0,64,3,1,0,0.0,0.0,0.1,2,0,51,56,91.1,3,30,5,0,0,Manchester United
+David de Gea,1.0,es ESP,GK,27-144,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,23,32,71.9,0,13,0,0,0,Manchester United
+14 Players,,,,,990,2,1,0,0,11,5,0,0,871,17,13,6,2.2,2.2,2.1,19,2,695,787,88.3,52,532,27,19,10,Manchester United
+André Ayew,19.0,gh GHA,"FW,RM",28-104,90,0,0,0,0,0,0,0,0,42,3,1,1,0.0,0.0,0.0,0,0,30,35,85.7,2,29,1,1,1,Swansea City
+Sam Clucas,17.0,eng ENG,LM,27-187,55,0,0,0,0,0,0,0,0,20,0,2,1,0.0,0.0,0.0,0,0,13,15,86.7,1,17,0,0,0,Swansea City
+Wayne Routledge,15.0,eng ENG,LM,33-083,35,0,0,0,0,1,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,17,20,85.0,2,16,1,1,1,Swansea City
+Ki Sung-yueng,4.0,kr KOR,CM,29-066,45,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,3,0,0,0,Swansea City
+Tom Carroll,14.0,eng ENG,CM,25-307,45,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.1,2,0,35,38,92.1,5,29,0,0,0,Swansea City
+Andy King,24.0,wls WAL,CM,29-153,90,0,0,0,0,0,0,0,0,48,3,0,1,0.0,0.0,0.0,0,0,31,40,77.5,3,29,1,0,0,Swansea City
+Nathan Dyer,12.0,eng ENG,RM,30-122,45,0,0,0,0,0,0,0,0,25,2,0,2,0.0,0.0,0.0,0,0,10,16,62.5,1,16,0,0,0,Swansea City
+Tammy Abraham,10.0,eng ENG,"FW,RM",20-180,45,0,0,0,0,2,2,0,0,17,0,0,0,0.1,0.1,0.0,0,0,7,11,63.6,0,13,0,2,1,Swansea City
+Martin Olsson,16.0,se SWE,LB,29-318,90,0,0,0,0,0,0,0,0,42,0,1,0,0.0,0.0,0.1,1,0,24,38,63.2,1,25,3,2,0,Swansea City
+Alfie Mawson,6.0,eng ENG,CB,24-071,90,0,0,0,0,0,0,0,0,43,0,2,0,0.0,0.0,0.0,0,0,29,35,82.9,2,28,0,0,0,Swansea City
+Federico Fernández,33.0,ar ARG,CB,29-038,90,0,0,0,0,0,0,0,0,38,2,2,3,0.0,0.0,0.0,0,0,20,23,87.0,0,19,0,1,0,Swansea City
+Mike van der Hoorn,5.0,nl NED,CB,25-167,90,0,0,0,0,0,0,0,0,53,3,2,2,0.0,0.0,0.0,0,0,29,36,80.6,2,30,2,3,2,Swansea City
+Kyle Naughton,26.0,eng ENG,RB,29-134,90,0,0,0,0,0,0,0,0,64,3,1,0,0.0,0.0,0.0,0,0,41,57,71.9,3,35,1,2,0,Swansea City
+Łukasz Fabiański,1.0,pl POL,GK,32-347,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,19,33,57.6,0,14,0,0,0,Swansea City
+14 Players,,,,,990,0,0,0,0,3,2,0,0,498,17,11,10,0.2,0.2,0.1,4,0,314,406,77.3,22,303,9,12,5,Swansea City

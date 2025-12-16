@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Callum Wilson,13.0,eng ENG,FW,26-249,90,1,0,0,0,4,2,1,0,31,0,0,1,0.8,0.8,0.2,6,0,12,21,57.1,0,25,5,1,1,Bournemouth
+David Brooks,20.0,wls WAL,"FW,CM,RM",21-118,90,0,0,0,0,5,2,0,0,43,1,0,1,0.4,0.4,0.0,4,0,19,25,76.0,2,33,3,3,0,Bournemouth
+Ryan Fraser,24.0,sct SCO,LM,24-252,73,0,0,0,0,2,2,0,0,37,0,1,0,0.1,0.1,0.6,4,0,19,32,59.4,1,27,3,3,1,Bournemouth
+Jordon Ibe,10.0,eng ENG,LM,22-330,17,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,4,6,66.7,2,6,1,2,1,Bournemouth
+Jefferson Lerma,8.0,co COL,"CM,DM",24-009,90,0,0,0,0,1,0,1,0,60,2,2,0,0.1,0.1,0.0,1,0,38,51,74.5,3,34,1,0,0,Bournemouth
+Lewis Cook,16.0,eng ENG,CM,21-273,67,0,0,0,0,1,0,0,0,49,0,1,1,0.0,0.0,0.0,4,1,35,40,87.5,5,34,2,3,0,Bournemouth
+Dan Gosling,4.0,eng ENG,CM,28-275,23,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,1,0,9,11,81.8,3,12,0,0,0,Bournemouth
+Junior Stanislas,19.0,eng ENG,RM,28-342,89,0,1,0,0,4,1,1,0,53,0,0,0,0.3,0.3,0.3,6,1,31,45,68.9,5,32,1,0,0,Bournemouth
+Andrew Surman,6.0,eng ENG,"CM,RM",32-075,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,1,0,0,0,Bournemouth
+Adam Smith,15.0,eng ENG,LB,27-188,90,0,0,0,0,0,0,1,0,60,3,1,1,0.0,0.0,0.1,2,0,42,50,84.0,4,38,4,1,0,Bournemouth
+Nathan Aké,5.0,nl NED,CB,23-258,90,0,0,0,0,1,0,0,0,64,2,1,2,0.1,0.1,0.0,0,0,43,49,87.8,2,39,1,1,1,Bournemouth
+Steve Cook,3.0,eng ENG,CB,27-198,90,0,0,0,0,0,0,0,0,59,4,1,1,0.0,0.0,0.0,1,0,31,43,72.1,3,29,0,0,0,Bournemouth
+Simon Francis,2.0,eng ENG,RB,33-260,90,0,0,0,0,0,0,0,0,65,7,0,3,0.0,0.0,0.1,3,0,37,49,75.5,4,27,1,1,0,Bournemouth
+Asmir Begović,27.0,ba BIH,GK,31-136,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,1,0,19,33,57.6,0,18,0,0,0,Bournemouth
+14 Players,,,,,990,1,1,0,0,18,7,4,0,586,20,7,10,1.7,1.7,1.3,34,2,342,460,74.3,34,355,22,15,4,Bournemouth
+Alexis Sánchez,7.0,cl CHI,"FW,RW",29-319,77,0,1,0,0,2,1,0,0,33,1,0,0,0.2,0.2,0.4,3,1,18,25,72.0,4,18,2,4,1,Manchester United
+Jesse Lingard,14.0,eng ENG,RW,25-323,13,0,0,0,0,1,1,0,0,13,0,1,0,0.1,0.1,0.0,0,0,6,9,66.7,1,4,1,0,0,Manchester United
+Anthony Martial,11.0,fr FRA,LW,22-333,90,1,0,0,0,4,2,0,0,50,0,0,1,0.5,0.5,0.6,3,0,22,32,68.8,2,27,7,4,1,Manchester United
+Juan Mata,8.0,es ESP,RW,30-189,55,0,0,0,0,1,0,0,0,28,1,0,0,0.1,0.1,0.1,3,0,22,27,81.5,4,10,1,0,0,Manchester United
+Marcus Rashford,10.0,eng ENG,FW,21-003,35,1,0,0,0,2,1,1,0,16,0,0,0,1.0,1.0,0.1,4,1,8,10,80.0,3,8,1,1,0,Manchester United
+Paul Pogba,6.0,fr FRA,LM,25-233,90,0,0,0,0,3,0,0,0,61,2,0,3,0.6,0.6,0.1,6,1,32,42,76.2,4,32,5,6,2,Manchester United
+Nemanja Matić,31.0,rs SRB,CM,30-094,90,0,0,0,0,0,0,0,0,74,2,1,2,0.0,0.0,0.0,1,0,56,66,84.8,3,34,0,0,0,Manchester United
+Fred,17.0,br BRA,RM,25-243,55,0,0,0,0,1,0,0,0,44,5,2,1,0.3,0.3,0.0,2,0,22,34,64.7,5,17,2,0,0,Manchester United
+Ander Herrera,21.0,es ESP,RM,29-081,35,0,0,0,0,2,0,0,0,30,1,0,2,0.1,0.1,0.0,1,0,18,21,85.7,2,15,0,1,0,Manchester United
+Luke Shaw,23.0,eng ENG,LB,23-114,90,0,0,0,0,1,1,1,0,72,3,0,5,0.3,0.3,0.0,3,0,47,56,83.9,10,29,4,0,0,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,24-109,90,0,0,0,0,0,0,0,0,59,2,0,0,0.0,0.0,0.0,0,0,44,51,86.3,3,33,0,1,1,Manchester United
+Chris Smalling,12.0,eng ENG,CB,28-346,90,0,0,0,0,0,0,0,0,43,0,0,1,0.0,0.0,0.1,1,0,22,29,75.9,1,11,0,0,0,Manchester United
+Ashley Young,18.0,eng ENG,RB,33-117,90,0,0,0,0,1,0,1,0,64,0,1,2,0.1,0.1,0.0,5,1,42,55,76.4,4,23,3,1,1,Manchester United
+David de Gea,1.0,es ESP,GK,27-361,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,12,28,42.9,0,11,0,0,0,Manchester United
+14 Players,,,,,990,2,1,0,0,18,6,3,0,619,17,5,17,3.2,3.2,1.6,32,4,371,485,76.5,46,272,26,18,6,Manchester United

@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Armando Broja,18.0,al ALB,FW,20-123,77,1,0,0,0,1,1,0,0,19,0,0,2,0.6,0.6,0.0,1,0,3,9,33.3,1,10,4,2,1,Southampton
+Adam Armstrong,9.0,eng ENG,FW,24-335,13,0,0,0,0,1,1,0,0,12,0,1,0,0.0,0.0,0.0,0,0,7,8,87.5,0,11,0,0,0,Southampton
+Nathan Redmond,11.0,eng ENG,FW,27-311,64,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,3,0,21,29,72.4,4,22,0,1,0,Southampton
+Che Adams,10.0,sct SCO,FW,25-182,26,1,0,0,0,1,1,0,0,9,0,0,1,0.2,0.2,0.0,0,0,3,5,60.0,0,4,1,0,0,Southampton
+Ibrahima Diallo,27.0,fr FRA,CM,22-309,90,0,1,0,0,2,1,0,0,62,3,1,2,0.0,0.0,0.3,4,1,42,48,87.5,7,42,6,2,2,Southampton
+Oriol Romeu,6.0,es ESP,CM,30-109,90,0,1,0,0,2,0,0,0,74,3,1,0,0.2,0.2,0.7,5,2,51,64,79.7,3,40,3,2,0,Southampton
+James Ward-Prowse,8.0,eng ENG,"CM,WB",27-071,90,0,1,0,0,1,0,0,0,76,3,5,4,0.0,0.0,0.2,3,1,49,63,77.8,3,40,1,2,1,Southampton
+Romain Perraud,15.0,fr FRA,WB,24-111,90,0,0,0,0,2,1,0,0,40,0,1,2,0.1,0.1,0.0,0,0,19,30,63.3,2,17,1,0,0,Southampton
+Nathan Tella,23.0,ng NGA,WB,22-190,69,0,0,0,0,1,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,12,22,54.5,3,19,2,3,3,Southampton
+Stuart Armstrong,17.0,sct SCO,"WB,CM",29-287,21,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,7,0,1,1,Southampton
+Mohammed Salisu,22.0,gh GHA,CB,22-269,90,0,0,0,0,0,0,0,0,65,5,2,1,0.0,0.0,0.0,3,1,39,52,75.0,4,29,0,0,0,Southampton
+Lyanco,4.0,br BRA,CB,24-344,90,0,0,0,0,0,0,0,0,43,1,1,1,0.0,0.0,0.0,0,0,19,32,59.4,1,22,0,0,0,Southampton
+Jan Bednarek,35.0,pl POL,CB,25-274,90,1,0,0,0,1,1,0,0,55,0,4,1,0.2,0.2,0.0,1,0,33,44,75.0,0,22,0,0,0,Southampton
+Fraser Forster,44.0,eng ENG,GK,33-300,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,10,27,37.0,0,11,0,0,0,Southampton
+14 Players,,,,,990,3,3,0,0,12,6,0,0,559,16,16,14,1.4,1.4,1.2,20,5,316,443,71.3,28,296,18,13,8,Southampton
+Ivan Toney,17.0,eng ENG,FW,25-301,90,0,0,0,0,2,1,1,0,44,0,0,2,0.2,0.2,0.0,1,0,10,22,45.5,5,23,0,3,1,Brentford
+Bryan Mbeumo,19.0,cm CMR,FW,22-157,90,0,1,0,0,1,1,0,0,26,1,0,1,0.2,0.2,0.1,1,1,9,17,52.9,3,22,2,1,1,Brentford
+Shandon Baptiste,26.0,gd GRN,CM,23-278,55,0,0,0,0,0,0,0,0,26,1,2,0,0.0,0.0,0.0,1,0,13,18,72.2,2,17,1,2,1,Brentford
+Yoane Wissa,11.0,cd COD,CM,25-130,35,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,4,7,57.1,0,4,1,2,0,Brentford
+Christian Nørgaard,6.0,dk DEN,CM,27-307,90,0,0,0,0,0,0,0,0,80,1,0,3,0.0,0.0,0.0,0,0,54,70,77.1,6,41,1,1,1,Brentford
+Vitaly Janelt,27.0,de GER,"CM,CB",23-246,90,1,0,0,0,2,2,0,0,61,3,0,0,0.1,0.1,0.0,1,0,38,50,76.0,6,37,1,2,2,Brentford
+Sergi Canós,7.0,es ESP,WB,24-343,75,0,0,0,0,0,0,0,0,26,2,1,0,0.0,0.0,0.0,0,0,12,21,57.1,0,20,1,0,0,Brentford
+Finley Stevens,36.0,wls WAL,WB,18-276,15,0,0,0,0,0,0,0,0,9,3,0,0,0.0,0.0,0.1,1,0,5,7,71.4,2,5,0,0,0,Brentford
+Mads Roerslev,30.0,dk DEN,WB,22-201,90,0,0,0,0,0,0,0,0,43,0,2,0,0.0,0.0,0.0,1,1,22,31,71.0,1,24,0,2,1,Brentford
+Ethan Pinnock,5.0,jm JAM,CB,28-227,67,0,0,0,0,0,0,0,0,66,0,1,3,0.0,0.0,0.0,0,0,41,54,75.9,3,32,2,2,1,Brentford
+Mathias Jensen,8.0,dk DEN,"CM,CB",26-010,23,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.2,1,0,10,17,58.8,3,8,0,1,1,Brentford
+Pontus Jansson,18.0,se SWE,CB,30-332,90,0,0,0,0,0,0,0,0,59,1,0,1,0.0,0.0,0.0,0,0,48,54,88.9,1,36,0,0,0,Brentford
+Kristoffer Ajer,20.0,no NOR,CB,23-269,90,0,0,0,0,0,0,0,0,69,2,0,0,0.0,0.0,0.0,1,0,45,61,73.8,3,34,0,1,1,Brentford
+Álvaro Fernández,40.0,es ESP,GK,23-273,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,34,46,73.9,0,31,0,0,0,Brentford
+14 Players,,,,,990,1,1,0,0,5,4,1,0,586,15,7,10,0.5,0.5,0.4,8,2,345,475,72.6,35,334,9,17,10,Brentford

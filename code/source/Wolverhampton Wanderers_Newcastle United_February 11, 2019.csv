@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Diogo Jota,18.0,pt POR,FW,22-069,68,0,0,0,0,3,1,1,0,42,0,0,0,0.1,0.1,0.3,1,0,23,32,71.9,1,19,4,6,2,Wolverhampton Wanderers
+Hélder Costa,10.0,ao ANG,"RW,LW",25-030,22,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,4,8,50.0,0,6,2,0,0,Wolverhampton Wanderers
+Raúl Jiménez,9.0,mx MEX,FW,27-282,90,0,0,0,0,6,1,0,0,48,1,0,0,0.7,0.7,0.1,9,0,22,30,73.3,2,32,6,10,5,Wolverhampton Wanderers
+João Moutinho,28.0,pt POR,CM,32-156,90,0,0,0,0,1,0,0,0,87,5,0,1,0.0,0.0,0.3,5,0,55,76,72.4,7,38,1,0,0,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,CM,21-335,90,0,0,0,0,1,0,0,0,91,1,6,0,0.0,0.0,0.1,2,0,62,82,75.6,5,41,0,1,1,Wolverhampton Wanderers
+Leander Dendoncker,32.0,be BEL,CM,23-302,68,0,0,0,0,2,1,0,0,47,1,1,2,0.1,0.1,0.1,2,0,29,37,78.4,3,20,0,0,0,Wolverhampton Wanderers
+Ivan Cavaleiro,7.0,pt POR,LW,25-116,22,0,0,0,0,1,0,0,0,24,0,0,1,0.0,0.0,0.1,2,0,10,19,52.6,1,15,3,2,1,Wolverhampton Wanderers
+Jonny Castro,19.0,es ESP,"WB,LM",24-345,90,0,0,0,0,1,1,0,0,70,3,1,0,0.0,0.0,0.0,3,0,48,63,76.2,4,33,4,1,1,Wolverhampton Wanderers
+Matt Doherty,2.0,ie IRL,"WB,RM",27-026,80,0,0,0,0,2,0,0,0,63,0,1,2,0.3,0.3,0.1,2,0,41,51,80.4,4,21,2,1,0,Wolverhampton Wanderers
+Adama Traoré,37.0,es ESP,RM,23-017,10,0,1,0,0,2,0,0,0,14,0,0,0,0.1,0.1,0.7,4,2,8,9,88.9,0,6,2,2,1,Wolverhampton Wanderers
+Willy Boly,15.0,ci CIV,CB,28-008,90,1,0,0,0,2,1,0,0,106,2,3,3,0.9,0.9,0.0,2,0,79,93,84.9,7,57,1,0,0,Wolverhampton Wanderers
+Conor Coady,16.0,eng ENG,CB,25-351,90,0,0,0,0,0,0,0,0,75,0,0,1,0.0,0.0,0.0,1,0,61,72,84.7,2,46,0,0,0,Wolverhampton Wanderers
+Ryan Bennett,5.0,eng ENG,CB,28-342,90,0,0,0,0,1,1,0,0,83,1,1,0,0.1,0.1,0.0,0,0,67,76,88.2,9,44,4,0,0,Wolverhampton Wanderers
+Rui Patrício,11.0,pt POR,GK,30-361,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,19,27,70.4,0,16,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,990,1,1,0,0,22,6,1,0,788,15,13,10,2.4,2.4,1.8,33,2,528,675,78.2,45,394,29,23,11,Wolverhampton Wanderers
+Salomón Rondón,9.0,ve VEN,FW,29-148,90,0,0,0,0,3,2,0,0,48,0,0,0,0.2,0.2,0.0,1,0,28,38,73.7,1,23,4,3,2,Newcastle United
+Ayoze Pérez,17.0,es ESP,"FW,RM",25-197,89,0,0,0,0,1,0,0,0,41,1,0,2,0.1,0.1,0.2,4,1,24,29,82.8,3,23,1,2,1,Newcastle United
+Javier Manquillo,19.0,es ESP,RM,24-282,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,1,0,Newcastle United
+Christian Atsu,30.0,gh GHA,DM,27-032,71,0,0,0,0,1,0,0,0,31,2,1,0,0.0,0.0,0.0,1,0,21,22,95.5,1,18,1,0,0,Newcastle United
+Miguel Almirón,24.0,py PAR,"LM,DM",25-001,19,0,0,0,0,0,0,0,0,14,1,1,0,0.0,0.0,0.1,1,0,9,10,90.0,0,9,0,0,0,Newcastle United
+Sean Longstaff,36.0,eng ENG,"DM,CM",21-104,90,0,0,0,0,1,0,0,0,67,6,1,4,0.0,0.0,0.0,0,0,41,51,80.4,5,26,0,1,1,Newcastle United
+Isaac Hayden,14.0,jm JAM,"DM,CM",23-326,85,1,0,0,0,2,1,0,0,38,0,3,2,0.1,0.1,0.1,5,0,21,27,77.8,2,14,0,1,0,Newcastle United
+Mohamed Diamé,10.0,sn SEN,CM,31-242,5,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Newcastle United
+Matt Ritchie,11.0,sct SCO,"WB,LB",29-154,90,0,0,0,0,0,0,1,0,85,1,2,2,0.0,0.0,0.0,2,0,50,72,69.4,5,37,5,3,2,Newcastle United
+DeAndre Yedlin,22.0,us USA,"WB,RB",25-217,90,0,0,0,0,0,0,0,0,40,3,1,0,0.0,0.0,0.0,1,0,15,29,51.7,0,17,2,1,1,Newcastle United
+Florian Lejeune,20.0,fr FRA,CB,27-267,90,0,0,0,0,0,0,0,0,70,2,1,2,0.0,0.0,0.0,0,0,47,56,83.9,0,25,0,0,0,Newcastle United
+Jamaal Lascelles,6.0,eng ENG,CB,25-092,90,0,0,0,0,0,0,1,0,61,3,2,1,0.0,0.0,0.0,0,0,38,48,79.2,6,22,1,0,0,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,27-053,90,0,1,0,0,1,0,1,0,67,1,6,2,0.0,0.0,0.1,2,1,30,54,55.6,3,33,2,1,0,Newcastle United
+Martin Dúbravka,12.0,sk SVK,GK,30-027,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,13,31,41.9,0,14,0,0,0,Newcastle United
+14 Players,,,,,990,1,1,0,0,9,3,3,0,600,21,18,15,0.4,0.4,0.4,17,2,340,471,72.2,26,263,16,13,7,Newcastle United

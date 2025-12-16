@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Karlan Grant,16.0,eng ENG,FW,21-200,90,0,0,0,0,1,1,0,0,25,2,0,1,0.5,0.5,0.0,3,1,12,15,80.0,0,15,1,3,2,Huddersfield Town
+Alex Pritchard,21.0,eng ENG,FW,25-338,59,0,0,0,0,2,1,0,0,26,0,1,0,0.1,0.1,0.0,1,0,12,19,63.2,0,14,0,1,1,Huddersfield Town
+Steve Mounié,24.0,bj BEN,FW,24-189,31,0,0,0,0,4,1,0,0,18,1,0,1,0.2,0.2,0.0,3,0,8,10,80.0,0,7,2,0,0,Huddersfield Town
+Chris Löwe,15.0,de GER,LM,29-355,90,0,0,0,0,1,0,0,0,51,2,1,2,0.0,0.0,0.1,3,0,24,40,60.0,1,25,3,2,2,Huddersfield Town
+Jon Gorenc Stanković,27.0,si SVN,CM,23-082,45,0,0,0,0,1,0,1,0,29,2,0,0,0.0,0.0,0.0,1,0,20,25,80.0,3,16,0,0,0,Huddersfield Town
+Isaac Mbenza,18.0,be BEL,RM,23-029,45,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.5,1,0,3,5,60.0,0,10,2,2,0,Huddersfield Town
+Jonathan Hogg,6.0,eng ENG,CM,30-121,80,0,0,0,0,0,0,1,0,54,3,4,1,0.0,0.0,0.0,0,0,34,39,87.2,3,24,0,1,0,Huddersfield Town
+Juninho Bacuna,7.0,cw CUW,CM,21-242,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,1,0,7,7,100.0,0,4,1,1,0,Huddersfield Town
+Aaron Mooy,10.0,au AUS,"CM,RM",28-203,90,1,0,1,1,0,0,0,0,59,3,0,0,0.8,0.0,0.0,2,0,38,52,73.1,3,26,1,0,0,Huddersfield Town
+Erik Durm,37.0,de GER,LB,26-329,90,0,0,0,0,0,0,0,0,60,0,0,3,0.0,0.0,0.0,0,0,41,56,73.2,2,28,1,0,0,Huddersfield Town
+Terence Kongolo,5.0,nl NED,CB,25-051,90,0,0,0,0,0,0,1,0,47,1,2,0,0.0,0.0,0.0,0,0,29,39,74.4,4,30,0,0,0,Huddersfield Town
+Christopher Schindler,26.0,de GER,CB,28-342,90,0,0,0,0,0,0,0,0,46,1,2,2,0.0,0.0,0.0,0,0,28,33,84.8,2,18,0,0,0,Huddersfield Town
+Tommy Smith,2.0,eng ENG,RB,26-357,90,0,0,0,0,0,0,0,0,52,2,3,1,0.0,0.0,0.0,0,0,39,48,81.3,5,23,2,0,0,Huddersfield Town
+Ben Hamer,12.0,eng ENG,GK,31-137,90,0,0,0,0,0,0,0,0,35,0,1,0,0.0,0.0,0.0,0,0,14,29,48.3,0,10,0,0,0,Huddersfield Town
+14 Players,,,,,990,1,0,1,1,9,3,3,0,521,17,14,11,1.7,0.9,0.8,15,1,309,417,74.1,23,250,13,10,5,Huddersfield Town
+Karlan Grant,16.0,eng ENG,FW,21-200,90,0,0,0,0,1,1,0,0,25,2,0,1,0.5,0.5,0.0,3,1,12,15,80.0,0,15,1,3,2,Leicester City
+Alex Pritchard,21.0,eng ENG,FW,25-338,59,0,0,0,0,2,1,0,0,26,0,1,0,0.1,0.1,0.0,1,0,12,19,63.2,0,14,0,1,1,Leicester City
+Steve Mounié,24.0,bj BEN,FW,24-189,31,0,0,0,0,4,1,0,0,18,1,0,1,0.2,0.2,0.0,3,0,8,10,80.0,0,7,2,0,0,Leicester City
+Chris Löwe,15.0,de GER,LM,29-355,90,0,0,0,0,1,0,0,0,51,2,1,2,0.0,0.0,0.1,3,0,24,40,60.0,1,25,3,2,2,Leicester City
+Jon Gorenc Stanković,27.0,si SVN,CM,23-082,45,0,0,0,0,1,0,1,0,29,2,0,0,0.0,0.0,0.0,1,0,20,25,80.0,3,16,0,0,0,Leicester City
+Isaac Mbenza,18.0,be BEL,RM,23-029,45,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.5,1,0,3,5,60.0,0,10,2,2,0,Leicester City
+Jonathan Hogg,6.0,eng ENG,CM,30-121,80,0,0,0,0,0,0,1,0,54,3,4,1,0.0,0.0,0.0,0,0,34,39,87.2,3,24,0,1,0,Leicester City
+Juninho Bacuna,7.0,cw CUW,CM,21-242,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,1,0,7,7,100.0,0,4,1,1,0,Leicester City
+Aaron Mooy,10.0,au AUS,"CM,RM",28-203,90,1,0,1,1,0,0,0,0,59,3,0,0,0.8,0.0,0.0,2,0,38,52,73.1,3,26,1,0,0,Leicester City
+Erik Durm,37.0,de GER,LB,26-329,90,0,0,0,0,0,0,0,0,60,0,0,3,0.0,0.0,0.0,0,0,41,56,73.2,2,28,1,0,0,Leicester City
+Terence Kongolo,5.0,nl NED,CB,25-051,90,0,0,0,0,0,0,1,0,47,1,2,0,0.0,0.0,0.0,0,0,29,39,74.4,4,30,0,0,0,Leicester City
+Christopher Schindler,26.0,de GER,CB,28-342,90,0,0,0,0,0,0,0,0,46,1,2,2,0.0,0.0,0.0,0,0,28,33,84.8,2,18,0,0,0,Leicester City
+Tommy Smith,2.0,eng ENG,RB,26-357,90,0,0,0,0,0,0,0,0,52,2,3,1,0.0,0.0,0.0,0,0,39,48,81.3,5,23,2,0,0,Leicester City
+Ben Hamer,12.0,eng ENG,GK,31-137,90,0,0,0,0,0,0,0,0,35,0,1,0,0.0,0.0,0.0,0,0,14,29,48.3,0,10,0,0,0,Leicester City
+14 Players,,,,,990,1,0,1,1,9,3,3,0,521,17,14,11,1.7,0.9,0.8,15,1,309,417,74.1,23,250,13,10,5,Leicester City

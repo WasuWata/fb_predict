@@ -1,0 +1,14 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Mason Greenwood,11.0,eng ENG,FW,19-164,90,0,0,0,0,5,1,0,0,51,0,0,0,0.4,0.4,0.4,4,0,36,40,90.0,3,34,9,2,1,Manchester United
+Marcus Rashford,10.0,eng ENG,LW,23-134,90,0,0,0,0,4,1,1,0,66,0,0,0,0.6,0.6,0.4,3,0,48,55,87.3,9,36,2,2,0,Manchester United
+Daniel James,21.0,wls WAL,RW,23-124,90,0,0,0,0,0,0,1,0,45,1,0,1,0.0,0.0,0.0,1,0,31,36,86.1,4,23,3,5,4,Manchester United
+Bruno Fernandes,18.0,pt POR,AM,26-187,90,0,0,0,0,4,2,0,0,89,1,1,0,0.4,0.4,0.4,9,0,68,80,85.0,10,59,1,2,1,Manchester United
+Fred,17.0,br BRA,DM,28-009,90,0,0,0,0,0,0,0,0,100,2,1,0,0.0,0.0,0.0,4,0,86,92,93.5,6,68,3,3,1,Manchester United
+Scott McTominay,39.0,sct SCO,DM,24-096,90,0,0,0,0,2,0,1,0,78,2,4,0,0.2,0.2,0.0,3,0,64,66,97.0,3,55,3,0,0,Manchester United
+Luke Shaw,23.0,eng ENG,LB,25-245,90,0,0,0,0,0,0,0,0,104,3,1,1,0.0,0.0,0.2,3,0,78,92,84.8,10,66,6,1,1,Manchester United
+Harry Maguire,5.0,eng ENG,CB,28-009,90,0,0,0,0,0,0,0,0,76,1,1,2,0.0,0.0,0.0,0,0,54,63,85.7,3,38,0,0,0,Manchester United
+Victor Lindelöf,2.0,se SWE,CB,26-240,90,0,0,0,0,0,0,0,0,78,1,0,1,0.0,0.0,0.0,2,0,66,71,93.0,4,50,2,0,0,Manchester United
+Aaron Wan-Bissaka,29.0,cd COD,RB,23-108,90,0,0,0,0,0,0,1,0,109,2,4,2,0.0,0.0,0.1,1,0,86,95,90.5,5,62,2,0,0,Manchester United
+Dean Henderson,26.0,eng ENG,GK,24-002,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,16,25,64.0,0,8,0,0,0,Manchester United
+11 Players,,,,,990,0,0,0,0,15,4,4,0,821,13,12,7,1.5,1.5,1.5,30,0,633,715,88.5,57,499,31,15,8,Manchester United

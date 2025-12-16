@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Troy Deeney,9.0,eng ENG,FW,29-275,90,0,0,0,0,3,1,0,0,45,1,0,1,0.1,0.1,0.0,1,0,18,34,52.9,7,19,1,3,2,Watford
+Roberto Pereyra,37.0,ar ARG,"LW,LM",27-083,90,1,0,0,0,2,1,0,0,48,0,1,1,0.1,0.1,0.0,1,1,28,32,87.5,3,35,2,5,1,Watford
+Kiko Femenía,21.0,es ESP,"RW,RM",27-057,80,1,0,0,0,2,1,0,0,36,1,1,1,0.1,0.1,0.1,3,1,27,32,84.4,4,27,3,0,0,Watford
+Richarlison,11.0,br BRA,RM,20-325,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,5,8,62.5,1,5,2,1,1,Watford
+Will Hughes,19.0,eng ENG,AM,22-348,74,0,1,0,0,2,0,0,0,54,4,3,2,0.1,0.1,0.2,8,1,34,40,85.0,7,31,3,1,1,Watford
+Stefano Okaka,33.0,it ITA,FW,28-234,16,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,7,0,0,0,Watford
+Étienne Capoue,29.0,fr FRA,"DM,CM",29-263,90,0,0,0,0,2,0,0,0,47,2,3,0,0.1,0.1,0.0,2,0,27,38,71.1,6,23,0,1,1,Watford
+Abdoulaye Doucouré,16.0,ml MLI,"DM,CM",25-089,90,0,0,0,0,1,0,1,0,68,2,2,1,0.0,0.0,0.0,1,0,52,60,86.7,7,40,2,0,0,Watford
+José Holebas,25.0,gr GRE,LB,33-277,90,0,1,0,0,3,1,1,0,73,1,2,1,0.1,0.1,0.1,3,1,32,61,52.5,7,24,2,3,1,Watford
+Adrian Mariappa,6.0,jm JAM,CB,31-179,90,0,0,0,0,0,0,0,0,49,2,1,2,0.0,0.0,0.0,0,0,30,42,71.4,3,25,0,0,0,Watford
+Sebastian Prödl,5.0,at AUT,CB,30-283,63,0,0,0,0,0,0,1,0,30,1,0,3,0.0,0.0,0.0,0,0,19,23,82.6,0,15,0,0,0,Watford
+Craig Cathcart,15.0,nir NIR,CB,29-053,27,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,7,8,87.5,2,6,0,1,0,Watford
+Daryl Janmaat,2.0,nl NED,RB,28-252,90,0,0,0,0,1,1,0,0,65,3,1,0,0.1,0.1,0.0,2,0,41,57,71.9,6,34,2,2,2,Watford
+Orestis Karnezis,30.0,gr GRE,GK,32-263,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,19,31,61.3,0,19,0,0,0,Watford
+14 Players,,,,,990,2,2,0,0,16,5,4,0,575,18,14,12,0.7,0.7,0.4,22,4,342,472,72.5,53,310,17,17,9,Watford
+Callum Wilson,13.0,eng ENG,FW,26-032,80,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,1,0,8,12,66.7,1,12,0,0,0,Bournemouth
+Andrew Surman,6.0,eng ENG,"CM,FW",31-223,10,0,0,0,0,1,1,0,0,9,0,1,0,0.0,0.0,0.0,0,0,6,6,100.0,1,3,0,1,1,Bournemouth
+Joshua King,17.0,no NOR,"FW,CM",26-075,90,1,0,1,1,1,0,0,0,42,3,1,0,0.8,0.0,0.0,5,0,14,21,66.7,1,22,2,7,4,Bournemouth
+Junior Stanislas,19.0,eng ENG,LM,28-125,44,0,0,0,0,2,2,0,0,22,0,0,4,0.1,0.1,0.1,3,1,9,13,69.2,1,10,1,2,1,Bournemouth
+Marc Pugh,7.0,eng ENG,"LM,RB",30-363,46,0,0,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.0,1,0,15,22,68.2,2,10,0,1,0,Bournemouth
+Dan Gosling,4.0,eng ENG,CM,28-058,90,0,0,0,0,0,0,0,0,69,5,3,0,0.0,0.0,0.0,2,0,46,56,82.1,3,22,0,0,0,Bournemouth
+Lewis Cook,16.0,eng ENG,CM,21-056,90,0,0,0,0,2,0,0,0,51,3,0,1,0.0,0.0,0.0,0,0,33,42,78.6,5,27,1,3,2,Bournemouth
+Jordon Ibe,33.0,eng ENG,RM,22-113,66,0,0,0,0,2,1,0,0,33,0,0,0,0.1,0.1,0.1,3,0,17,24,70.8,4,20,2,1,0,Bournemouth
+Jermain Defoe,18.0,eng ENG,"FW,RM",35-175,24,1,0,0,0,2,1,0,0,9,0,0,0,0.5,0.5,0.0,0,0,2,4,50.0,1,6,0,1,0,Bournemouth
+Charlie Daniels,11.0,eng ENG,"LB,CB",31-205,90,0,0,0,0,0,0,0,0,62,1,0,1,0.0,0.0,0.0,3,0,45,54,83.3,4,29,1,1,0,Bournemouth
+Nathan Aké,5.0,nl NED,CB,23-041,90,0,1,0,0,1,0,0,0,60,1,0,1,0.1,0.1,0.4,2,1,44,52,84.6,4,34,0,0,0,Bournemouth
+Steve Cook,3.0,eng ENG,CB,26-346,90,0,0,0,0,1,0,0,0,74,1,1,3,0.1,0.1,0.0,1,0,48,59,81.4,4,26,1,0,0,Bournemouth
+Ryan Fraser,24.0,sct SCO,"RB,LB",24-035,90,0,0,0,0,0,0,0,0,82,4,1,3,0.0,0.0,0.1,2,0,46,67,68.7,4,31,7,1,1,Bournemouth
+Asmir Begović,27.0,ba BIH,GK,30-284,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,1,1,29,41,70.7,0,19,0,0,0,Bournemouth
+14 Players,,,,,990,2,1,1,1,12,5,0,0,600,20,7,14,1.8,1.0,0.9,24,3,362,473,76.5,35,271,15,18,9,Bournemouth

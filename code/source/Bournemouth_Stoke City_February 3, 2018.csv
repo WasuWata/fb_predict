@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Callum Wilson,13.0,eng ENG,FW,25-341,90,0,0,0,0,3,2,0,0,23,0,1,0,0.2,0.2,0.0,3,0,12,14,85.7,1,19,1,1,0,Bournemouth
+Junior Stanislas,19.0,eng ENG,"LM,AM",28-069,58,0,0,0,0,2,1,0,0,32,0,0,0,0.2,0.2,0.0,2,0,21,26,80.8,4,15,0,1,1,Bournemouth
+Lys Mousset,31.0,fr FRA,FW,21-360,32,1,0,0,0,2,1,0,0,16,0,0,0,0.3,0.3,0.0,3,0,6,11,54.5,1,14,3,4,3,Bournemouth
+Jordon Ibe,33.0,eng ENG,"RM,AM",22-057,89,0,1,0,0,3,0,0,0,42,0,0,1,0.6,0.6,0.2,5,3,25,32,78.1,2,23,3,2,0,Bournemouth
+Marc Pugh,7.0,eng ENG,RM,30-307,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,0,0,0,0,Bournemouth
+Dan Gosling,4.0,eng ENG,CM,28-002,90,0,0,0,0,1,0,1,0,72,2,0,1,0.1,0.1,0.1,2,0,40,63,63.5,11,24,0,0,0,Bournemouth
+Lewis Cook,16.0,eng ENG,CM,21-000,90,0,0,0,0,1,0,0,0,66,3,1,3,0.0,0.0,0.2,6,1,38,50,76.0,10,34,2,4,3,Bournemouth
+Charlie Daniels,11.0,eng ENG,"LB,WB",31-149,90,0,0,0,0,0,0,0,0,79,1,1,1,0.0,0.0,0.0,0,0,52,73,71.2,2,26,4,1,1,Bournemouth
+Ryan Fraser,24.0,sct SCO,"RB,WB",23-344,90,0,0,0,0,0,0,0,0,57,1,0,1,0.0,0.0,0.1,2,0,34,52,65.4,4,29,1,1,0,Bournemouth
+Nathan Aké,5.0,nl NED,CB,22-350,90,0,0,0,0,1,1,0,0,67,0,1,2,0.0,0.0,0.1,0,0,45,57,78.9,4,27,1,0,0,Bournemouth
+Steve Cook,3.0,eng ENG,CB,26-290,12,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,Bournemouth
+Joshua King,17.0,no NOR,"FW,LM",26-019,78,1,0,0,0,2,2,1,0,56,3,0,2,0.4,0.4,0.5,3,0,24,37,64.9,6,36,2,9,3,Bournemouth
+Simon Francis,2.0,eng ENG,CB,32-352,90,0,0,0,0,0,0,0,0,52,0,1,0,0.0,0.0,0.0,1,0,34,43,79.1,2,16,0,0,0,Bournemouth
+Asmir Begović,27.0,ba BIH,GK,30-228,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,13,28,46.4,0,10,0,0,0,Bournemouth
+14 Players,,,,,990,2,1,0,0,15,7,2,0,598,10,5,12,1.7,1.7,1.2,27,4,348,491,70.9,48,275,17,23,11,Bournemouth
+Peter Crouch,25.0,eng ENG,FW,37-004,82,0,0,0,0,4,1,0,0,43,1,0,0,0.2,0.2,0.0,2,0,21,35,60.0,3,18,0,1,1,Stoke City
+Mame Biram Diouf,18.0,sn SEN,FW,30-049,8,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Stoke City
+Eric Maxim Choupo-Moting,10.0,cm CMR,LW,28-317,82,0,0,0,0,3,1,1,0,37,3,1,5,0.2,0.2,0.0,2,0,16,22,72.7,2,24,2,4,3,Stoke City
+Saido Berahino,9.0,bi BDI,LW,24-183,8,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Stoke City
+Xherdan Shaqiri,22.0,ch SUI,RW,26-116,90,1,0,0,0,2,1,1,0,42,0,0,0,0.1,0.1,0.2,3,0,25,35,71.4,5,29,1,1,1,Stoke City
+Badou Ndiaye,27.0,sn SEN,LM,27-099,70,0,1,0,0,3,0,1,0,29,3,1,0,0.2,0.2,0.1,3,1,15,19,78.9,2,16,3,1,1,Stoke City
+Kostas Stafylidis,21.0,gr GRE,CM,24-063,20,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,8,0,0,0,Stoke City
+Geoff Cameron,20.0,us USA,CM,32-207,90,0,0,0,0,0,0,0,0,52,4,1,3,0.0,0.0,0.0,0,0,29,41,70.7,4,22,0,0,0,Stoke City
+Joe Allen,4.0,wls WAL,RM,27-326,90,0,0,0,0,1,0,0,0,49,5,1,1,0.0,0.0,0.0,2,0,27,35,77.1,1,24,1,1,1,Stoke City
+Erik Pieters,3.0,nl NED,LB,29-180,90,0,0,0,0,0,0,0,0,55,1,5,2,0.0,0.0,0.0,2,1,28,44,63.6,3,30,0,0,0,Stoke City
+Kurt Zouma,6.0,fr FRA,CB,23-099,90,0,0,0,0,0,0,0,0,40,3,1,0,0.0,0.0,0.0,0,0,18,24,75.0,1,14,0,0,0,Stoke City
+Ryan Shawcross,17.0,eng ENG,CB,30-122,90,0,0,0,0,0,0,0,0,43,1,3,0,0.0,0.0,0.0,0,0,18,30,60.0,2,14,0,0,0,Stoke City
+Moritz Bauer,2.0,at AUT,RB,26-009,90,0,0,0,0,0,0,0,0,58,5,3,0,0.0,0.0,0.3,5,0,29,40,72.5,1,26,0,2,2,Stoke City
+Jack Butland,1.0,eng ENG,GK,24-330,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,11,37,29.7,0,19,0,0,0,Stoke City
+14 Players,,,,,990,1,1,0,0,13,3,3,0,505,28,16,11,0.7,0.7,0.7,19,2,247,376,65.7,24,245,7,10,9,Stoke City

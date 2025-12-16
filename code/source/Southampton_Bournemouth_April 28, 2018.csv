@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Charlie Austin,10.0,eng ENG,FW,28-297,71,0,0,0,0,3,1,0,0,17,0,0,0,0.3,0.3,0.4,1,0,4,7,57.1,0,8,1,0,0,Southampton
+Pierre Højbjerg,23.0,dk DEN,LM,22-266,19,0,0,0,0,0,0,1,0,15,2,0,0,0.0,0.0,0.0,0,0,12,13,92.3,1,9,1,0,0,Southampton
+Nathan Redmond,22.0,eng ENG,LW,24-053,58,0,0,0,0,2,0,0,0,29,0,1,1,0.0,0.0,0.0,2,1,12,20,60.0,1,22,3,1,1,Southampton
+Shane Long,7.0,ie IRL,"FW,LW",31-096,32,0,0,0,0,1,1,0,0,14,1,0,0,0.4,0.4,0.0,1,0,7,7,100.0,2,8,0,1,0,Southampton
+Dušan Tadić,11.0,rs SRB,"RW,RM",29-159,86,2,0,0,0,2,2,0,0,41,2,0,0,0.5,0.5,0.4,8,1,25,33,75.8,9,27,6,3,3,Southampton
+James Ward-Prowse,16.0,eng ENG,RM,23-178,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,Southampton
+Ryan Bertrand,21.0,eng ENG,"LM,LB",28-266,90,0,0,0,0,2,1,0,0,41,1,0,2,0.2,0.2,0.0,1,0,29,32,90.6,4,27,2,0,0,Southampton
+Mario Lemina,18.0,ga GAB,CM,24-239,90,0,1,0,0,3,1,0,0,46,3,3,2,0.1,0.1,0.4,4,1,25,29,86.2,2,31,4,2,0,Southampton
+Oriol Romeu,14.0,es ESP,CM,26-216,90,0,0,0,0,1,0,0,0,59,3,4,3,0.1,0.1,0.0,3,0,33,41,80.5,5,26,0,0,0,Southampton
+Cédric Soares,2.0,pt POR,"RM,RB",26-240,90,0,0,0,0,0,0,1,0,42,1,2,3,0.0,0.0,0.0,0,0,19,31,61.3,1,18,0,0,0,Southampton
+Wesley Hoedt,6.0,nl NED,CB,24-053,90,0,0,0,0,0,0,0,0,71,4,2,0,0.0,0.0,0.0,1,0,30,57,52.6,1,31,0,1,1,Southampton
+Maya Yoshida,3.0,jp JPN,CB,29-247,90,0,0,0,0,0,0,1,0,46,1,1,0,0.0,0.0,0.0,1,1,30,36,83.3,1,22,0,0,0,Southampton
+Jan Bednarek,35.0,pl POL,CB,22-016,90,0,0,0,0,0,0,1,0,54,3,2,0,0.0,0.0,0.0,1,0,29,42,69.0,4,25,0,1,0,Southampton
+Alex McCarthy,13.0,eng ENG,GK,28-146,90,0,0,0,0,0,0,1,0,31,0,0,0,0.0,0.0,0.0,0,0,6,27,22.2,0,19,0,0,0,Southampton
+14 Players,,,,,990,2,1,0,0,14,6,5,0,509,21,15,11,1.5,1.5,1.3,23,4,261,377,69.2,31,274,17,9,5,Southampton
+Callum Wilson,13.0,eng ENG,FW,26-060,63,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,7,13,53.8,1,13,1,2,0,Bournemouth
+Jermain Defoe,18.0,eng ENG,FW,35-203,27,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.1,1,0,1,2,50.0,0,4,0,1,0,Bournemouth
+Joshua King,17.0,no NOR,"LW,RW",26-103,90,1,0,0,0,3,2,0,0,39,0,0,0,0.2,0.2,0.0,4,0,17,27,63.0,2,26,3,5,2,Bournemouth
+Lys Mousset,31.0,fr FRA,RW,22-079,63,0,0,0,0,2,1,0,0,37,0,0,0,0.1,0.1,0.2,1,0,17,27,63.0,3,29,2,6,4,Bournemouth
+Jordon Ibe,33.0,eng ENG,"LW,RW",22-141,27,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,2,0,12,16,75.0,2,12,1,4,1,Bournemouth
+Charlie Daniels,11.0,eng ENG,LM,31-233,90,0,0,0,0,0,0,0,0,62,0,1,0,0.0,0.0,0.1,2,0,45,57,78.9,3,27,1,1,0,Bournemouth
+Dan Gosling,4.0,eng ENG,CM,28-086,71,0,0,0,0,0,0,0,0,65,2,0,1,0.0,0.0,0.0,2,0,47,59,79.7,12,35,1,0,0,Bournemouth
+Andrew Surman,6.0,eng ENG,CM,31-251,19,0,0,0,0,3,0,0,0,22,0,0,0,0.1,0.1,0.1,2,0,16,18,88.9,5,12,0,0,0,Bournemouth
+Lewis Cook,16.0,eng ENG,CM,21-084,90,0,0,0,0,1,1,1,0,76,2,2,0,0.0,0.0,0.0,2,0,58,71,81.7,8,41,4,2,2,Bournemouth
+Ryan Fraser,24.0,sct SCO,RM,24-063,90,0,0,0,0,3,2,0,0,57,0,1,0,0.1,0.1,0.1,4,1,31,50,62.0,3,30,1,0,0,Bournemouth
+Nathan Aké,5.0,nl NED,CB,23-069,90,0,0,0,0,1,1,0,0,62,0,1,0,0.2,0.2,0.0,2,0,48,55,87.3,4,34,1,2,2,Bournemouth
+Steve Cook,3.0,eng ENG,CB,27-009,90,0,0,0,0,0,0,0,0,66,2,1,3,0.0,0.0,0.0,3,1,40,55,72.7,3,22,0,0,0,Bournemouth
+Simon Francis,2.0,eng ENG,CB,33-071,90,0,1,0,0,1,0,0,0,102,4,2,1,0.0,0.0,0.1,1,0,69,90,76.7,3,46,0,1,1,Bournemouth
+Asmir Begović,27.0,ba BIH,GK,30-312,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,26,29,89.7,0,15,0,0,0,Bournemouth
+14 Players,,,,,990,1,1,0,0,14,7,1,0,664,11,8,6,0.7,0.7,0.6,26,2,434,569,76.3,49,346,15,24,12,Bournemouth

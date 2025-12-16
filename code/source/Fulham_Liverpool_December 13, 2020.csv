@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ivan Cavaleiro,17.0,pt POR,FW,27-056,90,0,0,0,0,4,3,0,0,43,0,0,1,1.3,1.3,0.1,2,0,17,26,65.4,3,26,4,4,2,Fulham
+Ademola Lookman,19.0,ng NGA,AM,23-054,87,0,1,0,0,1,1,1,0,44,1,2,0,0.0,0.0,0.3,5,2,18,25,72.0,4,23,3,6,2,Fulham
+Joe Bryan,23.0,eng ENG,AM,27-087,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,2,2,Fulham
+Ruben Loftus-Cheek,15.0,eng ENG,AM,24-325,73,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.2,2,0,16,18,88.9,4,18,2,1,1,Fulham
+Aboubakar Kamara,47.0,mr MTN,"AM,FW",25-281,17,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,5,0,0,0,Fulham
+Mario Lemina,18.0,ga GAB,CM,27-103,79,0,0,0,0,2,0,1,0,29,3,4,2,0.1,0.1,0.0,1,0,7,11,63.6,0,7,0,0,0,Fulham
+Harrison Reed,21.0,eng ENG,CM,25-321,11,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Fulham
+Andre-Frank Zambo Anguissa,29.0,cm CMR,CM,25-027,90,0,0,0,0,0,0,0,0,42,4,5,1,0.0,0.0,0.0,0,0,18,28,64.3,2,21,1,3,2,Fulham
+Antonee Robinson,33.0,us USA,WB,23-127,90,0,0,0,0,0,0,0,0,47,4,2,1,0.0,0.0,0.0,2,0,17,29,58.6,4,17,1,4,2,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,WB,27-315,90,1,0,0,0,2,1,0,0,41,3,1,1,0.1,0.1,0.0,2,0,13,26,50.0,3,23,3,1,0,Fulham
+Tosin Adarabioyo,16.0,eng ENG,CB,23-080,90,0,0,0,0,1,0,0,0,34,1,2,1,0.1,0.1,0.0,2,0,11,18,61.1,2,7,0,0,0,Fulham
+Joachim Andersen,5.0,dk DEN,CB,24-196,90,0,0,0,0,0,0,1,0,22,0,0,0,0.0,0.0,0.0,1,0,10,15,66.7,0,7,0,0,0,Fulham
+Ola Aina,34.0,ng NGA,CB,24-066,90,0,0,0,0,0,0,0,0,45,1,1,0,0.0,0.0,0.0,1,0,22,34,64.7,1,11,0,0,0,Fulham
+Alphonse Areola,1.0,fr FRA,GK,27-290,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,15,26,57.7,0,15,0,0,0,Fulham
+14 Players,,,,,990,1,1,0,0,10,5,3,0,416,17,17,7,1.5,1.5,0.7,19,2,172,267,64.4,23,183,14,21,11,Fulham
+Roberto Firmino,9.0,br BRA,FW,29-072,90,0,0,0,0,2,1,0,0,49,3,0,2,0.1,0.1,0.4,2,0,30,38,78.9,4,24,1,2,2,Liverpool
+Sadio Mané,10.0,sn SEN,LW,28-247,90,0,0,0,0,1,0,0,0,36,0,0,3,0.3,0.3,0.0,0,0,17,26,65.4,0,16,3,6,3,Liverpool
+Mohamed Salah,11.0,eg EGY,RW,28-181,83,1,0,1,1,2,1,0,0,39,1,0,0,0.9,0.1,0.0,1,0,17,24,70.8,1,20,2,2,1,Liverpool
+Divock Origi,27.0,be BEL,RW,25-239,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,0,0,0,0,Liverpool
+Georginio Wijnaldum,5.0,nl NED,"CM,LM",30-032,90,0,0,0,0,1,0,0,0,55,1,1,0,0.1,0.1,0.0,1,1,42,46,91.3,3,29,0,0,0,Liverpool
+Jordan Henderson,14.0,eng ENG,"CB,CM",30-179,90,0,0,0,0,1,1,0,0,127,2,2,0,0.3,0.3,0.0,1,0,96,115,83.5,8,78,3,0,0,Liverpool
+Curtis Jones,17.0,eng ENG,RM,19-318,90,0,0,0,0,3,2,1,0,95,2,2,0,0.2,0.2,0.3,7,0,79,84,94.0,8,65,3,4,3,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,26-277,90,0,0,0,0,0,0,0,0,111,1,0,0,0.0,0.0,0.0,1,0,86,104,82.7,5,53,3,2,1,Liverpool
+Fabinho,3.0,br BRA,CB,27-051,90,0,0,0,0,0,0,0,0,115,3,1,1,0.0,0.0,0.0,0,0,93,102,91.2,3,63,1,1,1,Liverpool
+Joël Matip,32.0,cm CMR,CB,29-127,45,0,0,0,0,0,0,0,0,59,2,0,0,0.0,0.0,0.0,0,0,49,54,90.7,4,31,1,0,0,Liverpool
+Takumi Minamino,18.0,jp JPN,LM,25-332,45,0,0,0,0,0,0,0,0,36,3,0,0,0.0,0.0,0.0,1,0,30,32,93.8,2,18,1,1,1,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,22-067,67,0,0,0,0,0,0,0,0,86,3,1,0,0.0,0.0,0.1,2,0,57,81,70.4,9,42,5,1,0,Liverpool
+Neco Williams,76.0,wls WAL,RB,19-244,23,0,0,0,0,1,0,0,0,41,0,0,1,0.0,0.0,0.0,0,0,24,36,66.7,2,19,0,3,2,Liverpool
+Alisson,1.0,br BRA,GK,28-072,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,26,27,96.3,0,9,0,0,0,Liverpool
+14 Players,,,,,990,1,0,1,1,11,5,1,0,884,21,7,7,1.8,1.0,0.8,16,1,647,771,83.9,50,467,23,22,14,Liverpool

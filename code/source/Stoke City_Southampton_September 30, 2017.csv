@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Saido Berahino,9.0,bi BDI,FW,24-057,69,0,0,0,1,0,0,0,0,16,0,0,1,0.8,0.0,0.0,3,0,8,12,66.7,1,12,1,0,0,Stoke City
+Peter Crouch,25.0,eng ENG,FW,36-243,21,1,0,0,0,1,1,0,0,11,0,0,0,0.9,0.9,0.0,0,0,3,6,50.0,1,5,0,0,0,Stoke City
+Eric Maxim Choupo-Moting,10.0,cm CMR,AM,28-191,90,0,1,0,0,5,2,0,0,42,0,2,0,0.4,0.4,0.9,4,1,16,22,72.7,2,24,2,2,0,Stoke City
+Xherdan Shaqiri,22.0,ch SUI,AM,25-355,86,0,1,0,0,1,1,0,0,41,0,0,0,0.1,0.1,0.3,8,1,24,36,66.7,4,24,4,1,0,Stoke City
+Ibrahim Afellay,14.0,nl NED,AM,31-181,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,Stoke City
+Darren Fletcher,24.0,sct SCO,CM,33-241,90,0,0,0,0,2,0,0,0,33,2,1,0,0.1,0.1,0.0,4,1,16,25,64.0,1,17,0,1,1,Stoke City
+Joe Allen,4.0,wls WAL,CM,27-200,90,0,0,0,0,2,0,1,0,54,5,3,3,0.1,0.1,0.0,0,0,26,32,81.3,5,23,0,2,1,Stoke City
+Erik Pieters,3.0,nl NED,WB,29-054,90,0,0,0,0,0,0,0,0,45,2,1,2,0.0,0.0,0.1,3,0,25,36,69.4,2,21,2,0,0,Stoke City
+Mame Biram Diouf,18.0,sn SEN,WB,29-288,89,1,0,0,0,3,1,0,0,40,5,1,2,0.2,0.2,0.0,2,0,13,22,59.1,2,14,1,0,0,Stoke City
+Glen Johnson,8.0,eng ENG,WB,33-038,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Stoke City
+Kevin Wimmer,5.0,at AUT,CB,24-319,90,0,0,0,0,0,0,0,0,26,0,0,3,0.0,0.0,0.0,2,0,14,18,77.8,2,11,0,0,0,Stoke City
+Geoff Cameron,20.0,us USA,CB,32-081,90,0,0,0,0,1,0,0,0,45,0,1,2,0.1,0.1,0.0,2,0,22,33,66.7,2,17,1,2,2,Stoke City
+Kurt Zouma,6.0,fr FRA,CB,22-338,90,0,0,0,0,1,0,0,0,38,0,3,2,0.0,0.0,0.0,0,0,11,18,61.1,0,9,0,0,0,Stoke City
+Jack Butland,1.0,eng ENG,GK,24-204,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,11,33,33.3,0,10,0,0,0,Stoke City
+14 Players,,,,,990,2,2,0,1,16,5,1,0,429,14,12,15,2.7,1.9,1.4,28,3,189,295,64.1,22,188,11,8,4,Stoke City
+Shane Long,7.0,ie IRL,FW,30-251,90,0,1,0,0,5,2,0,0,33,0,1,1,0.4,0.4,0.2,4,1,14,21,66.7,1,15,2,0,0,Southampton
+Nathan Redmond,22.0,eng ENG,"LW,RW",23-208,66,0,0,0,0,2,0,0,0,43,0,0,1,0.1,0.1,0.1,2,0,32,38,84.2,3,33,1,3,2,Southampton
+Manolo Gabbiadini,20.0,it ITA,FW,25-308,24,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,5,5,100.0,1,3,0,0,0,Southampton
+Dušan Tadić,11.0,rs SRB,"RW,AM",28-314,90,0,0,0,0,2,0,1,0,63,2,2,1,0.1,0.1,0.2,8,1,39,54,72.2,6,49,5,7,7,Southampton
+Steven Davis,8.0,nir NIR,AM,32-272,60,0,0,0,0,0,0,0,0,35,0,1,0,0.0,0.0,0.0,1,0,26,30,86.7,4,19,1,0,0,Southampton
+Sofiane Boufal,19.0,ma MAR,"AM,LW",24-013,30,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.2,4,0,19,24,79.2,3,22,0,2,1,Southampton
+Mario Lemina,18.0,ga GAB,DM,24-029,85,0,0,0,0,2,0,0,0,79,2,2,1,0.1,0.1,0.0,3,0,66,69,95.7,4,63,3,3,3,Southampton
+Charlie Austin,10.0,eng ENG,DM,28-087,5,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.1,2,0,3,3,100.0,1,4,0,0,0,Southampton
+Oriol Romeu,14.0,es ESP,DM,26-006,90,0,0,0,0,0,0,1,0,122,3,1,1,0.0,0.0,0.1,4,0,96,111,86.5,12,80,4,1,1,Southampton
+Ryan Bertrand,21.0,eng ENG,LB,28-056,90,0,0,0,0,0,0,0,0,85,1,1,4,0.0,0.0,0.0,3,0,62,74,83.8,8,54,2,1,0,Southampton
+Virgil van Dijk,17.0,nl NED,CB,26-084,90,0,0,0,0,3,0,0,0,95,2,3,5,0.1,0.1,0.0,2,0,63,75,84.0,3,55,2,1,1,Southampton
+Maya Yoshida,3.0,jp JPN,CB,29-037,90,1,0,0,0,2,1,0,0,84,0,2,1,0.3,0.3,0.0,1,0,64,75,85.3,4,63,1,0,0,Southampton
+Cédric Soares,2.0,pt POR,RB,26-030,90,0,0,0,0,3,0,0,0,93,4,1,1,0.1,0.1,0.4,5,0,64,78,82.1,5,58,4,0,0,Southampton
+Fraser Forster,44.0,eng ENG,GK,29-197,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,11,18,61.1,0,10,0,0,0,Southampton
+14 Players,,,,,990,1,1,0,0,21,3,2,0,794,14,14,16,1.4,1.4,1.3,40,2,564,675,83.6,55,528,25,18,15,Southampton

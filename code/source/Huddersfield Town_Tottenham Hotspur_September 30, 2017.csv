@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Laurent Depoitre,20.0,be BEL,FW,28-297,90,0,0,0,0,1,0,0,0,32,0,0,1,0.0,0.0,0.1,3,0,11,21,52.4,1,12,1,1,1,Huddersfield Town
+Rajiv van La Parra,17.0,nl NED,LW,26-118,90,0,0,0,0,3,0,0,0,38,0,1,1,0.1,0.1,0.0,1,0,19,27,70.4,3,29,2,4,1,Huddersfield Town
+Elias Kachunga,9.0,cd COD,RW,25-161,90,0,0,0,0,0,0,1,0,28,1,0,0,0.0,0.0,0.0,0,0,7,21,33.3,1,12,0,3,0,Huddersfield Town
+Tom Ince,22.0,eng ENG,AM,25-243,90,0,0,0,0,0,0,0,0,30,3,0,0,0.0,0.0,0.0,1,0,21,26,80.8,3,13,1,0,0,Huddersfield Town
+Aaron Mooy,10.0,au AUS,DM,27-015,60,0,0,0,0,1,0,0,0,45,4,3,1,0.1,0.1,0.0,1,0,19,32,59.4,0,20,0,1,0,Huddersfield Town
+Philip Billing,8.0,dk DEN,DM,21-111,30,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,20,23,87.0,1,17,2,1,1,Huddersfield Town
+Jonathan Hogg,6.0,eng ENG,DM,28-298,81,0,0,0,0,0,0,0,0,48,3,1,1,0.0,0.0,0.0,0,0,30,36,83.3,0,19,1,1,1,Huddersfield Town
+Dean Whitehead,4.0,eng ENG,DM,35-252,9,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,0,7,0,0,0,Huddersfield Town
+Chris Löwe,15.0,de GER,LB,28-167,59,0,0,0,0,0,0,0,0,49,4,2,1,0.0,0.0,0.0,0,0,26,40,65.0,2,21,1,0,0,Huddersfield Town
+Scott Malone,3.0,eng ENG,LB,26-189,31,0,0,0,0,0,0,0,0,27,1,0,2,0.0,0.0,0.0,0,0,11,20,55.0,1,10,2,2,1,Huddersfield Town
+Christopher Schindler,26.0,de GER,CB,27-154,90,0,0,0,0,0,0,0,0,56,4,8,3,0.0,0.0,0.0,0,0,25,32,78.1,0,16,0,0,0,Huddersfield Town
+Mathias Jørgensen,25.0,dk DEN,CB,27-160,90,0,0,0,0,0,0,0,0,49,4,3,1,0.0,0.0,0.0,2,0,28,36,77.8,2,12,0,0,0,Huddersfield Town
+Tommy Smith,2.0,eng ENG,RB,25-169,90,0,0,0,0,1,1,0,0,77,1,3,2,0.0,0.0,0.0,1,0,46,65,70.8,1,34,4,1,0,Huddersfield Town
+Jonas Lössl,1.0,dk DEN,GK,28-241,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,27,40,67.5,0,18,0,0,0,Huddersfield Town
+14 Players,,,,,990,0,0,0,0,6,1,1,0,556,25,21,13,0.2,0.2,0.1,9,0,299,429,69.7,15,240,14,14,5,Huddersfield Town
+Harry Kane,10.0,eng ENG,FW,24-064,86,2,0,0,0,5,3,0,0,32,2,0,0,0.5,0.5,0.0,3,2,13,16,81.3,1,22,3,2,1,Tottenham Hotspur
+Son Heung-min,7.0,kr KOR,FW,25-084,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,1,1,1,1,100.0,1,1,1,0,0,Tottenham Hotspur
+Dele Alli,20.0,eng ENG,AM,21-172,90,0,0,0,0,2,0,1,0,48,1,2,2,0.1,0.1,0.2,4,1,24,33,72.7,4,30,1,7,4,Tottenham Hotspur
+Christian Eriksen,23.0,dk DEN,AM,25-228,74,0,0,0,0,1,1,0,0,57,0,1,1,0.1,0.1,0.0,2,0,35,49,71.4,3,28,3,3,1,Tottenham Hotspur
+Moussa Sissoko,17.0,fr FRA,AM,28-045,16,1,0,0,0,2,2,0,0,8,0,0,0,0.3,0.3,0.0,1,0,4,6,66.7,0,4,0,2,2,Tottenham Hotspur
+Harry Winks,29.0,eng ENG,CM,21-240,90,0,0,0,0,0,0,0,0,77,0,1,2,0.0,0.0,0.0,1,0,58,66,87.9,9,47,2,3,1,Tottenham Hotspur
+Eric Dier,15.0,eng ENG,CM,23-258,90,0,0,0,0,1,0,0,0,57,2,2,1,0.0,0.0,0.0,0,0,34,45,75.6,3,21,0,1,1,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,WB,24-159,90,1,1,0,0,2,1,0,0,74,1,0,0,0.4,0.4,0.2,4,1,48,66,72.7,7,26,0,0,0,Tottenham Hotspur
+Kieran Trippier,2.0,eng ENG,WB,27-011,81,0,2,0,0,0,0,0,0,82,1,0,3,0.0,0.0,0.5,3,2,55,73,75.3,6,27,1,0,0,Tottenham Hotspur
+Kyle Walker-Peters,37.0,eng ENG,WB,20-170,9,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,0,0,Tottenham Hotspur
+Jan Vertonghen,5.0,be BEL,CB,30-159,90,0,0,0,0,1,0,0,0,69,3,1,2,0.0,0.0,0.0,1,0,47,60,78.3,2,37,1,2,1,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,21-110,90,0,0,0,0,0,0,0,0,86,2,0,1,0.0,0.0,0.0,1,0,72,76,94.7,1,46,0,0,0,Tottenham Hotspur
+Toby Alderweireld,4.0,be BEL,CB,28-212,90,0,0,0,0,0,0,0,0,91,3,0,1,0.0,0.0,0.0,2,0,63,81,77.8,7,58,2,1,1,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,30-278,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,29,33,87.9,0,12,0,0,0,Tottenham Hotspur
+14 Players,,,,,990,4,3,0,0,14,7,1,0,728,16,7,13,1.5,1.5,0.9,23,7,488,611,79.9,44,363,14,21,12,Tottenham Hotspur

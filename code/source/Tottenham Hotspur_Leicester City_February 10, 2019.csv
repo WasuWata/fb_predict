@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Fernando Llorente,18.0,es ESP,FW,33-349,79,0,1,0,0,1,0,0,0,30,1,1,1,0.1,0.1,0.0,3,1,18,22,81.8,2,12,0,0,0,Tottenham Hotspur
+Victor Wanyama,12.0,ke KEN,CM,27-230,11,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Tottenham Hotspur
+Son Heung-min,7.0,kr KOR,FW,26-217,90,1,0,0,0,4,1,1,0,34,0,0,2,0.5,0.5,0.1,3,0,20,25,80.0,5,24,3,0,0,Tottenham Hotspur
+Christian Eriksen,23.0,dk DEN,"AM,FW,CM",26-361,90,1,1,0,0,2,2,0,0,50,1,0,0,0.1,0.1,0.3,3,2,32,44,72.7,5,25,2,1,1,Tottenham Hotspur
+Oliver Skipp,52.0,eng ENG,LM,18-147,70,0,0,0,0,1,0,0,0,41,2,0,1,0.0,0.0,0.0,0,0,26,35,74.3,2,22,0,0,0,Tottenham Hotspur
+Toby Alderweireld,4.0,be BEL,CB,29-345,20,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,7,9,77.8,1,5,0,0,0,Tottenham Hotspur
+Moussa Sissoko,17.0,fr FRA,"RM,CM",29-178,90,0,1,0,0,1,0,0,0,64,1,2,3,0.0,0.0,0.4,3,1,46,52,88.5,8,39,5,5,4,Tottenham Hotspur
+Harry Winks,8.0,eng ENG,"DM,CM",23-008,90,0,0,0,0,0,0,0,0,96,2,4,1,0.0,0.0,0.0,1,0,79,86,91.9,4,72,0,3,2,Tottenham Hotspur
+Danny Rose,3.0,eng ENG,"LB,WB",28-223,87,0,0,0,0,1,1,1,0,55,3,1,0,0.1,0.1,0.1,2,0,25,43,58.1,3,29,4,2,1,Tottenham Hotspur
+Kyle Walker-Peters,16.0,eng ENG,LB,21-303,3,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Tottenham Hotspur
+Jan Vertonghen,5.0,be BEL,CB,31-292,90,0,0,0,0,0,0,1,0,64,0,2,1,0.0,0.0,0.0,0,0,51,58,87.9,6,51,0,0,0,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,22-243,90,1,0,0,0,1,1,0,0,67,0,0,0,0.2,0.2,0.0,2,0,56,62,90.3,4,51,0,0,0,Tottenham Hotspur
+Kieran Trippier,2.0,eng ENG,"RB,WB",28-144,90,0,0,0,0,1,0,0,0,66,3,1,0,0.1,0.1,0.1,4,1,44,57,77.2,8,31,0,0,0,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,32-046,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,1,0,33,47,70.2,0,31,0,0,0,Tottenham Hotspur
+14 Players,,,,,990,3,3,0,0,12,5,3,0,636,14,12,9,1.1,1.1,1.0,22,5,440,545,80.7,48,395,14,11,8,Tottenham Hotspur
+Fernando Llorente,18.0,es ESP,FW,33-349,79,0,1,0,0,1,0,0,0,30,1,1,1,0.1,0.1,0.0,3,1,18,22,81.8,2,12,0,0,0,Leicester City
+Victor Wanyama,12.0,ke KEN,CM,27-230,11,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Leicester City
+Son Heung-min,7.0,kr KOR,FW,26-217,90,1,0,0,0,4,1,1,0,34,0,0,2,0.5,0.5,0.1,3,0,20,25,80.0,5,24,3,0,0,Leicester City
+Christian Eriksen,23.0,dk DEN,"AM,FW,CM",26-361,90,1,1,0,0,2,2,0,0,50,1,0,0,0.1,0.1,0.3,3,2,32,44,72.7,5,25,2,1,1,Leicester City
+Oliver Skipp,52.0,eng ENG,LM,18-147,70,0,0,0,0,1,0,0,0,41,2,0,1,0.0,0.0,0.0,0,0,26,35,74.3,2,22,0,0,0,Leicester City
+Toby Alderweireld,4.0,be BEL,CB,29-345,20,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,7,9,77.8,1,5,0,0,0,Leicester City
+Moussa Sissoko,17.0,fr FRA,"RM,CM",29-178,90,0,1,0,0,1,0,0,0,64,1,2,3,0.0,0.0,0.4,3,1,46,52,88.5,8,39,5,5,4,Leicester City
+Harry Winks,8.0,eng ENG,"DM,CM",23-008,90,0,0,0,0,0,0,0,0,96,2,4,1,0.0,0.0,0.0,1,0,79,86,91.9,4,72,0,3,2,Leicester City
+Danny Rose,3.0,eng ENG,"LB,WB",28-223,87,0,0,0,0,1,1,1,0,55,3,1,0,0.1,0.1,0.1,2,0,25,43,58.1,3,29,4,2,1,Leicester City
+Kyle Walker-Peters,16.0,eng ENG,LB,21-303,3,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Leicester City
+Jan Vertonghen,5.0,be BEL,CB,31-292,90,0,0,0,0,0,0,1,0,64,0,2,1,0.0,0.0,0.0,0,0,51,58,87.9,6,51,0,0,0,Leicester City
+Davinson Sánchez,6.0,co COL,CB,22-243,90,1,0,0,0,1,1,0,0,67,0,0,0,0.2,0.2,0.0,2,0,56,62,90.3,4,51,0,0,0,Leicester City
+Kieran Trippier,2.0,eng ENG,"RB,WB",28-144,90,0,0,0,0,1,0,0,0,66,3,1,0,0.1,0.1,0.1,4,1,44,57,77.2,8,31,0,0,0,Leicester City
+Hugo Lloris,1.0,fr FRA,GK,32-046,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,1,0,33,47,70.2,0,31,0,0,0,Leicester City
+14 Players,,,,,990,3,3,0,0,12,5,3,0,636,14,12,9,1.1,1.1,1.0,22,5,440,545,80.7,48,395,14,11,8,Leicester City

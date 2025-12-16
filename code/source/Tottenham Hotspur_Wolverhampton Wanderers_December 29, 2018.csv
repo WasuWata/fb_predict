@@ -1,0 +1,30 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Harry Kane,10.0,eng ENG,FW,25-154,90,1,0,0,0,1,1,1,0,30,1,0,0,0.0,0.0,0.0,3,0,13,22,59.1,1,22,2,2,1,Tottenham Hotspur
+Son Heung-min,7.0,kr KOR,"FW,AM",26-174,90,0,1,0,0,4,0,0,0,46,2,0,0,0.1,0.1,0.1,5,1,27,30,90.0,6,36,7,3,1,Tottenham Hotspur
+Dele Alli,20.0,eng ENG,AM,22-262,67,0,0,0,0,1,0,0,0,49,3,0,2,0.0,0.0,0.0,5,0,31,38,81.6,2,27,2,3,2,Tottenham Hotspur
+Lucas Moura,27.0,br BRA,AM,26-138,23,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,6,8,75.0,1,10,1,3,1,Tottenham Hotspur
+Christian Eriksen,23.0,dk DEN,"LM,RM",26-318,90,0,0,0,0,2,1,1,0,106,3,0,1,0.0,0.0,0.1,4,0,82,93,88.2,5,75,0,0,0,Tottenham Hotspur
+Moussa Sissoko,17.0,fr FRA,"RM,LM",29-135,90,0,0,0,0,0,0,0,0,82,0,0,2,0.0,0.0,0.0,1,0,64,73,87.7,3,57,3,2,2,Tottenham Hotspur
+Harry Winks,8.0,eng ENG,"DM,CM",22-330,90,0,0,0,0,1,0,0,0,102,2,2,2,0.0,0.0,0.0,1,0,86,92,93.5,4,84,0,1,1,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,LB,25-249,90,0,0,0,0,0,0,1,0,92,2,1,1,0.0,0.0,0.0,0,0,67,79,84.8,6,55,4,1,0,Tottenham Hotspur
+Toby Alderweireld,4.0,be BEL,CB,29-302,90,0,0,0,0,0,0,0,0,88,1,0,1,0.0,0.0,0.0,0,0,73,77,94.8,6,68,2,0,0,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,22-200,90,0,0,0,0,0,0,0,0,88,1,1,1,0.0,0.0,0.0,0,0,82,84,97.6,3,72,0,0,0,Tottenham Hotspur
+Kieran Trippier,2.0,eng ENG,RB,28-101,90,0,0,0,0,1,1,0,0,86,3,0,1,0.1,0.1,0.0,0,0,54,76,71.1,1,46,4,2,1,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,32-003,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,24,32,75.0,0,23,0,0,0,Tottenham Hotspur
+12 Players,,,,,990,1,1,0,0,10,3,3,0,812,18,4,12,0.3,0.3,0.2,19,1,609,704,86.5,38,575,25,17,9,Tottenham Hotspur
+Raúl Jiménez,9.0,mx MEX,FW,27-238,90,1,0,0,0,3,1,1,0,46,1,0,2,0.1,0.1,0.0,2,0,28,34,82.4,0,27,4,5,4,Wolverhampton Wanderers
+Ivan Cavaleiro,7.0,pt POR,AM,25-072,84,0,1,0,0,1,0,0,0,41,1,1,1,0.0,0.0,0.2,5,1,19,29,65.5,1,24,1,2,1,Wolverhampton Wanderers
+Morgan Gibbs-White,17.0,eng ENG,AM,18-336,6,0,0,0,0,1,1,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Wolverhampton Wanderers
+Adama Traoré,37.0,es ESP,AM,22-338,58,0,0,0,0,1,0,0,0,32,1,1,0,0.1,0.1,0.0,4,0,12,19,63.2,2,22,6,5,5,Wolverhampton Wanderers
+Hélder Costa,10.0,ao ANG,AM,24-351,32,1,0,0,0,1,1,0,0,20,1,0,0,0.4,0.4,0.0,1,0,13,17,76.5,2,17,3,1,0,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,CM,21-291,90,0,0,0,0,1,0,0,0,71,2,3,1,0.0,0.0,0.1,2,1,49,63,77.8,4,29,0,1,1,Wolverhampton Wanderers
+Leander Dendoncker,32.0,be BEL,CM,23-258,67,0,0,0,0,0,0,0,0,27,2,1,0,0.0,0.0,0.0,0,0,18,23,78.3,2,14,1,0,0,Wolverhampton Wanderers
+João Moutinho,28.0,pt POR,CM,32-112,23,0,1,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.1,3,3,19,21,90.5,2,13,1,1,0,Wolverhampton Wanderers
+Jonny Castro,19.0,es ESP,WB,24-301,90,0,0,0,0,0,0,1,0,53,1,2,1,0.0,0.0,0.0,0,0,30,41,73.2,2,31,3,6,3,Wolverhampton Wanderers
+Matt Doherty,2.0,ie IRL,WB,26-347,90,0,1,0,0,1,0,0,0,72,4,1,1,0.0,0.0,0.5,3,1,42,57,73.7,4,38,9,0,0,Wolverhampton Wanderers
+Willy Boly,15.0,ci CIV,CB,27-329,90,1,0,0,0,1,1,0,0,47,3,0,0,0.1,0.1,0.0,0,0,33,39,84.6,2,26,0,1,1,Wolverhampton Wanderers
+Conor Coady,16.0,eng ENG,CB,25-307,90,0,0,0,0,0,0,0,0,58,1,2,0,0.0,0.0,0.0,0,0,45,52,86.5,2,38,0,1,1,Wolverhampton Wanderers
+Ryan Bennett,5.0,eng ENG,CB,28-298,90,0,0,0,0,1,0,0,0,51,1,1,1,0.1,0.1,0.0,2,0,37,44,84.1,3,21,1,0,0,Wolverhampton Wanderers
+Rui Patrício,11.0,pt POR,GK,30-317,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,8,20,40.0,0,12,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,990,3,3,0,0,11,4,2,0,565,18,12,7,0.9,0.9,0.9,22,6,355,461,77.0,26,314,29,23,16,Wolverhampton Wanderers

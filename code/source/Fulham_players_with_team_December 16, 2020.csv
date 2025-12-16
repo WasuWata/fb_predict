@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ivan Cavaleiro,17.0,pt POR,FW,27-059,90,0,0,0,0,2,1,0,0,39,1,0,0,0.1,0.1,0.1,4,0,20,23,87.0,2,20,2,3,0,Fulham
+Ademola Lookman,19.0,ng NGA,AM,23-057,90,0,0,0,0,3,2,0,0,50,1,2,3,0.7,0.7,0.0,3,0,23,27,85.2,4,30,0,7,4,Fulham
+Ruben Loftus-Cheek,15.0,eng ENG,AM,24-328,76,0,0,0,0,1,1,0,0,33,0,1,0,0.1,0.1,0.0,0,0,17,25,68.0,2,12,3,1,1,Fulham
+Aleksandar Mitrović,9.0,rs SRB,AM,26-091,14,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.1,1,0,6,7,85.7,1,2,0,0,0,Fulham
+Harrison Reed,21.0,eng ENG,CM,25-324,61,0,0,0,0,0,0,0,0,42,0,1,0,0.0,0.0,0.0,0,0,31,38,81.6,0,20,0,0,0,Fulham
+Mario Lemina,18.0,ga GAB,CM,27-106,29,0,0,0,0,0,0,0,0,17,2,1,1,0.0,0.0,0.0,0,0,8,12,66.7,1,8,0,0,0,Fulham
+Andre-Frank Zambo Anguissa,29.0,cm CMR,CM,25-030,90,0,0,0,0,0,0,0,0,45,3,2,2,0.0,0.0,0.0,2,0,23,35,65.7,4,19,1,1,1,Fulham
+Antonee Robinson,33.0,us USA,WB,23-130,90,0,0,0,0,0,0,1,0,73,2,2,0,0.0,0.0,0.1,2,0,34,61,55.7,1,26,1,4,4,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,WB,27-318,61,0,0,0,0,0,0,0,0,31,2,2,0,0.0,0.0,0.0,0,0,12,21,57.1,0,8,0,0,0,Fulham
+Aboubakar Kamara,47.0,mr MTN,WB,25-284,29,0,0,0,0,0,0,0,0,17,1,0,1,0.0,0.0,0.0,0,0,8,12,66.7,1,8,0,1,1,Fulham
+Tosin Adarabioyo,16.0,eng ENG,CB,23-083,90,0,0,0,0,2,0,0,0,63,3,2,0,0.1,0.1,0.0,0,0,43,53,81.1,1,31,0,1,1,Fulham
+Joachim Andersen,5.0,dk DEN,CB,24-199,90,0,0,0,0,0,0,0,0,71,1,1,2,0.0,0.0,0.0,0,0,41,54,75.9,4,31,1,2,1,Fulham
+Ola Aina,34.0,ng NGA,CB,24-069,90,0,0,0,0,0,0,0,0,75,0,3,0,0.0,0.0,0.0,1,0,50,66,75.8,8,33,1,0,0,Fulham
+Alphonse Areola,1.0,fr FRA,GK,27-293,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,14,28,50.0,0,14,0,0,0,Fulham
+14 Players,,,,,990,0,0,0,0,9,4,1,0,594,16,17,9,1.0,1.0,0.3,13,0,330,462,71.4,29,262,9,20,13,Fulham

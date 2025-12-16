@@ -1,0 +1,30 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Yoshinori Mutō,13.0,jp JPN,FW,26-097,73,0,0,0,0,1,0,0,0,22,2,0,1,0.3,0.3,0.0,2,0,11,12,91.7,0,10,0,1,0,Newcastle United
+Joselu,21.0,es ESP,FW,28-207,17,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,4,0,1,0,Newcastle United
+Ayoze Pérez,17.0,es ESP,FW,25-083,90,0,0,0,0,2,1,0,0,48,0,0,1,0.3,0.3,0.2,5,0,29,37,78.4,0,17,1,3,2,Newcastle United
+Kenedy,15.0,br BRA,LM,22-254,90,0,0,0,0,8,1,0,0,68,1,1,0,0.2,0.2,0.1,9,0,38,48,79.2,3,55,4,6,3,Newcastle United
+Mohamed Diamé,10.0,sn SEN,CM,31-128,90,0,0,0,0,2,0,0,0,65,2,0,3,0.1,0.1,0.0,5,0,40,50,80.0,6,37,1,3,2,Newcastle United
+Jonjo Shelvey,8.0,eng ENG,CM,26-235,90,0,0,0,0,6,3,0,0,110,5,0,2,0.3,0.3,0.4,12,0,74,98,75.5,16,69,5,2,2,Newcastle United
+Matt Ritchie,11.0,sct SCO,RM,29-040,90,0,0,0,0,6,1,0,0,71,4,0,0,0.4,0.4,0.1,4,0,32,58,55.2,3,38,3,1,0,Newcastle United
+Paul Dummett,3.0,wls WAL,LB,27-024,90,0,0,0,0,0,0,0,0,68,1,0,1,0.0,0.0,0.1,4,0,42,56,75.0,8,27,0,1,0,Newcastle United
+Federico Fernández,18.0,ar ARG,CB,29-241,90,0,0,0,0,1,0,0,0,70,0,2,2,0.1,0.1,0.0,1,0,55,59,93.2,6,35,1,0,0,Newcastle United
+Jamaal Lascelles,6.0,eng ENG,CB,24-343,90,0,0,0,0,0,0,0,0,74,0,0,2,0.0,0.0,0.0,0,0,54,64,84.4,5,42,1,1,1,Newcastle United
+DeAndre Yedlin,22.0,us USA,RB,25-103,90,0,0,0,0,0,0,0,0,70,1,1,1,0.0,0.0,0.1,3,0,46,60,76.7,2,33,1,1,0,Newcastle United
+Martin Dúbravka,12.0,sk SVK,GK,29-278,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,25,29,86.2,0,18,0,0,0,Newcastle United
+12 Players,,,,,990,0,0,0,0,27,6,0,0,704,16,4,13,1.8,1.8,1.0,46,0,451,578,78.0,49,385,17,20,10,Newcastle United
+Glenn Murray,17.0,eng ENG,FW,35-025,15,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,2,0,0,0,Brighton & Hove Albion
+Jürgen Locadia,9.0,cw CUW,FW,24-347,75,0,0,0,0,1,0,0,0,27,0,0,1,0.0,0.0,0.5,2,0,10,15,66.7,1,20,0,1,1,Brighton & Hove Albion
+Solly March,20.0,eng ENG,"FW,LM",24-092,90,0,0,0,0,1,0,0,0,40,1,1,1,0.0,0.0,0.0,0,0,14,24,58.3,3,18,3,2,1,Brighton & Hove Albion
+José Izquierdo,19.0,co COL,LM,26-105,79,0,1,0,0,2,0,0,0,27,1,0,1,0.1,0.1,0.0,1,1,14,18,77.8,2,19,1,5,2,Brighton & Hove Albion
+Yves Bissouma,8.0,ml MLI,FW,22-051,11,0,0,0,0,1,0,0,0,8,0,1,0,0.4,0.4,0.0,1,0,5,6,83.3,1,7,1,2,2,Brighton & Hove Albion
+Beram Kayal,7.0,il ISR,CM,30-171,90,1,0,0,0,1,1,1,0,32,1,0,3,0.2,0.2,0.0,0,0,12,20,60.0,1,9,1,2,1,Brighton & Hove Albion
+Dale Stephens,6.0,eng ENG,CM,29-130,90,0,0,0,0,0,0,0,0,44,3,0,2,0.0,0.0,0.0,0,0,22,35,62.9,6,14,0,0,0,Brighton & Hove Albion
+Alireza Jahanbakhsh,16.0,ir IRN,RM,25-070,90,0,0,0,0,1,0,1,0,37,5,1,2,0.1,0.1,0.0,3,0,14,21,66.7,2,15,1,1,1,Brighton & Hove Albion
+Gaëtan Bong,3.0,cm CMR,LB,30-178,90,0,0,0,0,0,0,0,0,50,1,0,1,0.0,0.0,0.0,0,0,24,39,61.5,1,17,1,1,0,Brighton & Hove Albion
+Lewis Dunk,5.0,eng ENG,CB,26-333,90,0,0,0,0,0,0,0,0,42,2,2,3,0.0,0.0,0.0,0,0,12,18,66.7,1,7,0,0,0,Brighton & Hove Albion
+Shane Duffy,4.0,ie IRL,CB,26-292,90,0,0,0,0,0,0,0,0,52,1,1,2,0.0,0.0,0.0,1,0,15,26,57.7,0,9,0,0,0,Brighton & Hove Albion
+Bruno,2.0,es ESP,RB,38-019,67,0,0,0,0,0,0,0,0,27,2,2,0,0.0,0.0,0.0,0,0,12,20,60.0,3,11,0,0,0,Brighton & Hove Albion
+Bernardo,30.0,br BRA,RB,23-159,23,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,3,0,0,0,Brighton & Hove Albion
+Mathew Ryan,1.0,au AUS,GK,26-195,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,12,35,34.3,0,15,0,0,0,Brighton & Hove Albion
+14 Players,,,,,990,1,1,0,0,7,1,2,0,438,18,8,16,0.9,0.9,0.5,8,1,172,286,60.1,22,166,8,14,8,Brighton & Hove Albion

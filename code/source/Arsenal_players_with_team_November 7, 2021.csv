@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Pierre-Emerick Aubameyang,14.0,ga GAB,FW,32-142,90,0,0,0,1,2,0,1,0,27,1,0,0,0.9,0.1,0.0,1,0,9,18,50.0,0,11,1,0,0,Arsenal
+Alexandre Lacazette,9.0,fr FRA,FW,30-163,68,0,0,0,0,1,1,0,0,31,1,0,0,0.2,0.2,0.1,3,0,13,22,59.1,4,18,1,3,1,Arsenal
+Martin Ødegaard,8.0,no NOR,AM,22-325,22,0,0,0,0,1,0,0,0,15,2,0,0,0.1,0.1,0.0,2,0,5,11,45.5,2,8,1,2,1,Arsenal
+Emile Smith Rowe,10.0,eng ENG,"LM,LW",21-102,85,1,0,0,0,2,1,0,0,39,1,0,2,0.2,0.2,0.0,0,0,22,29,75.9,1,24,2,2,2,Arsenal
+Mohamed Elneny,25.0,eg EGY,DM,29-119,5,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.1,2,0,6,6,100.0,1,4,0,0,0,Arsenal
+Ainsley Maitland-Niles,15.0,eng ENG,"CM,DM,LW",24-070,90,0,0,0,0,1,0,0,0,46,5,2,0,0.0,0.0,0.2,3,0,29,35,82.9,8,22,1,2,2,Arsenal
+Albert Sambi Lokonga,23.0,be BEL,"CM,DM",22-016,90,0,0,0,0,4,2,1,0,84,1,1,0,0.1,0.1,0.0,0,0,62,71,87.3,12,53,6,0,0,Arsenal
+Bukayo Saka,7.0,eng ENG,"RM,RW",20-063,89,0,0,0,0,0,0,0,0,46,2,0,1,0.0,0.0,0.2,6,0,26,36,72.2,4,28,6,5,3,Arsenal
+Gabriel Martinelli,35.0,br BRA,RW,20-142,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,3,2,1,1,Arsenal
+Nuno Tavares,20.0,pt POR,LB,21-285,90,0,0,0,0,1,0,0,0,60,1,0,1,0.0,0.0,0.0,4,0,33,45,73.3,1,35,3,5,3,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,23-323,90,0,0,0,0,1,1,1,0,86,1,0,1,0.1,0.1,0.0,0,0,73,78,93.6,4,63,1,0,0,Arsenal
+Ben White,4.0,eng ENG,CB,24-030,90,0,0,0,0,0,0,0,0,97,0,3,3,0.0,0.0,0.0,2,2,70,81,86.4,5,61,4,4,2,Arsenal
+Takehiro Tomiyasu,18.0,jp JPN,RB,23-002,90,0,0,0,0,0,0,1,0,77,6,1,1,0.0,0.0,0.1,4,0,54,65,83.1,12,39,2,0,0,Arsenal
+Aaron Ramsdale,32.0,eng ENG,GK,23-177,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,30,36,83.3,0,29,0,0,0,Arsenal
+14 Players,,,,,990,1,0,0,1,13,5,4,0,657,22,7,9,1.6,0.8,0.5,27,2,434,536,81.0,55,398,30,24,15,Arsenal

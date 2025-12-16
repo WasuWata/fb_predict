@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Callum Wilson,13.0,eng ENG,FW,27-052,90,0,0,0,0,3,2,0,0,22,1,0,1,0.7,0.7,0.1,4,0,7,9,77.8,3,19,0,1,0,Bournemouth
+Joshua King,17.0,no NOR,FW,27-095,60,0,0,0,0,1,0,0,0,20,1,0,1,0.5,0.5,0.1,1,0,11,16,68.8,3,15,2,2,2,Bournemouth
+Dominic Solanke,29.0,eng ENG,"CM,FW",21-218,30,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,10,1,0,0,Bournemouth
+Ryan Fraser,24.0,sct SCO,"LM,RW",25-055,90,0,0,0,0,7,2,0,0,47,0,0,1,0.8,0.8,0.1,6,0,19,32,59.4,2,40,3,4,2,Bournemouth
+Jefferson Lerma,8.0,co COL,"CM,DM",24-177,90,0,0,0,0,0,0,0,0,77,2,3,3,0.0,0.0,0.2,2,0,56,65,86.2,13,55,1,0,0,Bournemouth
+Dan Gosling,4.0,eng ENG,CM,29-078,90,0,0,0,0,0,0,0,0,67,4,1,2,0.0,0.0,0.1,4,0,49,58,84.5,10,40,0,1,0,Bournemouth
+David Brooks,20.0,wls WAL,"RM,LW",21-286,90,0,0,0,0,1,0,0,0,53,2,1,0,0.1,0.1,0.5,3,0,31,38,81.6,5,32,1,5,1,Bournemouth
+Nathan Aké,5.0,nl NED,"LB,CB",24-061,90,0,0,0,0,1,0,0,0,49,1,0,2,0.1,0.1,0.3,1,0,33,38,86.8,1,27,1,0,0,Bournemouth
+Steve Cook,3.0,eng ENG,"CB,RB",28-001,90,0,0,0,0,0,0,1,0,87,2,2,1,0.0,0.0,0.0,0,0,59,79,74.7,5,56,3,0,0,Bournemouth
+Chris Mepham,33.0,wls WAL,"CB,RB",21-166,75,0,0,0,0,0,0,0,0,51,3,0,0,0.0,0.0,0.0,0,0,40,46,87.0,3,28,2,0,0,Bournemouth
+Lys Mousset,9.0,fr FRA,FW,23-071,15,0,0,0,0,1,1,0,0,3,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,3,0,0,0,Bournemouth
+Junior Stanislas,19.0,eng ENG,RB,29-145,22,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,1,0,10,10,100.0,1,7,2,2,2,Bournemouth
+Jack Simpson,25.0,eng ENG,CB,22-123,68,0,0,0,0,0,0,0,0,69,3,0,1,0.0,0.0,0.0,0,0,49,59,83.1,6,48,3,0,0,Bournemouth
+Artur Boruc,1.0,pl POL,GK,39-059,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,20,22,90.9,0,12,0,0,0,Bournemouth
+14 Players,,,,,990,0,0,0,0,15,5,1,0,594,21,7,12,2.3,2.3,1.3,22,0,392,481,81.5,53,392,19,15,7,Bournemouth

@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Harry Kane,10.0,eng ENG,FW,28-175,90,1,1,0,0,10,2,0,0,54,1,0,0,1.5,1.5,0.3,10,2,24,36,66.7,6,44,8,4,4,Leicester City
+Lucas Moura,27.0,br BRA,"FW,LW",29-159,90,0,0,0,0,2,1,0,0,41,0,2,0,0.1,0.1,0.4,5,1,25,33,75.8,4,28,1,6,2,Leicester City
+Pierre Højbjerg,5.0,dk DEN,"CM,DM",26-167,90,0,0,0,0,4,0,0,0,86,1,4,4,0.3,0.3,0.0,6,1,59,68,86.8,10,60,2,2,2,Leicester City
+Harry Winks,8.0,eng ENG,CM,25-351,73,0,1,0,0,0,0,0,0,71,0,1,0,0.0,0.0,0.9,4,1,61,68,89.7,7,54,0,0,0,Leicester City
+Giovani Lo Celso,18.0,ar ARG,"RW,CM",25-285,17,0,0,0,0,0,0,0,0,12,0,1,1,0.0,0.0,0.0,1,0,8,9,88.9,1,7,0,1,1,Leicester City
+Oliver Skipp,29.0,eng ENG,"CM,DM",21-125,90,0,0,0,0,1,0,0,0,60,2,1,0,0.0,0.0,0.0,1,0,42,51,82.4,3,52,5,0,0,Leicester City
+Sergio Reguilón,3.0,es ESP,WB,25-034,78,0,0,0,0,2,1,0,0,52,4,0,1,0.2,0.2,0.2,8,0,33,40,82.5,0,26,2,7,5,Leicester City
+Steven Bergwijn,23.0,nl NED,AM,24-103,12,2,0,0,0,2,2,1,0,14,0,0,0,0.4,0.4,0.0,2,1,8,9,88.9,1,8,1,2,1,Leicester City
+Emerson,12.0,br BRA,WB,23-005,45,0,0,0,0,1,0,0,0,21,1,0,0,0.0,0.0,0.0,2,0,15,18,83.3,1,10,0,1,0,Leicester City
+Matt Doherty,2.0,ie IRL,"WB,RB",30-003,45,0,1,0,0,2,1,0,0,40,0,1,2,0.3,0.3,0.3,3,0,27,33,81.8,2,26,5,0,0,Leicester City
+Ben Davies,33.0,wls WAL,"CB,LB",28-270,90,0,0,0,0,0,0,0,0,84,4,1,1,0.0,0.0,0.1,1,0,69,76,90.8,5,62,2,0,0,Leicester City
+Davinson Sánchez,6.0,co COL,CB,25-221,90,0,0,0,0,1,0,1,0,101,3,2,2,0.1,0.1,0.2,2,0,87,89,97.8,2,79,0,0,0,Leicester City
+Japhet Tanganga,25.0,eng ENG,CB,22-294,90,0,0,0,0,2,1,0,0,91,4,1,1,0.2,0.2,0.0,0,0,68,79,86.1,6,72,3,1,1,Leicester City
+Hugo Lloris,1.0,fr FRA,GK,35-024,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,15,16,93.8,0,10,0,0,0,Leicester City
+14 Players,,,,,990,3,3,0,0,27,8,2,0,745,20,14,12,3.2,3.2,2.4,45,6,541,625,86.6,48,538,29,24,16,Leicester City
+Harry Kane,10.0,eng ENG,FW,28-175,90,1,1,0,0,10,2,0,0,54,1,0,0,1.5,1.5,0.3,10,2,24,36,66.7,6,44,8,4,4,Tottenham Hotspur
+Lucas Moura,27.0,br BRA,"FW,LW",29-159,90,0,0,0,0,2,1,0,0,41,0,2,0,0.1,0.1,0.4,5,1,25,33,75.8,4,28,1,6,2,Tottenham Hotspur
+Pierre Højbjerg,5.0,dk DEN,"CM,DM",26-167,90,0,0,0,0,4,0,0,0,86,1,4,4,0.3,0.3,0.0,6,1,59,68,86.8,10,60,2,2,2,Tottenham Hotspur
+Harry Winks,8.0,eng ENG,CM,25-351,73,0,1,0,0,0,0,0,0,71,0,1,0,0.0,0.0,0.9,4,1,61,68,89.7,7,54,0,0,0,Tottenham Hotspur
+Giovani Lo Celso,18.0,ar ARG,"RW,CM",25-285,17,0,0,0,0,0,0,0,0,12,0,1,1,0.0,0.0,0.0,1,0,8,9,88.9,1,7,0,1,1,Tottenham Hotspur
+Oliver Skipp,29.0,eng ENG,"CM,DM",21-125,90,0,0,0,0,1,0,0,0,60,2,1,0,0.0,0.0,0.0,1,0,42,51,82.4,3,52,5,0,0,Tottenham Hotspur
+Sergio Reguilón,3.0,es ESP,WB,25-034,78,0,0,0,0,2,1,0,0,52,4,0,1,0.2,0.2,0.2,8,0,33,40,82.5,0,26,2,7,5,Tottenham Hotspur
+Steven Bergwijn,23.0,nl NED,AM,24-103,12,2,0,0,0,2,2,1,0,14,0,0,0,0.4,0.4,0.0,2,1,8,9,88.9,1,8,1,2,1,Tottenham Hotspur
+Emerson,12.0,br BRA,WB,23-005,45,0,0,0,0,1,0,0,0,21,1,0,0,0.0,0.0,0.0,2,0,15,18,83.3,1,10,0,1,0,Tottenham Hotspur
+Matt Doherty,2.0,ie IRL,"WB,RB",30-003,45,0,1,0,0,2,1,0,0,40,0,1,2,0.3,0.3,0.3,3,0,27,33,81.8,2,26,5,0,0,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,"CB,LB",28-270,90,0,0,0,0,0,0,0,0,84,4,1,1,0.0,0.0,0.1,1,0,69,76,90.8,5,62,2,0,0,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,25-221,90,0,0,0,0,1,0,1,0,101,3,2,2,0.1,0.1,0.2,2,0,87,89,97.8,2,79,0,0,0,Tottenham Hotspur
+Japhet Tanganga,25.0,eng ENG,CB,22-294,90,0,0,0,0,2,1,0,0,91,4,1,1,0.2,0.2,0.0,0,0,68,79,86.1,6,72,3,1,1,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,35-024,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,15,16,93.8,0,10,0,0,0,Tottenham Hotspur
+14 Players,,,,,990,3,3,0,0,27,8,2,0,745,20,14,12,3.2,3.2,2.4,45,6,541,625,86.6,48,538,29,24,16,Tottenham Hotspur

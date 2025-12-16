@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Mohamed Salah,11.0,eg EGY,FW,26-194,90,1,1,1,1,0,0,0,0,45,0,0,1,0.8,0.0,0.5,4,2,23,36,63.9,2,31,3,0,0,Liverpool
+Sadio Mané,10.0,sn SEN,LW,26-260,90,0,0,0,0,3,0,0,0,48,2,0,0,0.3,0.3,0.4,2,0,27,33,81.8,3,30,5,2,0,Liverpool
+Xherdan Shaqiri,23.0,ch SUI,RW,27-077,90,1,0,0,0,5,2,0,0,71,1,1,1,1.1,1.1,0.0,5,2,44,60,73.3,10,39,2,1,1,Liverpool
+Roberto Firmino,9.0,br BRA,AM,27-085,68,0,0,0,0,1,1,0,0,48,1,0,3,0.1,0.1,0.0,4,0,31,38,81.6,7,32,1,2,1,Liverpool
+Daniel Sturridge,15.0,eng ENG,AM,29-116,22,0,0,0,0,1,0,0,0,15,1,0,0,0.1,0.1,0.0,1,0,10,12,83.3,1,8,0,0,0,Liverpool
+Jordan Henderson,14.0,eng ENG,DM,28-192,90,0,0,0,0,1,0,0,0,106,1,1,0,0.0,0.0,0.0,1,1,85,95,89.5,10,59,2,1,0,Liverpool
+Georginio Wijnaldum,5.0,nl NED,DM,28-045,61,0,0,0,0,0,0,0,0,39,0,0,1,0.0,0.0,0.0,2,0,35,36,97.2,2,25,0,1,1,Liverpool
+Fabinho,3.0,br BRA,DM,25-064,29,1,0,0,0,1,1,0,0,30,1,1,0,0.4,0.4,0.0,0,0,22,25,88.0,2,18,1,0,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,24-290,81,0,0,0,0,0,0,0,0,124,0,0,1,0.0,0.0,0.0,2,0,99,119,83.2,10,65,4,0,0,Liverpool
+Nathaniel Clyne,2.0,eng ENG,LB,27-265,9,0,0,0,0,1,1,0,0,15,0,1,0,0.0,0.0,0.0,0,0,9,11,81.8,0,9,0,0,0,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,27-171,90,0,0,0,0,1,1,0,0,106,0,3,0,0.1,0.1,0.0,2,0,94,100,94.0,10,60,0,0,0,Liverpool
+Dejan Lovren,6.0,hr CRO,CB,29-174,90,1,0,0,0,1,1,0,0,88,0,1,0,0.0,0.0,0.1,1,0,74,81,91.4,2,48,0,0,0,Liverpool
+Trent Alexander-Arnold,66.0,eng ENG,RB,20-080,90,0,1,0,0,0,0,0,0,109,1,1,0,0.0,0.0,0.8,5,2,83,103,80.6,13,58,4,1,1,Liverpool
+Alisson,13.0,br BRA,GK,26-085,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,29,32,90.6,0,13,0,0,0,Liverpool
+14 Players,,,,,990,4,2,1,1,15,7,0,0,878,8,9,7,3.0,2.2,1.9,29,7,665,781,85.1,72,495,22,8,4,Liverpool
+Joselu,21.0,es ESP,FW,28-274,90,0,0,0,0,2,0,0,0,41,1,0,1,0.3,0.3,0.0,1,0,21,33,63.6,3,20,1,1,1,Newcastle United
+Yoshinori Mutō,13.0,jp JPN,FW,26-164,90,0,0,0,0,1,1,0,0,25,1,2,3,0.0,0.0,0.0,1,0,4,7,57.1,1,13,0,3,2,Newcastle United
+Kenedy,15.0,br BRA,CM,22-321,72,0,0,0,0,0,0,0,0,31,2,2,0,0.0,0.0,0.0,2,0,13,18,72.2,2,17,0,6,3,Newcastle United
+Sean Longstaff,36.0,eng ENG,CM,21-057,18,0,0,0,0,1,1,0,0,8,0,1,0,0.1,0.1,0.0,1,0,4,5,80.0,0,4,0,1,1,Newcastle United
+Mohamed Diamé,10.0,sn SEN,CM,31-195,90,0,0,0,0,0,0,0,0,33,1,5,1,0.0,0.0,0.0,1,0,15,22,68.2,3,19,0,0,0,Newcastle United
+Isaac Hayden,14.0,jm JAM,CM,23-279,90,0,0,0,0,1,0,0,0,32,3,1,1,0.1,0.1,0.0,0,0,10,17,58.8,1,14,1,0,0,Newcastle United
+Matt Ritchie,11.0,sct SCO,LB,29-107,80,0,0,0,0,1,0,0,0,47,1,0,0,0.0,0.0,0.3,3,0,23,37,62.2,1,20,2,0,0,Newcastle United
+Jacob Murphy,7.0,eng ENG,LB,23-305,10,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,2,6,33.3,1,3,0,0,0,Newcastle United
+Paul Dummett,3.0,wls WAL,CB,27-091,90,0,0,0,0,0,0,0,0,29,2,1,2,0.0,0.0,0.0,0,0,12,17,70.6,2,8,0,0,0,Newcastle United
+Jamaal Lascelles,6.0,eng ENG,CB,25-045,90,0,0,0,0,0,0,0,0,35,0,1,1,0.0,0.0,0.0,0,0,12,19,63.2,0,9,0,0,0,Newcastle United
+Federico Fernández,18.0,ar ARG,CB,29-308,90,0,0,0,0,0,0,0,0,27,2,2,1,0.0,0.0,0.0,0,0,11,20,55.0,1,9,0,0,0,Newcastle United
+DeAndre Yedlin,22.0,us USA,RB,25-170,90,0,0,0,0,0,0,0,0,48,1,0,1,0.0,0.0,0.1,3,0,20,34,58.8,1,20,2,1,1,Newcastle United
+Martin Dúbravka,12.0,sk SVK,GK,29-345,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,20,35,57.1,0,19,0,0,0,Newcastle United
+13 Players,,,,,990,0,0,0,0,6,2,0,0,402,15,15,11,0.5,0.5,0.4,12,0,167,270,61.9,16,175,6,12,8,Newcastle United

@@ -1,0 +1,30 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Glenn Murray,17.0,eng ENG,FW,34-064,84,0,0,0,0,2,0,0,0,31,1,0,0,0.1,0.1,0.0,0,0,11,24,45.8,0,13,0,0,0,Brighton & Hove Albion
+Tomer Hemed,10.0,il ISR,FW,30-210,6,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Brighton & Hove Albion
+Pascal Groß,13.0,de GER,FW,26-166,81,0,0,0,0,1,1,0,0,48,0,0,0,0.1,0.1,0.3,4,0,29,41,70.7,2,26,1,0,0,Brighton & Hove Albion
+Izzy Brown,37.0,eng ENG,FW,20-325,9,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,0,5,0,0,0,Brighton & Hove Albion
+José Izquierdo,19.0,co COL,LM,25-144,70,0,0,0,0,2,1,1,0,23,3,1,0,0.1,0.1,0.0,2,0,12,17,70.6,2,12,1,0,0,Brighton & Hove Albion
+Solly March,20.0,eng ENG,LM,23-131,20,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,1,10,0,2,1,Brighton & Hove Albion
+Davy Pröpper,24.0,nl NED,CM,26-087,90,0,0,0,0,0,0,0,0,67,2,2,0,0.0,0.0,0.0,2,0,40,56,71.4,5,39,0,2,1,Brighton & Hove Albion
+Dale Stephens,6.0,eng ENG,CM,28-169,90,0,0,0,0,2,0,0,0,66,1,1,0,0.1,0.1,0.0,1,0,50,59,84.7,9,47,1,0,0,Brighton & Hove Albion
+Anthony Knockaert,11.0,fr FRA,RM,26-008,90,0,0,0,0,0,0,0,0,63,5,0,1,0.0,0.0,0.1,5,0,38,57,66.7,7,39,4,7,6,Brighton & Hove Albion
+Markus Suttner,29.0,at AUT,LB,30-226,90,0,0,0,0,0,0,0,0,62,3,0,1,0.0,0.0,0.0,1,0,44,55,80.0,2,29,1,0,0,Brighton & Hove Albion
+Lewis Dunk,5.0,eng ENG,CB,26-007,90,0,0,0,0,2,1,1,0,55,3,2,0,0.2,0.2,0.0,0,0,27,43,62.8,1,31,0,0,0,Brighton & Hove Albion
+Shane Duffy,22.0,ie IRL,CB,25-331,90,0,0,0,0,1,0,0,0,61,0,1,2,0.0,0.0,0.0,1,0,41,50,82.0,0,27,0,0,0,Brighton & Hove Albion
+Bruno,2.0,es ESP,RB,37-058,90,0,0,0,0,0,0,0,0,69,1,1,0,0.0,0.0,0.0,2,0,50,65,76.9,3,36,1,0,0,Brighton & Hove Albion
+Mathew Ryan,1.0,au AUS,GK,25-234,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,17,32,53.1,0,16,0,0,0,Brighton & Hove Albion
+14 Players,,,,,990,0,0,0,0,10,3,2,0,606,19,8,5,0.6,0.6,0.5,18,0,369,517,71.4,32,332,9,11,8,Brighton & Hove Albion
+Wilfried Zaha,11.0,ci CIV,FW,25-018,90,0,0,0,0,3,1,0,0,29,0,0,0,0.3,0.3,0.1,3,0,8,12,66.7,1,24,5,6,4,Crystal Palace
+Christian Benteke,17.0,be BEL,FW,26-360,90,0,0,0,0,1,1,0,0,35,0,0,1,0.1,0.1,0.0,2,0,9,27,33.3,0,18,0,0,0,Crystal Palace
+Andros Townsend,10.0,eng ENG,LM,26-135,90,0,0,0,0,0,0,0,0,35,0,0,6,0.0,0.0,0.1,3,0,13,25,52.0,4,22,5,3,3,Crystal Palace
+Luka Milivojević,4.0,rs SRB,CM,26-235,90,0,0,0,0,2,0,0,0,46,0,1,1,0.1,0.1,0.0,0,0,27,38,71.1,3,28,1,1,0,Crystal Palace
+Yohan Cabaye,7.0,fr FRA,CM,31-318,65,0,0,0,0,1,1,0,0,62,2,2,0,0.1,0.1,0.0,0,0,42,57,73.7,1,34,1,0,0,Crystal Palace
+James McArthur,18.0,sct SCO,CM,30-052,25,0,0,0,0,0,0,0,0,14,0,3,0,0.0,0.0,0.0,1,0,6,9,66.7,0,8,1,0,0,Crystal Palace
+Ruben Loftus-Cheek,8.0,eng ENG,RM,21-309,90,0,0,0,0,2,1,0,0,41,0,0,1,0.1,0.1,0.0,2,0,26,33,78.8,6,33,8,6,5,Crystal Palace
+Jeffrey Schlupp,15.0,gh GHA,LB,24-340,90,0,0,0,0,0,0,0,0,39,0,1,1,0.0,0.0,0.0,2,0,21,29,72.4,4,15,0,1,1,Crystal Palace
+Mamadou Sakho,12.0,fr FRA,CB,27-288,90,0,0,0,0,0,0,0,0,60,1,2,0,0.0,0.0,0.0,1,0,47,53,88.7,1,43,0,0,0,Crystal Palace
+James Tomkins,5.0,eng ENG,CB,28-244,90,0,0,0,0,1,0,0,0,73,4,1,0,0.0,0.0,0.0,0,0,53,61,86.9,3,34,0,0,0,Crystal Palace
+Joel Ward,2.0,eng ENG,RB,28-030,90,0,0,0,0,0,0,0,0,69,2,3,1,0.0,0.0,0.0,1,0,36,57,63.2,4,33,1,0,0,Crystal Palace
+Wayne Hennessey,13.0,wls WAL,GK,30-308,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,1,0,20,36,55.6,0,20,0,0,0,Crystal Palace
+12 Players,,,,,990,0,0,0,0,10,4,0,0,541,9,13,11,0.6,0.6,0.2,16,0,308,437,70.5,27,312,22,17,13,Crystal Palace

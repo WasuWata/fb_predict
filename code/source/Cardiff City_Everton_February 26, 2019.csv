@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Kenneth Zohore,10.0,dk DEN,FW,25-026,80,0,0,0,0,2,0,0,0,19,1,0,0,0.2,0.2,0.0,0,0,5,13,38.5,0,11,1,2,2,Cardiff City
+Danny Ward,9.0,eng ENG,FW,27-077,10,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,2,5,40.0,1,1,1,0,0,Cardiff City
+Bobby De Cordova-Reid,14.0,jm JAM,FW,26-024,90,0,0,0,0,0,0,0,0,32,3,0,1,0.0,0.0,0.0,0,0,14,22,63.6,0,16,0,0,0,Cardiff City
+Junior Hoilett,33.0,ca CAN,LM,28-266,67,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,0,0,13,18,72.2,0,13,1,0,0,Cardiff City
+Josh Murphy,11.0,eng ENG,LM,24-002,23,0,0,0,0,0,0,1,0,13,0,0,0,0.0,0.0,0.0,1,0,5,8,62.5,1,9,1,1,0,Cardiff City
+Aron Gunnarsson,17.0,is ISL,CM,29-310,90,0,0,0,0,2,0,0,0,56,4,1,2,0.0,0.0,0.1,2,0,23,39,59.0,2,15,0,2,2,Cardiff City
+Leandro Bacuna,15.0,cw CUW,CM,27-189,90,0,0,0,0,0,0,1,0,40,3,1,0,0.0,0.0,0.0,1,0,20,34,58.8,2,9,2,2,2,Cardiff City
+Nathaniel Mendez-Laing,19.0,gt GUA,RM,26-317,68,0,0,0,0,1,0,0,0,25,3,0,2,0.1,0.1,0.0,1,0,11,16,68.8,2,10,1,1,0,Cardiff City
+Callum Paterson,13.0,sct SCO,RM,24-136,22,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,1,0,5,7,71.4,0,0,0,0,0,Cardiff City
+Joe Bennett,3.0,eng ENG,LB,28-335,90,0,0,0,0,0,0,0,0,42,0,2,1,0.0,0.0,0.1,2,0,21,37,56.8,5,12,1,0,0,Cardiff City
+Sol Bamba,22.0,ci CIV,CB,34-044,90,0,0,0,0,0,0,0,0,32,4,4,2,0.0,0.0,0.0,1,0,11,18,61.1,1,10,1,1,1,Cardiff City
+Sean Morrison,4.0,eng ENG,CB,28-049,90,0,0,0,0,0,0,1,0,46,2,3,2,0.0,0.0,0.1,1,0,13,32,40.6,1,13,0,0,0,Cardiff City
+Bruno Ecuele Manga,5.0,ga GAB,RB,30-225,90,0,0,0,0,0,0,0,0,46,1,2,4,0.0,0.0,0.0,0,0,15,32,46.9,1,16,0,0,0,Cardiff City
+Neil Etheridge,1.0,ph PHI,GK,29-019,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,6,20,30.0,0,8,0,0,0,Cardiff City
+14 Players,,,,,990,0,0,0,0,6,0,3,0,409,23,13,15,0.3,0.3,0.3,10,0,164,301,54.5,16,143,9,9,7,Cardiff City
+Dominic Calvert-Lewin,29.0,eng ENG,FW,21-347,90,1,0,0,0,2,1,0,0,38,1,1,0,0.1,0.1,0.0,0,0,20,24,83.3,3,30,1,2,1,Everton
+Richarlison,30.0,br BRA,LW,21-292,60,0,0,0,0,1,0,0,0,33,1,0,1,0.0,0.0,0.0,0,0,14,22,63.6,2,23,1,1,0,Everton
+Bernard,20.0,br BRA,LW,26-171,30,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,1,13,17,76.5,1,14,3,1,1,Everton
+Theo Walcott,11.0,eng ENG,RW,29-347,81,0,0,0,0,4,0,0,0,55,1,0,1,0.2,0.2,0.1,3,0,29,39,74.4,3,38,0,3,0,Everton
+Ademola Lookman,31.0,ng NGA,RW,21-129,9,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,0,0,8,8,100.0,0,5,0,0,0,Everton
+Gylfi Sigurðsson,10.0,is ISL,AM,29-171,87,2,0,0,0,2,2,0,0,52,1,0,0,0.4,0.4,0.0,3,0,28,41,68.3,4,30,4,5,2,Everton
+André Gomes,8.0,pt POR,AM,25-211,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,1,0,Everton
+Idrissa Gana Gueye,17.0,sn SEN,DM,29-153,90,0,1,0,0,1,0,0,0,79,3,0,1,0.0,0.0,0.2,6,3,57,66,86.4,8,53,3,2,2,Everton
+Morgan Schneiderlin,18.0,fr FRA,DM,29-110,90,0,0,0,0,0,0,0,0,75,1,1,2,0.0,0.0,0.0,2,1,57,66,86.4,6,42,1,0,0,Everton
+Lucas Digne,12.0,fr FRA,LB,25-221,90,0,0,0,0,0,0,1,0,90,2,1,0,0.0,0.0,0.0,1,0,48,80,60.0,3,30,1,1,1,Everton
+Phil Jagielka,6.0,eng ENG,CB,36-193,90,0,0,0,0,0,0,0,0,64,0,2,0,0.0,0.0,0.1,0,0,41,56,73.2,0,36,0,0,0,Everton
+Michael Keane,4.0,eng ENG,CB,26-046,90,0,0,0,0,0,0,0,0,71,0,1,0,0.0,0.0,0.0,0,0,52,60,86.7,7,42,1,0,0,Everton
+Séamus Coleman,23.0,ie IRL,RB,30-138,90,0,1,0,0,1,1,0,0,79,0,0,0,0.1,0.1,0.4,3,1,59,73,80.8,7,49,1,2,1,Everton
+Jordan Pickford,1.0,eng ENG,GK,24-356,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,24,35,68.6,0,25,0,0,0,Everton
+14 Players,,,,,990,3,2,0,0,12,4,1,0,703,10,6,5,1.0,1.0,0.9,19,6,453,590,76.8,44,421,16,18,8,Everton

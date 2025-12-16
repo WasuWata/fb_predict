@@ -1,0 +1,30 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Roberto Firmino,9.0,br BRA,FW,27-005,71,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,1,0,13,17,76.5,2,8,0,0,0,Liverpool
+Daniel Sturridge,15.0,eng ENG,FW,29-036,19,0,0,0,0,1,1,0,0,11,1,0,1,0.1,0.1,0.0,0,0,6,7,85.7,1,9,0,1,0,Liverpool
+Sadio Mané,10.0,sn SEN,LW,26-180,90,0,0,0,0,0,0,0,0,40,1,2,0,0.0,0.0,0.0,0,0,25,32,78.1,2,26,2,2,1,Liverpool
+Mohamed Salah,11.0,eg EGY,RW,26-114,90,0,0,0,0,3,1,0,0,26,0,0,0,0.1,0.1,0.0,1,0,11,17,64.7,3,21,2,1,0,Liverpool
+James Milner,7.0,eng ENG,LM,32-276,28,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.1,1,0,13,23,56.5,3,14,0,0,0,Liverpool
+Naby Keïta,8.0,gn GUI,LM,23-239,62,0,0,0,0,0,0,0,0,30,1,1,0,0.0,0.0,0.0,0,0,19,26,73.1,2,15,2,0,0,Liverpool
+Jordan Henderson,14.0,eng ENG,CM,28-112,90,0,0,0,0,0,0,0,0,75,3,1,0,0.0,0.0,0.0,2,0,50,65,76.9,5,37,2,0,0,Liverpool
+Georginio Wijnaldum,5.0,nl NED,RM,27-330,90,0,0,0,0,0,0,1,0,55,0,0,1,0.0,0.0,0.0,0,0,39,46,84.8,4,33,0,0,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,24-210,90,0,0,0,0,0,0,0,0,66,3,0,1,0.0,0.0,0.0,2,0,48,57,84.2,4,42,2,4,3,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,27-091,90,0,0,0,0,0,0,0,0,87,1,3,3,0.0,0.0,0.0,0,0,70,75,93.3,1,49,0,0,0,Liverpool
+Dejan Lovren,6.0,hr CRO,CB,29-094,90,0,0,0,0,1,0,0,0,89,5,0,0,0.1,0.1,0.0,1,0,68,78,87.2,2,55,0,0,0,Liverpool
+Joe Gomez,12.0,eng ENG,RB,21-137,90,0,0,0,0,2,0,0,0,80,2,1,1,0.1,0.1,0.2,3,0,52,70,74.3,5,36,2,1,0,Liverpool
+Alisson,13.0,br BRA,GK,26-005,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,1,0,34,42,81.0,0,21,0,0,0,Liverpool
+13 Players,,,,,990,0,0,0,0,7,2,1,0,648,17,9,8,0.4,0.4,0.3,12,0,448,555,80.7,34,366,12,9,4,Liverpool
+Sergio Agüero,10.0,ar ARG,FW,30-127,65,0,0,0,0,0,0,1,0,14,0,0,0,0.0,0.0,0.0,1,0,7,12,58.3,1,13,2,1,0,Manchester City
+Gabriel Jesus,33.0,br BRA,FW,21-187,25,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,9,1,3,2,Manchester City
+Raheem Sterling,7.0,eng ENG,LW,23-303,75,0,0,0,0,0,0,0,0,34,1,2,3,0.0,0.0,0.1,2,0,24,28,85.7,1,25,2,1,0,Manchester City
+Leroy Sané,19.0,de GER,LW,22-269,15,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,0,7,0,0,0,Manchester City
+Riyad Mahrez,26.0,dz ALG,RW,27-228,90,0,0,0,1,3,2,0,0,62,1,2,0,0.9,0.2,0.0,0,0,31,49,63.3,0,45,6,3,2,Manchester City
+David Silva,21.0,es ESP,AM,32-272,90,0,0,0,0,1,0,0,0,58,1,0,2,0.1,0.1,0.1,3,0,37,50,74.0,9,38,7,1,0,Manchester City
+Fernandinho,25.0,br BRA,DM,33-156,90,0,0,0,0,1,0,0,0,67,3,3,1,0.0,0.0,0.0,0,0,42,52,80.8,6,40,5,2,2,Manchester City
+Bernardo Silva,20.0,pt POR,DM,24-058,90,0,0,0,0,0,0,1,0,71,4,0,1,0.0,0.0,0.1,2,0,51,60,85.0,4,50,4,1,0,Manchester City
+Benjamin Mendy,22.0,fr FRA,LB,24-082,90,0,0,0,0,0,0,1,0,82,2,2,2,0.0,0.0,0.0,1,0,50,72,69.4,8,48,6,0,0,Manchester City
+Aymeric Laporte,14.0,es ESP,CB,24-133,90,0,0,0,0,0,0,0,0,71,1,3,0,0.0,0.0,0.0,0,0,52,62,83.9,2,45,0,0,0,Manchester City
+John Stones,5.0,eng ENG,CB,24-132,90,0,0,0,0,0,0,0,0,91,1,1,1,0.0,0.0,0.0,0,0,78,80,97.5,2,68,0,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,28-132,90,0,0,0,0,0,0,0,0,60,2,0,1,0.0,0.0,0.0,0,0,46,53,86.8,3,39,2,1,1,Manchester City
+Ederson,31.0,br BRA,GK,25-051,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,33,40,82.5,0,25,0,0,0,Manchester City
+13 Players,,,,,990,0,0,0,1,5,2,3,0,672,16,13,12,1.0,0.3,0.2,10,0,460,570,80.7,36,452,35,13,7,Manchester City

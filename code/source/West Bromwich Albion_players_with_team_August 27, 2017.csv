@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Salomón Rondón,9.0,ve VEN,FW,27-345,90,0,0,0,0,3,0,1,0,26,0,0,0,0.2,0.2,0.0,1,0,8,17,47.1,1,18,1,0,0,West Bromwich Albion
+Jay Rodriguez,19.0,eng ENG,LW,28-029,87,1,0,0,0,2,1,1,0,29,2,0,1,0.3,0.3,0.0,1,0,12,18,66.7,0,18,0,2,0,West Bromwich Albion
+Oliver Burke,17.0,sct SCO,LW,20-142,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,4,0,1,0,West Bromwich Albion
+Matt Phillips,10.0,sct SCO,RW,26-167,73,0,0,0,0,0,0,0,0,24,3,0,1,0.0,0.0,0.1,1,0,9,18,50.0,0,12,0,1,1,West Bromwich Albion
+James McClean,14.0,ie IRL,RW,28-127,17,0,0,0,0,2,0,0,0,8,0,0,0,0.1,0.1,0.1,3,0,4,5,80.0,0,6,1,0,0,West Bromwich Albion
+James Morrison,7.0,sct SCO,AM,31-094,69,0,0,0,0,1,0,0,0,28,1,0,0,0.1,0.1,0.0,1,0,19,23,82.6,2,17,0,1,1,West Bromwich Albion
+Claudio Yacob,5.0,ar ARG,AM,30-040,21,0,0,0,0,1,0,0,0,16,0,0,3,0.0,0.0,0.0,0,0,10,12,83.3,1,6,0,0,0,West Bromwich Albion
+Gareth Barry,18.0,eng ENG,DM,36-185,90,0,0,0,0,0,0,0,0,60,4,0,0,0.0,0.0,0.0,0,0,43,54,79.6,11,36,4,0,0,West Bromwich Albion
+Jake Livermore,8.0,eng ENG,DM,27-286,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,27,33,81.8,1,22,2,0,0,West Bromwich Albion
+Chris Brunt,11.0,nir NIR,LB,32-256,90,0,0,0,0,0,0,0,0,73,2,0,0,0.0,0.0,0.2,5,0,48,65,73.8,8,35,3,0,0,West Bromwich Albion
+Ahmed Hegazi,26.0,eg EGY,CB,26-214,90,0,0,0,0,1,1,0,0,42,1,0,1,0.1,0.1,0.0,1,0,26,32,81.3,2,21,0,0,0,West Bromwich Albion
+Craig Dawson,25.0,eng ENG,CB,27-113,90,0,0,0,0,0,0,0,0,38,0,1,1,0.0,0.0,0.0,1,1,21,32,65.6,1,22,0,1,1,West Bromwich Albion
+Allan Nyom,2.0,cm CMR,RB,29-109,90,0,1,0,0,0,0,0,0,50,4,2,2,0.0,0.0,0.3,3,1,27,37,73.0,1,23,2,2,1,West Bromwich Albion
+Ben Foster,1.0,eng ENG,GK,34-146,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,11,24,45.8,0,9,0,0,0,West Bromwich Albion
+14 Players,,,,,990,1,1,0,0,10,2,2,0,461,17,3,9,0.8,0.8,0.8,18,2,267,372,71.8,28,249,13,8,4,West Bromwich Albion

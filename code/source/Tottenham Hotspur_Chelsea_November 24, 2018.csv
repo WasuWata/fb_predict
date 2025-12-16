@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Son Heung-min,7.0,kr KOR,FW,26-139,77,1,0,0,0,6,3,0,0,35,0,0,0,1.4,1.4,0.0,6,1,20,25,80.0,5,26,6,3,2,Tottenham Hotspur
+Érik Lamela,11.0,ar ARG,FW,26-265,13,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,8,8,100.0,0,5,0,1,1,Tottenham Hotspur
+Harry Kane,10.0,eng ENG,FW,25-119,90,1,0,0,0,5,3,0,0,43,0,1,2,0.7,0.7,0.1,5,1,14,23,60.9,4,26,3,5,4,Tottenham Hotspur
+Dele Alli,20.0,eng ENG,AM,22-227,86,1,1,0,0,3,2,0,0,42,2,1,0,0.4,0.4,0.9,5,1,19,25,76.0,4,17,3,3,2,Tottenham Hotspur
+Harry Winks,8.0,eng ENG,AM,22-295,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0,Tottenham Hotspur
+Christian Eriksen,23.0,dk DEN,LM,26-283,90,0,2,0,0,0,0,0,0,52,0,2,2,0.0,0.0,1.0,7,2,37,44,84.1,7,16,1,1,1,Tottenham Hotspur
+Moussa Sissoko,17.0,fr FRA,RM,29-100,90,0,0,0,0,0,0,0,0,45,4,1,0,0.0,0.0,0.4,1,0,28,34,82.4,2,19,2,1,1,Tottenham Hotspur
+Eric Dier,15.0,eng ENG,DM,24-313,90,0,0,0,0,1,0,0,0,59,2,2,3,0.1,0.1,0.1,3,1,32,45,71.1,1,15,0,0,0,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,LB,25-214,90,0,0,0,0,1,0,0,0,53,0,0,2,0.0,0.0,0.0,3,0,29,46,63.0,3,15,0,1,0,Tottenham Hotspur
+Toby Alderweireld,4.0,be BEL,CB,29-267,90,0,0,0,0,1,1,0,0,34,0,0,0,0.2,0.2,0.0,1,0,21,27,77.8,1,14,0,0,0,Tottenham Hotspur
+Juan Foyth,21.0,ar ARG,CB,20-316,90,0,0,0,0,1,0,0,0,42,3,0,2,0.3,0.3,0.0,0,0,21,26,80.8,0,13,0,0,0,Tottenham Hotspur
+Serge Aurier,24.0,ci CIV,RB,25-335,90,0,0,0,0,0,0,0,0,70,1,2,4,0.0,0.0,0.2,2,0,45,56,80.4,7,21,0,2,1,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,31-333,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,23,36,63.9,0,11,0,0,0,Tottenham Hotspur
+13 Players,,,,,990,3,3,0,0,18,9,0,0,527,12,10,15,3.2,3.2,2.8,33,6,300,399,75.2,34,199,15,17,12,Tottenham Hotspur
+Álvaro Morata,29.0,es ESP,FW,26-032,57,0,0,0,0,2,0,0,0,20,0,0,0,0.1,0.1,0.0,2,0,11,13,84.6,0,13,1,0,0,Chelsea
+Pedro,11.0,es ESP,RW,31-119,33,0,0,0,0,2,0,0,0,17,0,1,0,0.1,0.1,0.0,1,0,12,14,85.7,2,16,0,1,1,Chelsea
+Eden Hazard,10.0,be BEL,"LW,FW",27-321,90,0,0,0,0,2,1,1,0,59,0,3,1,0.1,0.1,0.1,7,1,31,43,72.1,4,40,4,5,4,Chelsea
+Willian,22.0,br BRA,"RW,LW",30-107,75,0,0,0,0,3,0,0,0,65,3,0,1,0.2,0.2,0.1,4,0,38,53,71.7,9,46,5,4,4,Chelsea
+Olivier Giroud,18.0,fr FRA,FW,32-055,15,1,0,0,0,1,1,0,0,7,0,0,0,0.3,0.3,0.0,0,0,1,4,25.0,0,3,0,0,0,Chelsea
+Mateo Kovačić,17.0,hr CRO,LM,24-202,57,0,0,0,0,1,0,0,0,55,1,1,0,0.1,0.1,0.0,1,0,42,47,89.4,4,42,1,3,2,Chelsea
+Ross Barkley,8.0,eng ENG,LM,24-354,33,0,0,0,0,1,0,0,0,19,0,0,0,0.1,0.1,0.1,3,0,10,15,66.7,2,10,1,1,1,Chelsea
+Jorginho,5.0,it ITA,CM,26-339,90,0,0,0,0,0,0,1,0,56,0,2,1,0.0,0.0,0.0,0,0,43,51,84.3,6,31,0,1,0,Chelsea
+N'Golo Kanté,7.0,fr FRA,RM,27-240,90,0,0,0,0,0,0,0,0,60,2,7,3,0.0,0.0,0.1,1,0,40,50,80.0,4,30,1,1,0,Chelsea
+Marcos Alonso,3.0,es ESP,LB,27-331,90,0,0,0,0,1,0,0,0,88,4,1,1,0.0,0.0,0.0,1,0,69,79,87.3,8,56,3,2,1,Chelsea
+David Luiz,30.0,br BRA,CB,31-216,90,0,0,0,0,0,0,0,0,76,2,3,1,0.0,0.0,0.0,1,0,56,67,83.6,5,43,2,1,1,Chelsea
+Antonio Rüdiger,2.0,de GER,CB,25-266,90,0,0,0,0,0,0,1,0,69,1,1,2,0.0,0.0,0.0,0,0,55,63,87.3,3,35,0,0,0,Chelsea
+César Azpilicueta,28.0,es ESP,RB,29-088,90,0,1,0,0,0,0,0,0,79,2,3,2,0.0,0.0,0.4,4,1,60,69,87.0,3,37,2,1,1,Chelsea
+Kepa Arrizabalaga,1.0,es ESP,GK,24-052,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,28,32,87.5,0,17,0,0,0,Chelsea
+14 Players,,,,,990,1,1,0,0,13,2,3,0,705,15,22,12,1.0,1.0,0.9,25,2,496,600,82.7,50,419,20,20,15,Chelsea

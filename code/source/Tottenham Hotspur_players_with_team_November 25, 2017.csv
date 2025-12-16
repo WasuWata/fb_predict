@@ -1,0 +1,16 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Son Heung-min,7.0,kr KOR,"FW,RM,LW",25-140,90,0,0,0,0,4,1,0,0,80,0,0,0,0.1,0.1,0.1,5,0,54,67,80.6,2,53,11,7,6,Tottenham Hotspur
+Harry Kane,10.0,eng ENG,FW,24-120,90,1,0,0,0,8,3,0,0,34,1,0,0,1.2,1.2,0.0,6,0,17,21,81.0,4,26,2,7,5,Tottenham Hotspur
+Dele Alli,20.0,eng ENG,"CM,LM,AM",21-228,90,0,1,0,0,4,0,0,0,56,1,0,0,0.2,0.2,0.4,5,0,41,47,87.2,7,36,5,2,1,Tottenham Hotspur
+Harry Winks,29.0,eng ENG,"CM,DM",21-296,60,0,0,0,0,1,0,0,0,70,0,0,0,0.0,0.0,0.0,2,0,62,69,89.9,15,39,1,0,0,Tottenham Hotspur
+Mousa Dembélé,19.0,be BEL,"CM,DM",30-132,30,0,0,0,0,0,0,0,0,26,1,1,0,0.0,0.0,0.0,0,0,22,24,91.7,8,14,2,1,1,Tottenham Hotspur
+Christian Eriksen,23.0,dk DEN,"CM,RW",25-284,90,0,0,0,0,4,0,0,0,82,0,0,1,0.2,0.2,0.1,6,0,56,70,80.0,7,46,3,1,1,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,"LB,WB",24-215,90,0,0,0,0,1,0,0,0,101,3,1,1,0.0,0.0,0.1,6,0,64,88,72.7,14,41,3,2,1,Tottenham Hotspur
+Kieran Trippier,2.0,eng ENG,"RB,WB",27-067,90,0,0,0,0,1,0,0,0,106,6,0,0,0.0,0.0,0.9,10,1,80,101,79.2,13,48,6,0,0,Tottenham Hotspur
+Jan Vertonghen,5.0,be BEL,CB,30-215,59,0,0,0,0,0,0,0,0,77,1,1,0,0.0,0.0,0.0,2,0,66,72,91.7,11,44,1,1,1,Tottenham Hotspur
+Fernando Llorente,18.0,es ESP,"FW,CB",32-272,31,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,8,12,66.7,1,7,1,1,0,Tottenham Hotspur
+Davinson Sánchez,6.0,co COL,CB,21-166,90,0,0,0,0,0,0,0,0,80,2,1,0,0.0,0.0,0.0,0,0,66,72,91.7,7,38,1,1,1,Tottenham Hotspur
+Eric Dier,15.0,eng ENG,"CB,DM",23-314,90,0,0,0,0,2,1,1,0,94,0,1,1,0.1,0.1,0.0,1,0,76,90,84.4,10,49,1,0,0,Tottenham Hotspur
+Hugo Lloris,1.0,fr FRA,GK,30-334,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,0,10,0,0,0,Tottenham Hotspur
+13 Players,,,,,990,1,1,0,0,25,5,1,0,844,15,5,3,1.8,1.8,1.6,44,1,634,756,83.9,99,451,37,23,17,Tottenham Hotspur

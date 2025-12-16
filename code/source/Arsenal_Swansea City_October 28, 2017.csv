@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Alexandre Lacazette,9.0,fr FRA,FW,26-153,80,0,0,0,0,1,1,0,0,28,1,0,1,0.1,0.1,0.1,3,0,18,24,75.0,2,18,0,1,0,Arsenal
+Olivier Giroud,12.0,fr FRA,FW,31-028,10,0,0,0,0,2,0,0,0,9,1,0,0,0.4,0.4,0.0,0,0,4,7,57.1,0,5,0,0,0,Arsenal
+Alexis Sánchez,7.0,cl CHI,AM,28-313,90,0,0,0,0,3,1,0,0,72,2,1,0,0.1,0.1,0.3,6,0,39,60,65.0,6,61,4,2,0,Arsenal
+Mesut Özil,11.0,de GER,AM,29-013,90,0,1,0,0,1,0,0,0,86,2,0,0,0.1,0.1,0.2,8,1,66,80,82.5,11,65,4,2,2,Arsenal
+Granit Xhaka,29.0,ch SUI,CM,25-031,90,0,0,0,0,0,0,0,0,113,0,1,1,0.0,0.0,0.0,2,1,94,108,87.0,24,82,2,1,1,Arsenal
+Aaron Ramsey,8.0,wls WAL,CM,26-306,90,1,0,0,0,3,1,0,0,77,3,1,0,0.6,0.6,0.4,3,0,55,65,84.6,6,54,1,0,0,Arsenal
+Sead Kolašinac,31.0,ba BIH,WB,24-130,77,1,1,0,0,2,1,0,0,99,2,0,0,0.1,0.1,0.5,5,1,85,95,89.5,8,71,3,1,0,Arsenal
+Rob Holding,16.0,eng ENG,CB,22-038,13,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Arsenal
+Héctor Bellerín,24.0,es ESP,WB,22-223,90,0,0,0,0,2,0,0,0,97,1,0,0,0.4,0.4,0.1,3,0,73,88,83.0,5,64,3,0,0,Arsenal
+Nacho Monreal,18.0,es ESP,"CB,WB",31-244,90,0,0,0,0,1,0,0,0,124,0,1,0,0.0,0.0,0.4,3,0,108,120,90.0,10,91,3,0,0,Arsenal
+Per Mertesacker,4.0,de GER,CB,33-029,90,0,0,0,0,1,1,0,0,91,1,1,0,0.1,0.1,0.0,0,0,79,83,95.2,3,63,0,0,0,Arsenal
+Laurent Koscielny,6.0,fr FRA,CB,32-048,90,0,0,0,0,1,0,0,0,112,2,2,1,0.1,0.1,0.0,0,0,92,100,92.0,10,86,4,0,0,Arsenal
+Petr Čech,33.0,cz CZE,GK,35-161,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,19,22,86.4,0,9,0,0,0,Arsenal
+13 Players,,,,,990,2,2,0,0,17,5,0,0,937,16,7,3,2.0,2.0,2.0,33,3,735,856,85.9,85,672,24,7,3,Arsenal
+Tammy Abraham,10.0,eng ENG,FW,20-026,90,0,1,0,0,1,0,0,0,24,0,0,0,0.1,0.1,0.4,1,1,10,15,66.7,1,11,0,0,0,Swansea City
+Jordan Ayew,18.0,gh GHA,FW,26-047,80,0,0,0,0,1,1,0,0,26,1,0,0,0.4,0.4,0.0,2,0,13,18,72.2,1,17,2,1,1,Swansea City
+Luciano Narsingh,11.0,nl NED,"RW,FW",27-045,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,4,0,0,0,Swansea City
+Tom Carroll,14.0,eng ENG,CM,25-153,83,0,0,0,0,0,0,0,0,32,0,3,0,0.0,0.0,0.1,3,0,22,27,81.5,3,12,2,1,1,Swansea City
+Oliver McBurnie,62.0,sct SCO,LM,21-146,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,0,0,0,0,Swansea City
+Leroy Fer,8.0,nl NED,"CM,LW",27-296,90,0,0,0,0,0,0,0,0,42,3,3,2,0.0,0.0,0.0,2,1,25,30,83.3,1,14,0,0,0,Swansea City
+Ki Sung-yueng,4.0,kr KOR,CM,28-277,90,0,0,0,0,0,0,0,0,42,3,1,0,0.0,0.0,0.0,0,0,34,35,97.1,0,17,0,1,1,Swansea City
+Sam Clucas,17.0,eng ENG,"WB,LB",27-033,90,1,0,0,0,3,1,0,0,40,1,1,0,0.5,0.5,0.0,1,0,19,32,59.4,0,17,4,0,0,Swansea City
+Kyle Naughton,26.0,eng ENG,"WB,RB",28-345,90,0,0,0,0,0,0,0,0,53,1,2,1,0.0,0.0,0.0,0,0,26,40,65.0,2,8,1,3,1,Swansea City
+Alfie Mawson,6.0,eng ENG,CB,23-282,90,0,0,0,0,0,0,0,0,49,1,3,2,0.0,0.0,0.0,0,0,22,30,73.3,2,18,0,0,0,Swansea City
+Federico Fernández,33.0,ar ARG,CB,28-249,90,0,0,0,0,0,0,0,0,39,0,3,2,0.0,0.0,0.0,0,0,20,26,76.9,2,11,0,0,0,Swansea City
+Mike van der Hoorn,5.0,nl NED,CB,25-013,81,0,0,0,0,0,0,0,0,30,4,2,1,0.0,0.0,0.0,0,0,11,19,57.9,0,5,1,0,0,Swansea City
+Nathan Dyer,12.0,eng ENG,"RM,CB",29-333,9,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,5,1,0,0,Swansea City
+Łukasz Fabiański,1.0,pl POL,GK,32-193,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,20,42,47.6,0,13,0,0,0,Swansea City
+14 Players,,,,,990,1,1,0,0,5,2,0,0,435,14,18,8,0.9,0.9,0.5,9,2,232,327,70.9,13,152,11,6,4,Swansea City

@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Andre Gray,18.0,jm JAM,FW,26-082,73,0,0,0,0,0,0,0,0,17,0,1,2,0.0,0.0,0.0,0,0,8,11,72.7,0,11,0,0,0,Watford
+Troy Deeney,9.0,eng ENG,FW,29-079,17,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,5,0,1,0,Watford
+Richarlison,11.0,br BRA,LW,20-129,90,0,0,0,0,2,0,0,0,40,1,0,2,0.2,0.2,0.2,3,0,17,25,68.0,2,26,0,6,3,Watford
+André Carrillo,28.0,pe PER,RW,26-094,90,0,0,0,0,1,0,0,0,44,0,6,0,0.0,0.0,0.0,2,0,22,33,66.7,4,30,3,7,4,Watford
+Tom Cleverley,8.0,eng ENG,AM,28-035,63,0,0,0,0,0,0,0,0,28,0,1,0,0.0,0.0,0.0,1,0,20,26,76.9,4,14,0,0,0,Watford
+Roberto Pereyra,37.0,ar ARG,AM,26-252,27,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,1,0,12,13,92.3,0,8,0,0,0,Watford
+Nathaniel Chalobah,14.0,eng ENG,DM,22-278,69,0,0,0,0,2,1,0,0,32,0,2,1,0.1,0.1,0.0,0,0,18,23,78.3,1,19,1,4,2,Watford
+Étienne Capoue,29.0,fr FRA,DM,29-067,21,0,0,0,0,1,0,0,0,16,1,0,0,0.2,0.2,0.0,0,0,10,13,76.9,1,13,0,0,0,Watford
+Abdoulaye Doucouré,16.0,ml MLI,DM,24-258,90,0,0,0,0,1,0,1,0,48,1,0,0,0.0,0.0,0.0,0,0,35,40,87.5,1,28,1,1,1,Watford
+José Holebas,25.0,gr GRE,LB,33-081,90,0,0,0,0,0,0,1,0,52,1,1,2,0.0,0.0,0.3,5,0,23,45,51.1,1,25,3,2,1,Watford
+Christian Kabasele,27.0,be BEL,CB,26-204,90,0,0,0,0,0,0,0,0,40,0,3,3,0.0,0.0,0.0,0,0,21,29,72.4,3,20,0,0,0,Watford
+Adrian Mariappa,6.0,jm JAM,CB,30-348,90,0,0,0,0,0,0,0,0,36,0,3,3,0.0,0.0,0.0,0,0,23,25,92.0,1,20,0,0,0,Watford
+Daryl Janmaat,2.0,nl NED,RB,28-056,90,0,0,0,0,0,0,0,0,41,2,4,2,0.0,0.0,0.0,0,0,21,27,77.8,2,22,0,1,0,Watford
+Heurelho Gomes,1.0,br BRA,GK,36-213,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,1,0,16,26,61.5,0,9,0,0,0,Watford
+14 Players,,,,,990,0,0,0,0,7,1,2,0,448,7,22,15,0.5,0.5,0.5,13,0,252,343,73.5,21,250,8,22,11,Watford
+Sergio Agüero,10.0,ar ARG,FW,29-106,90,3,1,0,0,8,4,0,0,45,0,2,0,1.3,1.3,0.5,6,2,24,29,82.8,4,27,6,1,1,Manchester City
+Gabriel Jesus,33.0,br BRA,LW,20-166,64,1,0,0,0,2,1,0,0,29,1,0,1,0.4,0.4,0.0,2,2,16,23,69.6,3,16,3,2,2,Manchester City
+Bernardo Silva,20.0,pt POR,"CM,FW",23-037,26,0,0,0,0,0,0,0,0,32,2,0,0,0.0,0.0,0.0,3,0,26,27,96.3,1,19,1,0,0,Manchester City
+Raheem Sterling,7.0,eng ENG,"RW,LM",22-282,90,1,0,1,1,3,0,0,0,69,1,0,1,0.9,0.1,0.2,7,1,48,53,90.6,13,45,7,10,7,Manchester City
+David Silva,21.0,es ESP,LM,31-251,77,0,2,0,0,3,1,0,0,85,2,0,3,0.2,0.2,1.0,6,1,67,75,89.3,7,50,5,0,0,Manchester City
+Leroy Sané,19.0,de GER,"CM,RM",21-248,13,0,0,0,0,2,0,0,0,14,0,0,0,0.1,0.1,0.0,2,1,10,11,90.9,2,7,0,0,0,Manchester City
+Fernandinho,25.0,br BRA,"CM,DM",32-135,90,0,0,0,0,2,1,0,0,88,2,5,3,0.1,0.1,0.0,0,0,65,70,92.9,4,39,1,1,1,Manchester City
+Kevin De Bruyne,17.0,be BEL,RM,26-080,65,0,1,0,0,3,1,0,0,82,3,0,1,0.1,0.1,0.3,10,2,56,71,78.9,7,46,4,1,1,Manchester City
+İlkay Gündoğan,8.0,de GER,"CM,RM",26-327,25,0,0,0,0,1,0,0,0,31,1,0,0,0.1,0.1,0.0,2,0,24,27,88.9,5,18,2,1,0,Manchester City
+Benjamin Mendy,22.0,fr FRA,LB,23-061,90,0,0,0,0,1,0,0,0,62,2,1,1,0.0,0.0,0.2,4,0,41,53,77.4,4,32,7,0,0,Manchester City
+Nicolás Otamendi,30.0,ar ARG,CB,29-216,90,1,0,0,0,1,1,0,0,57,1,1,0,0.1,0.1,0.0,1,0,48,54,88.9,3,45,0,0,0,Manchester City
+John Stones,5.0,eng ENG,CB,23-111,90,0,0,0,0,1,0,0,0,88,2,0,0,0.1,0.1,0.0,2,1,75,78,96.2,8,55,1,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,27-111,90,0,1,0,0,0,0,0,0,93,2,1,0,0.0,0.0,0.1,5,2,72,80,90.0,8,42,5,1,1,Manchester City
+Ederson,31.0,br BRA,GK,24-030,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,30,33,90.9,0,18,0,0,0,Manchester City
+14 Players,,,,,990,6,5,1,1,27,9,0,0,808,19,10,10,3.3,2.6,2.4,50,12,602,684,88.0,69,459,42,17,13,Manchester City

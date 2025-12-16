@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Alexandre Lacazette,9.0,fr FRA,FW,30-282,79,0,2,0,0,2,0,0,0,34,3,0,0,0.1,0.1,0.2,4,2,23,27,85.2,3,16,1,2,1,Arsenal
+Eddie Nketiah,30.0,eng ENG,FW,22-280,11,0,0,0,0,1,0,1,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,1,1,0,Arsenal
+Gabriel Martinelli,35.0,br BRA,LW,20-261,72,1,0,0,0,3,1,0,0,26,1,1,1,0.2,0.2,0.1,1,0,13,18,72.2,0,13,1,3,2,Arsenal
+Nicolas Pépé,19.0,ci CIV,"RW,LM",26-281,18,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,5,0,0,0,Arsenal
+Bukayo Saka,7.0,eng ENG,"RW,LW,RM",20-182,90,1,1,0,0,1,1,0,0,62,2,2,2,0.1,0.1,0.1,3,2,37,50,74.0,6,36,6,2,1,Arsenal
+Martin Ødegaard,8.0,no NOR,AM,23-079,89,1,0,0,0,1,1,0,0,87,4,1,1,0.1,0.1,0.3,9,2,71,79,89.9,13,47,0,0,0,Arsenal
+Rob Holding,16.0,eng ENG,CB,26-167,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Arsenal
+Granit Xhaka,34.0,ch SUI,"DM,CM",29-160,90,0,0,0,0,1,0,0,0,51,1,0,2,0.1,0.1,0.0,5,0,38,41,92.7,7,31,0,1,0,Arsenal
+Thomas Partey,5.0,gh GHA,"DM,CM",28-266,90,0,0,0,0,2,0,0,0,90,2,2,1,0.1,0.1,0.0,4,0,69,80,86.3,8,53,0,4,3,Arsenal
+Kieran Tierney,3.0,sct SCO,LB,24-274,90,0,0,0,0,0,0,0,0,63,0,4,2,0.0,0.0,0.1,4,0,44,54,81.5,4,32,2,1,1,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,24-077,90,0,0,0,0,1,0,0,0,69,3,2,0,0.1,0.1,0.0,0,0,52,61,85.2,3,43,0,0,0,Arsenal
+Ben White,4.0,eng ENG,CB,24-149,90,0,0,0,0,2,1,0,0,77,0,1,2,0.2,0.2,0.0,0,0,57,65,87.7,3,45,1,0,0,Arsenal
+Cédric Soares,17.0,pt POR,RB,30-187,90,0,0,0,0,1,0,1,0,94,4,5,3,0.0,0.0,0.1,1,0,60,77,77.9,5,50,1,0,0,Arsenal
+Aaron Ramsdale,32.0,eng ENG,GK,23-296,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,22,36,61.1,0,28,0,0,0,Arsenal
+14 Players,,,,,990,3,3,0,0,16,4,2,0,709,20,18,14,1.0,1.0,1.0,31,6,491,598,82.1,52,404,13,14,8,Arsenal

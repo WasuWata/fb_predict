@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Gabriel Jesus,33.0,br BRA,FW,21-286,75,2,0,1,1,2,1,0,0,34,0,1,1,1.5,0.8,0.1,4,0,17,21,81.0,0,14,2,1,1,Manchester City
+Sergio Agüero,10.0,ar ARG,FW,30-226,15,0,0,0,0,1,0,0,0,16,0,1,0,0.0,0.0,0.0,0,0,10,12,83.3,2,9,0,0,0,Manchester City
+Leroy Sané,19.0,de GER,LW,23-003,73,0,1,0,0,4,0,0,0,61,1,0,1,0.2,0.2,1.2,5,1,40,48,83.3,3,33,2,5,3,Manchester City
+İlkay Gündoğan,8.0,de GER,LW,28-082,17,0,0,0,0,2,1,0,0,25,0,0,1,0.2,0.2,0.1,2,0,19,20,95.0,4,8,1,1,0,Manchester City
+Raheem Sterling,7.0,eng ENG,RW,24-037,90,0,0,0,0,3,2,0,0,61,0,1,0,0.6,0.6,0.3,8,2,41,49,83.7,3,33,4,8,5,Manchester City
+David Silva,21.0,es ESP,LM,33-006,61,0,0,0,0,1,1,0,0,92,0,0,0,0.0,0.0,0.1,4,0,74,90,82.2,10,46,8,0,0,Manchester City
+Kevin De Bruyne,17.0,be BEL,LM,27-200,29,0,0,0,0,2,1,0,0,52,0,0,0,0.1,0.1,0.0,4,0,36,47,76.6,8,25,1,1,0,Manchester City
+Fernandinho,25.0,br BRA,CM,33-255,90,0,0,0,0,3,1,1,0,120,2,2,0,0.1,0.1,0.0,6,0,98,110,89.1,11,63,2,0,0,Manchester City
+Bernardo Silva,20.0,pt POR,RM,24-157,90,0,0,0,0,1,0,0,0,76,1,0,1,0.0,0.0,0.1,6,0,62,69,89.9,9,44,3,0,0,Manchester City
+Danilo,3.0,br BRA,LB,27-183,90,0,0,0,0,2,0,0,0,167,1,2,1,0.1,0.1,0.1,6,0,139,154,90.3,16,83,6,0,0,Manchester City
+Aymeric Laporte,14.0,es ESP,CB,24-232,90,0,0,0,0,0,0,0,0,80,2,1,0,0.0,0.0,0.0,1,1,73,75,97.3,7,50,0,1,0,Manchester City
+John Stones,5.0,eng ENG,CB,24-231,90,0,0,0,0,0,0,0,0,96,1,1,1,0.0,0.0,0.0,0,0,87,90,96.7,6,64,4,0,0,Manchester City
+Kyle Walker,2.0,eng ENG,RB,28-231,90,0,0,0,0,2,1,0,0,124,1,0,0,0.0,0.0,0.0,2,0,107,116,92.2,5,58,4,4,3,Manchester City
+Ederson,31.0,br BRA,GK,25-150,90,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,0,0,23,23,100.0,0,7,0,0,0,Manchester City
+14 Players,,,,,990,2,1,1,1,23,8,1,0,1028,10,9,6,2.8,2.1,2.0,48,4,826,924,89.4,84,537,37,21,12,Manchester City
+Diogo Jota,18.0,pt POR,"CM,FW",22-041,58,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,0,0,12,16,75.0,0,11,2,0,0,Wolverhampton Wanderers
+Romain Saïss,27.0,ma MAR,CM,28-294,32,0,0,0,0,0,0,0,0,19,1,1,1,0.0,0.0,0.0,0,0,8,14,57.1,2,6,0,0,0,Wolverhampton Wanderers
+Raúl Jiménez,9.0,mx MEX,FW,27-254,45,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,0,0,8,13,61.5,2,9,1,1,0,Wolverhampton Wanderers
+Adama Traoré,37.0,es ESP,FW,22-354,45,0,0,0,0,1,0,0,0,21,3,0,0,0.1,0.1,0.0,0,0,9,11,81.8,0,11,2,5,5,Wolverhampton Wanderers
+Leander Dendoncker,32.0,be BEL,"CB,CM",23-274,90,0,0,0,0,0,0,0,0,42,4,0,3,0.0,0.0,0.0,0,0,26,29,89.7,1,18,0,0,0,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,CM,21-307,90,0,0,0,0,1,0,0,0,51,4,0,2,0.0,0.0,0.0,0,0,26,39,66.7,2,19,0,0,0,Wolverhampton Wanderers
+João Moutinho,28.0,pt POR,CM,32-128,71,0,0,0,0,0,0,0,0,28,2,3,1,0.0,0.0,0.0,0,0,15,21,71.4,2,9,0,2,2,Wolverhampton Wanderers
+Morgan Gibbs-White,17.0,eng ENG,CM,18-352,19,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,7,0,3,1,Wolverhampton Wanderers
+Jonny Castro,19.0,es ESP,WB,24-317,90,0,0,0,0,0,0,0,0,38,1,4,2,0.0,0.0,0.1,0,0,21,25,84.0,1,16,0,1,0,Wolverhampton Wanderers
+Matt Doherty,2.0,ie IRL,WB,26-363,90,0,0,0,0,0,0,0,0,47,2,0,3,0.0,0.0,0.0,0,0,19,32,59.4,1,12,0,0,0,Wolverhampton Wanderers
+Willy Boly,15.0,ci CIV,CB,27-345,18,0,0,0,0,1,0,0,1,3,0,0,0,0.1,0.1,0.0,0,0,0,2,0.0,0,2,0,0,0,Wolverhampton Wanderers
+Conor Coady,16.0,eng ENG,CB,25-323,90,0,0,0,0,0,0,0,0,45,0,1,0,0.0,0.0,0.0,0,0,25,36,69.4,0,24,0,1,1,Wolverhampton Wanderers
+Ryan Bennett,5.0,eng ENG,CB,28-314,90,0,0,0,0,0,0,0,0,22,1,0,3,0.0,0.0,0.1,1,0,7,12,58.3,0,3,0,0,0,Wolverhampton Wanderers
+Rui Patrício,11.0,pt POR,GK,30-333,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,18,40,45.0,0,17,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,918,0,0,0,0,3,0,0,1,408,18,10,16,0.1,0.1,0.1,1,0,199,297,67.0,11,164,5,13,9,Wolverhampton Wanderers

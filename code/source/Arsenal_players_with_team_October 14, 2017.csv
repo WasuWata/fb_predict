@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Alexandre Lacazette,9.0,fr FRA,FW,26-139,67,0,0,0,0,0,0,0,0,30,2,0,0,0.0,0.0,0.0,1,0,15,27,55.6,1,17,2,1,1,Arsenal
+Olivier Giroud,12.0,fr FRA,FW,31-014,23,0,0,0,0,1,1,0,0,16,0,0,0,0.0,0.0,0.0,0,0,7,11,63.6,0,10,0,0,0,Arsenal
+Danny Welbeck,23.0,eng ENG,AM,26-322,60,0,0,0,0,0,0,0,0,27,2,0,1,0.0,0.0,0.1,4,0,18,20,90.0,0,20,3,1,0,Arsenal
+Mesut Özil,11.0,de GER,AM,28-364,30,0,0,0,0,1,1,0,0,17,0,1,0,0.3,0.3,0.3,2,0,8,12,66.7,3,12,3,0,0,Arsenal
+Alex Iwobi,17.0,ng NGA,AM,21-164,90,0,0,0,0,1,1,0,0,69,1,0,1,0.3,0.3,0.3,2,0,52,61,85.2,9,50,11,2,1,Arsenal
+Granit Xhaka,29.0,ch SUI,CM,25-017,90,0,1,0,0,2,2,0,0,80,2,0,0,0.1,0.1,0.1,4,1,55,72,76.4,10,52,0,0,0,Arsenal
+Mohamed Elneny,35.0,eg EGY,CM,25-095,90,0,0,0,0,1,0,0,0,75,2,0,1,0.0,0.0,0.0,0,0,61,68,89.7,10,52,1,0,0,Arsenal
+Sead Kolašinac,31.0,ba BIH,WB,24-116,90,0,0,0,0,0,0,0,0,52,0,2,0,0.0,0.0,0.0,1,0,36,46,78.3,2,30,1,0,0,Arsenal
+Héctor Bellerín,24.0,es ESP,WB,22-209,90,0,0,0,0,1,0,0,0,80,1,1,1,0.1,0.1,0.0,1,0,56,71,78.9,5,51,3,0,0,Arsenal
+Nacho Monreal,18.0,es ESP,CB,31-230,90,0,0,0,0,1,0,0,0,67,3,1,2,0.0,0.0,0.0,1,0,48,56,85.7,6,44,1,0,0,Arsenal
+Per Mertesacker,4.0,de GER,CB,33-015,90,1,0,0,0,1,1,0,0,58,1,2,3,0.1,0.1,0.0,1,0,30,39,76.9,2,20,0,0,0,Arsenal
+Laurent Koscielny,6.0,fr FRA,CB,32-034,84,0,0,0,0,0,0,0,0,82,3,2,1,0.0,0.0,0.0,0,0,58,66,87.9,9,45,0,0,0,Arsenal
+Rob Holding,16.0,eng ENG,CB,22-024,6,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,1,0,Arsenal
+Petr Čech,33.0,cz CZE,GK,35-147,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,18,33,54.5,0,13,0,0,0,Arsenal
+14 Players,,,,,990,1,1,0,0,9,6,0,0,697,18,9,11,1.0,1.0,1.0,17,1,464,586,79.2,57,418,25,5,2,Arsenal

@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Raúl Jiménez,9.0,mx MEX,FW,30-255,79,1,0,1,1,1,0,1,0,34,0,2,1,0.8,0.1,0.0,1,1,16,22,72.7,4,16,0,2,1,Wolverhampton Wanderers
+Fábio Silva,17.0,pt POR,FW,19-180,11,0,0,0,0,1,1,0,0,5,1,0,0,0.1,0.1,0.0,2,0,2,2,100.0,0,2,2,2,1,Wolverhampton Wanderers
+Daniel Podence,10.0,pt POR,LW,26-086,89,0,0,0,0,1,1,1,0,41,2,1,0,0.0,0.0,0.1,2,0,18,31,58.1,3,28,2,1,0,Wolverhampton Wanderers
+Luke Cundle,39.0,eng ENG,LW,19-264,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Wolverhampton Wanderers
+Francisco Trincão,11.0,pt POR,RW,22-017,77,0,0,0,0,0,0,0,0,33,5,2,1,0.0,0.0,0.0,1,0,15,20,75.0,1,19,2,4,2,Wolverhampton Wanderers
+Adama Traoré,37.0,es ESP,RW,25-355,13,1,0,0,0,2,1,0,0,6,0,0,0,0.7,0.7,0.0,0,0,2,4,50.0,0,5,1,0,0,Wolverhampton Wanderers
+Rayan Aït-Nouri,3.0,dz ALG,LM,20-223,90,0,1,0,0,0,0,0,0,53,2,0,3,0.0,0.0,0.5,5,2,31,39,79.5,4,20,0,4,3,Wolverhampton Wanderers
+João Moutinho,28.0,pt POR,CM,35-129,90,0,0,0,0,0,0,0,0,50,2,3,0,0.0,0.0,0.0,1,0,30,42,71.4,5,22,1,0,0,Wolverhampton Wanderers
+Leander Dendoncker,32.0,be BEL,CM,26-275,90,0,0,0,0,1,0,0,0,42,1,0,2,0.0,0.0,0.0,2,1,30,33,90.9,2,17,0,0,0,Wolverhampton Wanderers
+Nélson Semedo,22.0,pt POR,RM,28-060,90,0,0,0,0,0,0,0,0,60,2,2,1,0.0,0.0,0.0,0,0,31,48,64.6,3,23,2,0,0,Wolverhampton Wanderers
+Toti Gomes,24.0,pt POR,CB,22-364,90,0,0,0,0,0,0,0,0,45,5,2,0,0.0,0.0,0.0,0,0,20,33,60.6,1,17,1,0,0,Wolverhampton Wanderers
+Conor Coady,16.0,eng ENG,CB,28-324,90,1,0,0,0,1,1,0,0,38,0,0,0,0.9,0.9,0.0,0,0,26,30,86.7,0,19,0,0,0,Wolverhampton Wanderers
+Max Kilman,23.0,eng ENG,CB,24-237,90,0,0,0,0,1,0,0,0,54,3,3,0,0.0,0.0,0.0,1,1,29,38,76.3,1,23,1,1,1,Wolverhampton Wanderers
+José Sá,1.0,pt POR,GK,28-363,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,17,28,60.7,0,19,0,1,1,Wolverhampton Wanderers
+14 Players,,,,,990,3,1,1,1,8,4,2,0,495,23,15,8,2.6,1.9,0.6,16,5,267,370,72.2,24,230,12,15,9,Wolverhampton Wanderers
+Armando Broja,18.0,al ALB,FW,20-127,77,0,0,0,0,1,1,0,0,22,0,0,0,0.0,0.0,0.0,1,0,8,13,61.5,0,12,1,2,0,Southampton
+Adam Armstrong,9.0,eng ENG,FW,24-339,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,6,1,0,0,Southampton
+Nathan Redmond,11.0,eng ENG,FW,27-315,90,0,0,0,0,0,0,0,0,38,0,0,1,0.0,0.0,0.0,4,1,26,35,74.3,3,21,7,2,2,Southampton
+Ibrahima Diallo,27.0,fr FRA,CM,22-313,45,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,2,0,16,21,76.2,3,16,2,2,1,Southampton
+Che Adams,10.0,sct SCO,CM,25-186,45,0,0,0,0,1,1,0,0,11,0,0,0,0.0,0.0,0.0,1,0,5,9,55.6,0,6,0,0,0,Southampton
+Oriol Romeu,6.0,es ESP,CM,30-113,90,0,0,0,0,1,1,0,0,69,1,1,0,0.0,0.0,0.2,4,0,57,66,86.4,6,41,2,4,4,Southampton
+James Ward-Prowse,8.0,eng ENG,CM,27-075,90,1,0,0,0,3,2,1,0,80,3,0,1,0.1,0.1,0.0,3,0,54,70,77.1,7,40,3,1,1,Southampton
+Romain Perraud,15.0,fr FRA,WB,24-115,90,0,0,0,0,2,1,0,0,55,1,1,2,0.1,0.1,0.0,2,0,29,43,67.4,5,31,4,1,1,Southampton
+Nathan Tella,23.0,ng NGA,WB,22-194,70,0,0,0,0,0,0,0,0,28,1,1,2,0.0,0.0,0.0,1,0,8,16,50.0,2,14,1,2,1,Southampton
+Stuart Armstrong,17.0,sct SCO,WB,29-291,20,0,0,0,0,1,1,0,0,12,0,0,0,0.1,0.1,0.0,1,0,8,11,72.7,3,8,0,0,0,Southampton
+Mohammed Salisu,22.0,gh GHA,CB,22-273,90,0,0,0,0,2,2,1,0,85,2,3,0,0.2,0.2,0.2,2,0,63,74,85.1,8,46,1,1,0,Southampton
+Lyanco,4.0,br BRA,CB,24-348,90,0,0,0,0,1,0,1,0,68,2,1,1,0.0,0.0,0.0,0,0,43,59,72.9,3,43,0,0,0,Southampton
+Jan Bednarek,35.0,pl POL,CB,25-278,90,0,0,0,0,1,1,0,0,65,0,2,2,0.2,0.2,0.1,2,0,41,55,74.5,2,27,0,0,0,Southampton
+Fraser Forster,44.0,eng ENG,GK,33-304,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,15,18,83.3,0,12,0,0,0,Southampton
+14 Players,,,,,990,1,0,0,0,13,10,3,0,587,10,9,10,0.8,0.8,0.6,23,1,377,497,75.9,42,323,22,15,10,Southampton

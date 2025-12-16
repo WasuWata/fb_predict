@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Alexandre Lacazette,9.0,fr FRA,FW,30-272,90,0,0,0,0,8,2,0,0,39,1,0,1,1.2,1.2,0.1,7,0,19,27,70.4,3,28,1,5,3,Arsenal
+Gabriel Martinelli,35.0,br BRA,LW,20-251,70,0,0,0,0,4,1,0,0,35,1,2,1,0.4,0.4,0.2,5,0,19,25,76.0,2,24,3,1,1,Arsenal
+Nicolas Pépé,19.0,ci CIV,"WB,LW",26-271,20,1,0,0,0,1,1,0,0,20,0,0,1,0.7,0.7,0.0,1,0,12,15,80.0,1,14,1,2,1,Arsenal
+Bukayo Saka,7.0,eng ENG,"RW,WB",20-172,90,0,0,0,0,5,1,1,0,37,0,0,1,0.4,0.4,0.7,7,0,19,30,63.3,1,27,6,3,2,Arsenal
+Martin Ødegaard,8.0,no NOR,AM,23-069,90,0,0,0,0,2,0,0,0,52,1,0,3,0.2,0.2,0.1,4,1,34,45,75.6,9,32,3,4,3,Arsenal
+Granit Xhaka,34.0,ch SUI,"DM,CM",29-150,90,0,0,0,0,2,0,0,0,61,3,1,1,0.1,0.1,0.2,4,0,38,53,71.7,9,31,2,2,2,Arsenal
+Thomas Partey,5.0,gh GHA,"DM,CM",28-256,90,0,0,0,0,2,0,0,0,64,1,0,1,0.1,0.1,0.3,4,0,50,56,89.3,6,43,1,4,3,Arsenal
+Kieran Tierney,3.0,sct SCO,"LB,CB",24-264,89,0,0,0,0,0,0,0,0,80,1,0,2,0.0,0.0,0.4,5,0,57,71,80.3,7,40,4,1,0,Arsenal
+Nuno Tavares,20.0,pt POR,CB,22-029,1,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,1,3,1,2,1,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,24-067,90,0,0,0,0,1,0,0,0,81,2,0,0,0.0,0.0,0.0,1,0,65,73,89.0,5,51,0,0,0,Arsenal
+Ben White,4.0,eng ENG,CB,24-139,90,0,0,0,0,1,0,0,0,83,0,1,2,0.1,0.1,0.1,2,0,60,72,83.3,10,59,2,1,0,Arsenal
+Cédric Soares,17.0,pt POR,RB,30-177,75,0,0,0,0,0,0,0,0,53,1,0,1,0.0,0.0,0.0,2,0,43,48,89.6,7,36,1,0,0,Arsenal
+Eddie Nketiah,30.0,eng ENG,"FW,RB",22-270,15,0,1,0,0,0,0,0,0,9,1,0,2,0.0,0.0,0.7,3,1,3,3,100.0,1,7,0,2,2,Arsenal
+Aaron Ramsdale,32.0,eng ENG,GK,23-286,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,22,0,0,0,Arsenal
+14 Players,,,,,990,1,1,0,0,26,5,1,0,651,12,4,16,3.1,3.1,2.8,46,2,446,551,80.9,62,417,25,27,18,Arsenal
+Raúl Jiménez,9.0,mx MEX,FW,30-295,90,0,0,0,0,2,0,1,0,33,2,1,2,0.3,0.3,0.0,0,0,10,16,62.5,1,16,1,1,0,Wolverhampton Wanderers
+Hwang Hee-chan,26.0,kr KOR,LW,26-029,74,1,0,0,0,2,2,0,0,37,3,0,1,0.6,0.6,0.0,2,1,22,29,75.9,1,24,0,1,1,Wolverhampton Wanderers
+Pedro Neto,7.0,pt POR,"RW,LW",21-352,16,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,4,4,100.0,0,6,1,1,0,Wolverhampton Wanderers
+Daniel Podence,10.0,pt POR,"RW,LW",26-126,89,0,0,0,0,0,0,0,0,34,0,1,0,0.0,0.0,0.5,3,0,22,30,73.3,5,23,5,1,1,Wolverhampton Wanderers
+Leander Dendoncker,32.0,be BEL,LW,26-315,1,0,0,0,0,0,0,0,0,5,1,0,1,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Wolverhampton Wanderers
+Rayan Aït-Nouri,3.0,dz ALG,LM,20-263,90,0,0,0,0,0,0,0,0,58,3,1,1,0.0,0.0,0.1,2,0,35,43,81.4,0,32,3,3,3,Wolverhampton Wanderers
+João Moutinho,28.0,pt POR,CM,35-169,90,0,0,0,0,1,0,0,0,59,0,1,1,0.0,0.0,0.0,0,0,36,50,72.0,1,35,0,2,1,Wolverhampton Wanderers
+Rúben Neves,8.0,pt POR,CM,24-348,90,0,0,0,0,0,0,0,0,63,2,6,2,0.0,0.0,0.0,1,0,33,46,71.7,6,29,1,1,0,Wolverhampton Wanderers
+Nélson Semedo,22.0,pt POR,RM,28-100,60,0,0,0,0,0,0,0,0,37,3,0,1,0.0,0.0,0.0,0,0,23,30,76.7,0,25,2,1,0,Wolverhampton Wanderers
+Jonny Castro,19.0,es ESP,RM,27-358,30,0,0,0,0,0,0,0,0,16,3,2,0,0.0,0.0,0.0,0,0,9,10,90.0,0,8,0,1,0,Wolverhampton Wanderers
+Romain Saïss,27.0,ma MAR,CB,31-335,90,0,0,0,0,0,0,0,0,72,1,2,3,0.0,0.0,0.0,0,0,44,61,72.1,0,53,0,2,2,Wolverhampton Wanderers
+Conor Coady,16.0,eng ENG,CB,28-364,90,0,0,0,0,0,0,0,0,45,3,2,2,0.0,0.0,0.0,0,0,27,34,79.4,0,25,0,0,0,Wolverhampton Wanderers
+Max Kilman,23.0,eng ENG,CB,24-277,90,0,0,0,0,0,0,0,0,52,0,0,1,0.0,0.0,0.0,1,0,36,47,76.6,1,37,0,1,1,Wolverhampton Wanderers
+José Sá,1.0,pt POR,GK,29-038,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,24,38,63.2,0,21,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,990,1,0,0,0,6,2,1,0,558,21,16,15,1.0,1.0,0.6,9,1,328,441,74.4,15,336,13,15,9,Wolverhampton Wanderers

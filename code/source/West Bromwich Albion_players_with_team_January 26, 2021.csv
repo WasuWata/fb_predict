@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Callum Robinson,7.0,ie IRL,FW,25-359,45,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,0,0,5,8,62.5,0,6,0,0,0,West Bromwich Albion
+Kyle Bartley,5.0,eng ENG,CB,29-249,45,0,0,0,0,0,0,0,0,17,1,0,3,0.0,0.0,0.0,0,0,6,8,75.0,1,3,0,0,0,West Bromwich Albion
+Matheus Pereira,12.0,br BRA,"RM,FW",24-266,90,0,0,0,0,0,0,0,0,37,1,3,0,0.0,0.0,0.1,2,0,17,29,58.6,2,14,1,1,0,West Bromwich Albion
+Karlan Grant,29.0,eng ENG,"LM,FW",23-130,63,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,9,0,2,1,West Bromwich Albion
+Hal Robson-Kanu,4.0,wls WAL,FW,31-250,27,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,1,0,West Bromwich Albion
+Romaine Sawyers,19.0,kn SKN,CM,29-085,90,0,0,0,0,0,0,0,0,38,2,0,0,0.0,0.0,0.0,0,0,28,31,90.3,2,9,0,0,0,West Bromwich Albion
+Jake Livermore,8.0,eng ENG,CM,31-073,90,0,0,0,0,1,0,0,0,42,3,2,2,0.1,0.1,0.0,1,0,19,26,73.1,1,19,0,1,1,West Bromwich Albion
+Robert Snodgrass,23.0,sct SCO,"RM,LM",33-141,58,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.1,1,0,7,12,58.3,1,9,1,0,0,West Bromwich Albion
+Matt Phillips,10.0,sct SCO,LM,29-319,32,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,2,0,0,West Bromwich Albion
+Kieran Gibbs,3.0,eng ENG,LB,31-122,90,0,0,0,0,0,0,0,0,30,2,3,1,0.0,0.0,0.0,0,0,19,23,82.6,2,16,0,0,0,West Bromwich Albion
+Dara O'Shea,27.0,ie IRL,CB,21-328,90,0,0,0,0,0,0,1,0,36,0,3,1,0.0,0.0,0.0,0,0,19,26,73.1,0,16,0,0,0,West Bromwich Albion
+Semi Ajayi,6.0,ng NGA,CB,27-078,90,0,0,0,0,1,1,0,0,40,3,2,2,0.2,0.2,0.0,1,0,18,30,60.0,2,17,1,1,1,West Bromwich Albion
+Darnell Furlong,2.0,eng ENG,RB,25-087,90,0,0,0,0,1,0,0,0,35,0,1,1,0.1,0.1,0.0,0,0,14,27,51.9,2,10,0,0,0,West Bromwich Albion
+Sam Johnstone,1.0,eng ENG,GK,27-307,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,14,37,37.8,0,19,0,0,0,West Bromwich Albion
+14 Players,,,,,990,0,0,0,0,4,1,2,0,370,13,14,10,0.6,0.6,0.2,5,0,179,277,64.6,13,155,5,6,3,West Bromwich Albion

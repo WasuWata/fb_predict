@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Timo Werner,11.0,de GER,"FW,AM",25-056,90,0,1,0,0,3,2,0,0,36,0,0,2,0.2,0.2,1.0,3,0,10,18,55.6,1,23,4,6,2,Chelsea
+Kai Havertz,29.0,de GER,FW,21-324,90,2,0,0,0,2,2,0,0,47,0,1,2,0.8,0.8,0.1,2,1,28,33,84.8,3,20,4,3,1,Chelsea
+Mason Mount,19.0,eng ENG,"CM,AM",22-111,75,0,1,0,0,0,0,0,0,50,5,0,1,0.0,0.0,0.3,3,1,34,42,81.0,6,26,3,0,0,Chelsea
+Tammy Abraham,9.0,eng ENG,AM,23-211,15,0,0,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Chelsea
+Billy Gilmour,23.0,sct SCO,CM,19-324,90,0,0,0,0,0,0,0,0,66,2,1,0,0.0,0.0,0.1,1,0,47,56,83.9,5,27,1,3,1,Chelsea
+Hakim Ziyech,22.0,ma MAR,CM,28-043,65,0,0,0,0,2,1,0,0,56,2,1,2,0.5,0.5,0.1,1,0,33,40,82.5,5,19,0,5,2,Chelsea
+N'Golo Kanté,7.0,fr FRA,CM,30-033,25,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,0,0,5,8,62.5,1,5,0,0,0,Chelsea
+Ben Chilwell,21.0,eng ENG,WB,24-131,80,0,0,0,0,0,0,0,0,43,1,0,1,0.0,0.0,0.0,1,1,29,38,76.3,1,15,1,1,1,Chelsea
+Marcos Alonso,3.0,es ESP,WB,30-124,10,0,0,0,0,2,0,0,0,4,0,0,0,0.2,0.2,0.1,2,0,1,2,50.0,0,1,0,0,0,Chelsea
+Reece James,24.0,eng ENG,WB,21-144,90,0,0,0,0,0,0,0,0,79,5,0,2,0.0,0.0,0.0,1,0,49,60,81.7,3,24,0,4,1,Chelsea
+Kurt Zouma,15.0,fr FRA,CB,26-186,90,0,0,0,0,0,0,1,0,73,4,0,0,0.0,0.0,0.0,0,0,57,61,93.4,1,48,3,0,0,Chelsea
+Thiago Silva,6.0,br BRA,CB,36-221,90,0,0,0,0,0,0,0,0,100,0,0,2,0.0,0.0,0.0,1,1,84,92,91.3,9,64,0,0,0,Chelsea
+Andreas Christensen,4.0,dk DEN,CB,25-021,90,0,0,0,0,0,0,0,0,67,2,0,4,0.0,0.0,0.0,0,0,51,57,89.5,1,27,1,1,1,Chelsea
+Edouard Mendy,16.0,sn SEN,GK,29-061,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,26,34,76.5,0,21,0,0,0,Chelsea
+14 Players,,,,,990,2,2,0,0,9,5,1,0,676,24,4,16,1.8,1.8,1.6,15,4,454,542,83.8,36,320,17,23,9,Chelsea
+Josh Maja,27.0,ng NGA,FW,22-125,80,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,3,0,17,23,73.9,2,15,0,2,1,Fulham
+Aleksandar Mitrović,9.0,rs SRB,FW,26-227,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,1,0,0,0,Fulham
+Ademola Lookman,19.0,ng NGA,LW,23-193,90,0,0,0,0,1,1,0,0,66,3,0,1,0.0,0.0,0.1,5,0,38,51,74.5,5,29,1,3,3,Fulham
+Ivan Cavaleiro,17.0,pt POR,RW,27-195,77,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,1,0,13,23,56.5,1,17,2,0,0,Fulham
+Josh Onomah,25.0,eng ENG,RW,24-004,13,0,0,0,0,0,0,0,0,15,1,0,1,0.0,0.0,0.0,1,0,13,13,100.0,1,8,0,0,0,Fulham
+Bobby De Cordova-Reid,14.0,jm JAM,AM,28-088,90,0,0,0,0,2,0,0,0,39,0,1,1,0.1,0.1,0.0,1,0,25,29,86.2,0,15,0,2,2,Fulham
+Mario Lemina,18.0,ga GAB,DM,27-242,77,0,0,0,0,0,0,0,0,72,5,0,1,0.0,0.0,0.0,0,0,49,57,86.0,8,32,0,4,1,Fulham
+Fabio Carvalho,48.0,pt POR,DM,18-244,13,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,1,0,Fulham
+Andre-Frank Zambo Anguissa,29.0,cm CMR,DM,25-166,90,0,0,0,0,0,0,0,0,86,4,0,3,0.0,0.0,0.1,3,0,63,73,86.3,6,48,4,1,0,Fulham
+Antonee Robinson,33.0,us USA,LB,23-266,90,0,0,0,0,2,1,0,0,87,2,1,4,0.1,0.1,0.0,2,0,53,72,73.6,6,35,4,2,2,Fulham
+Tosin Adarabioyo,16.0,eng ENG,CB,23-219,90,0,0,0,0,2,0,0,0,67,0,0,0,0.1,0.1,0.0,1,0,55,59,93.2,4,29,1,2,0,Fulham
+Joachim Andersen,5.0,dk DEN,CB,24-335,90,0,0,0,0,1,0,0,0,84,2,4,0,0.0,0.0,0.0,0,0,60,72,83.3,1,42,2,0,0,Fulham
+Ola Aina,34.0,ng NGA,RB,24-205,90,0,0,0,0,2,1,1,0,71,2,1,1,0.1,0.1,0.0,1,0,56,63,88.9,3,36,3,2,2,Fulham
+Alphonse Areola,1.0,fr FRA,GK,28-063,90,0,0,0,0,0,0,0,0,28,0,1,0,0.0,0.0,0.0,0,0,23,26,88.5,0,17,0,0,0,Fulham
+14 Players,,,,,990,0,0,0,0,10,3,1,0,689,21,8,12,0.3,0.3,0.3,18,0,473,571,82.8,38,328,17,19,11,Fulham
