@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Evanilson,9.0,br BRA,FW,25-362,90,0,0,0,0,2,1,0,0,24,0,0,0,0.2,0.2,0.1,1,0,13,14,92.9,0,14,0,2,1,Bournemouth
+Antoine Semenyo,24.0,gh GHA,"LW,WB",25-269,90,2,1,0,0,3,3,0,0,56,1,0,3,0.7,0.7,0.0,3,2,30,44,68.2,7,29,5,2,1,Bournemouth
+David Brooks,7.0,wls WAL,"RW,WB",28-087,84,0,0,0,0,0,0,0,0,54,0,1,2,0.0,0.0,0.0,0,0,31,43,72.1,3,30,5,3,2,Bournemouth
+Veljko Milosavljević,44.0,rs SRB,CB,18-097,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Bournemouth
+Marcus Tavernier,16.0,eng ENG,AM,26-195,60,0,0,0,0,0,0,0,0,35,0,0,2,0.0,0.0,0.1,3,0,22,26,84.6,7,18,2,3,0,Bournemouth
+Justin Kluivert,19.0,nl NED,AM,26-151,30,1,0,0,0,1,1,0,0,22,2,0,1,0.0,0.0,0.0,2,1,15,17,88.2,0,13,3,1,1,Bournemouth
+Alex Scott,8.0,eng ENG,"DM,CM",22-043,90,0,0,0,0,3,0,0,0,84,2,4,0,0.2,0.2,0.0,0,0,61,72,84.7,4,42,5,0,0,Bournemouth
+Tyler Adams,12.0,us USA,DM,26-231,77,0,0,0,0,1,1,0,0,68,0,2,0,0.0,0.0,0.0,1,0,54,62,87.1,12,39,3,0,0,Bournemouth
+Ryan Christie,10.0,sct SCO,"DM,CM",30-223,13,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,1,1,10,12,83.3,0,11,0,3,2,Bournemouth
+Adrien Truffert,3.0,fr FRA,"LB,CB",23-317,90,0,1,0,0,1,0,0,0,82,1,0,1,0.0,0.0,0.1,2,1,59,72,81.9,5,40,2,4,2,Bournemouth
+Marcos Senesi,5.0,ar ARG,CB,28-146,77,0,0,0,0,0,0,0,0,80,0,0,2,0.0,0.0,0.0,2,0,62,73,84.9,7,47,0,0,0,Bournemouth
+Ben Gannon-Doak,11.0,sct SCO,"RW,FW",19-326,13,0,1,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.6,1,1,4,6,66.7,0,4,2,0,0,Bournemouth
+Bafodé Diakité,18.0,fr FRA,CB,24-270,90,0,0,0,0,0,0,0,0,76,0,1,4,0.0,0.0,0.0,1,0,58,65,89.2,3,38,1,0,0,Bournemouth
+James Hill,23.0,eng ENG,RB,23-266,60,0,0,0,0,0,0,0,0,51,2,0,0,0.0,0.0,0.0,2,0,35,47,74.5,9,26,3,0,0,Bournemouth
+Álex Jiménez,20.0,es ESP,"RB,CB",20-148,30,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,15,18,83.3,1,11,3,1,1,Bournemouth
+Đorđe Petrović,1.0,rs SRB,GK,25-360,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,19,24,79.2,0,13,0,0,0,Bournemouth
+16 Players,,,,,990,3,3,0,0,11,6,0,0,703,10,8,15,1.2,1.2,0.9,19,6,490,597,82.1,58,376,34,19,10,Bournemouth
+Joshua King,24.0,eng ENG,FW,18-273,66,0,0,0,0,1,0,0,0,25,0,0,2,0.0,0.0,0.0,1,0,14,17,82.4,0,19,2,2,2,Fulham
+Kevin,22.0,br BRA,"AM,LW",22-272,24,0,0,0,0,1,1,0,0,19,0,1,0,0.0,0.0,0.0,0,0,9,15,60.0,0,10,1,1,1,Fulham
+Alex Iwobi,17.0,ng NGA,"AM,FW",29-153,85,0,0,0,0,3,1,0,0,55,0,0,0,0.1,0.1,0.1,5,0,35,47,74.5,5,44,2,1,1,Fulham
+Adama Traoré,11.0,es ESP,RW,29-251,5,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,5,7,71.4,0,7,0,2,2,Fulham
+Harry Wilson,8.0,wls WAL,AM,28-195,66,0,0,0,0,1,1,0,0,34,1,0,0,0.0,0.0,0.0,1,0,18,28,64.3,0,24,0,1,1,Fulham
+Samuel Chukwueze,19.0,ng NGA,"AM,FW",26-134,24,0,1,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.5,4,1,13,17,76.5,1,16,1,4,1,Fulham
+Sander Berge,16.0,no NOR,"CM,DM",27-231,90,0,0,0,0,0,0,0,0,56,2,0,4,0.0,0.0,0.0,1,0,42,48,87.5,4,39,3,0,0,Fulham
+Saša Lukić,20.0,rs SRB,CM,29-051,13,0,0,0,0,0,0,0,0,6,1,1,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Fulham
+Tom Cairney,10.0,sct SCO,"CM,DM",34-256,77,0,0,0,0,4,0,0,0,81,0,0,0,0.3,0.3,0.0,1,0,68,71,95.8,12,60,2,0,0,Fulham
+Ryan Sessegnon,30.0,eng ENG,"WB,LB",25-138,90,1,0,0,0,1,1,0,0,65,1,0,1,0.4,0.4,0.1,3,1,40,53,75.5,5,37,5,1,0,Fulham
+Timothy Castagne,21.0,be BEL,"WB,RB",29-302,90,0,0,0,0,1,0,0,0,50,2,2,0,0.0,0.0,0.1,3,0,32,43,74.4,2,25,2,0,0,Fulham
+Calvin Bassey,3.0,ng NGA,CB,25-276,90,0,0,0,0,0,0,0,0,47,1,0,2,0.0,0.0,0.0,1,0,32,40,80.0,1,25,0,0,0,Fulham
+Joachim Andersen,5.0,dk DEN,CB,29-125,90,0,0,0,0,0,0,0,0,69,1,1,2,0.0,0.0,0.0,0,0,39,54,72.2,0,31,0,1,1,Fulham
+Issa Diop,31.0,fr FRA,CB,28-267,85,0,0,0,0,0,0,1,0,49,2,2,0,0.0,0.0,0.0,1,0,24,35,68.6,5,31,1,0,0,Fulham
+Emile Smith Rowe,32.0,eng ENG,AM,25-067,5,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,7,0,0,0,Fulham
+Bernd Leno,1.0,de GER,GK,33-213,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,24,29,82.8,0,17,0,0,0,Fulham
+16 Players,,,,,990,1,1,0,0,12,4,1,0,625,11,7,12,0.9,0.9,0.7,22,2,404,513,78.8,36,393,19,13,9,Fulham

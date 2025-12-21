@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Callum Wilson,9.0,eng ENG,FW,33-276,77,0,0,0,0,1,0,0,0,13,0,1,0,0.1,0.1,0.0,0,0,4,7,57.1,1,10,1,0,0,West Ham United
+Niclas Füllkrug,11.0,de GER,FW,32-294,13,0,0,0,0,1,0,0,0,7,0,0,2,0.1,0.1,0.1,0,0,2,3,66.7,1,0,0,0,0,West Ham United
+Mateus Fernandes,18.0,pt POR,"LW,DM",21-143,90,0,0,0,0,1,0,0,0,59,2,0,2,0.0,0.0,0.1,4,0,37,43,86.0,6,33,3,3,1,West Ham United
+Jarrod Bowen,20.0,eng ENG,"RW,LW",28-345,90,0,0,0,0,3,0,0,0,31,2,0,0,0.2,0.2,0.0,0,0,13,21,61.9,1,24,7,0,0,West Ham United
+Lucas Paquetá,10.0,br BRA,AM,28-095,83,0,0,0,0,1,0,2,1,54,0,0,0,0.0,0.0,0.0,1,0,38,48,79.2,6,45,0,2,2,West Ham United
+Freddie Potts,32.0,eng ENG,DM,22-079,87,0,0,0,0,0,0,0,0,53,1,1,1,0.0,0.0,0.0,1,0,33,49,67.3,3,25,2,0,0,West Ham United
+Tomáš Souček,28.0,cz CZE,RW,30-276,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,West Ham United
+Soungoutou Magassa,27.0,fr FRA,DM,22-053,67,0,0,0,0,0,0,1,0,31,2,1,0,0.0,0.0,0.0,3,0,21,29,72.4,4,18,0,1,1,West Ham United
+Luis Guilherme,17.0,br BRA,"LW,DM",19-294,23,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,9,2,1,1,West Ham United
+El Hadji Malick Diouf,12.0,sn SEN,LB,20-337,90,0,0,0,0,0,0,0,0,64,0,3,0,0.0,0.0,0.0,1,0,33,51,64.7,0,38,1,2,0,West Ham United
+Jean-Clair Todibo,25.0,fr FRA,CB,25-335,90,0,0,0,0,0,0,0,0,54,0,1,0,0.0,0.0,0.0,0,0,47,51,92.2,2,42,0,0,0,West Ham United
+Konstantinos Mavropanos,15.0,gr GRE,CB,27-354,90,0,0,0,0,0,0,0,0,50,4,1,0,0.0,0.0,0.0,1,0,33,38,86.8,1,28,0,0,0,West Ham United
+Aaron Wan-Bissaka,29.0,cd COD,RB,28-004,90,0,0,0,0,0,0,0,0,59,1,1,2,0.0,0.0,0.0,1,0,37,47,78.7,3,30,3,0,0,West Ham United
+Alphonse Areola,23.0,fr FRA,GK,32-276,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,17,29,58.6,0,17,0,0,0,West Ham United
+14 Players,,,,,983,0,0,0,0,7,0,3,1,518,13,9,7,0.3,0.3,0.3,12,0,323,426,75.8,29,320,19,9,5,West Ham United
+Alexander Isak,9.0,se SWE,FW,26-070,67,1,0,0,0,3,2,0,0,12,2,0,0,0.7,0.7,0.0,0,0,2,3,66.7,0,8,1,0,0,Liverpool
+Hugo Ekitike,22.0,fr FRA,FW,23-163,23,0,0,0,0,1,0,0,0,16,1,0,1,0.0,0.0,0.0,1,0,6,7,85.7,0,11,1,2,0,Liverpool
+Cody Gakpo,18.0,nl NED,LW,26-207,90,1,1,0,0,2,1,0,0,44,0,0,0,0.4,0.4,0.7,3,1,18,30,60.0,4,23,2,3,1,Liverpool
+Dominik Szoboszlai,8.0,hu HUN,RW,25-036,90,0,0,0,0,0,0,0,0,50,2,0,1,0.0,0.0,0.0,2,1,37,45,82.2,5,29,1,0,0,Liverpool
+Florian Wirtz,7.0,de GER,AM,22-211,74,0,0,0,0,1,1,0,0,49,0,0,0,0.1,0.1,0.0,3,1,42,45,93.3,6,32,0,2,1,Liverpool
+Curtis Jones,17.0,eng ENG,AM,24-304,16,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,1,0,13,14,92.9,1,10,1,0,0,Liverpool
+Alexis Mac Allister,10.0,ar ARG,DM,26-341,90,0,0,0,0,1,1,0,0,67,2,0,2,0.0,0.0,0.0,2,0,52,59,88.1,9,45,3,4,3,Liverpool
+Ryan Gravenberch,38.0,nl NED,DM,23-198,90,0,0,0,0,0,0,0,0,72,0,0,0,0.0,0.0,0.0,0,0,58,65,89.2,7,50,0,2,1,Liverpool
+Milos Kerkez,6.0,hu HUN,LB,22-023,84,0,0,0,0,0,0,0,0,54,2,0,1,0.0,0.0,0.0,1,0,34,45,75.6,3,25,2,1,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,31-264,6,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,5,1,0,0,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,34-145,90,0,0,0,0,1,0,0,0,89,0,1,0,0.0,0.0,0.0,0,0,74,80,92.5,7,54,0,0,0,Liverpool
+Ibrahima Konaté,5.0,fr FRA,CB,26-189,90,0,0,0,0,0,0,0,0,88,1,0,3,0.0,0.0,0.0,1,0,59,72,81.9,3,57,2,0,0,Liverpool
+Joe Gomez,2.0,eng ENG,RB,28-191,90,0,1,0,0,0,0,0,0,61,0,3,3,0.0,0.0,0.3,2,1,39,51,76.5,5,34,1,0,0,Liverpool
+Alisson,1.0,br BRA,GK,33-059,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,25,27,92.6,0,21,0,0,0,Liverpool
+14 Players,,,,,990,2,2,0,0,9,5,0,0,654,11,4,11,1.2,1.2,1.2,16,4,464,550,84.4,50,404,15,14,6,Liverpool

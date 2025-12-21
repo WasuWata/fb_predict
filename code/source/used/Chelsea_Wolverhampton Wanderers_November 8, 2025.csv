@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Liam Delap,9.0,eng ENG,FW,22-273,63,0,0,0,0,2,1,0,0,13,0,0,0,0.1,0.1,0.0,0,0,6,7,85.7,0,12,0,1,0,Chelsea
+Estêvão Willian,41.0,br BRA,"RW,AM",18-198,27,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.5,2,0,14,17,82.4,0,15,3,2,1,Chelsea
+Alejandro Garnacho,49.0,ar ARG,LW,21-130,90,0,2,0,0,3,1,0,0,56,1,0,0,0.5,0.5,1.4,7,3,37,47,78.7,3,42,8,3,1,Chelsea
+Pedro Neto,7.0,pt POR,"RW,FW",25-244,76,1,0,0,0,1,1,0,0,52,1,0,0,0.7,0.7,0.1,2,0,33,44,75.0,4,38,5,7,3,Chelsea
+Marc Guiu,38.0,es ESP,FW,19-308,14,0,0,0,0,2,0,0,0,3,0,0,0,0.6,0.6,0.0,1,0,1,1,100.0,0,0,0,0,0,Chelsea
+João Pedro,20.0,br BRA,AM,24-043,82,1,0,0,0,3,2,0,0,43,1,0,1,0.4,0.4,0.1,5,0,26,34,76.5,4,35,4,1,0,Chelsea
+Jamie Gittens,11.0,eng ENG,RW,21-092,8,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,8,11,72.7,1,11,0,0,0,Chelsea
+Enzo Fernández,8.0,ar ARG,DM,24-295,82,0,0,0,0,5,2,0,0,75,0,0,0,0.2,0.2,0.5,4,0,61,69,88.4,13,62,2,0,0,Chelsea
+Andrey Santos,17.0,br BRA,DM,21-189,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Chelsea
+Moisés Caicedo,25.0,ec ECU,DM,24-006,90,0,0,0,0,0,0,1,0,69,3,1,1,0.0,0.0,0.0,3,1,54,62,87.1,6,45,1,2,1,Chelsea
+Marc Cucurella,3.0,es ESP,LB,27-109,90,0,0,0,0,2,0,0,0,97,1,2,0,0.1,0.1,0.0,5,2,81,88,92.0,10,70,4,0,0,Chelsea
+Trevoh Chalobah,23.0,eng ENG,CB,26-126,90,0,0,0,0,0,0,0,0,89,0,1,1,0.0,0.0,0.0,1,0,77,79,97.5,3,71,1,1,0,Chelsea
+Wesley Fofana,29.0,fr FRA,CB,24-326,90,0,0,0,0,1,0,0,0,95,1,2,0,0.1,0.1,0.0,1,0,79,86,91.9,5,73,0,1,0,Chelsea
+Malo Gusto,27.0,fr FRA,RB,22-173,76,1,0,0,0,1,1,0,0,69,1,1,0,0.6,0.6,0.0,3,0,45,59,76.3,3,50,0,3,3,Chelsea
+Reece James,24.0,eng ENG,RB,25-335,14,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,13,19,68.4,1,14,0,0,0,Chelsea
+Robert Sánchez,1.0,es ESP,GK,27-355,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,24,29,82.8,0,21,0,0,0,Chelsea
+16 Players,,,,,990,3,2,0,0,20,8,1,0,745,9,7,3,3.3,3.3,2.8,35,6,560,654,85.6,53,559,28,21,9,Chelsea
+Hwang Hee-chan,11.0,kr KOR,FW,29-286,69,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,20,22,90.9,3,20,1,1,0,Wolverhampton Wanderers
+Mateus Mane,36.0,pt POR,FW,18-053,21,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.1,1,0,6,7,85.7,2,6,1,0,0,Wolverhampton Wanderers
+Jørgen Strand Larsen,9.0,no NOR,FW,25-275,90,0,0,0,0,1,0,0,0,26,0,0,0,0.1,0.1,0.0,0,0,12,18,66.7,1,15,2,0,0,Wolverhampton Wanderers
+João Gomes,8.0,br BRA,CM,24-269,90,0,0,0,0,0,0,0,0,56,2,1,1,0.0,0.0,0.0,0,0,39,47,83.0,7,38,2,3,2,Wolverhampton Wanderers
+André,7.0,br BRA,CM,24-115,90,0,0,0,0,0,0,1,0,36,2,2,2,0.0,0.0,0.0,0,0,23,26,88.5,2,17,0,1,1,Wolverhampton Wanderers
+Jean-Ricner Bellegarde,27.0,ht HAI,CM,27-134,69,0,0,0,0,1,0,0,0,32,0,1,1,0.0,0.0,0.0,1,0,15,22,68.2,1,20,1,1,0,Wolverhampton Wanderers
+Marshall Munetsi,5.0,zw ZIM,CM,29-139,21,0,0,0,0,1,0,1,0,11,1,1,1,0.1,0.1,0.0,1,0,3,5,60.0,0,4,1,0,0,Wolverhampton Wanderers
+Hugo Bueno,3.0,es ESP,LB,23-051,90,0,0,0,0,0,0,0,0,52,2,1,0,0.0,0.0,0.0,2,0,37,42,88.1,2,18,2,1,0,Wolverhampton Wanderers
+Toti Gomes,24.0,pt POR,CB,26-296,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,41,47,87.2,3,31,0,1,1,Wolverhampton Wanderers
+Ladislav Krejčí,37.0,cz CZE,CB,26-202,90,0,0,0,0,0,0,0,0,54,0,3,3,0.0,0.0,0.0,0,0,38,43,88.4,0,28,0,0,0,Wolverhampton Wanderers
+Santiago Bueno,4.0,uy URU,CB,26-364,90,0,0,0,0,0,0,0,0,36,1,1,0,0.0,0.0,0.0,0,0,27,30,90.0,1,17,0,0,0,Wolverhampton Wanderers
+Jackson Tchatchoua,38.0,cm CMR,RB,24-055,90,0,0,0,0,0,0,0,0,39,1,2,2,0.0,0.0,0.0,0,0,16,25,64.0,1,10,1,1,0,Wolverhampton Wanderers
+Sam Johnstone,31.0,eng ENG,GK,32-228,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,27,45,60.0,0,28,0,0,0,Wolverhampton Wanderers
+13 Players,,,,,990,0,0,0,0,3,0,2,0,486,10,12,11,0.2,0.2,0.1,5,0,304,379,80.2,23,252,11,9,4,Wolverhampton Wanderers

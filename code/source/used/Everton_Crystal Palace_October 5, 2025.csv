@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Thierno Barry,11.0,fr FRA,FW,22-349,45,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,4,8,50.0,0,9,0,2,0,Everton
+Beto,9.0,gw GNB,FW,27-247,45,0,0,0,0,2,1,0,0,19,2,0,0,0.4,0.4,0.0,2,1,6,7,85.7,0,12,0,4,2,Everton
+Jack Grealish,18.0,eng ENG,LW,30-025,90,1,0,0,0,3,3,0,0,56,1,0,0,0.5,0.5,0.0,1,0,38,46,82.6,5,43,7,4,2,Everton
+Tyler Dibling,20.0,eng ENG,RW,19-207,45,0,0,0,0,0,0,0,0,16,1,0,1,0.0,0.0,0.0,0,0,6,8,75.0,0,14,1,3,0,Everton
+Carlos Alcaraz,24.0,ar ARG,AM,22-309,45,0,0,0,0,2,1,0,0,31,2,0,1,0.2,0.2,0.0,4,0,18,24,75.0,4,19,1,2,1,Everton
+Iliman Ndiaye,10.0,sn SEN,"RW,AM",25-213,89,1,0,1,1,0,0,1,0,36,3,1,0,0.8,0.0,0.3,2,0,18,25,72.0,0,22,1,3,0,Everton
+Séamus Coleman,23.0,ie IRL,RW,36-359,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Everton
+Idrissa Gana Gueye,27.0,sn SEN,DM,36-009,90,0,0,0,0,0,0,0,0,61,1,0,2,0.0,0.0,0.0,2,0,48,54,88.9,8,45,0,1,0,Everton
+James Garner,37.0,eng ENG,"DM,RB",24-206,90,0,0,0,0,1,0,1,0,69,1,2,2,0.0,0.0,0.1,1,0,52,59,88.1,4,43,1,0,0,Everton
+Vitaliy Mykolenko,16.0,ua UKR,LB,26-129,90,0,0,0,0,1,0,0,0,82,1,4,0,0.0,0.0,0.2,2,1,49,70,70.0,4,47,5,0,0,Everton
+Michael Keane,5.0,eng ENG,CB,32-267,64,0,0,0,0,3,0,0,0,45,1,1,1,0.2,0.2,0.0,1,0,24,27,88.9,3,25,1,1,1,Everton
+Tim Iroegbunam,42.0,eng ENG,DM,22-097,26,0,0,0,0,0,0,0,0,14,1,1,0,0.0,0.0,0.0,2,1,9,10,90.0,1,10,0,0,0,Everton
+James Tarkowski,6.0,eng ENG,CB,32-320,90,0,0,0,0,0,0,0,0,70,2,1,4,0.0,0.0,0.1,3,0,46,54,85.2,1,40,0,0,0,Everton
+Jake O'Brien,15.0,ie IRL,"RB,CB",24-143,90,0,0,0,0,1,1,0,0,66,3,1,1,0.1,0.1,0.0,2,0,37,53,69.8,4,32,1,1,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,31-212,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,27,41,65.9,0,27,0,0,0,Everton
+15 Players,,,,,990,2,0,1,1,13,6,2,0,629,19,11,12,2.2,1.4,0.8,23,3,382,486,78.6,34,388,18,21,6,Everton
+Jean-Philippe Mateta,14.0,fr FRA,FW,28-099,69,0,0,0,0,3,1,0,0,19,0,0,0,0.5,0.5,0.0,0,0,5,11,45.5,1,10,1,0,0,Crystal Palace
+Eddie Nketiah,9.0,eng ENG,FW,26-128,21,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Crystal Palace
+Yeremi Pino,10.0,es ESP,AM,22-350,87,0,0,0,0,1,1,1,0,47,4,0,0,0.0,0.0,0.2,6,1,28,37,75.7,9,30,3,3,1,Crystal Palace
+Justin Devenny,55.0,nir NIR,AM,21-359,3,0,0,0,0,2,1,0,0,5,0,0,0,0.3,0.3,0.0,0,0,0,1,0.0,0,3,0,0,0,Crystal Palace
+Ismaila Sarr,7.0,sn SEN,AM,27-222,87,0,1,0,0,1,0,0,0,39,2,0,3,0.2,0.2,0.2,4,1,18,24,75.0,5,23,3,3,1,Crystal Palace
+Christantus Uche,12.0,ng NGA,AM,22-139,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Crystal Palace
+Daichi Kamada,18.0,jp JPN,CM,29-061,81,0,0,0,0,2,0,0,0,55,8,0,1,0.1,0.1,0.0,1,0,35,41,85.4,1,36,0,1,0,Crystal Palace
+Jefferson Lerma,8.0,co COL,CM,30-345,9,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,5,8,62.5,0,4,0,0,0,Crystal Palace
+Adam Wharton,20.0,eng ENG,CM,21-241,90,0,0,0,0,1,0,1,0,61,3,3,0,0.0,0.0,0.1,3,0,38,48,79.2,8,38,3,0,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,WB,26-034,90,0,0,0,0,2,1,0,0,67,3,2,1,0.1,0.1,0.0,1,0,37,44,84.1,2,37,1,5,0,Crystal Palace
+Daniel Muñoz,2.0,co COL,WB,29-132,90,1,0,0,0,1,1,1,0,61,7,5,3,0.1,0.1,0.0,0,0,27,37,73.0,4,25,1,1,0,Crystal Palace
+Marc Guéhi,6.0,eng ENG,CB,25-084,90,0,0,0,0,1,1,0,0,105,2,1,0,0.2,0.2,0.0,2,0,78,91,85.7,9,73,1,1,0,Crystal Palace
+Maxence Lacroix,5.0,fr FRA,CB,25-182,90,0,0,0,0,0,0,0,0,62,1,1,1,0.0,0.0,0.0,1,0,46,50,92.0,0,41,0,1,0,Crystal Palace
+Chris Richards,26.0,us USA,CB,25-191,90,0,0,0,0,1,0,0,0,55,1,2,2,0.1,0.1,0.2,4,0,31,40,77.5,1,29,0,0,0,Crystal Palace
+Dean Henderson,1.0,eng ENG,GK,28-207,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,21,36,58.3,0,29,0,0,0,Crystal Palace
+15 Players,,,,,990,1,1,0,0,15,6,3,0,633,31,14,11,1.6,1.6,0.8,23,2,372,473,78.6,40,383,13,15,2,Crystal Palace

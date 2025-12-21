@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Viktor Gyökeres,14.0,se SWE,FW,27-192,80,0,0,0,0,1,0,0,0,14,1,0,0,0.0,0.0,0.0,1,0,3,7,42.9,0,11,2,1,0,Arsenal
+Gabriel Jesus,9.0,br BRA,FW,28-254,10,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,1,6,3,1,0,Arsenal
+Gabriel Martinelli,11.0,br BRA,LW,24-178,56,0,0,0,0,4,0,0,0,29,0,0,1,0.3,0.3,0.0,2,0,13,20,65.0,2,23,3,2,1,Arsenal
+Leandro Trossard,19.0,be BEL,LW,31-009,34,0,0,0,0,1,0,0,0,20,1,0,0,0.0,0.0,0.2,4,0,13,14,92.9,5,16,2,0,0,Arsenal
+Bukayo Saka,7.0,eng ENG,RW,24-099,90,0,0,0,0,1,0,0,0,55,0,0,0,0.0,0.0,0.3,9,0,41,51,80.4,8,45,7,4,4,Arsenal
+Declan Rice,41.0,eng ENG,"LM,CM",26-333,90,0,0,0,0,3,1,0,0,91,0,0,0,0.1,0.1,0.2,2,0,63,84,75.0,5,57,2,1,1,Arsenal
+Martín Zubimendi,36.0,es ESP,CM,26-314,56,0,0,0,0,0,0,0,0,59,0,2,0,0.0,0.0,0.0,1,0,48,55,87.3,6,44,1,0,0,Arsenal
+Mikel Merino,23.0,es ESP,LM,29-174,34,0,0,0,0,1,0,0,0,21,0,0,0,0.1,0.1,0.0,0,0,9,14,64.3,0,7,0,0,0,Arsenal
+Eberechi Eze,10.0,eng ENG,RM,27-167,56,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,1,0,22,28,78.6,4,25,3,4,2,Arsenal
+Martin Ødegaard,8.0,no NOR,RM,26-361,34,0,0,0,0,2,0,0,0,34,0,0,0,0.1,0.1,0.0,1,0,24,29,82.8,3,29,1,1,0,Arsenal
+Piero Hincapié,5.0,ec ECU,"CB,LB",23-338,90,0,0,0,0,0,0,0,0,95,1,3,1,0.0,0.0,0.1,2,0,76,81,93.8,6,71,0,0,0,Arsenal
+William Saliba,2.0,fr FRA,CB,24-264,90,0,0,0,0,0,0,0,0,90,1,2,0,0.0,0.0,0.0,1,0,80,85,94.1,6,64,0,1,1,Arsenal
+Jurriën Timber,12.0,nl NED,"RB,CB",24-179,90,0,0,0,0,1,0,0,0,73,0,0,0,0.2,0.2,0.0,2,0,58,68,85.3,16,59,4,0,0,Arsenal
+Ben White,4.0,eng ENG,RB,28-066,30,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,0,0,17,22,77.3,3,21,1,0,0,Arsenal
+Myles Lewis-Skelly,49.0,eng ENG,LB,19-078,60,0,0,0,0,1,0,0,0,45,1,0,1,0.1,0.1,0.1,3,0,34,41,82.9,3,31,2,1,1,Arsenal
+David Raya,1.0,es ESP,GK,30-089,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,25,27,92.6,1,23,0,0,0,Arsenal
+16 Players,,,,,990,0,0,0,0,16,2,0,0,717,5,8,4,1.1,1.1,0.9,30,0,529,629,84.1,69,532,31,16,10,Arsenal
+Hwang Hee-chan,11.0,kr KOR,FW,29-321,79,0,0,0,0,1,1,1,0,21,0,0,0,0.1,0.1,0.0,0,0,10,12,83.3,1,10,2,2,0,Wolverhampton Wanderers
+Jhon Arias,10.0,co COL,"AM,FW",28-083,11,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,1,10,11,90.9,0,9,0,0,0,Wolverhampton Wanderers
+Jørgen Strand Larsen,9.0,no NOR,FW,25-310,68,0,0,0,0,1,0,0,0,17,1,1,1,0.1,0.1,0.0,0,0,3,7,42.9,1,8,0,0,0,Wolverhampton Wanderers
+Tolu Arokodare,14.0,ng NGA,FW,25-020,22,1,0,0,0,1,1,0,0,13,0,0,0,0.1,0.1,0.0,0,0,6,6,100.0,0,9,0,2,1,Wolverhampton Wanderers
+Ladislav Krejčí,37.0,cz CZE,CM,26-237,79,0,0,0,0,0,0,0,0,25,1,0,2,0.0,0.0,0.0,0,0,8,18,44.4,2,12,0,0,0,Wolverhampton Wanderers
+Fer López,28.0,es ESP,"AM,CM",21-203,11,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,2,10,0,1,1,Wolverhampton Wanderers
+André,7.0,br BRA,"CM,DM",24-150,90,0,0,0,0,0,0,0,0,41,0,1,1,0.0,0.0,0.0,0,0,26,30,86.7,4,23,0,0,0,Wolverhampton Wanderers
+João Gomes,8.0,br BRA,"CM,DM",24-304,90,0,0,0,0,0,0,0,0,42,3,2,3,0.0,0.0,0.0,1,0,22,31,71.0,3,18,2,1,1,Wolverhampton Wanderers
+David Møller Wolfe,6.0,no NOR,"WB,LB",23-234,90,0,0,0,0,0,0,0,0,32,0,0,1,0.0,0.0,0.1,1,0,20,25,80.0,1,9,0,0,0,Wolverhampton Wanderers
+Matt Doherty,2.0,ie IRL,WB,33-331,68,0,0,0,0,0,0,1,0,18,1,0,1,0.0,0.0,0.0,0,0,9,12,75.0,2,6,0,1,0,Wolverhampton Wanderers
+Jackson Tchatchoua,38.0,cm CMR,"WB,RB",24-090,22,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,6,0,1,0,Wolverhampton Wanderers
+Toti Gomes,24.0,pt POR,CB,26-331,85,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,0,0,13,16,81.3,1,14,0,0,0,Wolverhampton Wanderers
+Mateus Mane,36.0,pt POR,FW,18-088,5,0,1,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.1,1,1,1,3,33.3,0,2,0,1,0,Wolverhampton Wanderers
+Emmanuel Agbadou,12.0,ci CIV,CB,28-179,90,0,0,0,0,0,0,1,0,43,1,0,0,0.0,0.0,0.0,0,0,25,32,78.1,3,25,0,0,0,Wolverhampton Wanderers
+Yerson Mosquera,15.0,co COL,CB,24-225,90,0,0,0,0,0,0,1,0,36,0,1,1,0.0,0.0,0.1,0,0,14,24,58.3,1,13,0,1,1,Wolverhampton Wanderers
+Sam Johnstone,31.0,eng ENG,GK,32-263,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,12,38,31.6,0,14,0,0,0,Wolverhampton Wanderers
+16 Players,,,,,990,1,1,0,0,3,2,4,0,396,8,5,11,0.3,0.3,0.3,4,2,192,283,67.8,21,188,4,10,4,Wolverhampton Wanderers

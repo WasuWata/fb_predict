@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Zian Flemming,19.0,nl NED,FW,27-092,75,0,0,0,0,1,0,1,0,25,0,0,0,0.0,0.0,0.0,0,0,10,18,55.6,0,16,0,0,0,Burnley
+Armando Broja,27.0,al ALB,FW,24-052,15,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Burnley
+Jaidon Anthony,11.0,eng ENG,LM,25-335,61,0,0,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,20,21,95.2,0,16,2,2,0,Burnley
+Loum Tchaouna,17.0,fr FRA,"RW,RM",22-054,29,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,10,15,66.7,2,7,0,1,1,Burnley
+Florentino Luís,16.0,pt POR,"CM,DM",26-074,90,0,0,0,0,1,0,0,0,60,3,0,2,0.3,0.3,0.0,1,0,43,47,91.5,4,35,1,2,1,Burnley
+Josh Cullen,24.0,ie IRL,"CM,DM",29-208,82,0,0,0,0,0,0,1,0,41,2,1,0,0.0,0.0,0.0,0,0,33,37,89.2,3,21,0,1,1,Burnley
+Marcus Edwards,10.0,eng ENG,AM,26-333,8,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,3,5,60.0,1,5,1,0,0,Burnley
+Lesley Ugochukwu,8.0,fr FRA,RM,21-220,61,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,15,15,100.0,1,16,2,1,0,Burnley
+Jacob Bruun Larsen,7.0,dk DEN,"LW,LM",27-043,29,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,2,0,12,17,70.6,1,16,2,2,0,Burnley
+Quilindschy Hartman,3.0,nl NED,LB,23-352,90,0,0,0,0,0,0,0,0,57,2,1,0,0.0,0.0,0.0,0,0,39,49,79.6,6,26,0,0,0,Burnley
+Maxime Estève,5.0,fr FRA,CB,23-159,90,0,0,0,0,0,0,0,0,53,0,1,0,0.0,0.0,0.3,1,0,43,47,91.5,3,32,1,0,0,Burnley
+Axel Tuanzebe,6.0,cd COD,CB,27-352,90,0,0,0,0,0,0,0,0,71,0,1,1,0.0,0.0,0.0,1,0,44,53,83.0,3,38,0,0,0,Burnley
+Josh Laurent,29.0,eng ENG,CB,30-179,75,0,0,0,0,0,0,0,0,45,0,2,1,0.0,0.0,0.0,0,0,30,37,81.1,3,28,1,1,0,Burnley
+Hannibal Mejbri,28.0,tn TUN,"DM,AM",22-284,15,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,1,0,12,18,66.7,1,17,1,3,3,Burnley
+Kyle Walker,2.0,eng ENG,RB,35-157,90,0,0,0,0,0,0,0,0,59,4,1,2,0.0,0.0,0.0,0,0,28,43,65.1,1,24,2,2,0,Burnley
+Martin Dúbravka,1.0,sk SVK,GK,36-290,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,23,38,60.5,0,17,0,0,0,Burnley
+16 Players,,,,,990,0,0,0,0,3,0,2,0,568,14,7,7,0.4,0.4,0.3,6,0,365,462,79.0,29,314,13,15,6,Burnley
+Viktor Gyökeres,14.0,se SWE,FW,27-150,45,1,0,0,0,1,1,0,0,17,0,0,1,0.9,0.9,0.8,5,1,10,13,76.9,3,8,2,0,0,Arsenal
+Mikel Merino,23.0,es ESP,FW,29-132,45,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.1,2,0,10,12,83.3,3,9,0,0,0,Arsenal
+Leandro Trossard,19.0,be BEL,LW,30-332,89,0,1,0,0,2,1,0,0,51,1,0,3,0.3,0.3,0.3,3,1,21,33,63.6,4,35,4,6,2,Arsenal
+Myles Lewis-Skelly,49.0,eng ENG,LM,19-036,1,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,0,0,0,0,Arsenal
+Bukayo Saka,7.0,eng ENG,"RW,LW",24-057,90,0,0,0,0,2,2,0,0,34,1,0,1,0.6,0.6,0.1,3,0,19,25,76.0,2,15,3,2,0,Arsenal
+Declan Rice,41.0,eng ENG,"LM,CM",26-291,90,1,0,0,0,1,1,0,0,87,5,3,1,0.2,0.2,0.0,2,1,65,75,86.7,5,55,2,2,1,Arsenal
+Martín Zubimendi,36.0,es ESP,"CM,RM",26-272,76,0,0,0,0,0,0,0,0,80,1,2,0,0.0,0.0,0.0,2,0,63,76,82.9,3,46,0,0,0,Arsenal
+Christian Nørgaard,16.0,dk DEN,CM,31-236,14,0,0,0,0,1,1,0,0,11,0,0,0,0.1,0.1,0.0,0,0,3,5,60.0,1,2,0,0,0,Arsenal
+Eberechi Eze,10.0,eng ENG,"RM,LM",27-125,71,0,0,0,0,1,0,0,0,29,1,0,0,0.1,0.1,0.0,1,0,21,21,100.0,4,24,1,2,1,Arsenal
+Ethan Nwaneri,22.0,eng ENG,"RM,RW",18-225,19,0,0,0,0,1,0,0,0,12,1,0,1,0.0,0.0,0.0,1,0,6,7,85.7,0,7,1,2,1,Arsenal
+Riccardo Calafiori,33.0,it ITA,LB,23-166,71,0,0,0,0,1,1,0,0,49,1,0,2,0.1,0.1,0.0,0,0,33,38,86.8,2,21,3,0,0,Arsenal
+Piero Hincapié,5.0,ec ECU,"LB,CB",23-296,19,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,1,5,2,0,0,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,27-317,90,0,1,0,0,0,0,1,0,71,1,1,0,0.0,0.0,0.9,1,1,55,59,93.2,2,51,0,0,0,Arsenal
+William Saliba,2.0,fr FRA,CB,24-222,90,0,0,0,0,0,0,0,0,94,2,0,0,0.0,0.0,0.0,1,0,83,87,95.4,3,70,1,0,0,Arsenal
+Jurriën Timber,12.0,nl NED,"RB,RM",24-137,90,0,0,0,0,2,0,0,0,50,2,0,2,0.2,0.2,0.0,0,0,33,40,82.5,3,24,0,0,0,Arsenal
+David Raya,1.0,es ESP,GK,30-047,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,18,31,58.1,0,26,0,0,0,Arsenal
+16 Players,,,,,990,2,2,0,0,12,7,1,0,647,16,6,13,2.4,2.4,2.1,22,4,448,534,83.9,36,398,19,14,5,Arsenal

@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Zian Flemming,19.0,nl NED,FW,27-078,76,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,0,0,7,15,46.7,0,13,0,2,1,Burnley
+Josh Laurent,29.0,eng ENG,CB,30-165,14,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Burnley
+Jaidon Anthony,11.0,eng ENG,"LW,RW,FW",25-321,82,0,0,0,0,0,0,1,0,39,0,1,0,0.0,0.0,0.0,0,0,13,22,59.1,0,18,2,3,0,Burnley
+Ashley Barnes,35.0,eng ENG,FW,35-353,8,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,0,3,0,1,1,Burnley
+Jacob Bruun Larsen,7.0,dk DEN,RW,27-029,57,0,0,0,0,1,1,0,0,19,0,0,0,0.0,0.0,0.0,1,0,9,14,64.3,0,9,2,1,0,Burnley
+Loum Tchaouna,17.0,fr FRA,"LW,LM,RM",22-040,33,1,0,0,0,1,1,0,0,12,0,1,0,0.0,0.0,0.0,0,0,2,4,50.0,0,6,0,1,0,Burnley
+Lesley Ugochukwu,8.0,fr FRA,"AM,CM",21-206,82,1,0,0,0,1,1,0,0,27,0,3,1,0.4,0.4,0.0,1,0,13,19,68.4,3,16,2,1,0,Burnley
+Hannibal Mejbri,28.0,tn TUN,"RM,CM",22-270,8,0,0,0,0,0,0,1,0,4,3,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Burnley
+Florentino Luís,16.0,pt POR,"DM,CM",26-060,90,0,1,0,0,1,0,0,0,46,3,2,3,0.0,0.0,0.0,1,1,25,28,89.3,1,25,0,1,0,Burnley
+Josh Cullen,24.0,ie IRL,"DM,CM,LM",29-194,90,0,0,0,0,0,0,0,0,53,0,2,2,0.0,0.0,0.0,3,2,39,44,88.6,5,24,0,1,0,Burnley
+Quilindschy Hartman,3.0,nl NED,LB,23-338,90,0,0,0,0,0,0,0,0,59,4,1,1,0.0,0.0,0.0,1,0,34,46,73.9,2,21,0,0,0,Burnley
+Maxime Estève,5.0,fr FRA,CB,23-145,90,0,0,0,0,0,0,0,0,41,2,2,1,0.0,0.0,0.0,0,0,20,26,76.9,0,24,0,0,0,Burnley
+Axel Tuanzebe,6.0,cd COD,CB,27-338,90,0,0,0,0,0,0,0,0,37,0,1,0,0.0,0.0,0.0,0,0,21,26,80.8,0,21,0,0,0,Burnley
+Kyle Walker,2.0,eng ENG,RB,35-143,90,0,1,0,0,0,0,0,0,56,1,4,0,0.0,0.0,0.4,1,1,33,43,76.7,3,24,2,0,0,Burnley
+Martin Dúbravka,1.0,sk SVK,GK,36-276,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,18,28,64.3,0,13,0,0,0,Burnley
+15 Players,,,,,990,2,2,0,0,4,3,2,0,464,14,17,8,0.5,0.5,0.4,8,4,236,322,73.3,14,218,8,11,2,Burnley
+Dominic Calvert-Lewin,9.0,eng ENG,FW,28-216,90,0,0,0,0,4,0,0,0,24,0,0,1,0.3,0.3,0.4,2,0,11,14,78.6,1,6,0,1,0,Leeds United
+Jack Harrison,20.0,eng ENG,LW,28-332,65,0,0,0,0,2,0,0,0,48,1,1,0,0.1,0.1,0.3,2,0,30,41,73.2,4,32,1,0,0,Leeds United
+Lukas Nmecha,14.0,de GER,LW,26-308,25,0,0,0,0,2,1,0,0,7,0,0,0,0.7,0.7,0.0,0,0,2,4,50.0,1,2,0,0,0,Leeds United
+Brenden Aaronson,11.0,us USA,RW,24-361,65,0,0,0,0,1,1,0,0,36,1,3,3,0.3,0.3,0.2,2,0,20,24,83.3,2,20,3,1,1,Leeds United
+Daniel James,7.0,wls WAL,RW,27-342,25,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.2,4,0,8,16,50.0,1,12,7,2,0,Leeds United
+Anton Stach,18.0,de GER,LM,26-337,72,0,0,0,0,2,1,0,0,54,0,1,0,0.2,0.2,0.0,0,0,42,49,85.7,6,32,1,0,0,Leeds United
+Joël Piroe,10.0,nl NED,AM,26-077,18,0,0,0,0,2,0,0,0,16,0,1,0,0.2,0.2,0.0,1,0,8,11,72.7,0,8,0,0,0,Leeds United
+Ethan Ampadu,4.0,wls WAL,"CM,DM",25-034,80,0,0,0,0,1,0,0,0,84,5,1,1,0.1,0.1,0.0,3,0,65,75,86.7,8,49,3,0,0,Leeds United
+Ao Tanaka,22.0,jp JPN,DM,27-038,10,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.0,3,0,15,19,78.9,2,16,1,0,0,Leeds United
+Sean Longstaff,8.0,eng ENG,"RM,DM",27-353,90,0,0,0,0,0,0,0,0,78,0,2,0,0.0,0.0,0.2,6,0,57,68,83.8,4,43,1,1,0,Leeds United
+Gabriel Gudmundsson,3.0,se SWE,LB,26-172,90,0,0,0,0,0,0,0,0,84,2,1,2,0.0,0.0,0.9,7,0,62,79,78.5,1,58,7,5,4,Leeds United
+Pascal Struijk,5.0,nl NED,CB,26-068,90,0,0,0,0,2,0,1,0,112,2,0,0,0.2,0.2,0.0,2,0,92,101,91.1,5,77,0,0,0,Leeds United
+Joe Rodon,6.0,wls WAL,CB,27-361,90,0,0,0,0,1,1,0,0,112,1,1,1,0.0,0.0,0.0,2,0,94,104,90.4,12,81,3,0,0,Leeds United
+Jayden Bogle,2.0,eng ENG,RB,25-083,90,0,0,0,0,2,0,0,0,67,0,1,1,0.5,0.5,0.0,2,0,44,57,77.2,4,42,4,2,1,Leeds United
+Karl Darlow,26.0,wls WAL,GK,35-010,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,19,29,65.5,0,24,0,0,0,Leeds United
+15 Players,,,,,990,0,0,0,0,19,4,1,0,790,13,12,10,2.6,2.6,2.3,36,0,569,691,82.3,51,502,31,12,6,Leeds United

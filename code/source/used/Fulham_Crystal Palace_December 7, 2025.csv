@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Raúl Jiménez,7.0,mx MEX,FW,34-216,90,0,1,0,0,2,0,0,0,27,0,0,1,0.1,0.1,0.1,2,1,9,16,56.3,1,11,0,0,0,Fulham
+Samuel Chukwueze,19.0,ng NGA,"LW,RW",26-199,75,0,0,0,0,1,0,0,0,39,1,0,0,0.0,0.0,0.0,1,0,23,32,71.9,3,22,3,5,3,Fulham
+Joshua King,24.0,eng ENG,AM,18-338,15,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,5,0,3,1,Fulham
+Harry Wilson,8.0,wls WAL,"RW,AM",28-260,87,1,0,0,0,2,2,0,0,41,0,0,0,0.1,0.1,0.0,3,1,25,32,78.1,4,22,0,1,0,Fulham
+Tom Cairney,10.0,sct SCO,DM,34-321,3,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,3,0,0,0,Fulham
+Emile Smith Rowe,32.0,eng ENG,AM,25-132,67,0,0,0,0,2,1,0,0,33,0,2,1,0.3,0.3,0.0,0,0,23,27,85.2,2,22,4,1,1,Fulham
+Kevin,22.0,br BRA,LW,22-337,23,0,0,0,0,1,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,9,15,60.0,1,10,1,0,0,Fulham
+Alex Iwobi,17.0,ng NGA,DM,29-218,88,0,0,0,0,1,1,0,0,74,3,0,0,0.1,0.1,0.1,2,0,52,63,82.5,5,42,2,3,1,Fulham
+Adama Traoré,11.0,es ESP,RW,29-316,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0,Fulham
+Sander Berge,16.0,no NOR,DM,27-296,75,0,0,0,0,0,0,0,0,51,1,0,1,0.0,0.0,0.2,3,0,40,43,93.0,5,18,2,1,0,Fulham
+Saša Lukić,20.0,rs SRB,DM,29-116,15,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,8,9,88.9,0,6,0,0,0,Fulham
+Timothy Castagne,21.0,be BEL,LB,30-002,90,0,0,0,0,0,0,0,0,68,1,1,0,0.0,0.0,0.0,2,0,51,62,82.3,6,25,1,0,0,Fulham
+Calvin Bassey,3.0,ng NGA,CB,25-341,90,0,0,0,0,1,0,0,0,137,2,0,3,0.0,0.0,0.0,1,0,108,121,89.3,13,92,3,2,0,Fulham
+Joachim Andersen,5.0,dk DEN,CB,29-190,90,0,0,0,0,0,0,0,0,162,0,2,0,0.0,0.0,0.1,3,0,136,153,88.9,13,111,0,1,1,Fulham
+Kenny Tete,2.0,nl NED,RB,30-059,90,0,0,0,0,2,0,0,0,91,4,2,1,0.1,0.1,0.0,4,0,65,74,87.8,5,31,2,3,2,Fulham
+Bernd Leno,1.0,de GER,GK,33-278,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,26,28,92.9,0,13,0,0,0,Fulham
+16 Players,,,,,990,1,1,0,0,12,4,0,0,797,12,8,7,0.8,0.8,0.6,22,2,589,689,85.5,59,435,18,20,9,Fulham
+Jean-Philippe Mateta,14.0,fr FRA,FW,28-162,65,0,0,0,0,2,1,0,0,24,1,0,1,0.2,0.2,0.3,1,0,8,11,72.7,2,16,0,2,0,Crystal Palace
+Christantus Uche,12.0,ng NGA,FW,22-202,25,0,0,0,0,1,1,0,0,11,0,0,0,0.1,0.1,0.0,1,0,5,5,100.0,1,5,0,0,0,Crystal Palace
+Yeremi Pino,10.0,es ESP,AM,23-048,89,0,1,0,0,2,0,0,0,46,1,2,0,0.3,0.3,0.4,5,2,28,37,75.7,4,28,1,3,2,Crystal Palace
+Justin Devenny,55.0,nir NIR,LM,22-057,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,1,0,Crystal Palace
+Eddie Nketiah,9.0,eng ENG,AM,26-191,64,1,0,0,0,2,2,0,0,27,1,0,4,0.6,0.6,0.0,1,0,8,11,72.7,1,16,0,2,0,Crystal Palace
+Jefferson Lerma,8.0,co COL,CM,31-043,26,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,11,16,68.8,1,8,0,0,0,Crystal Palace
+Daichi Kamada,18.0,jp JPN,"CM,AM,RM",29-124,90,0,0,0,0,1,0,0,0,52,1,1,1,0.1,0.1,0.0,5,0,37,41,90.2,6,32,2,2,1,Crystal Palace
+Adam Wharton,20.0,eng ENG,CM,21-304,90,0,1,0,0,1,0,0,0,57,2,3,0,0.0,0.0,0.5,2,1,41,44,93.2,8,29,0,2,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,"WB,LB",26-097,90,0,0,0,0,0,0,0,0,47,3,0,2,0.0,0.0,0.1,3,0,23,34,67.6,0,28,2,4,3,Crystal Palace
+Nathaniel Clyne,17.0,eng ENG,WB,34-246,76,0,0,0,0,1,0,0,0,38,2,1,1,0.3,0.3,0.1,1,0,17,24,70.8,4,16,1,0,0,Crystal Palace
+Jaydee Canvot,23.0,fr FRA,"WB,RB",19-131,14,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,4,0,0,0,Crystal Palace
+Marc Guéhi,6.0,eng ENG,CB,25-147,90,1,0,0,0,1,1,0,0,54,2,1,2,0.2,0.2,0.0,2,1,44,49,89.8,6,41,2,0,0,Crystal Palace
+Maxence Lacroix,5.0,fr FRA,CB,25-245,90,0,0,0,0,0,0,0,0,53,4,0,1,0.0,0.0,0.0,0,0,38,43,88.4,3,39,0,0,0,Crystal Palace
+Chris Richards,26.0,us USA,CB,25-254,90,0,0,0,0,0,0,0,0,59,2,1,0,0.0,0.0,0.0,0,0,32,44,72.7,4,34,0,1,0,Crystal Palace
+Dean Henderson,1.0,eng ENG,GK,28-270,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,21,34,61.8,1,24,0,0,0,Crystal Palace
+15 Players,,,,,990,2,2,0,0,11,5,0,0,536,20,9,12,1.7,1.7,1.3,21,4,321,403,79.7,41,322,8,17,6,Crystal Palace

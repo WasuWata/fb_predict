@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Wilson Isidor,18.0,fr FRA,FW,25-094,62,0,0,0,0,1,1,0,0,12,0,0,0,0.0,0.0,0.0,0,0,5,10,50.0,0,4,0,0,0,Sunderland
+Brian Brobbey,9.0,nl NED,FW,23-301,28,1,0,0,0,2,2,0,0,11,0,0,0,0.3,0.3,0.0,0,0,4,5,80.0,1,6,0,1,0,Sunderland
+Chemsdine Talbi,7.0,ma MAR,LW,20-204,62,0,0,0,0,2,0,0,0,17,0,0,0,0.1,0.1,0.0,0,0,8,14,57.1,1,11,6,4,3,Sunderland
+Romaine Mundle,14.0,eng ENG,"LW,LM",22-219,28,0,0,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,4,3,1,1,Sunderland
+Bertrand Traoré,25.0,bf BFA,RW,30-084,62,1,0,0,0,3,2,0,0,42,2,0,0,0.1,0.1,0.1,4,1,18,26,69.2,7,25,4,6,2,Sunderland
+Trai Hume,32.0,nir NIR,"RW,RB",23-256,28,0,0,0,0,0,0,1,0,19,3,0,0,0.0,0.0,0.1,2,0,4,12,33.3,1,4,0,0,0,Sunderland
+Enzo Le Fée,28.0,fr FRA,AM,25-299,85,1,1,1,1,1,0,0,0,48,1,2,1,0.8,0.0,0.3,4,2,27,39,69.2,5,24,3,2,0,Sunderland
+Lutsharel Geertruida,6.0,nl NED,RM,25-134,5,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Sunderland
+Noah Sadiki,27.0,cd COD,"DM,CM",20-347,90,0,0,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.0,0,0,21,27,77.8,2,24,1,3,1,Sunderland
+Granit Xhaka,34.0,ch SUI,"DM,CM",33-063,90,0,1,0,0,0,0,0,0,74,0,0,1,0.0,0.0,0.1,5,1,47,63,74.6,10,34,3,4,0,Sunderland
+Reinildo Mandava,17.0,mz MOZ,LB,31-312,90,0,0,0,0,1,0,0,0,33,2,0,1,0.0,0.0,0.0,2,2,14,21,66.7,1,15,1,3,1,Sunderland
+Omar Alderete,15.0,py PAR,CB,28-338,90,0,0,0,0,0,0,1,0,33,1,1,1,0.0,0.0,0.0,0,0,16,21,76.2,0,12,0,1,0,Sunderland
+Daniel Ballard,5.0,nir NIR,CB,26-068,90,0,0,0,0,1,0,0,0,62,1,1,3,0.1,0.1,0.0,1,0,37,49,75.5,4,31,2,0,0,Sunderland
+Nordi Mukiele,20.0,fr FRA,"RB,CB",28-028,90,0,0,0,0,0,0,1,0,53,4,3,1,0.0,0.0,0.0,2,0,23,41,56.1,2,19,1,2,1,Sunderland
+Robin Roefs,22.0,nl NED,GK,22-316,90,0,0,0,0,0,0,1,0,40,0,0,0,0.0,0.0,0.0,1,0,29,39,74.4,0,24,0,0,0,Sunderland
+15 Players,,,,,990,3,2,1,1,11,5,5,0,492,14,8,9,1.5,0.7,0.7,21,6,260,375,69.3,35,238,24,27,9,Sunderland
+Evanilson,9.0,br BRA,FW,26-054,79,0,0,0,0,3,2,0,0,25,0,0,0,0.9,0.9,0.0,3,1,13,16,81.3,0,11,0,2,0,Bournemouth
+Eli Junior Kroupi,22.0,fr FRA,AM,19-159,11,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,6,1,0,0,Bournemouth
+Antoine Semenyo,24.0,gh GHA,"LW,RW",25-326,90,0,0,0,0,3,0,1,0,55,1,0,1,0.1,0.1,0.7,6,0,27,36,75.0,4,36,8,3,0,Bournemouth
+Amine Adli,21.0,ma MAR,RW,25-203,70,1,0,0,0,2,1,0,0,34,4,0,1,0.4,0.4,0.0,1,0,20,26,76.9,2,18,0,1,1,Bournemouth
+David Brooks,7.0,wls WAL,"DM,RW",28-144,20,0,0,0,0,1,1,1,0,30,1,0,0,0.0,0.0,0.0,2,0,21,25,84.0,4,25,1,1,0,Bournemouth
+Marcus Tavernier,16.0,eng ENG,"AM,DM",26-252,90,0,0,0,0,3,0,1,0,62,1,0,0,0.2,0.2,0.2,7,0,43,52,82.7,8,39,2,0,0,Bournemouth
+Tyler Adams,12.0,us USA,DM,26-288,70,1,0,0,0,1,1,0,0,43,2,0,0,0.0,0.0,0.0,3,0,33,37,89.2,5,29,2,0,0,Bournemouth
+Justin Kluivert,19.0,nl NED,"LW,AM",26-208,20,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,2,0,9,11,81.8,0,10,1,3,1,Bournemouth
+Alex Scott,8.0,eng ENG,DM,22-100,45,0,0,0,0,2,0,1,0,28,0,1,0,0.1,0.1,0.0,0,0,13,23,56.5,2,14,2,0,0,Bournemouth
+Lewis Cook,4.0,eng ENG,"DM,RB",28-299,44,0,0,0,0,0,0,0,1,37,0,3,1,0.0,0.0,0.0,2,0,24,29,82.8,0,16,1,0,0,Bournemouth
+Adrien Truffert,3.0,fr FRA,LB,24-009,90,0,0,0,0,1,1,0,0,65,3,1,1,0.0,0.0,0.1,0,0,40,46,87.0,2,33,0,2,1,Bournemouth
+Marcos Senesi,5.0,ar ARG,CB,28-203,90,0,0,0,0,0,0,1,0,91,3,3,2,0.0,0.0,0.4,5,0,60,77,77.9,13,61,1,0,0,Bournemouth
+Bafodé Diakité,18.0,fr FRA,CB,24-327,90,0,0,0,0,1,0,0,0,62,3,1,1,0.0,0.0,0.0,1,0,48,51,94.1,0,40,1,0,0,Bournemouth
+Adam Smith,15.0,eng ENG,RB,34-214,79,0,0,0,0,0,0,0,0,41,1,0,0,0.0,0.0,0.0,0,0,27,37,73.0,5,20,0,0,0,Bournemouth
+Enes Ünal,26.0,tr TUR,FW,28-203,11,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,2,5,40.0,1,5,0,0,0,Bournemouth
+Đorđe Petrović,1.0,rs SRB,GK,26-052,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,19,34,55.9,0,21,0,0,0,Bournemouth
+16 Players,,,,,989,2,0,0,0,18,6,5,1,637,19,9,7,1.9,1.9,1.3,32,1,403,510,79.0,46,384,20,12,3,Bournemouth

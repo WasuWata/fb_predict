@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Thiago,9.0,br BRA,FW,24-058,90,0,0,0,0,3,0,0,0,32,2,0,0,0.2,0.2,0.6,3,0,10,11,90.9,1,14,3,3,0,Brentford
+Kevin Schade,7.0,de GER,LW,23-269,78,0,0,0,0,1,0,0,0,23,2,1,1,0.1,0.1,0.1,1,0,4,13,30.8,0,10,2,1,1,Brentford
+Aaron Hickey,2.0,sct SCO,"RB,LW",23-074,12,0,0,0,0,0,0,0,0,6,2,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,Brentford
+Dango Ouattara,19.0,bf BFA,RW,23-193,83,1,0,0,0,2,2,0,0,32,4,0,2,0.8,0.8,0.0,3,1,5,13,38.5,0,15,2,5,2,Brentford
+Rico Henry,3.0,jm JAM,LB,28-046,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Brentford
+Mikkel Damsgaard,24.0,dk DEN,"AM,RM",25-051,90,0,0,0,0,1,0,0,0,49,3,2,5,0.1,0.1,0.3,6,0,21,30,70.0,4,21,3,3,2,Brentford
+Jordan Henderson,6.0,eng ENG,DM,35-067,68,0,0,0,0,1,0,0,0,27,2,2,3,0.0,0.0,0.0,1,0,12,17,70.6,1,11,0,0,0,Brentford
+Frank Onyeka,15.0,ng NGA,"DM,CM",27-234,22,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,3,0,0,0,Brentford
+Yehor Yarmoliuk,18.0,ua UKR,DM,21-175,78,0,0,0,0,1,0,0,0,27,5,2,3,0.0,0.0,0.0,0,0,11,11,100.0,0,8,0,1,1,Brentford
+Mathias Jensen,8.0,dk DEN,"CM,DM",29-234,12,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,1,0,0,0,Brentford
+Keane Lewis-Potter,23.0,eng ENG,"LB,LM",24-182,90,0,0,0,0,0,0,0,0,27,1,1,0,0.0,0.0,0.0,0,0,11,18,61.1,2,13,1,1,1,Brentford
+Sepp van den Berg,4.0,nl NED,CB,23-246,90,0,0,0,0,0,0,0,0,28,0,1,2,0.0,0.0,0.0,0,0,10,15,66.7,1,9,0,0,0,Brentford
+Nathan Collins,22.0,ie IRL,CB,24-115,90,0,0,0,0,0,0,0,0,35,1,1,0,0.0,0.0,0.0,1,0,14,18,77.8,1,10,0,0,0,Brentford
+Michael Kayode,33.0,it ITA,RB,21-044,84,0,0,0,0,0,0,0,0,30,5,1,4,0.0,0.0,0.0,0,0,12,17,70.6,2,12,1,2,1,Brentford
+Kristoffer Ajer,20.0,no NOR,CB,27-128,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,0,0,0,Brentford
+Caoimhín Kelleher,1.0,ie IRL,GK,26-273,90,0,0,0,0,0,0,1,0,29,0,0,0,0.0,0.0,0.0,0,0,17,28,60.7,1,9,0,0,0,Brentford
+16 Players,,,,,990,1,0,0,0,9,2,1,0,362,28,11,20,1.2,1.2,0.9,15,1,138,205,67.3,16,140,12,16,8,Brentford
+Ollie Watkins,11.0,eng ENG,FW,29-236,90,0,0,0,0,4,0,0,0,26,1,0,0,0.4,0.4,0.2,1,0,16,18,88.9,3,19,4,2,1,Aston Villa
+Morgan Rogers,27.0,eng ENG,LW,23-028,90,0,0,0,0,2,0,0,0,45,0,0,0,0.1,0.1,0.2,2,0,20,29,69.0,2,37,2,9,3,Aston Villa
+John McGinn,7.0,sct SCO,"RW,DM",30-309,73,0,0,0,0,1,1,0,0,47,0,1,1,0.0,0.0,0.1,6,0,27,36,75.0,3,34,3,3,1,Aston Villa
+Lamare Bogarde,26.0,nl NED,DM,21-230,17,0,0,0,0,0,0,1,0,20,0,0,0,0.0,0.0,0.0,1,0,17,20,85.0,1,18,1,0,0,Aston Villa
+Youri Tielemans,8.0,be BEL,"DM,AM",28-108,90,0,0,0,0,2,0,0,0,100,1,0,0,0.0,0.0,0.2,5,0,78,97,80.4,8,67,6,1,1,Aston Villa
+Amadou Onana,24.0,be BEL,DM,24-007,63,0,0,0,0,2,1,1,0,41,2,3,1,0.2,0.2,0.0,2,0,25,29,86.2,3,24,0,0,0,Aston Villa
+Donyell Malen,17.0,nl NED,RW,26-226,27,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,11,12,91.7,1,11,1,1,0,Aston Villa
+Boubacar Kamara,44.0,fr FRA,DM,25-273,15,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,5,0,0,0,Aston Villa
+Emi Buendía,10.0,ar ARG,AM,28-241,59,0,0,0,0,2,0,0,0,19,1,0,0,0.2,0.2,0.0,3,0,10,11,90.9,3,9,1,0,0,Aston Villa
+Evann Guessand,29.0,ci CIV,AM,24-053,16,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,1,0,6,8,75.0,2,9,2,4,1,Aston Villa
+Lucas Digne,12.0,fr FRA,LB,32-034,63,0,0,0,0,0,0,0,0,47,1,0,0,0.0,0.0,0.0,0,0,33,44,75.0,2,23,1,1,0,Aston Villa
+Ian Maatsen,22.0,nl NED,LB,23-166,27,0,0,0,0,1,0,0,0,26,1,0,0,0.0,0.0,0.1,1,0,17,21,81.0,1,14,0,0,0,Aston Villa
+Pau Torres,14.0,es ESP,CB,28-219,90,0,0,0,0,1,0,0,0,114,2,0,1,0.1,0.1,0.0,1,0,94,105,89.5,8,87,4,1,0,Aston Villa
+Tyrone Mings,5.0,eng ENG,CB,32-163,90,0,0,0,0,2,0,0,0,95,0,2,0,0.1,0.1,0.1,1,0,77,85,90.6,3,68,0,2,1,Aston Villa
+Matty Cash,2.0,pl POL,RB,28-016,90,0,0,0,0,0,0,0,0,89,3,0,0,0.0,0.0,0.2,5,0,67,83,80.7,7,59,2,1,0,Aston Villa
+Emiliano Martínez,23.0,ar ARG,GK,32-355,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,1,0,36,38,94.7,0,31,0,0,0,Aston Villa
+16 Players,,,,,990,0,0,0,0,17,2,2,0,746,14,6,3,1.2,1.2,1.0,31,0,540,642,84.1,48,515,27,25,8,Aston Villa

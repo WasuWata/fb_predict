@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Chris Wood,11.0,nz NZL,FW,33-294,89,0,0,0,0,6,1,0,0,26,0,0,1,0.7,0.7,0.0,2,0,10,14,71.4,1,6,0,0,0,Nottingham Forest
+Arnaud Kalimuendo,15.0,fr FRA,FW,23-250,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Nottingham Forest
+Dan Ndoye,14.0,ch SUI,LW,24-337,59,0,0,0,0,1,0,0,0,36,1,0,1,0.1,0.1,0.0,1,0,20,28,71.4,2,19,4,3,2,Nottingham Forest
+Igor Jesus,19.0,br BRA,AM,24-214,31,0,0,0,0,2,1,0,0,15,0,0,0,0.2,0.2,0.0,1,0,9,11,81.8,0,3,0,0,0,Nottingham Forest
+Dilane Bakwa,29.0,fr FRA,RW,23-032,71,0,0,0,0,1,1,0,0,58,0,0,0,0.1,0.1,0.3,4,0,32,43,74.4,7,33,3,6,1,Nottingham Forest
+Omari Hutchinson,21.0,eng ENG,RW,21-332,19,0,0,0,0,2,2,0,0,22,1,0,0,0.2,0.2,0.6,5,0,10,16,62.5,2,13,3,2,1,Nottingham Forest
+James Mcatee,24.0,eng ENG,AM,22-344,59,0,0,0,0,1,0,0,0,32,1,0,1,0.0,0.0,0.0,0,0,25,28,89.3,4,18,2,1,1,Nottingham Forest
+Callum Hudson-Odoi,7.0,eng ENG,LW,24-324,31,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.1,5,0,15,25,60.0,2,18,4,2,1,Nottingham Forest
+Elliot Anderson,8.0,eng ENG,DM,22-325,90,0,0,0,0,4,1,1,0,96,4,1,1,0.2,0.2,0.0,6,0,70,81,86.4,14,53,2,0,0,Nottingham Forest
+Nicolás Domínguez,16.0,ar ARG,DM,27-091,45,0,0,0,0,0,0,1,0,43,2,0,1,0.0,0.0,0.0,1,0,37,38,97.4,5,23,0,0,0,Nottingham Forest
+Morgan Gibbs-White,10.0,eng ENG,DM,25-243,45,0,0,0,0,3,0,0,0,47,0,0,0,0.1,0.1,0.0,5,0,38,42,90.5,5,22,5,0,0,Nottingham Forest
+Oleksandr Zinchenko,35.0,ua UKR,LB,28-286,90,0,0,0,0,0,0,0,0,79,3,0,0,0.0,0.0,0.0,3,0,67,72,93.1,10,33,0,0,0,Nottingham Forest
+Morato,4.0,br BRA,CB,24-089,90,0,0,0,0,1,0,0,0,83,1,0,0,0.0,0.0,0.0,0,0,69,74,93.2,8,41,1,1,1,Nottingham Forest
+Nikola Milenković,31.0,rs SRB,CB,27-350,90,0,0,0,0,1,0,1,0,87,0,0,2,0.0,0.0,0.0,0,0,76,79,96.2,10,42,0,0,0,Nottingham Forest
+Neco Williams,3.0,wls WAL,RB,24-167,90,0,0,0,0,0,0,1,0,78,3,0,3,0.0,0.0,0.1,6,0,55,64,85.9,7,28,1,3,2,Nottingham Forest
+Matz Sels,26.0,be BEL,GK,33-213,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,21,29,72.4,0,17,0,0,0,Nottingham Forest
+16 Players,,,,,990,0,0,0,0,22,6,4,0,761,16,1,10,1.6,1.6,1.2,39,0,555,646,85.9,77,370,25,18,9,Nottingham Forest
+Wilson Isidor,18.0,fr FRA,FW,25-031,84,0,0,0,0,2,0,0,0,16,0,0,0,0.2,0.2,0.0,2,0,7,9,77.8,0,10,0,2,1,Sunderland
+Brian Brobbey,9.0,nl NED,FW,23-238,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,2,3,1,0,0,Sunderland
+Enzo Le Fée,28.0,fr FRA,"LW,AM",25-236,74,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.1,1,0,20,23,87.0,3,16,0,0,0,Sunderland
+Daniel Ballard,5.0,nir NIR,CB,26-005,16,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,0,0,0,0,Sunderland
+Chemsdine Talbi,7.0,ma MAR,"RW,LW,LM",20-141,84,0,0,0,0,1,0,0,0,29,2,0,0,0.0,0.0,0.0,2,0,14,22,63.6,1,18,4,2,1,Sunderland
+Simon Adingra,24.0,ci CIV,LM,23-269,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,1,0,0,Sunderland
+Chris Rigg,11.0,eng ENG,AM,18-101,58,0,0,0,0,1,0,0,0,19,1,0,1,0.1,0.1,0.0,0,0,9,13,69.2,0,13,0,0,0,Sunderland
+Bertrand Traoré,25.0,bf BFA,"RM,RW",30-021,32,0,0,0,0,1,1,0,0,16,1,1,1,0.1,0.1,0.6,1,0,7,8,87.5,0,8,0,2,1,Sunderland
+Noah Sadiki,27.0,cd COD,"DM,CM",20-284,90,0,0,0,0,1,0,1,0,41,0,0,1,0.0,0.0,0.0,2,0,30,34,88.2,3,30,2,1,1,Sunderland
+Granit Xhaka,34.0,ch SUI,"DM,CM",33-000,90,0,1,0,0,0,0,0,0,51,2,1,3,0.0,0.0,0.4,3,1,27,35,77.1,3,22,0,0,0,Sunderland
+Arthur Masuaku,26.0,cd COD,LB,31-324,58,0,0,0,0,1,0,1,0,43,2,1,1,0.1,0.1,0.0,2,0,23,30,76.7,2,22,1,3,1,Sunderland
+Lutsharel Geertruida,6.0,nl NED,RB,25-071,32,0,0,0,0,1,1,0,0,16,0,0,0,0.6,0.6,0.0,0,0,12,14,85.7,0,7,2,0,0,Sunderland
+Omar Alderete,15.0,py PAR,CB,28-275,90,1,0,0,0,1,1,0,0,46,0,0,2,0.4,0.4,0.0,0,0,27,33,81.8,4,28,2,1,1,Sunderland
+Nordi Mukiele,20.0,fr FRA,CB,27-330,90,0,0,0,0,0,0,0,0,61,1,1,2,0.0,0.0,0.0,0,0,35,46,76.1,1,34,0,1,1,Sunderland
+Trai Hume,32.0,nir NIR,"RB,LB",23-193,90,0,0,0,0,1,0,0,0,49,0,2,3,0.0,0.0,0.0,1,0,28,38,73.7,4,24,2,0,0,Sunderland
+Robin Roefs,22.0,nl NED,GK,22-253,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.2,2,0,30,43,69.8,0,30,0,0,0,Sunderland
+16 Players,,,,,990,1,1,0,0,11,3,2,0,478,10,6,14,1.7,1.7,1.2,16,1,273,355,76.9,23,268,15,12,7,Sunderland

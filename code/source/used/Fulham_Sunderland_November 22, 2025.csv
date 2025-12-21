@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Raúl Jiménez,7.0,mx MEX,FW,34-201,90,1,0,0,0,6,1,1,0,31,0,0,0,1.0,1.0,0.1,3,0,10,20,50.0,1,16,1,0,0,Fulham
+Kevin,22.0,br BRA,LW,22-322,63,0,0,0,0,3,2,0,0,37,0,2,1,0.3,0.3,0.0,3,0,22,27,81.5,1,19,4,3,0,Fulham
+Samuel Chukwueze,19.0,ng NGA,LW,26-184,27,0,1,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.9,8,1,15,21,71.4,4,17,6,3,2,Fulham
+Harry Wilson,8.0,wls WAL,RW,28-245,89,0,0,0,0,4,0,1,0,33,0,1,1,0.4,0.4,0.0,4,0,19,26,73.1,4,21,1,1,0,Fulham
+Timothy Castagne,21.0,be BEL,RW,29-352,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Fulham
+Joshua King,24.0,eng ENG,AM,18-323,63,0,0,0,0,2,0,0,0,27,0,1,1,0.1,0.1,0.1,1,0,11,14,78.6,1,12,0,2,0,Fulham
+Emile Smith Rowe,32.0,eng ENG,AM,25-117,27,0,0,0,0,2,0,0,0,21,0,0,0,0.1,0.1,0.1,2,0,18,18,100.0,1,14,3,0,0,Fulham
+Alex Iwobi,17.0,ng NGA,DM,29-203,88,0,0,0,0,2,1,0,0,66,3,0,0,0.1,0.1,0.0,1,0,47,56,83.9,7,37,3,2,0,Fulham
+Harrison Reed,6.0,eng ENG,DM,30-299,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Fulham
+Sander Berge,16.0,no NOR,DM,27-281,90,0,0,0,0,1,1,0,0,72,3,0,1,0.0,0.0,0.3,8,1,56,64,87.5,10,41,4,0,0,Fulham
+Ryan Sessegnon,30.0,eng ENG,LB,25-188,90,0,0,0,0,2,0,0,0,58,0,1,0,0.1,0.1,0.1,3,0,39,48,81.3,4,29,1,1,0,Fulham
+Calvin Bassey,3.0,ng NGA,CB,25-326,90,0,0,0,0,0,0,0,0,87,2,0,1,0.0,0.0,0.1,5,0,69,75,92.0,7,49,0,1,0,Fulham
+Joachim Andersen,5.0,dk DEN,CB,29-175,90,0,0,0,0,2,0,0,0,91,1,0,1,0.1,0.1,0.0,2,0,69,75,92.0,4,52,2,0,0,Fulham
+Kenny Tete,2.0,nl NED,RB,30-044,90,0,0,0,0,0,0,0,0,59,2,1,1,0.0,0.0,0.0,2,0,35,46,76.1,2,31,1,2,0,Fulham
+Bernd Leno,1.0,de GER,GK,33-263,90,0,0,0,0,0,0,1,0,47,0,0,1,0.0,0.0,0.0,0,0,34,46,73.9,0,39,0,0,0,Fulham
+15 Players,,,,,990,1,1,0,0,24,5,3,0,657,11,6,9,2.1,2.1,1.8,42,2,445,537,82.9,46,377,26,15,2,Fulham
+Wilson Isidor,18.0,fr FRA,FW,25-087,63,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,1,5,0,0,0,Sunderland
+Brian Brobbey,9.0,nl NED,FW,23-294,27,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,3,0,0,0,Sunderland
+Enzo Le Fée,28.0,fr FRA,LM,25-292,89,0,0,0,0,1,0,0,0,44,1,1,3,0.0,0.0,0.1,2,0,17,30,56.7,3,27,3,2,0,Sunderland
+Simon Adingra,24.0,ci CIV,LM,23-325,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,3,1,0,0,Sunderland
+Noah Sadiki,27.0,cd COD,CM,20-340,90,0,0,0,0,0,0,0,0,36,0,1,1,0.0,0.0,0.0,0,0,23,29,79.3,3,21,3,1,1,Sunderland
+Granit Xhaka,34.0,ch SUI,CM,33-056,90,0,0,0,0,1,1,0,0,52,1,0,3,0.0,0.0,0.0,1,0,38,45,84.4,4,30,0,1,1,Sunderland
+Bertrand Traoré,25.0,bf BFA,RM,30-077,63,0,0,0,0,1,1,0,0,31,5,0,1,0.0,0.0,0.0,1,0,12,17,70.6,1,22,2,1,1,Sunderland
+Chemsdine Talbi,7.0,ma MAR,RM,20-197,27,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,0,12,0,1,0,Sunderland
+Reinildo Mandava,17.0,mz MOZ,LB,31-305,90,0,0,0,0,0,0,1,0,45,2,2,2,0.0,0.0,0.0,0,0,33,36,91.7,2,25,2,0,0,Sunderland
+Lutsharel Geertruida,6.0,nl NED,CB,25-127,90,0,0,0,0,0,0,0,0,59,3,0,0,0.0,0.0,0.0,0,0,43,50,86.0,2,36,0,0,0,Sunderland
+Daniel Ballard,5.0,nir NIR,CB,26-061,90,0,0,0,0,0,0,1,0,61,0,2,1,0.0,0.0,0.0,0,0,42,55,76.4,4,41,0,0,0,Sunderland
+Nordi Mukiele,20.0,fr FRA,"CB,RB",28-021,90,0,0,0,0,0,0,0,0,60,5,2,1,0.0,0.0,0.0,1,0,25,43,58.1,4,26,1,0,0,Sunderland
+Trai Hume,32.0,nir NIR,RB,23-249,89,0,0,0,0,0,0,1,0,39,3,1,0,0.0,0.0,0.0,2,0,20,28,71.4,7,21,2,0,0,Sunderland
+Eliezer Mayenda,12.0,es ESP,FW,20-198,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Sunderland
+Robin Roefs,22.0,nl NED,GK,22-309,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.0,1,0,44,56,78.6,0,40,0,0,0,Sunderland
+15 Players,,,,,990,0,0,0,0,4,2,3,0,520,21,9,12,0.2,0.2,0.2,8,0,314,411,76.4,32,313,14,6,3,Sunderland

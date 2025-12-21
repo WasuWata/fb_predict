@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Alexander Isak,9.0,se SWE,FW,26-073,85,0,0,0,0,3,0,0,0,13,1,0,0,0.1,0.1,0.0,2,0,2,5,40.0,0,5,1,1,1,Liverpool
+Federico Chiesa,14.0,it ITA,FW,28-039,5,0,0,0,0,1,0,0,0,5,0,0,1,0.1,0.1,0.0,3,0,3,3,100.0,0,1,0,0,0,Liverpool
+Cody Gakpo,18.0,nl NED,LW,26-210,45,0,0,0,0,1,0,0,0,24,1,0,2,0.0,0.0,0.0,2,0,8,14,57.1,0,12,2,1,0,Liverpool
+Mohamed Salah,11.0,eg EGY,"RW,RM",33-171,45,0,0,0,0,2,0,0,0,47,0,0,0,0.1,0.1,0.2,5,0,27,36,75.0,7,30,0,3,0,Liverpool
+Dominik Szoboszlai,8.0,hu HUN,"RW,RM,CM",25-039,90,0,0,0,0,4,2,0,0,96,0,0,1,0.1,0.1,0.1,6,0,67,84,79.8,6,65,1,2,1,Liverpool
+Florian Wirtz,7.0,de GER,"AM,LW,LM",22-214,90,0,0,0,0,4,1,0,0,79,1,0,3,0.7,0.7,0.1,8,0,53,62,85.5,6,51,1,3,2,Liverpool
+Alexis Mac Allister,10.0,ar ARG,"DM,LM",26-344,73,0,0,0,0,2,0,0,0,69,2,0,0,0.1,0.1,0.0,2,0,51,61,83.6,2,54,0,1,0,Liverpool
+Hugo Ekitike,22.0,fr FRA,FW,23-166,17,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,0,0,5,8,62.5,0,7,1,1,1,Liverpool
+Ryan Gravenberch,38.0,nl NED,"CM,DM",23-201,90,0,0,0,0,1,0,0,0,75,2,1,0,0.0,0.0,0.1,4,0,62,68,91.2,5,59,0,0,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,31-267,85,0,0,0,0,0,0,0,0,79,1,2,2,0.0,0.0,0.0,3,0,61,72,84.7,10,58,2,1,0,Liverpool
+Milos Kerkez,6.0,hu HUN,LB,22-026,5,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,0,0,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,34-148,90,0,0,0,0,1,0,0,0,110,1,1,0,0.1,0.1,0.0,2,0,82,98,83.7,14,63,1,0,0,Liverpool
+Ibrahima Konaté,5.0,fr FRA,CB,26-192,90,0,0,0,0,1,1,0,0,81,3,1,1,0.0,0.0,0.0,1,0,64,67,95.5,8,51,0,0,0,Liverpool
+Joe Gomez,2.0,eng ENG,RB,28-194,64,0,0,0,0,1,0,1,0,49,0,1,0,0.1,0.1,0.1,2,0,34,45,75.6,2,23,0,0,0,Liverpool
+Curtis Jones,17.0,eng ENG,RB,24-307,26,0,0,0,0,1,0,0,0,37,0,0,1,0.1,0.1,0.1,2,0,33,35,94.3,4,30,2,0,0,Liverpool
+Alisson,1.0,br BRA,GK,33-062,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,25,31,80.6,0,26,0,0,0,Liverpool
+16 Players,,,,,990,0,0,0,0,23,4,1,0,815,12,6,11,1.4,1.4,0.7,42,0,581,695,83.6,64,539,11,13,5,Liverpool
+Brian Brobbey,9.0,nl NED,FW,23-305,61,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,7,0,0,0,Sunderland
+Wilson Isidor,18.0,fr FRA,FW,25-098,29,0,0,0,0,1,0,0,0,5,0,0,0,0.2,0.2,0.0,1,0,1,1,100.0,1,2,1,3,1,Sunderland
+Enzo Le Fée,28.0,fr FRA,FW,25-303,78,0,1,0,0,1,0,1,0,26,2,0,0,0.0,0.0,0.0,3,1,10,19,52.6,1,14,2,2,0,Sunderland
+Lutsharel Geertruida,6.0,nl NED,RM,25-138,12,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,0,0,Sunderland
+Chemsdine Talbi,7.0,ma MAR,LM,20-208,89,1,0,0,0,2,2,0,0,34,1,0,0,0.0,0.0,0.0,1,0,19,22,86.4,1,24,3,2,1,Sunderland
+Luke O'Nien,13.0,eng ENG,LM,31-012,1,0,0,0,0,0,0,0,0,3,2,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Sunderland
+Noah Sadiki,27.0,cd COD,CM,20-351,90,0,0,0,0,1,0,0,0,41,2,0,3,0.1,0.1,0.0,3,0,20,29,69.0,3,19,1,2,1,Sunderland
+Granit Xhaka,34.0,ch SUI,CM,33-067,90,0,0,0,0,0,0,0,0,52,1,0,4,0.0,0.0,0.0,1,0,32,40,80.0,5,23,0,0,0,Sunderland
+Trai Hume,32.0,nir NIR,"RM,RB",23-260,90,0,0,0,0,1,1,0,0,36,0,2,1,0.0,0.0,0.0,1,0,13,24,54.2,1,19,0,0,0,Sunderland
+Reinildo Mandava,17.0,mz MOZ,LB,31-316,90,0,0,0,0,0,0,0,0,49,2,4,4,0.0,0.0,0.0,1,0,26,31,83.9,0,21,0,0,0,Sunderland
+Omar Alderete,15.0,py PAR,CB,28-342,90,0,0,0,0,3,2,0,0,58,1,1,2,0.1,0.1,0.0,0,0,34,40,85.0,3,32,0,0,0,Sunderland
+Daniel Ballard,5.0,nir NIR,CB,26-072,90,0,0,0,0,0,0,0,0,49,2,0,1,0.0,0.0,0.0,0,0,27,38,71.1,1,32,1,0,0,Sunderland
+Nordi Mukiele,20.0,fr FRA,"RB,CB",28-032,90,0,0,0,0,0,0,0,0,37,2,1,2,0.0,0.0,0.0,0,0,14,24,58.3,3,10,0,0,0,Sunderland
+Robin Roefs,22.0,nl NED,GK,22-320,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.2,2,0,29,55,52.7,0,37,0,0,0,Sunderland
+14 Players,,,,,990,1,1,0,0,9,5,1,0,460,15,9,17,0.4,0.4,0.2,13,1,233,335,69.6,20,244,8,9,3,Sunderland

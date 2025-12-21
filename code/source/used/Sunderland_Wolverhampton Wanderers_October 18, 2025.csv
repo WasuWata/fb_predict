@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Wilson Isidor,18.0,fr FRA,FW,25-052,75,0,0,0,0,1,0,0,0,17,1,0,1,0.0,0.0,0.0,0,0,5,9,55.6,1,10,1,1,0,Sunderland
+Eliezer Mayenda,12.0,es ESP,FW,20-163,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,1,0,Sunderland
+Enzo Le Fée,28.0,fr FRA,"LW,RM,AM",25-257,90,0,0,0,0,0,0,0,0,47,4,2,3,0.0,0.0,0.0,2,0,22,31,71.0,0,25,2,3,1,Sunderland
+Bertrand Traoré,25.0,bf BFA,RW,30-042,62,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,11,16,68.8,0,17,0,3,2,Sunderland
+Chemsdine Talbi,7.0,ma MAR,"LM,LW",20-162,28,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,1,8,12.5,0,6,1,1,1,Sunderland
+Chris Rigg,11.0,eng ENG,"AM,RW",18-122,75,0,0,0,0,0,0,0,0,21,2,0,0,0.0,0.0,0.0,0,0,9,14,64.3,1,8,1,2,0,Sunderland
+Lutsharel Geertruida,6.0,nl NED,RB,25-092,15,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Sunderland
+Noah Sadiki,27.0,cd COD,"DM,CM",20-305,89,0,0,0,0,1,0,0,0,43,0,2,1,0.0,0.0,0.0,1,0,28,32,87.5,2,30,0,4,2,Sunderland
+Dan Neil,4.0,eng ENG,CM,23-309,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Sunderland
+Granit Xhaka,34.0,ch SUI,"DM,CM",33-021,90,0,0,0,0,1,0,0,0,66,1,1,0,0.0,0.0,0.1,2,0,45,59,76.3,6,33,0,0,0,Sunderland
+Trai Hume,32.0,nir NIR,LB,23-214,90,0,1,0,0,2,0,0,0,46,0,0,1,0.2,0.2,0.2,2,1,26,36,72.2,3,19,1,0,0,Sunderland
+Omar Alderete,15.0,py PAR,CB,28-296,90,0,0,0,0,0,0,0,0,38,1,0,1,0.0,0.0,0.0,3,0,23,29,79.3,2,23,0,0,0,Sunderland
+Daniel Ballard,5.0,nir NIR,CB,26-026,90,0,0,0,0,1,1,0,0,58,1,1,3,0.1,0.1,0.3,3,0,32,44,72.7,1,28,0,0,0,Sunderland
+Nordi Mukiele,20.0,fr FRA,"RB,CB",27-351,90,1,0,0,0,2,1,0,0,69,3,1,0,0.2,0.2,0.0,2,1,35,54,64.8,1,27,2,2,2,Sunderland
+Robin Roefs,22.0,nl NED,GK,22-274,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,18,37,48.6,0,19,0,0,0,Sunderland
+15 Players,,,,,990,1,1,0,0,8,2,0,0,482,14,7,10,0.6,0.6,0.6,15,2,258,372,69.4,17,248,8,17,8,Sunderland
+Jørgen Strand Larsen,9.0,no NOR,FW,25-254,90,0,0,0,0,1,0,0,0,24,0,0,0,0.0,0.0,0.3,3,0,11,17,64.7,1,12,0,0,0,Wolverhampton Wanderers
+Rodrigo Gomes,21.0,pt POR,LW,22-103,75,0,0,0,0,1,0,0,0,38,0,0,1,0.1,0.1,0.0,2,0,21,26,80.8,2,16,5,3,0,Wolverhampton Wanderers
+Tolu Arokodare,14.0,ng NGA,FW,24-329,15,0,0,0,0,3,0,0,0,7,0,0,0,0.1,0.1,0.0,2,0,2,3,66.7,0,2,0,0,0,Wolverhampton Wanderers
+Jhon Arias,10.0,co COL,RW,28-027,76,0,0,0,0,1,0,0,0,50,2,1,3,0.0,0.0,0.1,1,0,33,37,89.2,5,24,2,3,2,Wolverhampton Wanderers
+Jackson Tchatchoua,38.0,cm CMR,RM,24-034,14,0,0,0,0,1,0,0,0,12,0,0,1,0.3,0.3,0.0,1,0,5,9,55.6,0,6,1,0,0,Wolverhampton Wanderers
+João Gomes,8.0,br BRA,LM,24-248,75,0,0,0,0,2,0,0,0,57,3,2,0,0.1,0.1,0.0,3,0,31,42,73.8,8,27,2,3,2,Wolverhampton Wanderers
+Fer López,28.0,es ESP,CM,21-147,15,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,7,11,63.6,1,7,1,1,0,Wolverhampton Wanderers
+André,7.0,br BRA,CM,24-094,90,0,0,0,0,1,0,0,0,62,1,0,3,0.0,0.0,0.0,1,0,48,51,94.1,6,35,0,1,0,Wolverhampton Wanderers
+Marshall Munetsi,5.0,zw ZIM,"RM,LM",29-118,90,0,0,0,0,2,1,0,0,30,3,2,1,0.1,0.1,0.1,2,0,7,16,43.8,1,6,0,0,0,Wolverhampton Wanderers
+Hugo Bueno,3.0,es ESP,LB,23-030,90,0,0,0,0,0,0,0,0,67,1,0,1,0.0,0.0,0.0,5,0,44,58,75.9,1,31,4,6,3,Wolverhampton Wanderers
+Ladislav Krejčí,37.0,cz CZE,CB,26-181,90,0,0,0,0,2,1,0,0,107,0,0,1,0.0,0.0,0.0,2,0,83,92,90.2,8,69,3,0,0,Wolverhampton Wanderers
+Santiago Bueno,4.0,uy URU,CB,26-343,90,0,0,0,0,0,0,0,0,75,4,2,0,0.0,0.0,0.0,1,0,60,68,88.2,5,42,0,0,0,Wolverhampton Wanderers
+Matt Doherty,2.0,ie IRL,RB,33-275,66,0,0,0,0,0,0,0,0,55,1,0,0,0.0,0.0,0.1,2,0,33,44,75.0,4,24,1,0,0,Wolverhampton Wanderers
+Ki-Jana Hoever,26.0,nl NED,RB,23-273,24,0,0,0,0,1,1,0,0,21,0,1,0,0.0,0.0,0.0,1,0,13,15,86.7,0,7,0,0,0,Wolverhampton Wanderers
+Sam Johnstone,31.0,eng ENG,GK,32-207,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,1,0,31,42,73.8,0,29,0,0,0,Wolverhampton Wanderers
+15 Players,,,,,990,0,0,0,0,16,3,0,0,661,15,8,11,0.8,0.8,0.6,28,0,429,531,80.8,42,337,19,17,7,Wolverhampton Wanderers

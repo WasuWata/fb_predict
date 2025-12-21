@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Lyle Foster,9.0,za RSA,FW,25-017,85,0,1,0,0,1,0,0,0,22,0,0,1,0.0,0.0,0.2,1,0,11,15,73.3,2,14,1,3,3,Burnley
+Zian Flemming,19.0,nl NED,FW,27-050,5,0,0,0,0,1,0,0,0,2,0,0,0,0.2,0.2,0.0,1,0,1,1,100.0,0,1,0,0,0,Burnley
+Jaidon Anthony,11.0,eng ENG,LM,25-293,90,1,0,0,0,3,3,0,0,53,1,1,0,0.3,0.3,0.1,4,0,21,41,51.2,1,30,7,6,4,Burnley
+Florentino Luís,16.0,pt POR,CM,26-032,90,0,0,0,0,0,0,1,0,44,4,2,1,0.0,0.0,0.0,3,0,29,34,85.3,5,19,1,1,1,Burnley
+Josh Cullen,24.0,ie IRL,CM,29-166,90,0,0,0,0,0,0,0,0,74,0,1,3,0.0,0.0,0.0,2,0,57,64,89.1,10,45,0,1,0,Burnley
+Loum Tchaouna,17.0,fr FRA,RM,22-012,80,0,0,0,0,2,0,0,0,31,1,0,1,0.1,0.1,0.0,1,1,14,18,77.8,3,15,1,3,0,Burnley
+Hannibal Mejbri,28.0,tn TUN,RM,22-242,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.2,2,0,2,2,100.0,0,2,1,2,1,Burnley
+Quilindschy Hartman,3.0,nl NED,LB,23-310,90,0,0,0,0,1,1,0,0,53,2,1,2,0.0,0.0,0.2,3,0,29,44,65.9,3,26,0,0,0,Burnley
+Maxime Estève,5.0,fr FRA,CB,23-117,90,0,0,0,0,2,0,0,0,46,1,2,0,0.1,0.1,0.0,2,0,29,34,85.3,0,24,0,0,0,Burnley
+Hjalmar Ekdal,18.0,se SWE,CB,26-334,90,0,0,0,0,2,1,0,0,38,0,1,2,0.2,0.2,0.0,0,0,20,25,80.0,1,21,0,0,0,Burnley
+Josh Laurent,29.0,eng ENG,CB,30-137,90,0,0,0,0,0,0,0,0,43,0,1,1,0.0,0.0,0.0,1,0,32,39,82.1,2,31,0,0,0,Burnley
+Kyle Walker,2.0,eng ENG,RB,35-115,90,0,0,0,0,0,0,0,0,69,2,1,2,0.0,0.0,0.0,1,0,35,54,64.8,6,35,2,3,2,Burnley
+Martin Dúbravka,1.0,sk SVK,GK,36-248,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,18,30,60.0,0,19,0,0,0,Burnley
+13 Players,,,,,990,1,1,0,0,12,5,1,0,514,11,10,13,0.9,0.9,0.8,21,1,298,401,74.3,33,282,13,19,11,Burnley
+Chris Wood,11.0,nz NZL,FW,33-287,75,0,0,0,0,2,1,0,0,19,0,0,0,0.4,0.4,0.0,1,0,11,15,73.3,0,10,0,0,0,Nottingham Forest
+Igor Jesus,19.0,br BRA,FW,24-207,15,0,0,0,0,1,1,0,0,4,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,1,2,0,0,0,Nottingham Forest
+Dan Ndoye,14.0,ch SUI,"LW,RW",24-330,75,0,0,0,0,0,0,0,0,37,1,1,0,0.0,0.0,0.1,1,0,22,30,73.3,0,30,6,3,0,Nottingham Forest
+Ibrahim Sangaré,6.0,ci CIV,DM,27-292,15,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,0,0,18,19,94.7,1,18,0,0,0,Nottingham Forest
+Dilane Bakwa,29.0,fr FRA,RW,23-025,58,0,0,0,0,2,2,0,0,41,0,0,1,0.1,0.1,0.0,2,0,21,28,75.0,0,26,1,4,1,Nottingham Forest
+Callum Hudson-Odoi,7.0,eng ENG,LW,24-317,32,0,0,0,0,1,0,0,0,23,0,0,0,0.0,0.0,0.1,3,0,16,21,76.2,4,22,3,0,0,Nottingham Forest
+Morgan Gibbs-White,10.0,eng ENG,AM,25-236,90,0,0,0,0,2,1,0,0,55,0,0,2,0.1,0.1,0.1,4,0,36,42,85.7,11,37,5,1,0,Nottingham Forest
+Douglas Luiz,12.0,br BRA,DM,27-134,75,0,0,0,0,1,0,0,0,65,1,0,1,0.0,0.0,0.0,2,0,50,60,83.3,1,35,3,0,0,Nottingham Forest
+Arnaud Kalimuendo,15.0,fr FRA,RW,23-243,15,0,0,0,0,1,0,0,0,10,0,0,0,0.2,0.2,0.0,1,0,7,8,87.5,1,6,0,0,0,Nottingham Forest
+Elliot Anderson,8.0,eng ENG,DM,22-318,90,0,0,0,0,1,0,0,0,122,1,2,0,0.0,0.0,0.2,8,1,102,114,89.5,8,90,2,2,1,Nottingham Forest
+Oleksandr Zinchenko,35.0,ua UKR,LB,28-279,90,0,0,0,0,3,1,0,0,125,3,0,4,0.0,0.0,0.0,5,1,98,106,92.5,8,73,4,0,0,Nottingham Forest
+Morato,4.0,br BRA,CB,24-082,90,0,0,0,0,0,0,1,0,83,3,0,1,0.0,0.0,0.0,0,0,64,74,86.5,3,58,0,1,1,Nottingham Forest
+Nikola Milenković,31.0,rs SRB,CB,27-343,90,0,0,0,0,0,0,0,0,74,0,1,0,0.0,0.0,0.3,2,0,63,66,95.5,5,54,3,0,0,Nottingham Forest
+Neco Williams,3.0,wls WAL,RB,24-160,90,1,0,0,0,3,2,0,0,85,2,3,1,0.1,0.1,0.0,0,0,59,70,84.3,9,53,1,1,1,Nottingham Forest
+Matz Sels,26.0,be BEL,GK,33-206,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,22,27,81.5,0,16,0,0,0,Nottingham Forest
+15 Players,,,,,990,1,0,0,0,17,8,1,0,796,11,7,11,1.1,1.1,0.8,31,2,592,683,86.7,52,530,28,12,4,Nottingham Forest

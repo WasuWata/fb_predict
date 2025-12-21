@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jean-Philippe Mateta,14.0,fr FRA,FW,28-155,90,1,0,1,1,3,0,0,0,28,0,0,0,1.0,0.2,0.0,2,1,9,14,64.3,1,13,3,2,1,Crystal Palace
+Yeremi Pino,10.0,es ESP,AM,23-041,77,0,0,0,0,1,0,0,0,40,1,0,0,0.2,0.2,0.2,4,0,24,33,72.7,0,11,0,0,0,Crystal Palace
+Christantus Uche,12.0,ng NGA,AM,22-195,13,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Crystal Palace
+Ismaila Sarr,7.0,sn SEN,AM,27-278,37,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,5,6,83.3,0,6,2,0,0,Crystal Palace
+Eddie Nketiah,9.0,eng ENG,AM,26-184,53,0,0,0,0,4,0,1,0,21,2,1,0,0.2,0.2,0.1,1,0,6,7,85.7,0,11,1,2,1,Crystal Palace
+Daichi Kamada,18.0,jp JPN,CM,29-117,84,0,0,0,0,1,1,0,0,47,2,1,0,0.1,0.1,0.0,1,0,27,36,75.0,7,13,0,1,0,Crystal Palace
+Jefferson Lerma,8.0,co COL,CM,31-036,6,0,0,0,0,0,0,1,0,14,0,0,0,0.0,0.0,0.0,2,0,11,13,84.6,0,6,0,0,0,Crystal Palace
+Adam Wharton,20.0,eng ENG,CM,21-297,77,0,0,0,0,1,1,0,0,45,3,1,1,0.1,0.1,0.0,5,1,24,32,75.0,4,12,0,1,0,Crystal Palace
+Will Hughes,19.0,eng ENG,CM,30-227,13,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,7,10,70.0,1,5,0,0,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,WB,26-090,84,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,12,17,70.6,1,5,1,1,0,Crystal Palace
+Justin Devenny,55.0,nir NIR,WB,22-050,6,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,1,5,20.0,0,3,0,0,0,Crystal Palace
+Daniel Muñoz,2.0,co COL,WB,29-188,90,0,0,0,0,0,0,0,0,47,2,2,1,0.0,0.0,0.0,0,0,25,37,67.6,2,10,2,0,0,Crystal Palace
+Marc Guéhi,6.0,eng ENG,CB,25-140,90,0,0,0,0,0,0,1,0,48,0,1,0,0.0,0.0,0.0,1,0,35,42,83.3,1,18,1,0,0,Crystal Palace
+Maxence Lacroix,5.0,fr FRA,CB,25-238,90,0,0,0,0,1,0,0,0,55,2,0,3,0.1,0.1,0.0,0,0,27,33,81.8,1,19,0,1,0,Crystal Palace
+Chris Richards,26.0,us USA,CB,25-247,90,0,0,0,0,1,0,0,0,63,2,1,0,0.0,0.0,0.1,2,0,32,50,64.0,0,22,1,0,0,Crystal Palace
+Dean Henderson,1.0,eng ENG,GK,28-263,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,0,17,38,44.7,0,23,0,0,0,Crystal Palace
+16 Players,,,,,990,1,0,1,1,13,2,3,0,503,14,7,5,1.8,1.0,0.5,21,2,265,378,70.1,18,181,11,8,2,Crystal Palace
+Joshua Zirkzee,11.0,nl NED,FW,24-192,90,1,0,0,0,1,1,0,0,49,2,0,0,0.0,0.0,0.1,3,0,22,34,64.7,3,21,0,0,0,Manchester United
+Mason Mount,7.0,eng ENG,AM,26-324,90,1,0,0,0,2,1,0,0,47,1,0,2,0.1,0.1,0.0,1,0,30,40,75.0,6,25,2,3,2,Manchester United
+Bryan Mbeumo,19.0,cm CMR,AM,26-115,89,0,0,0,0,3,2,1,0,34,0,0,0,0.4,0.4,0.0,4,0,14,24,58.3,3,22,2,3,1,Manchester United
+Kobbie Mainoo,37.0,eng ENG,AM,20-225,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Manchester United
+Bruno Fernandes,8.0,pt POR,CM,31-083,90,0,2,0,0,1,0,0,0,64,2,2,3,0.0,0.0,0.2,7,2,37,49,75.5,5,29,0,1,0,Manchester United
+Casemiro,18.0,br BRA,CM,33-280,90,0,0,0,0,3,2,0,0,63,3,3,0,0.7,0.7,0.0,1,0,36,46,78.3,4,26,0,1,1,Manchester United
+Diogo Dalot,2.0,pt POR,WB,26-257,90,0,0,0,0,2,0,0,0,65,1,1,0,0.1,0.1,0.0,3,2,33,50,66.0,2,28,3,2,0,Manchester United
+Amad Diallo,16.0,ci CIV,WB,23-142,89,0,0,0,0,1,0,0,0,43,2,0,0,0.0,0.0,0.0,4,0,24,33,72.7,1,26,4,3,1,Manchester United
+Patrick Dorgu,13.0,dk DEN,WB,21-035,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,2,0,1,0,Manchester United
+Luke Shaw,23.0,eng ENG,CB,30-141,81,0,0,0,0,0,0,1,0,80,1,3,2,0.0,0.0,0.0,1,0,60,69,87.0,6,51,3,0,0,Manchester United
+Lisandro Martínez,6.0,ar ARG,CB,27-316,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Manchester United
+Matthijs de Ligt,4.0,nl NED,CB,26-110,90,0,0,0,0,1,0,0,0,63,1,0,2,0.1,0.1,0.0,0,0,45,52,86.5,2,38,0,0,0,Manchester United
+Leny Yoro,15.0,fr FRA,CB,20-017,53,0,0,0,0,0,0,0,0,32,2,0,1,0.0,0.0,0.0,0,0,23,24,95.8,0,21,0,0,0,Manchester United
+Noussair Mazraoui,3.0,ma MAR,CB,28-016,37,0,0,0,0,0,0,0,0,27,1,1,0,0.0,0.0,0.0,2,0,17,20,85.0,3,11,1,1,0,Manchester United
+Senne Lammens,31.0,be BEL,GK,23-146,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,28,37,75.7,0,24,0,0,0,Manchester United
+15 Players,,,,,990,2,2,0,0,14,6,2,0,616,16,10,10,1.4,1.4,0.4,26,4,371,485,76.5,35,326,15,15,5,Manchester United

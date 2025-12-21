@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Eliezer Mayenda,12.0,es ESP,FW,20-114,64,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,5,1,0,0,Sunderland
+Wilson Isidor,18.0,fr FRA,FW,25-003,26,1,0,0,0,3,2,0,0,11,2,0,0,0.2,0.2,0.0,1,0,3,5,60.0,1,6,0,1,0,Sunderland
+Enzo Le Fée,28.0,fr FRA,"LW,LM",25-208,90,1,0,1,1,0,0,0,0,51,6,0,2,0.8,0.0,0.2,3,2,28,37,75.7,3,32,1,2,1,Sunderland
+Chemsdine Talbi,7.0,ma MAR,RW,20-113,64,0,0,0,0,1,0,0,0,34,2,0,0,0.1,0.1,0.0,2,0,22,27,81.5,1,24,1,0,0,Sunderland
+Simon Adingra,24.0,ci CIV,"RW,RM",23-241,26,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,6,0,3,1,Sunderland
+Noah Sadiki,27.0,cd COD,"LM,CM",20-256,90,0,0,0,0,0,0,0,0,40,2,0,0,0.0,0.0,0.1,3,0,31,36,86.1,4,25,1,0,0,Sunderland
+Granit Xhaka,34.0,ch SUI,CM,32-337,90,0,1,0,0,0,0,1,0,70,1,1,1,0.0,0.0,0.1,3,1,50,61,82.0,9,37,1,0,0,Sunderland
+Habib Diarra,19.0,sn SEN,RM,21-239,86,0,0,0,0,3,0,1,0,35,0,1,0,0.3,0.3,0.0,2,1,24,30,80.0,4,28,3,1,1,Sunderland
+Marc Guiu,9.0,es ESP,FW,19-238,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Sunderland
+Reinildo Mandava,17.0,mz MOZ,LB,31-221,90,0,0,0,0,1,0,1,0,57,3,2,0,0.0,0.0,0.0,0,0,33,43,76.7,4,26,2,1,0,Sunderland
+Omar Alderete,15.0,py PAR,CB,28-247,90,0,0,0,0,1,0,0,0,72,2,2,0,0.0,0.0,0.0,0,0,47,57,82.5,4,49,3,1,1,Sunderland
+Nordi Mukiele,20.0,fr FRA,CB,27-302,90,0,0,0,0,1,0,0,0,80,5,0,0,0.1,0.1,0.0,2,0,50,61,82.0,6,42,1,0,0,Sunderland
+Trai Hume,32.0,nir NIR,RB,23-165,90,0,0,0,0,1,0,0,0,53,4,1,1,0.0,0.0,0.0,2,0,24,40,60.0,3,20,1,0,0,Sunderland
+Robin Roefs,22.0,nl NED,GK,22-225,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,0,0,41,52,78.8,0,36,0,0,0,Sunderland
+14 Players,,,,,990,2,1,1,1,11,2,3,0,574,28,7,4,1.5,0.8,0.4,19,4,360,460,78.3,39,336,15,9,4,Sunderland
+Thiago,9.0,br BRA,FW,24-065,90,1,0,0,0,1,1,1,0,23,0,0,0,0.1,0.1,0.1,1,0,11,13,84.6,1,7,0,2,2,Brentford
+Kevin Schade,7.0,de GER,LW,23-276,89,0,0,0,1,2,0,0,0,29,1,0,1,0.9,0.2,0.0,0,0,12,17,70.6,0,12,0,3,1,Brentford
+Fabio Carvalho,14.0,pt POR,LW,23-000,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Brentford
+Dango Ouattara,19.0,bf BFA,RW,23-200,90,0,0,0,0,1,1,0,0,27,0,2,1,0.1,0.1,0.0,0,0,4,11,36.4,0,13,2,5,0,Brentford
+Mikkel Damsgaard,24.0,dk DEN,AM,25-058,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.2,4,1,26,36,72.2,4,25,3,5,1,Brentford
+Yehor Yarmoliuk,18.0,ua UKR,DM,21-182,90,0,0,0,0,1,1,0,0,56,2,0,4,0.0,0.0,0.0,0,0,36,42,85.7,4,30,2,4,1,Brentford
+Jordan Henderson,6.0,eng ENG,DM,35-074,70,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,1,0,35,47,74.5,4,29,2,0,0,Brentford
+Frank Onyeka,15.0,ng NGA,DM,27-241,20,0,1,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.1,1,1,10,13,76.9,0,9,1,1,0,Brentford
+Keane Lewis-Potter,23.0,eng ENG,LB,24-189,71,0,0,0,0,0,0,0,0,26,2,0,0,0.0,0.0,0.0,0,0,17,21,81.0,0,11,0,0,0,Brentford
+Rico Henry,3.0,jm JAM,LB,28-053,19,0,0,0,0,1,0,1,0,14,1,0,0,0.0,0.0,0.0,0,0,4,10,40.0,1,6,0,1,1,Brentford
+Sepp van den Berg,4.0,nl NED,CB,23-253,90,0,0,0,0,0,0,0,0,64,0,0,0,0.0,0.0,0.0,0,0,45,48,93.8,3,30,1,0,0,Brentford
+Nathan Collins,22.0,ie IRL,CB,24-122,90,0,0,0,0,0,0,0,0,53,1,1,2,0.0,0.0,0.0,1,0,37,41,90.2,4,32,1,0,0,Brentford
+Michael Kayode,33.0,it ITA,RB,21-051,90,0,0,0,0,0,0,0,0,57,1,1,2,0.0,0.0,0.0,1,0,33,45,73.3,3,32,1,4,2,Brentford
+Caoimhín Kelleher,1.0,ie IRL,GK,26-280,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,1,0,28,44,63.6,0,24,0,0,0,Brentford
+14 Players,,,,,990,1,1,0,1,6,3,2,0,510,9,4,10,1.2,0.4,0.4,10,2,300,391,76.7,24,261,13,25,8,Brentford

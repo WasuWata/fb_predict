@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jørgen Strand Larsen,9.0,no NOR,FW,25-305,68,0,0,0,0,0,0,1,0,18,0,0,3,0.0,0.0,0.0,0,0,4,9,44.4,0,6,0,0,0,Wolverhampton Wanderers
+Tolu Arokodare,14.0,ng NGA,FW,25-015,22,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,Wolverhampton Wanderers
+Jean-Ricner Bellegarde,27.0,ht HAI,AM,27-164,53,1,0,0,0,2,1,0,0,34,2,0,1,0.4,0.4,0.0,0,0,12,20,60.0,2,18,1,6,2,Wolverhampton Wanderers
+Fer López,28.0,es ESP,AM,21-198,37,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,6,10,60.0,2,12,2,2,0,Wolverhampton Wanderers
+Jhon Arias,10.0,co COL,AM,28-078,69,0,0,0,0,0,0,0,0,25,3,0,3,0.0,0.0,0.0,2,0,11,14,78.6,3,7,1,2,1,Wolverhampton Wanderers
+Mateus Mane,36.0,pt POR,AM,18-083,21,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,5,10,50.0,1,11,0,5,2,Wolverhampton Wanderers
+Ladislav Krejčí,37.0,cz CZE,CM,26-232,90,0,0,0,0,2,0,1,0,45,2,5,1,0.1,0.1,0.0,2,0,21,28,75.0,1,14,2,0,0,Wolverhampton Wanderers
+André,7.0,br BRA,CM,24-145,90,0,0,0,0,2,0,0,0,45,1,2,2,0.1,0.1,0.1,2,0,28,37,75.7,4,21,1,0,0,Wolverhampton Wanderers
+David Møller Wolfe,6.0,no NOR,"WB,CB",23-229,90,0,1,0,0,0,0,0,0,38,1,1,2,0.0,0.0,0.4,1,1,22,31,71.0,0,20,1,2,1,Wolverhampton Wanderers
+Ki-Jana Hoever,26.0,nl NED,WB,23-324,85,0,0,0,0,0,0,0,0,41,4,1,1,0.0,0.0,0.0,3,1,20,32,62.5,1,16,1,3,2,Wolverhampton Wanderers
+Jackson Tchatchoua,38.0,cm CMR,WB,24-085,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,1,2,0,0,0,Wolverhampton Wanderers
+Toti Gomes,24.0,pt POR,CB,26-326,69,0,0,0,0,0,0,0,0,40,1,0,4,0.0,0.0,0.0,0,0,22,30,73.3,1,17,0,0,0,Wolverhampton Wanderers
+Hugo Bueno,3.0,es ESP,WB,23-081,21,0,0,0,0,0,0,0,0,15,2,0,0,0.0,0.0,0.0,0,0,7,11,63.6,1,7,2,1,1,Wolverhampton Wanderers
+Emmanuel Agbadou,12.0,ci CIV,CB,28-174,90,0,0,0,0,1,1,0,0,62,4,4,3,0.0,0.0,0.0,0,0,36,42,85.7,1,28,0,3,3,Wolverhampton Wanderers
+Yerson Mosquera,15.0,co COL,CB,24-220,90,0,0,0,0,0,0,1,0,40,4,0,1,0.0,0.0,0.0,1,0,14,27,51.9,1,10,1,1,1,Wolverhampton Wanderers
+Sam Johnstone,31.0,eng ENG,GK,32-258,90,0,0,0,0,0,0,0,0,43,1,0,0,0.0,0.0,0.0,0,0,21,35,60.0,0,19,0,0,0,Wolverhampton Wanderers
+16 Players,,,,,990,1,1,0,0,8,2,3,0,489,26,13,21,0.6,0.6,0.5,14,2,234,343,68.2,19,212,12,25,13,Wolverhampton Wanderers
+Matheus Cunha,10.0,br BRA,"FW,AM",26-195,90,0,1,0,0,8,1,0,0,66,4,1,0,0.8,0.8,0.2,6,2,35,42,83.3,5,42,5,5,3,Manchester United
+Mason Mount,7.0,eng ENG,AM,26-332,83,1,0,0,0,3,1,0,0,39,0,0,2,0.6,0.6,0.0,7,0,27,30,90.0,7,27,2,3,0,Manchester United
+Joshua Zirkzee,11.0,nl NED,FW,24-200,7,0,0,0,0,0,0,1,0,10,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,8,1,2,1,Manchester United
+Bryan Mbeumo,19.0,cm CMR,AM,26-123,90,1,0,0,0,4,3,1,0,65,3,0,0,1.3,1.3,0.2,7,0,42,52,80.8,2,38,3,5,1,Manchester United
+Bruno Fernandes,8.0,pt POR,CM,31-091,90,2,1,1,1,4,1,0,0,80,1,0,1,1.1,0.5,1.2,10,1,54,70,77.1,8,33,2,1,0,Manchester United
+Casemiro,18.0,br BRA,CM,33-288,77,0,0,0,0,1,0,0,0,61,1,1,4,0.0,0.0,0.0,1,0,36,48,75.0,6,29,0,0,0,Manchester United
+Kobbie Mainoo,37.0,eng ENG,CM,20-233,13,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,14,15,93.3,0,9,0,1,0,Manchester United
+Diogo Dalot,2.0,pt POR,WB,26-265,83,0,1,0,0,1,1,0,0,52,1,1,0,0.2,0.2,1.0,4,1,32,43,74.4,2,21,1,0,0,Manchester United
+Patrick Dorgu,13.0,dk DEN,WB,21-043,7,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,5,10,50.0,1,7,2,0,0,Manchester United
+Amad Diallo,16.0,ci CIV,WB,23-150,90,0,0,0,0,3,0,0,0,66,1,2,0,0.2,0.2,0.3,6,1,45,52,86.5,1,33,5,6,3,Manchester United
+Luke Shaw,23.0,eng ENG,CB,30-149,90,0,0,0,0,0,0,0,0,60,3,1,1,0.0,0.0,0.0,1,0,42,50,84.0,1,31,1,0,0,Manchester United
+Ayden Heaven,26.0,eng ENG,CB,19-077,68,0,0,0,0,1,0,0,0,47,0,0,1,0.0,0.0,0.0,1,0,36,37,97.3,2,28,0,0,0,Manchester United
+Leny Yoro,15.0,fr FRA,CB,20-025,22,0,0,0,0,0,0,0,0,25,2,0,0,0.0,0.0,0.0,1,0,21,22,95.5,2,16,0,1,1,Manchester United
+Noussair Mazraoui,3.0,ma MAR,CB,28-024,68,0,0,0,0,1,0,0,0,58,0,1,1,0.0,0.0,0.0,2,1,42,46,91.3,5,32,0,0,0,Manchester United
+Lisandro Martínez,6.0,ar ARG,CB,27-324,22,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,24,25,96.0,1,20,0,1,1,Manchester United
+Senne Lammens,31.0,be BEL,GK,23-154,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,19,32,59.4,0,23,0,0,0,Manchester United
+16 Players,,,,,990,4,3,1,1,26,7,2,0,715,16,7,10,4.2,3.5,3.0,46,6,481,582,82.6,43,397,22,25,10,Manchester United

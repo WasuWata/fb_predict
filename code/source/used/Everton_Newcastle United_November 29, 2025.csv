@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Thierno Barry,11.0,fr FRA,FW,23-039,86,0,0,0,0,2,0,0,0,23,0,0,0,0.3,0.3,0.0,1,0,8,13,61.5,0,11,1,1,0,Everton
+Beto,9.0,gw GNB,FW,27-302,4,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,1,0,Everton
+Jack Grealish,18.0,eng ENG,LW,30-080,79,0,0,0,0,0,0,0,0,50,2,0,1,0.0,0.0,0.1,2,0,35,42,83.3,9,37,2,5,0,Everton
+Dwight McNeil,7.0,eng ENG,LW,26-007,11,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,1,6,0,0,0,Everton
+Iliman Ndiaye,10.0,sn SEN,RW,25-268,79,0,0,0,0,1,1,0,0,48,2,0,1,0.0,0.0,0.1,1,0,30,36,83.3,3,28,3,4,3,Everton
+Tyler Dibling,20.0,eng ENG,RW,19-262,11,0,0,0,0,0,0,0,0,11,1,2,0,0.0,0.0,0.0,2,0,7,7,100.0,0,8,0,1,1,Everton
+Kiernan Dewsbury-Hall,22.0,eng ENG,AM,27-084,90,1,0,0,0,3,1,0,0,49,3,1,1,0.5,0.5,0.2,3,0,27,38,71.1,7,27,3,1,0,Everton
+Tim Iroegbunam,42.0,eng ENG,DM,22-152,45,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,24,25,96.0,6,19,2,0,0,Everton
+Carlos Alcaraz,24.0,ar ARG,DM,22-364,45,0,0,0,0,2,0,0,0,33,0,0,2,0.1,0.1,0.0,1,0,26,28,92.9,2,18,0,0,0,Everton
+James Garner,37.0,eng ENG,DM,24-261,90,0,0,0,0,1,0,0,0,97,2,0,1,0.0,0.0,0.0,3,1,85,93,91.4,12,62,1,0,0,Everton
+Vitaliy Mykolenko,16.0,ua UKR,LB,26-184,90,0,0,0,0,0,0,0,0,77,3,4,0,0.0,0.0,0.0,2,0,51,64,79.7,9,39,1,0,0,Everton
+Michael Keane,5.0,eng ENG,CB,32-322,90,0,0,0,0,1,0,0,0,72,1,1,2,0.0,0.0,0.0,1,0,54,57,94.7,5,35,0,0,0,Everton
+James Tarkowski,6.0,eng ENG,CB,33-010,90,0,1,0,0,0,0,0,0,83,2,1,3,0.0,0.0,0.4,2,1,63,73,86.3,2,47,0,0,0,Everton
+Jake O'Brien,15.0,ie IRL,RB,24-198,90,0,0,0,0,0,0,0,0,55,2,0,1,0.0,0.0,0.0,0,0,35,48,72.9,4,23,0,0,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,31-267,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,27,32,84.4,0,21,0,0,0,Everton
+15 Players,,,,,990,1,1,0,0,10,2,0,0,673,19,9,14,1.0,1.0,0.9,18,2,478,563,84.9,60,383,13,13,4,Everton
+Nick Woltemade,27.0,de GER,FW,23-288,89,1,0,0,0,2,1,0,0,33,0,0,1,0.6,0.6,0.1,5,0,16,21,76.2,2,19,1,4,2,Newcastle United
+Anthony Gordon,10.0,eng ENG,FW,24-278,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Newcastle United
+Harvey Barnes,11.0,eng ENG,LW,27-355,70,0,0,0,0,2,1,0,0,32,0,0,0,0.3,0.3,0.0,1,1,18,23,78.3,2,18,1,2,0,Newcastle United
+Jacob Ramsey,41.0,eng ENG,LW,24-185,20,0,0,0,0,1,1,0,0,22,0,0,0,0.2,0.2,0.0,1,0,15,17,88.2,1,12,1,1,0,Newcastle United
+Anthony Elanga,20.0,se SWE,RW,23-216,70,0,1,0,0,1,1,0,0,40,3,0,0,0.1,0.1,0.5,2,2,23,30,76.7,2,21,3,1,0,Newcastle United
+Joe Willock,28.0,eng ENG,RW,26-101,20,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.2,1,0,17,20,85.0,2,15,2,0,0,Newcastle United
+Joelinton,7.0,br BRA,LM,29-107,90,0,0,0,0,1,0,0,0,56,1,1,0,0.0,0.0,0.0,2,0,46,49,93.9,5,27,0,1,0,Newcastle United
+Bruno Guimarães,39.0,br BRA,CM,28-013,89,0,0,0,0,0,0,0,0,88,2,2,2,0.0,0.0,0.0,0,0,64,70,91.4,6,42,0,1,0,Newcastle United
+Sandro Tonali,8.0,it ITA,CM,25-205,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,0,0,0,0,Newcastle United
+Lewis Miley,67.0,eng ENG,RM,19-212,90,1,1,0,0,1,1,0,0,70,2,0,1,0.1,0.1,0.3,2,1,58,62,93.5,4,27,0,0,0,Newcastle United
+Lewis Hall,3.0,eng ENG,LB,21-082,89,0,1,0,0,1,0,0,0,82,2,0,2,0.0,0.0,0.3,2,1,57,67,85.1,5,40,1,4,3,Newcastle United
+Fabian Schär,5.0,ch SUI,"CB,LB",33-344,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,0,0,0,0,Newcastle United
+Dan Burn,33.0,eng ENG,"CB,LB",33-204,90,0,1,0,0,1,0,0,0,76,1,0,2,0.1,0.1,0.2,2,0,53,62,85.5,3,39,0,0,0,Newcastle United
+Malick Thiaw,12.0,de GER,CB,24-113,90,2,0,0,0,2,2,0,0,70,1,0,0,0.4,0.4,0.0,0,0,58,63,92.1,3,39,0,0,0,Newcastle United
+Valentino Livramento,21.0,eng ENG,RB,23-017,90,0,0,0,0,1,0,0,0,81,4,0,1,0.1,0.1,0.0,4,2,55,65,84.6,5,43,1,1,0,Newcastle United
+Aaron Ramsdale,32.0,eng ENG,GK,27-199,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,26,36,72.2,0,19,0,0,0,Newcastle United
+16 Players,,,,,990,4,4,0,0,13,7,0,0,718,16,3,9,1.9,1.9,1.7,23,7,511,593,86.2,40,361,10,15,5,Newcastle United

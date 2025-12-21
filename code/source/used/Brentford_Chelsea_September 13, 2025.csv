@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Kevin Schade,7.0,de GER,FW,23-290,90,1,0,0,0,4,2,0,0,31,3,0,0,0.6,0.6,0.0,1,1,10,15,66.7,1,11,3,3,0,Brentford
+Thiago,9.0,br BRA,FW,24-079,72,0,0,0,0,0,0,1,0,25,0,0,3,0.0,0.0,0.3,2,0,7,15,46.7,0,8,1,1,1,Brentford
+Rico Henry,3.0,jm JAM,LB,28-067,18,0,0,0,0,1,0,0,0,9,1,0,0,0.1,0.1,0.0,0,0,3,6,50.0,0,5,2,2,2,Brentford
+Yehor Yarmoliuk,18.0,ua UKR,CM,21-196,90,0,0,0,0,0,0,1,0,46,2,0,4,0.0,0.0,0.0,1,0,26,33,78.8,5,24,2,6,3,Brentford
+Jordan Henderson,6.0,eng ENG,CM,35-088,90,0,1,0,0,0,0,0,0,44,3,0,0,0.0,0.0,0.2,3,1,26,35,74.3,6,26,1,0,0,Brentford
+Mathias Jensen,8.0,dk DEN,CM,29-255,72,0,0,0,0,0,0,0,0,34,3,1,0,0.0,0.0,0.1,2,1,15,24,62.5,4,13,0,2,1,Brentford
+Dango Ouattara,19.0,bf BFA,FW,23-214,18,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,8,37.5,0,6,1,2,1,Brentford
+Keane Lewis-Potter,23.0,eng ENG,"LB,CM",24-203,89,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,2,0,21,26,80.8,0,13,1,0,0,Brentford
+Fabio Carvalho,14.0,pt POR,CM,23-014,1,1,0,0,0,1,1,0,0,2,0,0,0,0.7,0.7,0.0,0,0,2,2,100.0,0,1,0,0,0,Brentford
+Ethan Pinnock,5.0,jm JAM,CB,32-107,82,0,0,0,0,0,0,1,0,43,1,2,2,0.0,0.0,0.0,0,0,23,32,71.9,1,22,0,0,0,Brentford
+Kristoffer Ajer,20.0,no NOR,CB,27-149,8,0,1,0,0,1,1,0,0,3,0,0,0,0.0,0.0,0.7,1,1,2,2,100.0,0,0,0,0,0,Brentford
+Nathan Collins,22.0,ie IRL,CB,24-136,90,0,0,0,0,0,0,0,0,47,1,2,2,0.0,0.0,0.1,1,0,25,31,80.6,0,23,1,1,0,Brentford
+Sepp van den Berg,4.0,nl NED,CB,23-267,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,0,0,28,32,87.5,0,19,0,0,0,Brentford
+Michael Kayode,33.0,it ITA,RB,21-065,82,0,0,0,0,0,0,0,0,44,0,1,2,0.0,0.0,0.0,0,0,21,27,77.8,0,17,1,5,3,Brentford
+Aaron Hickey,2.0,sct SCO,RB,23-095,8,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,1,3,33.3,0,2,0,0,0,Brentford
+Caoimhín Kelleher,1.0,ie IRL,GK,26-294,90,0,0,0,0,0,0,0,0,35,1,0,0,0.0,0.0,0.0,0,0,23,33,69.7,0,16,0,0,0,Brentford
+16 Players,,,,,990,2,2,0,0,7,4,3,0,446,17,6,13,1.4,1.4,1.4,14,4,236,324,72.8,17,206,13,22,11,Brentford
+João Pedro,20.0,br BRA,FW,23-352,78,0,1,0,0,1,0,0,0,44,0,2,0,0.1,0.1,0.2,3,0,25,32,78.1,3,25,0,1,0,Chelsea
+Alejandro Garnacho,49.0,ar ARG,LW,21-074,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,1,0,2,5,40.0,0,5,3,0,0,Chelsea
+Jamie Gittens,11.0,eng ENG,LW,21-036,55,0,0,0,0,1,1,0,0,16,0,0,0,0.0,0.0,0.1,2,0,11,14,78.6,0,12,3,1,0,Chelsea
+Cole Palmer,10.0,eng ENG,AM,23-130,35,1,0,0,0,5,2,0,0,21,1,0,0,0.6,0.6,0.0,4,1,12,14,85.7,5,12,3,2,1,Chelsea
+Pedro Neto,7.0,pt POR,RW,25-188,90,0,0,0,0,2,0,0,0,45,1,1,0,0.1,0.1,0.4,5,0,26,37,70.3,3,38,4,4,1,Chelsea
+Facundo Buonanotte,40.0,ar ARG,AM,20-264,45,0,0,0,0,0,0,0,0,30,1,0,1,0.0,0.0,0.3,2,0,20,22,90.9,0,16,0,1,0,Chelsea
+Tyrique George,32.0,eng ENG,"LW,FW,AM",19-221,45,0,0,0,0,1,1,1,0,14,1,0,0,0.0,0.0,0.0,2,1,8,9,88.9,2,8,1,0,0,Chelsea
+Moisés Caicedo,25.0,ec ECU,DM,23-315,90,1,0,0,0,1,1,0,0,82,4,4,0,0.1,0.1,0.0,2,0,63,66,95.5,5,38,1,1,0,Chelsea
+Enzo Fernández,8.0,ar ARG,DM,24-239,90,0,0,0,0,1,0,0,0,90,4,1,0,0.1,0.1,0.1,2,0,68,80,85.0,8,58,2,1,0,Chelsea
+Jorrel Hato,21.0,nl NED,LB,19-190,45,0,0,0,0,0,0,1,0,29,0,0,1,0.0,0.0,0.0,0,0,22,24,91.7,0,18,0,1,1,Chelsea
+Marc Cucurella,3.0,es ESP,LB,27-053,45,0,0,0,0,1,1,0,0,26,2,1,0,0.1,0.1,0.1,2,0,16,20,80.0,1,12,3,0,0,Chelsea
+Trevoh Chalobah,23.0,eng ENG,CB,26-070,90,0,0,0,0,2,0,0,0,111,1,2,0,0.0,0.0,0.0,2,0,85,93,91.4,9,66,3,1,0,Chelsea
+Tosin Adarabioyo,4.0,eng ENG,CB,27-354,90,0,0,0,0,0,0,0,0,97,0,1,1,0.0,0.0,0.0,0,0,82,87,94.3,7,56,1,0,0,Chelsea
+Wesley Fofana,29.0,fr FRA,RB,24-270,45,0,0,0,0,0,0,0,0,58,0,1,0,0.0,0.0,0.0,1,0,51,56,91.1,2,37,2,0,0,Chelsea
+Reece James,24.0,eng ENG,RB,25-279,45,0,0,0,0,1,0,0,0,45,0,0,0,0.0,0.0,0.0,3,2,38,41,92.7,3,23,1,3,1,Chelsea
+Robert Sánchez,1.0,es ESP,GK,27-299,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,14,17,82.4,0,14,0,0,0,Chelsea
+16 Players,,,,,990,2,1,0,0,16,6,2,0,735,15,13,3,1.3,1.3,1.1,31,4,543,617,88.0,48,438,27,16,4,Chelsea

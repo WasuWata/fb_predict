@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Erling Haaland,9.0,no NOR,FW,25-089,90,2,0,0,0,5,4,0,0,27,0,0,1,1.0,1.0,0.0,3,0,7,12,58.3,0,13,5,3,1,Manchester City
+Jeremy Doku,11.0,be BEL,LM,23-144,58,0,0,0,0,1,1,0,0,40,0,0,0,0.4,0.4,0.3,4,0,27,35,77.1,4,33,9,8,3,Manchester City
+Oscar Bobb,52.0,no NOR,RM,22-098,32,0,0,0,0,1,0,0,0,21,1,0,0,0.0,0.0,0.0,1,0,18,19,94.7,1,13,2,1,1,Manchester City
+Phil Foden,47.0,eng ENG,CM,25-143,90,0,0,0,0,1,0,0,0,85,2,0,0,0.1,0.1,0.4,5,2,62,73,84.9,7,43,2,3,2,Manchester City
+Tijjani Reijnders,4.0,nl NED,CM,27-081,58,0,0,0,0,3,0,0,0,42,1,1,0,0.3,0.3,0.4,3,0,31,33,93.9,2,25,0,1,1,Manchester City
+Bernardo Silva,20.0,pt POR,CM,31-069,32,0,0,0,0,0,0,0,0,43,0,0,1,0.0,0.0,0.0,3,0,38,42,90.5,2,31,0,2,2,Manchester City
+Sávio,26.0,br BRA,"RM,LM",21-191,84,0,1,0,0,2,2,0,0,49,1,1,1,0.1,0.1,0.3,5,1,30,37,81.1,2,32,4,5,3,Manchester City
+Rayan Cherki,10.0,fr FRA,LM,22-062,6,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.4,3,0,12,13,92.3,0,13,0,0,0,Manchester City
+Nicolás González,14.0,es ESP,DM,23-288,85,0,0,0,0,0,0,0,0,96,2,1,0,0.0,0.0,0.0,3,0,74,82,90.2,5,54,1,0,0,Manchester City
+Mateo Kovačić,8.0,hr CRO,DM,31-165,5,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,22,22,100.0,1,13,0,1,1,Manchester City
+Nico O’Reilly,33.0,eng ENG,LB,20-211,84,0,1,0,0,3,0,0,0,66,2,1,0,0.3,0.3,0.2,2,1,44,54,81.5,1,36,5,0,0,Manchester City
+Rico Lewis,82.0,eng ENG,LB,20-331,6,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,10,10,100.0,1,6,0,0,0,Manchester City
+Nathan Aké,6.0,nl NED,CB,30-242,90,0,0,0,0,1,0,0,0,120,2,0,0,0.1,0.1,0.0,1,0,103,110,93.6,14,92,3,0,0,Manchester City
+Rúben Dias,3.0,pt POR,CB,28-157,90,0,0,0,0,0,0,0,0,119,1,1,2,0.0,0.0,0.0,0,0,103,107,96.3,8,88,4,0,0,Manchester City
+Matheus Nunes,27.0,pt POR,RB,27-052,90,0,0,0,0,1,0,0,0,118,3,0,2,0.0,0.0,0.2,2,0,104,110,94.5,5,83,2,2,1,Manchester City
+Gianluigi Donnarumma,25.0,it ITA,GK,26-235,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,30,35,85.7,0,26,0,0,0,Manchester City
+16 Players,,,,,990,2,2,0,0,19,7,0,0,910,15,5,7,2.4,2.4,2.2,35,4,715,794,90.1,53,601,37,26,15,Manchester City
+Beto,9.0,gw GNB,FW,27-260,74,0,0,0,0,1,0,0,0,24,1,0,0,0.8,0.8,0.0,1,0,10,16,62.5,0,15,0,1,0,Everton
+Thierno Barry,11.0,fr FRA,FW,22-362,16,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Everton
+Carlos Alcaraz,24.0,ar ARG,LW,22-322,69,0,0,0,0,1,0,0,0,25,0,0,1,0.0,0.0,0.0,0,0,17,19,89.5,0,18,0,0,0,Everton
+Merlin Röhl,34.0,de GER,"RW,LW",23-105,21,0,0,0,0,1,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,5,9,55.6,2,7,0,1,1,Everton
+Iliman Ndiaye,10.0,sn SEN,"RW,LW",25-226,85,0,0,0,0,1,1,0,0,39,4,2,0,0.0,0.0,0.9,4,0,22,29,75.9,2,30,3,5,2,Everton
+Tyler Dibling,20.0,eng ENG,RW,19-220,5,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Everton
+Kiernan Dewsbury-Hall,22.0,eng ENG,AM,27-042,85,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,1,0,13,17,76.5,2,15,2,3,2,Everton
+Dwight McNeil,7.0,eng ENG,AM,25-330,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,1,0,Everton
+Idrissa Gana Gueye,27.0,sn SEN,DM,36-022,69,0,0,0,0,0,0,0,0,33,3,0,0,0.0,0.0,0.0,0,0,24,28,85.7,0,16,1,0,0,Everton
+Tim Iroegbunam,42.0,eng ENG,DM,22-110,21,0,0,0,0,0,0,0,0,13,3,0,1,0.0,0.0,0.0,1,0,4,5,80.0,1,4,0,1,0,Everton
+James Garner,37.0,eng ENG,DM,24-219,90,0,0,0,0,1,0,1,0,47,2,3,1,0.2,0.2,0.0,0,0,25,31,80.6,0,25,2,2,0,Everton
+Vitaliy Mykolenko,16.0,ua UKR,LB,26-142,90,0,0,0,0,0,0,0,0,40,1,1,4,0.0,0.0,0.0,0,0,25,32,78.1,5,25,2,1,0,Everton
+Michael Keane,5.0,eng ENG,CB,32-280,90,0,0,0,0,0,0,0,0,37,0,0,4,0.0,0.0,0.0,1,0,26,28,92.9,2,22,0,0,0,Everton
+James Tarkowski,6.0,eng ENG,CB,32-333,90,0,0,0,0,0,0,0,0,47,2,0,2,0.0,0.0,0.0,0,0,24,33,72.7,2,16,0,0,0,Everton
+Jake O'Brien,15.0,ie IRL,RB,24-156,90,0,0,0,0,0,0,0,0,43,0,1,0,0.0,0.0,0.0,1,0,27,36,75.0,1,21,0,1,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,31-225,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,19,35,54.3,0,26,0,0,0,Everton
+16 Players,,,,,990,0,0,0,0,5,1,2,0,437,18,7,13,1.1,1.1,0.9,9,0,247,326,75.8,17,247,10,16,5,Everton

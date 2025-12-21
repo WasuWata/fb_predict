@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Noah Okafor,19.0,ch SUI,FW,25-196,64,0,0,0,0,2,0,0,0,12,1,0,0,0.1,0.1,0.0,0,0,5,6,83.3,2,6,1,2,1,Leeds United
+Wilfried Gnonto,29.0,it ITA,LM,22-031,26,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,4,3,9,11,81.8,2,10,0,1,0,Leeds United
+Dominic Calvert-Lewin,9.0,eng ENG,FW,28-265,90,1,0,1,1,3,0,0,0,25,0,1,0,1.0,0.2,0.1,1,0,4,8,50.0,1,13,0,1,0,Leeds United
+Ilia Gruev,44.0,bg BUL,CM,25-214,64,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,0,0,23,26,88.5,2,15,1,0,0,Leeds United
+Ao Tanaka,22.0,jp JPN,"CM,DM",27-087,26,1,0,0,0,2,2,0,0,20,1,0,1,0.2,0.2,0.0,0,0,13,15,86.7,1,10,1,0,0,Leeds United
+Ethan Ampadu,4.0,wls WAL,"CM,DM",25-083,86,0,0,0,0,0,0,0,0,42,1,1,2,0.0,0.0,0.0,2,0,28,34,82.4,4,24,2,1,1,Leeds United
+Joël Piroe,10.0,nl NED,CM,26-126,4,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,6,7,85.7,0,6,1,0,0,Leeds United
+Anton Stach,18.0,de GER,CM,27-021,90,1,0,0,0,1,1,0,0,53,1,2,1,0.2,0.2,0.1,9,2,39,48,81.3,2,25,2,2,2,Leeds United
+Gabriel Gudmundsson,3.0,se SWE,"WB,LB",26-221,90,0,0,0,0,1,0,1,0,63,0,1,3,0.0,0.0,0.1,3,0,32,49,65.3,7,25,1,2,1,Leeds United
+Jayden Bogle,2.0,eng ENG,"WB,RB",25-132,89,0,0,0,0,0,0,1,0,36,0,3,1,0.0,0.0,0.0,0,0,22,29,75.9,0,18,0,1,0,Leeds United
+Sebastiaan Bornauw,23.0,be BEL,RB,26-259,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Leeds United
+Pascal Struijk,5.0,nl NED,CB,26-117,90,0,0,0,0,1,0,1,0,79,1,1,3,0.1,0.1,0.0,1,0,59,68,86.8,4,50,1,1,0,Leeds United
+Jaka Bijol,15.0,si SVN,CB,26-304,64,0,0,0,0,0,0,0,0,56,2,1,3,0.0,0.0,0.0,0,0,40,46,87.0,1,31,1,0,0,Leeds United
+Brenden Aaronson,11.0,us USA,RM,25-045,26,0,1,0,0,1,1,0,0,16,0,0,1,0.0,0.0,0.2,1,1,8,11,72.7,2,10,1,1,0,Leeds United
+Joe Rodon,6.0,wls WAL,CB,28-045,90,0,0,0,0,0,0,0,0,60,1,0,2,0.0,0.0,0.0,1,0,43,50,86.0,4,36,2,0,0,Leeds United
+Lucas Perri,1.0,br BRA,GK,27-361,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,15,38,39.5,0,24,0,0,0,Leeds United
+16 Players,,,,,990,3,1,1,1,11,4,3,0,556,9,10,19,1.6,0.8,0.5,22,6,347,447,77.6,32,304,14,12,5,Leeds United
+Hugo Ekitike,22.0,fr FRA,FW,23-169,83,2,0,0,0,5,3,0,0,35,0,0,0,1.0,1.0,0.1,5,2,18,24,75.0,0,24,4,4,2,Liverpool
+Alexander Isak,9.0,se SWE,FW,26-076,7,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Liverpool
+Cody Gakpo,18.0,nl NED,LW,26-213,82,0,0,0,0,3,1,0,0,38,0,0,0,0.2,0.2,0.0,3,0,21,33,63.6,1,25,4,1,0,Liverpool
+Wataru Endo,3.0,jp JPN,DM,32-300,8,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,3,6,50.0,1,3,0,0,0,Liverpool
+Dominik Szoboszlai,8.0,hu HUN,RW,25-042,90,1,0,0,0,2,1,0,0,63,2,1,1,0.5,0.5,0.2,7,0,43,56,76.8,5,29,5,1,0,Liverpool
+Florian Wirtz,7.0,de GER,AM,22-217,67,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.1,2,0,30,35,85.7,5,24,0,2,1,Liverpool
+Alexis Mac Allister,10.0,ar ARG,AM,26-347,23,0,0,0,0,0,0,0,0,10,2,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,0,0,0,Liverpool
+Curtis Jones,17.0,eng ENG,"DM,LW",24-310,90,0,0,0,0,1,0,0,0,80,1,1,0,0.0,0.0,0.1,6,1,66,74,89.2,7,64,6,1,1,Liverpool
+Ryan Gravenberch,38.0,nl NED,DM,23-204,90,0,1,0,0,0,0,0,0,60,1,1,0,0.0,0.0,0.5,2,1,45,49,91.8,6,39,4,1,0,Liverpool
+Milos Kerkez,6.0,hu HUN,LB,22-029,90,0,0,0,0,1,0,0,0,72,4,0,1,0.0,0.0,0.0,1,0,48,59,81.4,6,39,1,1,1,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,34-151,90,0,0,0,0,2,1,1,0,84,0,0,2,0.1,0.1,0.0,0,0,59,64,92.2,2,37,0,0,0,Liverpool
+Ibrahima Konaté,5.0,fr FRA,CB,26-195,90,0,0,0,0,1,1,0,0,62,2,0,0,0.0,0.0,0.0,0,0,41,49,83.7,3,37,2,0,0,Liverpool
+Conor Bradley,12.0,nir NIR,RB,22-150,67,0,0,0,0,0,0,1,0,43,3,0,2,0.0,0.0,0.4,2,0,27,35,77.1,1,27,2,3,1,Liverpool
+Joe Gomez,2.0,eng ENG,RB,28-197,23,0,0,0,0,0,0,1,0,17,1,2,0,0.0,0.0,0.0,0,0,8,14,57.1,0,8,0,0,0,Liverpool
+Alisson,1.0,br BRA,GK,33-065,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,22,34,64.7,0,27,0,0,0,Liverpool
+15 Players,,,,,990,3,1,0,0,16,7,3,0,646,17,5,7,1.9,1.9,1.3,28,4,437,539,81.1,37,389,28,14,6,Liverpool

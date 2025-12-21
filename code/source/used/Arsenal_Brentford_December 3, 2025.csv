@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Mikel Merino,23.0,es ESP,"FW,LM",29-164,90,1,1,0,0,3,1,0,0,50,5,0,1,0.7,0.7,0.3,3,1,31,39,79.5,3,29,1,0,0,Arsenal
+Gabriel Martinelli,11.0,br BRA,LW,24-168,60,0,0,0,0,1,0,0,0,29,0,0,1,0.1,0.1,0.0,1,0,16,20,80.0,2,22,2,2,1,Arsenal
+Eberechi Eze,10.0,eng ENG,LW,27-157,30,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,2,0,9,9,100.0,0,10,0,4,1,Arsenal
+Noni Madueke,20.0,eng ENG,RW,23-268,60,0,0,0,0,2,1,0,0,39,2,0,0,0.1,0.1,0.0,4,1,17,25,68.0,2,22,3,5,2,Arsenal
+Bukayo Saka,7.0,eng ENG,RW,24-089,30,1,0,0,0,2,2,0,0,17,1,0,0,0.6,0.6,0.0,0,0,9,12,75.0,0,6,2,1,0,Arsenal
+Declan Rice,41.0,eng ENG,LM,26-323,82,0,0,0,0,3,1,0,0,63,0,0,0,0.1,0.1,0.2,5,0,44,54,81.5,7,32,4,1,0,Arsenal
+Viktor Gyökeres,14.0,se SWE,FW,27-182,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Arsenal
+Martín Zubimendi,36.0,es ESP,CM,26-304,90,0,0,0,0,0,0,0,0,73,1,0,1,0.0,0.0,0.0,1,0,61,66,92.4,3,38,1,0,0,Arsenal
+Martin Ødegaard,8.0,no NOR,RM,26-351,90,0,0,0,0,1,0,0,0,71,2,1,0,0.0,0.0,0.3,4,0,55,64,85.9,9,43,2,1,1,Arsenal
+Riccardo Calafiori,33.0,it ITA,LB,23-198,90,0,0,0,0,2,2,0,0,65,5,1,1,0.2,0.2,0.0,4,0,39,51,76.5,2,30,1,3,2,Arsenal
+Piero Hincapié,5.0,ec ECU,CB,23-328,90,0,0,0,0,0,0,0,0,80,2,3,0,0.0,0.0,0.0,0,0,63,68,92.6,3,44,0,0,0,Arsenal
+Cristhian Mosquera,3.0,es ESP,CB,21-159,43,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,0,0,27,32,84.4,2,22,0,0,0,Arsenal
+Jurriën Timber,12.0,nl NED,CB,24-169,47,0,0,0,0,0,0,0,0,30,0,1,1,0.0,0.0,0.0,0,0,26,27,96.3,2,19,0,0,0,Arsenal
+Ben White,4.0,eng ENG,RB,28-056,90,0,1,0,0,1,0,0,0,81,6,0,2,0.0,0.0,0.3,2,1,48,64,75.0,9,35,4,0,0,Arsenal
+David Raya,1.0,es ESP,GK,30-079,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,31,47,66.0,0,23,0,0,0,Arsenal
+15 Players,,,,,990,2,2,0,0,15,7,0,0,700,26,6,7,1.8,1.8,1.0,26,3,478,580,82.4,44,377,20,17,7,Arsenal
+Kevin Schade,7.0,de GER,FW,24-006,59,0,0,0,0,1,1,0,0,21,1,1,0,0.2,0.2,0.0,0,0,5,10,50.0,0,6,0,2,0,Brentford
+Thiago,9.0,br BRA,FW,24-160,31,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,4,8,50.0,0,3,0,0,0,Brentford
+Dango Ouattara,19.0,bf BFA,"FW,RM",23-295,90,0,0,0,0,1,0,0,0,29,1,2,0,0.0,0.0,0.0,1,0,8,16,50.0,3,13,1,2,0,Brentford
+Mathias Jensen,8.0,dk DEN,CM,29-336,60,0,0,0,0,0,0,0,0,33,1,1,0,0.0,0.0,0.0,1,0,16,26,61.5,2,11,0,1,0,Brentford
+Mikkel Damsgaard,24.0,dk DEN,CM,25-153,30,0,0,0,0,0,0,0,0,16,3,0,1,0.0,0.0,0.1,1,0,8,11,72.7,2,8,0,2,1,Brentford
+Vitaly Janelt,27.0,de GER,CM,27-207,60,0,0,0,0,2,0,0,0,30,1,0,1,0.0,0.0,0.2,3,0,15,22,68.2,3,12,0,0,0,Brentford
+Jordan Henderson,6.0,eng ENG,"DM,CM",35-169,30,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,1,0,16,21,76.2,1,13,0,0,0,Brentford
+Yehor Yarmoliuk,18.0,ua UKR,CM,21-277,90,0,0,0,0,0,0,1,0,41,2,1,2,0.0,0.0,0.0,0,0,26,31,83.9,3,23,1,2,1,Brentford
+Rico Henry,3.0,jm JAM,LB,28-148,73,0,0,0,0,0,0,0,0,31,1,0,1,0.0,0.0,0.0,1,0,15,23,65.2,1,15,0,3,0,Brentford
+Keane Lewis-Potter,23.0,eng ENG,LM,24-284,17,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,1,0,3,3,100.0,0,2,0,0,0,Brentford
+Sepp van den Berg,4.0,nl NED,CB,23-348,90,0,0,0,0,1,0,0,0,55,0,1,1,0.0,0.0,0.0,1,0,36,45,80.0,2,28,1,0,0,Brentford
+Ethan Pinnock,5.0,jm JAM,CB,32-188,73,0,0,0,0,0,0,0,0,47,2,2,2,0.0,0.0,0.0,0,0,30,31,96.8,2,24,0,1,1,Brentford
+Nathan Collins,22.0,ie IRL,CB,24-217,17,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,11,13,84.6,1,9,0,0,0,Brentford
+Kristoffer Ajer,20.0,no NOR,"CB,LB",27-230,90,0,0,0,0,0,0,0,0,34,1,1,2,0.0,0.0,0.0,0,0,19,22,86.4,2,18,0,1,0,Brentford
+Michael Kayode,33.0,it ITA,RB,21-146,90,0,0,0,0,0,0,0,0,50,4,1,1,0.0,0.0,0.0,0,0,26,33,78.8,2,20,2,4,2,Brentford
+Caoimhín Kelleher,1.0,ie IRL,GK,27-010,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,29,46,63.0,0,36,0,0,0,Brentford
+16 Players,,,,,990,0,0,0,0,6,1,1,0,491,19,10,11,0.3,0.3,0.3,11,0,267,361,74.0,24,241,5,18,5,Brentford

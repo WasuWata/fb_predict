@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Danny Welbeck,18.0,eng ENG,FW,34-361,90,1,0,0,0,4,1,0,0,32,1,0,0,0.7,0.7,0.0,0,0,18,25,72.0,1,22,1,0,0,Brighton & Hove Albion
+Diego Gómez,25.0,py PAR,"LW,DM",22-240,69,0,0,0,0,1,0,1,0,36,0,0,0,0.1,0.1,0.0,2,0,24,30,80.0,2,26,0,0,0,Brighton & Hove Albion
+Jack Hinshelwood,13.0,eng ENG,DM,20-225,21,1,0,0,0,1,1,0,0,20,1,0,0,0.0,0.0,0.1,1,0,14,18,77.8,0,14,0,0,0,Brighton & Hove Albion
+Yankuba Minteh,11.0,gm GAM,RW,21-123,88,0,1,0,0,3,1,0,0,41,1,1,0,0.2,0.2,0.7,5,3,21,29,72.4,1,27,6,6,3,Brighton & Hove Albion
+Brajan Gruda,8.0,de GER,RW,21-175,2,0,0,0,0,0,0,1,0,3,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,1,1,Brighton & Hove Albion
+Georginio Rutter,10.0,fr FRA,AM,23-216,88,0,0,0,0,2,1,0,0,43,2,0,0,0.1,0.1,0.1,2,0,15,25,60.0,4,22,2,6,3,Brighton & Hove Albion
+Joël Veltman,34.0,nl NED,AM,33-311,2,0,0,0,0,0,0,0,0,2,1,1,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Brighton & Hove Albion
+Yasin Ayari,26.0,se SWE,DM,22-047,90,0,0,0,0,0,0,0,0,89,6,0,0,0.0,0.0,0.1,1,0,63,73,86.3,5,54,2,3,1,Brighton & Hove Albion
+Carlos Baleba,17.0,cm CMR,DM,21-323,45,0,0,0,0,1,0,0,0,29,0,2,2,0.0,0.0,0.0,2,0,14,18,77.8,3,14,0,1,0,Brighton & Hove Albion
+Maxim De Cuyper,29.0,be BEL,LB,24-335,45,0,0,0,0,0,0,0,0,34,2,0,0,0.0,0.0,0.0,2,0,23,30,76.7,2,20,0,1,0,Brighton & Hove Albion
+Ferdi Kadioglu,24.0,tr TUR,"LW,LB",26-046,90,0,0,0,0,1,0,0,0,62,2,2,0,0.1,0.1,0.0,3,0,38,52,73.1,2,36,4,3,2,Brighton & Hove Albion
+Olivier Boscagli,21.0,fr FRA,CB,28-004,45,0,0,0,0,0,0,1,0,55,2,2,0,0.0,0.0,0.0,1,0,42,49,85.7,4,41,2,0,0,Brighton & Hove Albion
+Lewis Dunk,5.0,eng ENG,CB,34-001,45,0,0,0,0,0,0,0,0,67,0,0,0,0.0,0.0,0.0,0,0,59,65,90.8,2,49,2,0,0,Brighton & Hove Albion
+Jan Paul van Hecke,6.0,nl NED,CB,25-167,90,0,0,0,0,0,0,0,0,96,1,0,0,0.0,0.0,0.0,1,0,74,87,85.1,10,68,3,1,0,Brighton & Hove Albion
+Mats Wieffer,27.0,nl NED,RB,26-006,90,0,0,0,0,1,1,0,0,64,3,0,1,0.0,0.0,0.0,3,0,43,52,82.7,4,31,3,0,0,Brighton & Hove Albion
+Bart Verbruggen,1.0,nl NED,GK,23-096,90,0,0,0,0,0,0,1,0,57,0,0,0,0.0,0.0,0.0,0,0,46,56,82.1,0,43,0,0,0,Brighton & Hove Albion
+16 Players,,,,,990,2,1,0,0,14,5,4,0,730,23,8,3,1.2,1.2,1.0,23,3,496,611,81.2,40,471,25,22,10,Brighton & Hove Albion
+Thiago,9.0,br BRA,FW,24-149,90,1,0,1,2,1,0,0,0,45,1,0,3,1.7,0.1,0.1,2,1,12,19,63.2,3,26,0,4,2,Brentford
+Kevin Schade,7.0,de GER,"LW,RW",23-360,90,0,0,0,0,1,0,0,0,34,2,0,3,0.1,0.1,0.0,2,0,9,19,47.4,1,20,1,3,2,Brentford
+Dango Ouattara,19.0,bf BFA,RW,23-284,64,0,0,0,0,0,0,1,0,34,1,3,1,0.0,0.0,0.0,2,1,12,23,52.2,2,14,1,3,0,Brentford
+Keane Lewis-Potter,23.0,eng ENG,LW,24-273,26,0,0,0,0,1,1,0,0,14,2,0,1,0.0,0.0,0.0,1,0,3,7,42.9,0,6,0,0,0,Brentford
+Mikkel Damsgaard,24.0,dk DEN,AM,25-142,79,0,0,0,0,0,0,0,0,30,4,0,0,0.0,0.0,0.0,1,0,11,21,52.4,2,13,1,3,1,Brentford
+Vitaly Janelt,27.0,de GER,AM,27-196,11,0,0,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.0,1,0,10,11,90.9,0,10,0,0,0,Brentford
+Yehor Yarmoliuk,18.0,ua UKR,DM,21-266,79,0,0,0,0,2,0,0,0,40,2,0,1,0.0,0.0,0.0,1,0,22,32,68.8,0,20,0,1,0,Brentford
+Mathias Jensen,8.0,dk DEN,DM,29-325,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,1,0,Brentford
+Jordan Henderson,6.0,eng ENG,DM,35-158,90,0,0,0,0,0,0,0,0,41,2,2,1,0.0,0.0,0.1,4,0,26,31,83.9,5,21,0,1,0,Brentford
+Kristoffer Ajer,20.0,no NOR,LB,27-219,79,0,0,0,0,0,0,0,0,34,2,4,1,0.0,0.0,0.0,1,0,16,18,88.9,1,13,0,4,1,Brentford
+Aaron Hickey,2.0,sct SCO,LB,23-165,11,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,0,4,1,0,0,Brentford
+Sepp van den Berg,4.0,nl NED,CB,23-337,90,0,0,0,0,1,0,0,0,43,2,1,0,0.0,0.0,0.0,1,0,28,31,90.3,3,24,1,0,0,Brentford
+Nathan Collins,22.0,ie IRL,CB,24-206,90,0,0,0,0,0,0,0,0,55,1,1,0,0.0,0.0,0.0,1,0,39,46,84.8,3,39,0,0,0,Brentford
+Michael Kayode,33.0,it ITA,RB,21-135,90,0,0,0,0,2,1,0,0,42,1,2,0,0.1,0.1,0.1,2,0,25,33,75.8,1,21,4,4,3,Brentford
+Caoimhín Kelleher,1.0,ie IRL,GK,26-364,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,28,44,63.6,0,29,0,0,0,Brentford
+15 Players,,,,,990,1,0,1,2,8,2,2,0,480,20,13,12,2.0,0.4,0.3,19,2,249,344,72.4,21,264,9,24,9,Brentford

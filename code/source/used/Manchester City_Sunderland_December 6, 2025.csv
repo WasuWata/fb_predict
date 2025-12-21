@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Erling Haaland,9.0,no NOR,FW,25-138,68,0,0,0,0,1,0,0,0,10,0,1,0,0.4,0.4,0.0,0,0,5,5,100.0,1,5,1,1,0,Manchester City
+Omar Marmoush,7.0,eg EGY,FW,26-302,22,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,1,0,Manchester City
+Jeremy Doku,11.0,be BEL,"AM,LW",23-193,90,0,0,0,0,3,1,0,0,63,0,0,0,0.2,0.2,0.6,8,1,43,50,86.0,5,51,8,4,3,Manchester City
+Rayan Cherki,10.0,fr FRA,AM,22-111,81,0,2,0,0,2,1,0,0,96,0,0,0,0.2,0.2,1.2,9,3,72,84,85.7,8,75,15,9,5,Manchester City
+Sávio,26.0,br BRA,RW,21-240,9,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,5,7,71.4,0,6,2,2,0,Manchester City
+Phil Foden,47.0,eng ENG,LM,25-192,68,1,1,0,0,5,1,0,0,65,1,0,0,0.9,0.9,0.2,3,1,49,57,86.0,2,41,1,1,0,Manchester City
+Tijjani Reijnders,4.0,nl NED,LM,27-130,22,0,0,0,0,1,0,0,0,15,0,0,0,0.3,0.3,0.0,1,0,9,13,69.2,1,9,1,0,0,Manchester City
+Nicolás González,14.0,es ESP,CM,23-337,90,0,0,0,0,1,0,0,0,78,1,0,1,0.1,0.1,0.1,2,0,63,69,91.3,7,47,1,2,1,Manchester City
+Bernardo Silva,20.0,pt POR,RM,31-118,81,0,0,0,0,1,0,0,0,69,1,0,3,0.0,0.0,0.0,1,0,56,60,93.3,2,50,4,0,0,Manchester City
+Rico Lewis,82.0,eng ENG,RM,21-015,9,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,8,1,0,0,Manchester City
+Nico O’Reilly,33.0,eng ENG,LB,20-260,90,0,0,0,0,1,0,0,0,73,4,1,1,0.1,0.1,0.0,1,0,52,62,83.9,5,36,0,2,1,Manchester City
+Joško Gvardiol,24.0,hr CRO,CB,23-317,69,1,0,0,0,1,1,1,0,64,0,0,1,0.2,0.2,0.0,2,0,53,58,91.4,7,48,3,0,0,Manchester City
+Nathan Aké,6.0,nl NED,CB,30-291,21,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,5,0,0,0,Manchester City
+Rúben Dias,3.0,pt POR,CB,28-206,90,1,0,0,0,2,1,0,0,100,0,0,1,0.1,0.1,0.0,1,0,79,87,90.8,13,74,2,0,0,Manchester City
+Matheus Nunes,27.0,pt POR,RB,27-101,90,0,0,0,0,0,0,0,0,84,1,2,2,0.0,0.0,0.0,3,0,73,77,94.8,7,67,1,2,1,Manchester City
+Gianluigi Donnarumma,25.0,it ITA,GK,26-284,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,0,16,0,0,0,Manchester City
+16 Players,,,,,990,3,3,0,0,18,5,1,0,771,8,4,9,2.4,2.4,2.2,32,5,589,668,88.2,58,541,40,24,11,Manchester City
+Wilson Isidor,18.0,fr FRA,FW,25-101,55,0,0,0,0,2,1,0,0,10,1,0,1,0.4,0.4,0.0,0,0,4,6,66.7,0,6,1,0,0,Sunderland
+Brian Brobbey,9.0,nl NED,FW,23-308,35,0,0,0,0,0,0,0,0,8,0,0,2,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,0,0,Sunderland
+Enzo Le Fée,28.0,fr FRA,"LM,CM,RM",25-306,90,0,0,0,0,1,0,0,0,42,5,0,0,0.0,0.0,0.0,0,0,25,32,78.1,2,19,0,1,0,Sunderland
+Noah Sadiki,27.0,cd COD,CM,20-354,71,0,0,0,0,1,0,0,0,39,0,0,2,0.1,0.1,0.0,0,0,25,29,86.2,0,17,1,2,1,Sunderland
+Simon Adingra,24.0,ci CIV,CM,23-339,19,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,5,40.0,0,4,2,0,0,Sunderland
+Granit Xhaka,34.0,ch SUI,CM,33-070,72,0,0,0,0,2,0,0,0,43,1,0,0,0.1,0.1,0.0,2,0,27,35,77.1,2,23,0,0,0,Sunderland
+Romaine Mundle,14.0,eng ENG,LM,22-226,18,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,5,1,1,0,Sunderland
+Bertrand Traoré,25.0,bf BFA,RM,30-091,55,0,0,0,0,0,0,0,0,21,1,0,1,0.0,0.0,0.0,2,0,13,16,81.3,3,12,1,1,1,Sunderland
+Chemsdine Talbi,7.0,ma MAR,"RM,LM",20-211,35,0,0,0,0,0,0,0,0,17,1,1,1,0.0,0.0,0.1,4,0,6,12,50.0,2,9,3,0,0,Sunderland
+Trai Hume,32.0,nir NIR,LB,23-263,87,0,0,0,0,0,0,0,0,42,5,1,1,0.0,0.0,0.0,0,0,29,35,82.9,1,16,1,0,0,Sunderland
+Luke O'Nien,13.0,eng ENG,LB,31-015,2,0,0,0,0,0,0,0,1,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,1,0,0,Sunderland
+Omar Alderete,15.0,py PAR,CB,28-345,90,0,0,0,0,1,0,0,0,31,0,2,1,0.0,0.0,0.0,0,0,15,21,71.4,2,15,0,1,1,Sunderland
+Daniel Ballard,5.0,nir NIR,CB,26-075,90,0,0,0,0,0,0,0,0,62,2,0,1,0.0,0.0,0.0,0,0,46,55,83.6,2,39,0,0,0,Sunderland
+Lutsharel Geertruida,6.0,nl NED,"CB,DM",25-141,90,0,0,0,0,0,0,0,0,42,2,0,1,0.0,0.0,0.0,1,0,29,34,85.3,3,24,1,1,0,Sunderland
+Nordi Mukiele,20.0,fr FRA,RB,28-035,90,0,0,0,0,0,0,0,0,49,2,4,0,0.0,0.0,0.1,4,0,29,37,78.4,1,21,0,2,0,Sunderland
+Robin Roefs,22.0,nl NED,GK,22-323,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,33,49,67.3,0,28,0,0,0,Sunderland
+16 Players,,,,,989,0,0,0,0,8,1,0,1,479,20,8,12,0.7,0.7,0.2,13,0,294,380,77.4,20,246,12,9,3,Sunderland

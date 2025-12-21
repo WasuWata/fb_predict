@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jean-Philippe Mateta,14.0,fr FRA,FW,28-134,90,0,0,0,0,1,0,0,0,24,1,1,0,0.1,0.1,0.1,2,0,11,16,68.8,0,14,1,2,1,Crystal Palace
+Daichi Kamada,18.0,jp JPN,"AM,CM",29-096,82,0,0,0,0,2,0,0,0,40,2,1,0,0.2,0.2,0.0,1,0,24,31,77.4,5,28,2,2,2,Crystal Palace
+Will Hughes,19.0,eng ENG,CM,30-206,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,1,4,0,0,0,Crystal Palace
+Ismaila Sarr,7.0,sn SEN,AM,27-257,90,0,0,0,0,2,1,0,0,29,0,1,0,0.1,0.1,0.1,3,0,10,14,71.4,2,15,2,2,1,Crystal Palace
+Jefferson Lerma,8.0,co COL,CM,31-015,90,0,0,0,0,0,0,1,0,61,0,1,1,0.0,0.0,0.1,3,0,44,56,78.6,6,26,0,0,0,Crystal Palace
+Adam Wharton,20.0,eng ENG,CM,21-276,65,0,0,0,0,1,0,0,0,37,1,1,0,0.0,0.0,0.0,2,0,20,30,66.7,3,24,0,3,1,Crystal Palace
+Yeremi Pino,10.0,es ESP,AM,23-020,25,0,0,0,0,2,1,0,0,21,0,0,0,0.2,0.2,0.1,5,0,13,17,76.5,1,10,1,0,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,WB,26-069,90,0,0,0,0,0,0,0,0,78,8,2,3,0.0,0.0,0.1,1,0,44,59,74.6,1,41,0,4,0,Crystal Palace
+Daniel Muñoz,2.0,co COL,WB,29-167,90,0,0,0,0,0,0,0,0,33,1,0,1,0.0,0.0,0.0,1,0,15,22,68.2,0,16,1,1,0,Crystal Palace
+Jaydee Canvot,23.0,fr FRA,CB,19-103,90,0,0,0,0,1,0,0,0,67,3,2,3,0.0,0.0,0.0,0,0,42,47,89.4,3,36,2,0,0,Crystal Palace
+Maxence Lacroix,5.0,fr FRA,CB,25-217,90,0,0,0,0,1,0,0,0,42,2,1,0,0.1,0.1,0.0,0,0,23,35,65.7,2,23,0,0,0,Crystal Palace
+Chris Richards,26.0,us USA,CB,25-226,90,0,0,0,0,0,0,0,0,55,3,4,0,0.0,0.0,0.0,1,0,34,43,79.1,3,32,0,0,0,Crystal Palace
+Dean Henderson,1.0,eng ENG,GK,28-242,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,17,37,45.9,0,25,0,0,0,Crystal Palace
+13 Players,,,,,990,0,0,0,0,10,2,1,0,532,21,14,8,0.7,0.7,0.6,19,0,299,412,72.6,27,294,9,14,5,Crystal Palace
+Danny Welbeck,18.0,eng ENG,FW,34-348,84,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,0,0,13,15,86.7,0,15,0,0,0,Brighton & Hove Albion
+Stefanos Tzimas,9.0,gr GRE,FW,19-307,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,2,0,0,0,Brighton & Hove Albion
+Diego Gómez,25.0,py PAR,LW,22-227,84,0,0,0,0,2,2,0,0,40,4,0,2,0.2,0.2,0.2,6,0,22,30,73.3,3,18,1,3,2,Brighton & Hove Albion
+Maxim De Cuyper,29.0,be BEL,LM,24-322,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,0,3,0,0,0,Brighton & Hove Albion
+Yankuba Minteh,11.0,gm GAM,"RW,RM",21-110,90,0,0,0,0,2,0,0,0,39,0,1,2,0.1,0.1,0.1,3,0,13,24,54.2,2,28,1,3,1,Brighton & Hove Albion
+Georginio Rutter,10.0,fr FRA,AM,23-203,74,0,0,0,0,0,0,1,0,35,1,0,0,0.0,0.0,0.0,1,0,12,18,66.7,4,24,1,2,0,Brighton & Hove Albion
+Charalampos Kostoulas,19.0,gr GRE,"FW,AM",18-163,16,0,0,0,0,0,0,0,0,14,1,0,2,0.0,0.0,0.0,0,0,2,4,50.0,0,9,0,2,0,Brighton & Hove Albion
+Yasin Ayari,26.0,se SWE,"DM,CM",22-034,90,0,0,0,0,1,0,0,0,64,2,1,0,0.0,0.0,0.0,0,0,47,58,81.0,1,44,0,0,0,Brighton & Hove Albion
+Carlos Baleba,17.0,cm CMR,DM,21-310,74,0,0,0,0,0,0,1,0,31,1,0,0,0.0,0.0,0.0,0,0,24,26,92.3,1,20,1,1,1,Brighton & Hove Albion
+Joël Veltman,34.0,nl NED,RB,33-298,16,0,0,0,0,0,0,1,0,16,0,1,1,0.0,0.0,0.0,0,0,6,12,50.0,1,7,1,0,0,Brighton & Hove Albion
+Ferdi Kadioglu,24.0,tr TUR,LB,26-033,90,0,0,0,0,0,0,0,0,57,2,0,1,0.0,0.0,0.0,0,0,37,50,74.0,4,36,4,0,0,Brighton & Hove Albion
+Lewis Dunk,5.0,eng ENG,CB,33-353,90,0,0,0,0,0,0,0,0,113,1,0,0,0.0,0.0,0.0,1,0,93,103,90.3,1,75,0,0,0,Brighton & Hove Albion
+Jan Paul van Hecke,6.0,nl NED,CB,25-154,90,0,0,0,0,2,1,1,0,112,0,1,1,0.1,0.1,0.0,1,0,85,100,85.0,4,86,2,0,0,Brighton & Hove Albion
+Mats Wieffer,27.0,nl NED,"RB,CM,DM",25-358,90,0,0,0,0,0,0,0,0,72,3,0,2,0.0,0.0,0.0,2,0,48,62,77.4,13,40,1,2,0,Brighton & Hove Albion
+Bart Verbruggen,1.0,nl NED,GK,23-083,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,36,39,92.3,0,31,0,0,0,Brighton & Hove Albion
+15 Players,,,,,990,0,0,0,0,7,3,4,0,665,16,4,11,0.4,0.4,0.3,14,0,439,549,80.0,34,438,12,13,4,Brighton & Hove Albion

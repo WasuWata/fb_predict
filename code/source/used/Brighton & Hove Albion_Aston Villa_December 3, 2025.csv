@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Stefanos Tzimas,9.0,gr GRE,FW,19-331,23,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,0,0,0,Brighton & Hove Albion
+Jack Hinshelwood,13.0,eng ENG,"AM,CM",20-236,67,0,1,0,0,4,0,0,0,39,0,0,1,0.3,0.3,0.1,1,1,26,30,86.7,4,25,1,1,1,Brighton & Hove Albion
+Maxim De Cuyper,29.0,be BEL,"LW,LB",24-346,90,0,0,0,0,1,1,0,0,46,0,0,2,0.1,0.1,0.1,4,0,32,41,78.0,8,37,2,3,3,Brighton & Hove Albion
+Yankuba Minteh,11.0,gm GAM,"RW,RM",21-134,90,0,0,0,0,2,0,0,0,48,4,0,0,0.1,0.1,0.2,8,0,23,31,74.2,1,27,3,9,5,Brighton & Hove Albion
+Brajan Gruda,8.0,de GER,"FW,AM",21-186,76,0,0,0,0,1,1,0,0,31,1,0,1,0.1,0.1,0.0,1,0,13,17,76.5,3,20,3,4,0,Brighton & Hove Albion
+Charalampos Kostoulas,19.0,gr GRE,FW,18-187,14,0,0,0,0,2,1,0,0,11,2,0,0,0.1,0.1,0.4,2,0,5,7,71.4,0,7,1,0,0,Brighton & Hove Albion
+Diego Gómez,25.0,py PAR,"DM,LM",22-251,90,0,0,0,0,0,0,1,0,42,4,0,2,0.0,0.0,0.0,1,0,22,30,73.3,1,27,1,1,1,Brighton & Hove Albion
+Carlos Baleba,17.0,cm CMR,"DM,CM",21-334,77,0,0,0,0,0,0,0,0,48,2,3,3,0.0,0.0,0.0,1,0,29,34,85.3,6,26,0,3,2,Brighton & Hove Albion
+Joël Veltman,34.0,nl NED,RB,33-322,13,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,14,16,87.5,1,12,0,0,0,Brighton & Hove Albion
+Ferdi Kadioglu,24.0,tr TUR,LB,26-057,66,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,1,0,23,29,79.3,3,19,0,0,0,Brighton & Hove Albion
+Danny Welbeck,18.0,eng ENG,FW,35-007,24,0,0,0,0,3,1,0,0,11,0,0,0,0.5,0.5,0.0,2,0,4,5,80.0,0,5,2,0,0,Brighton & Hove Albion
+Lewis Dunk,5.0,eng ENG,CB,34-012,90,0,0,0,0,0,0,0,0,106,0,1,1,0.0,0.0,0.0,1,0,91,101,90.1,4,82,0,1,1,Brighton & Hove Albion
+Jan Paul van Hecke,6.0,nl NED,CB,25-178,90,2,0,0,0,3,2,0,0,63,2,3,0,0.8,0.8,0.0,1,1,40,52,76.9,4,49,1,0,0,Brighton & Hove Albion
+Mats Wieffer,27.0,nl NED,"RB,CM",26-017,90,0,1,0,0,0,0,0,0,66,6,2,0,0.0,0.0,0.6,2,1,42,53,79.2,5,36,1,1,0,Brighton & Hove Albion
+Bart Verbruggen,1.0,nl NED,GK,23-107,90,0,0,0,0,0,0,1,0,62,0,0,0,0.0,0.0,0.0,1,0,54,60,90.0,0,53,0,0,0,Brighton & Hove Albion
+15 Players,,,,,990,2,2,0,0,16,6,2,0,628,23,9,10,2.0,2.0,1.5,26,3,422,511,82.6,40,430,15,23,13,Brighton & Hove Albion
+Ollie Watkins,11.0,eng ENG,FW,29-338,85,2,0,0,0,4,3,0,0,24,1,1,0,1.0,1.0,0.4,3,0,10,13,76.9,1,17,2,0,0,Aston Villa
+Emi Buendía,10.0,ar ARG,"LW,FW",28-343,5,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Aston Villa
+Morgan Rogers,27.0,eng ENG,"LW,RW",23-130,90,0,1,0,0,0,0,0,0,49,1,1,2,0.0,0.0,0.5,3,1,24,34,70.6,2,31,5,7,2,Aston Villa
+Evann Guessand,29.0,ci CIV,RW,24-155,85,0,1,0,0,2,1,0,0,18,1,0,0,0.6,0.6,0.5,2,2,7,11,63.6,0,12,0,1,1,Aston Villa
+Lamare Bogarde,26.0,nl NED,DM,21-332,5,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,1,0,Aston Villa
+John McGinn,7.0,sct SCO,AM,31-046,76,0,0,0,0,1,0,1,0,26,2,0,0,0.0,0.0,0.0,2,1,14,19,73.7,2,6,1,1,0,Aston Villa
+Donyell Malen,17.0,nl NED,"FW,AM",26-328,14,1,0,0,0,2,2,0,0,5,0,0,0,0.4,0.4,0.0,0,0,2,2,100.0,0,2,0,0,0,Aston Villa
+Amadou Onana,24.0,be BEL,DM,24-109,90,1,0,0,0,2,1,0,0,47,4,2,0,0.2,0.2,0.0,1,0,30,37,81.1,3,24,3,0,0,Aston Villa
+Boubacar Kamara,44.0,fr FRA,DM,26-010,69,0,0,0,0,0,0,0,0,27,1,2,1,0.0,0.0,0.0,1,0,16,20,80.0,2,15,1,2,1,Aston Villa
+Youri Tielemans,8.0,be BEL,"DM,AM",28-210,21,0,0,0,0,0,0,0,0,11,2,1,0,0.0,0.0,0.0,2,0,5,7,71.4,2,3,0,1,1,Aston Villa
+Ian Maatsen,22.0,nl NED,LB,23-268,69,0,0,0,0,1,1,0,0,45,4,0,0,0.1,0.1,0.3,4,0,26,34,76.5,2,19,1,7,5,Aston Villa
+Lucas Digne,12.0,fr FRA,LB,32-136,21,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,2,0,1,0,Aston Villa
+Pau Torres,14.0,es ESP,CB,28-321,90,0,0,0,0,0,0,0,0,77,3,0,2,0.0,0.0,0.0,1,0,60,69,87.0,4,51,0,2,1,Aston Villa
+Ezri Konsa,4.0,eng ENG,CB,28-041,90,0,0,0,0,2,1,0,0,58,1,1,0,0.3,0.3,0.0,0,0,44,49,89.8,2,37,1,1,1,Aston Villa
+Matty Cash,2.0,pl POL,RB,28-118,90,0,1,0,0,0,0,0,0,56,2,0,1,0.0,0.0,0.4,2,1,29,46,63.0,3,27,1,1,1,Aston Villa
+Marco Bizot,40.0,nl NED,GK,34-268,90,0,0,0,0,0,0,1,0,56,0,0,0,0.0,0.0,0.0,1,1,45,53,84.9,0,42,0,0,0,Aston Villa
+16 Players,,,,,990,4,3,0,0,14,9,2,0,513,23,8,7,2.5,2.5,2.1,23,6,318,401,79.3,23,290,15,25,13,Aston Villa

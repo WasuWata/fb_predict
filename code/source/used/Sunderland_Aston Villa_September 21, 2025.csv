@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Wilson Isidor,18.0,fr FRA,FW,25-025,79,1,0,0,0,6,2,0,0,15,1,0,0,0.6,0.6,0.0,2,0,1,4,25.0,0,7,0,1,1,Sunderland
+Eliezer Mayenda,12.0,es ESP,FW,20-136,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,2,0,1,1,Sunderland
+Enzo Le Fée,28.0,fr FRA,"CM,LW",25-230,79,0,0,0,0,0,0,0,0,24,3,0,2,0.0,0.0,0.0,1,0,10,15,66.7,0,14,0,1,1,Sunderland
+Lutsharel Geertruida,6.0,nl NED,CM,25-065,11,0,0,0,0,0,0,0,0,6,0,1,1,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Sunderland
+Chemsdine Talbi,7.0,ma MAR,"LB,RW",20-135,79,0,0,0,0,2,0,0,0,24,0,0,2,0.1,0.1,0.1,2,1,14,18,77.8,0,13,4,0,0,Sunderland
+Arthur Masuaku,26.0,cd COD,LB,31-318,11,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0,Sunderland
+Noah Sadiki,27.0,cd COD,"CM,LM",20-278,89,0,0,0,0,0,0,1,0,26,1,1,2,0.0,0.0,0.0,3,0,19,22,86.4,2,18,1,1,1,Sunderland
+Dan Neil,4.0,eng ENG,CM,23-282,1,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Sunderland
+Granit Xhaka,34.0,ch SUI,CM,32-359,90,0,1,0,0,1,1,1,0,40,4,0,0,0.1,0.1,0.2,4,1,23,35,65.7,2,17,0,0,0,Sunderland
+Chris Rigg,11.0,eng ENG,RM,18-095,36,0,0,0,0,1,0,0,0,13,1,0,0,0.1,0.1,0.0,3,0,9,11,81.8,1,6,0,1,1,Sunderland
+Daniel Ballard,5.0,nir NIR,CB,25-364,54,0,0,0,0,1,0,0,0,13,1,1,1,0.0,0.0,0.1,1,0,3,6,50.0,0,3,0,0,0,Sunderland
+Reinildo Mandava,17.0,mz MOZ,LB,31-243,32,0,0,0,0,0,0,0,1,16,0,1,0,0.0,0.0,0.0,0,0,13,14,92.9,1,15,0,0,0,Sunderland
+Omar Alderete,15.0,py PAR,CB,28-269,90,0,0,0,0,2,1,0,0,43,3,2,1,0.1,0.1,0.0,1,0,20,27,74.1,1,24,0,0,0,Sunderland
+Nordi Mukiele,20.0,fr FRA,CB,27-324,90,0,0,0,0,1,0,0,0,47,3,0,3,0.1,0.1,0.2,4,0,15,28,53.6,0,12,0,0,0,Sunderland
+Trai Hume,32.0,nir NIR,RB,23-187,90,0,0,0,0,0,0,0,0,41,3,1,2,0.0,0.0,0.1,1,0,15,24,62.5,0,11,0,0,0,Sunderland
+Robin Roefs,22.0,nl NED,GK,22-247,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,17,33,51.5,0,13,0,0,0,Sunderland
+16 Players,,,,,932,1,1,0,0,14,4,2,1,355,20,8,14,1.0,1.0,0.6,22,2,164,247,66.4,8,161,5,5,5,Sunderland
+Ollie Watkins,11.0,eng ENG,FW,29-265,90,0,0,0,0,0,0,0,0,14,1,0,1,0.0,0.0,0.0,0,0,4,7,57.1,0,8,0,0,0,Aston Villa
+Emi Buendía,10.0,ar ARG,LW,28-270,57,0,0,0,0,2,0,0,0,32,2,0,1,0.1,0.1,0.0,1,0,14,21,66.7,2,18,0,1,0,Aston Villa
+Ian Maatsen,22.0,nl NED,LB,23-195,33,0,0,0,0,0,0,1,0,34,0,0,0,0.0,0.0,0.0,0,0,25,32,78.1,7,26,4,1,0,Aston Villa
+Evann Guessand,29.0,ci CIV,RW,24-082,72,0,0,0,0,1,1,0,0,33,1,0,1,0.3,0.3,0.0,2,0,16,20,80.0,4,22,1,4,0,Aston Villa
+Donyell Malen,17.0,nl NED,RW,26-255,18,0,0,0,0,2,0,0,0,13,1,0,1,0.2,0.2,0.1,2,0,7,8,87.5,1,4,0,0,0,Aston Villa
+Morgan Rogers,27.0,eng ENG,"AM,LW",23-057,81,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.3,3,0,25,32,78.1,2,31,1,2,0,Aston Villa
+Jadon Sancho,19.0,eng ENG,LW,25-180,9,0,0,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.0,2,0,15,18,83.3,3,14,1,1,0,Aston Villa
+Boubacar Kamara,44.0,fr FRA,DM,25-302,81,0,1,0,0,0,0,0,0,75,2,1,1,0.0,0.0,0.1,3,1,63,68,92.6,8,54,1,0,0,Aston Villa
+Lamare Bogarde,26.0,nl NED,DM,21-259,9,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,13,15,86.7,1,8,0,0,0,Aston Villa
+John McGinn,7.0,sct SCO,DM,30-338,90,0,0,0,0,2,0,0,0,65,1,0,1,0.1,0.1,0.0,2,0,45,56,80.4,7,39,4,1,0,Aston Villa
+Lucas Digne,12.0,fr FRA,LB,32-063,57,0,0,0,0,0,0,0,0,42,0,1,0,0.0,0.0,0.0,3,0,32,39,82.1,1,29,0,1,0,Aston Villa
+Harvey Elliott,9.0,eng ENG,AM,22-170,33,0,0,0,0,2,0,0,0,37,0,0,0,0.2,0.2,0.0,3,1,28,34,82.4,2,30,2,0,0,Aston Villa
+Tyrone Mings,5.0,eng ENG,CB,32-192,90,0,0,0,0,0,0,0,0,85,0,0,0,0.0,0.0,0.0,2,0,66,72,91.7,3,52,0,0,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,CB,27-333,90,0,0,0,0,0,0,0,0,84,1,0,3,0.0,0.0,0.0,1,0,71,75,94.7,3,60,2,0,0,Aston Villa
+Matty Cash,2.0,pl POL,RB,28-045,90,1,0,0,0,2,1,0,0,83,2,1,1,0.0,0.0,0.0,0,0,63,74,85.1,5,59,6,1,0,Aston Villa
+Emiliano Martínez,23.0,ar ARG,GK,33-019,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,26,28,92.9,0,22,0,0,0,Aston Villa
+16 Players,,,,,990,1,1,0,0,12,2,1,0,700,11,3,10,0.8,0.8,0.5,24,2,513,599,85.6,49,476,22,12,0,Aston Villa

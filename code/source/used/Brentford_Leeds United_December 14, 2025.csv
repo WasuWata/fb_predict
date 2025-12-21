@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Thiago,9.0,br BRA,FW,24-171,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,12,16,75.0,1,6,0,2,0,Brentford
+Keane Lewis-Potter,23.0,eng ENG,LW,24-295,60,0,0,0,0,1,1,0,0,18,0,0,0,0.1,0.1,0.0,0,0,15,15,100.0,2,10,1,0,0,Brentford
+Mikkel Damsgaard,24.0,dk DEN,"LW,LM",25-164,30,0,0,0,0,0,0,0,0,18,1,2,0,0.0,0.0,0.0,1,1,8,14,57.1,2,9,0,1,0,Brentford
+Dango Ouattara,19.0,bf BFA,"RW,RM",23-306,90,0,0,0,0,2,0,0,0,44,1,0,1,0.1,0.1,0.0,0,0,14,25,56.0,2,26,4,5,1,Brentford
+Mathias Jensen,8.0,dk DEN,AM,29-347,80,0,0,0,0,1,0,0,0,42,1,0,0,0.0,0.0,0.0,2,0,31,35,88.6,6,23,0,2,2,Brentford
+Kristoffer Ajer,20.0,no NOR,CB,27-241,10,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,3,7,42.9,1,2,0,0,0,Brentford
+Vitaly Janelt,27.0,de GER,DM,27-218,79,0,0,0,0,0,0,0,0,41,3,2,0,0.0,0.0,0.0,2,1,28,31,90.3,1,12,0,1,0,Brentford
+Yehor Yarmoliuk,18.0,ua UKR,CM,21-288,11,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,5,7,71.4,0,1,0,0,0,Brentford
+Jordan Henderson,6.0,eng ENG,"DM,CM",35-180,90,1,0,0,0,2,1,0,0,83,1,0,2,0.3,0.3,0.2,2,0,56,76,73.7,6,36,0,0,0,Brentford
+Aaron Hickey,2.0,sct SCO,LB,23-187,60,0,0,0,0,0,0,0,0,44,0,1,0,0.0,0.0,0.0,1,0,32,37,86.5,3,21,0,2,0,Brentford
+Rico Henry,3.0,jm JAM,LB,28-159,30,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,9,17,52.9,1,3,0,0,0,Brentford
+Sepp van den Berg,4.0,nl NED,CB,23-359,90,0,0,0,0,0,0,0,0,82,0,2,1,0.0,0.0,0.0,0,0,60,66,90.9,1,36,1,0,0,Brentford
+Nathan Collins,22.0,ie IRL,CB,24-228,90,0,0,0,0,1,0,0,0,96,0,1,3,0.1,0.1,0.0,0,0,61,79,77.2,7,43,0,0,0,Brentford
+Michael Kayode,33.0,it ITA,RB,21-157,90,0,0,0,0,0,0,0,0,86,5,0,1,0.0,0.0,0.1,2,0,60,74,81.1,5,40,6,3,1,Brentford
+Caoimhín Kelleher,1.0,ie IRL,GK,27-021,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,29,45,64.4,0,22,0,0,0,Brentford
+15 Players,,,,,990,1,0,0,0,7,2,0,0,668,12,8,9,0.6,0.6,0.3,12,2,423,544,77.8,38,290,12,16,4,Brentford
+Noah Okafor,19.0,ch SUI,"FW,LW",25-204,89,0,0,0,0,4,1,0,0,30,1,0,0,0.6,0.6,0.1,9,0,14,21,66.7,2,18,4,1,1,Leeds United
+Jack Harrison,20.0,eng ENG,LW,29-024,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Leeds United
+Dominic Calvert-Lewin,9.0,eng ENG,FW,28-273,90,1,0,0,0,3,2,0,0,22,1,0,0,0.5,0.5,0.0,1,0,6,11,54.5,0,10,0,0,0,Leeds United
+Anton Stach,18.0,de GER,"CM,DM",27-029,90,0,0,0,0,6,0,0,0,64,1,2,1,0.2,0.2,0.1,2,0,32,45,71.1,6,31,3,2,1,Leeds United
+Ethan Ampadu,4.0,wls WAL,"CM,DM",25-091,90,0,0,0,0,2,0,0,0,73,1,1,0,0.1,0.1,0.0,8,1,47,62,75.8,8,37,1,2,1,Leeds United
+Ao Tanaka,22.0,jp JPN,CM,27-095,72,0,0,0,0,1,0,0,0,27,1,0,1,0.0,0.0,0.2,1,0,16,20,80.0,0,17,0,1,0,Leeds United
+Brenden Aaronson,11.0,us USA,AM,25-053,18,0,0,0,0,1,1,0,0,13,0,0,0,0.1,0.1,0.0,0,0,6,10,60.0,0,4,0,0,0,Leeds United
+Gabriel Gudmundsson,3.0,se SWE,"WB,LB",26-229,88,0,0,0,0,0,0,0,0,57,2,0,0,0.0,0.0,0.0,3,0,28,47,59.6,3,27,5,2,2,Leeds United
+James Justin,24.0,eng ENG,LB,27-294,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Leeds United
+Jayden Bogle,2.0,eng ENG,"WB,RB",25-140,90,0,0,0,0,1,0,0,0,46,3,1,0,0.1,0.1,0.3,2,0,26,36,72.2,5,25,2,5,3,Leeds United
+Pascal Struijk,5.0,nl NED,CB,26-125,90,0,0,0,0,0,0,0,0,79,4,1,1,0.0,0.0,0.1,2,0,48,59,81.4,6,38,0,0,0,Leeds United
+Jaka Bijol,15.0,si SVN,CB,26-312,72,0,0,0,0,0,0,0,0,42,1,2,0,0.0,0.0,0.0,0,0,26,33,78.8,1,23,0,0,0,Leeds United
+Wilfried Gnonto,29.0,it ITA,RW,22-039,18,0,1,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.4,2,1,5,8,62.5,0,7,0,0,0,Leeds United
+Joe Rodon,6.0,wls WAL,CB,28-053,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,21,26,80.8,3,12,1,0,0,Leeds United
+Lucas Perri,1.0,br BRA,GK,28-004,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,14,34,41.2,0,24,0,0,0,Leeds United
+15 Players,,,,,990,1,1,0,0,18,4,0,0,536,15,7,3,1.5,1.5,1.2,31,2,289,412,70.1,34,273,16,13,8,Leeds United

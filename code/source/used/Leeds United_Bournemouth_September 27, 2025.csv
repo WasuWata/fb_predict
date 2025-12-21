@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Calvert-Lewin,9.0,eng ENG,FW,28-195,89,0,0,0,0,3,3,0,0,35,1,0,0,0.7,0.7,0.0,1,0,12,20,60.0,2,21,3,2,1,Leeds United
+Lukas Nmecha,14.0,de GER,FW,26-287,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Leeds United
+Noah Okafor,19.0,ch SUI,LW,25-126,66,0,0,0,0,2,0,0,0,21,2,0,1,0.1,0.1,0.2,5,1,11,13,84.6,3,12,0,4,3,Leeds United
+Jack Harrison,20.0,eng ENG,LW,28-311,24,0,0,0,0,2,1,0,0,10,1,0,1,0.1,0.1,0.0,0,0,4,6,66.7,0,4,1,1,1,Leeds United
+Brenden Aaronson,11.0,us USA,RW,24-340,86,0,0,0,0,5,1,1,0,37,2,2,2,0.5,0.5,0.1,5,1,14,19,73.7,4,20,0,2,0,Leeds United
+Ao Tanaka,22.0,jp JPN,RW,27-017,4,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Leeds United
+Anton Stach,18.0,de GER,"LM,CM",26-316,90,0,0,0,0,0,0,0,0,38,2,0,0,0.0,0.0,0.0,0,0,25,33,75.8,1,18,0,2,1,Leeds United
+Ethan Ampadu,4.0,wls WAL,CM,25-013,90,0,0,0,0,0,0,1,0,64,1,2,0,0.0,0.0,0.0,1,0,48,59,81.4,3,25,1,1,1,Leeds United
+Sean Longstaff,8.0,eng ENG,"RM,CM",27-332,90,1,1,0,0,2,1,0,0,67,6,1,3,0.1,0.1,1.0,6,1,43,50,86.0,3,23,0,0,0,Leeds United
+Gabriel Gudmundsson,3.0,se SWE,LB,26-151,90,0,0,0,0,0,0,0,0,49,4,0,4,0.0,0.0,0.0,1,0,26,37,70.3,4,17,1,4,0,Leeds United
+Pascal Struijk,5.0,nl NED,CB,26-047,90,0,0,0,0,1,0,0,0,64,0,1,1,0.1,0.1,0.0,2,0,43,50,86.0,0,23,0,0,0,Leeds United
+Joe Rodon,6.0,wls WAL,CB,27-340,90,1,0,0,0,4,2,0,0,36,2,1,2,0.3,0.3,0.0,1,0,18,22,81.8,3,9,0,0,0,Leeds United
+Jayden Bogle,2.0,eng ENG,RB,25-062,90,0,0,0,0,0,0,0,0,43,5,2,0,0.0,0.0,0.1,1,0,22,28,78.6,2,17,2,2,1,Leeds United
+Karl Darlow,26.0,wls WAL,GK,34-354,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,36,55,65.5,0,33,0,0,0,Leeds United
+14 Players,,,,,990,2,1,0,0,19,8,2,0,524,27,9,14,1.8,1.8,1.5,23,3,304,394,77.2,25,224,8,18,8,Leeds United
+Evanilson,9.0,br BRA,FW,25-356,90,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.1,2,0,12,12,100.0,1,13,0,2,1,Bournemouth
+Antoine Semenyo,24.0,gh GHA,"LW,RW,AM",25-263,90,1,0,0,0,1,1,0,0,40,2,0,1,0.2,0.2,0.0,2,0,20,28,71.4,1,26,2,6,3,Bournemouth
+Amine Adli,21.0,ma MAR,RW,25-140,59,0,0,0,0,1,1,0,0,40,2,0,3,0.1,0.1,0.1,3,0,20,28,71.4,1,21,0,2,1,Bournemouth
+David Brooks,7.0,wls WAL,"RW,DM",28-081,31,0,0,0,0,2,1,0,0,32,0,1,0,0.1,0.1,0.0,2,1,24,29,82.8,3,22,3,1,1,Bournemouth
+Justin Kluivert,19.0,nl NED,AM,26-145,59,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.1,3,0,16,22,72.7,1,17,3,3,3,Bournemouth
+Marcus Tavernier,16.0,eng ENG,"RB,AM,DM",26-189,31,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.0,1,0,16,21,76.2,1,17,2,1,0,Bournemouth
+Ryan Christie,10.0,sct SCO,DM,30-217,59,0,0,0,0,2,0,0,0,38,1,0,1,0.1,0.1,0.0,1,1,23,29,79.3,2,23,0,1,0,Bournemouth
+Alex Scott,8.0,eng ENG,DM,22-037,31,0,0,0,0,0,0,0,0,31,0,1,1,0.0,0.0,0.0,1,0,17,23,73.9,1,18,0,2,0,Bournemouth
+Tyler Adams,12.0,us USA,"DM,CB",26-225,80,0,0,0,0,1,0,0,0,67,4,0,2,0.0,0.0,0.0,0,0,50,54,92.6,5,42,0,1,0,Bournemouth
+Eli Junior Kroupi,22.0,fr FRA,AM,19-096,10,1,0,0,0,3,2,1,0,10,0,0,0,0.2,0.2,0.0,0,0,3,6,50.0,0,8,0,0,0,Bournemouth
+Adrien Truffert,3.0,fr FRA,LB,23-311,90,0,0,0,0,0,0,0,0,86,5,1,3,0.0,0.0,0.0,0,0,58,69,84.1,5,49,2,3,1,Bournemouth
+Marcos Senesi,5.0,ar ARG,CB,28-140,90,0,1,0,0,0,0,0,0,112,3,3,3,0.0,0.0,0.1,4,2,79,94,84.0,8,83,2,0,0,Bournemouth
+Bafodé Diakité,18.0,fr FRA,"CB,RB",24-264,90,0,0,0,0,0,0,0,0,82,1,0,0,0.0,0.0,0.0,1,0,62,66,93.9,6,55,0,1,0,Bournemouth
+Álex Jiménez,20.0,es ESP,RB,20-142,72,0,0,0,0,0,0,1,0,56,4,0,2,0.0,0.0,0.1,2,0,40,50,80.0,6,36,4,1,1,Bournemouth
+Ben Gannon-Doak,11.0,sct SCO,LW,19-320,18,0,0,0,0,1,0,0,0,13,0,1,0,0.1,0.1,0.0,0,0,7,7,100.0,0,10,0,3,0,Bournemouth
+Đorđe Petrović,1.0,rs SRB,GK,25-354,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,22,29,75.9,0,23,0,0,0,Bournemouth
+16 Players,,,,,990,2,1,0,0,12,5,2,0,703,23,7,17,0.7,0.7,0.4,23,4,469,567,82.7,41,463,18,27,11,Bournemouth

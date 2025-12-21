@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Richarlison,9.0,br BRA,FW,28-203,59,0,0,0,0,0,0,0,0,18,1,0,3,0.0,0.0,0.0,0,0,6,10,60.0,0,9,0,0,0,Tottenham Hotspur
+Xavi Simons,7.0,nl NED,FW,22-222,31,0,0,0,0,2,0,0,0,21,0,0,0,0.1,0.1,0.0,1,0,10,14,71.4,3,13,0,2,1,Tottenham Hotspur
+Randal Kolo Muani,39.0,fr FRA,FW,26-359,90,0,0,0,0,4,0,1,0,30,1,0,0,0.4,0.4,0.0,1,0,9,16,56.3,0,19,0,2,1,Tottenham Hotspur
+Lucas Bergvall,15.0,se SWE,"AM,DM",19-300,76,0,1,0,0,1,0,0,0,41,2,0,3,0.0,0.0,0.0,1,1,30,31,96.8,7,23,1,0,0,Tottenham Hotspur
+Pape Matar Sarr,29.0,sn SEN,DM,23-076,14,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,7,11,63.6,0,7,1,0,0,Tottenham Hotspur
+Mohammed Kudus,20.0,gh GHA,AM,25-119,90,1,0,0,0,1,1,0,0,69,0,0,0,0.0,0.0,0.1,5,0,41,60,68.3,4,46,9,5,2,Tottenham Hotspur
+João Palhinha,6.0,pt POR,DM,30-143,59,0,0,0,0,0,0,0,0,43,1,4,0,0.0,0.0,0.0,0,0,30,34,88.2,2,24,1,2,1,Tottenham Hotspur
+Rodrigo Bentancur,30.0,uy URU,DM,28-157,31,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.1,2,0,14,18,77.8,1,13,1,1,0,Tottenham Hotspur
+Archie Gray,14.0,eng ENG,DM,19-262,59,0,0,0,0,1,0,0,0,38,0,2,1,0.0,0.0,0.0,2,0,28,32,87.5,3,26,1,1,1,Tottenham Hotspur
+Wilson Odobert,28.0,fr FRA,"AM,LB",21-001,31,0,0,0,0,1,0,0,0,19,0,0,0,0.1,0.1,0.0,1,0,11,14,78.6,2,12,0,2,0,Tottenham Hotspur
+Destiny Udogie,13.0,it ITA,LB,23-001,84,0,0,0,0,1,0,1,0,54,1,2,2,0.1,0.1,0.1,4,0,35,39,89.7,4,31,2,2,0,Tottenham Hotspur
+Mathys Tel,11.0,fr FRA,AM,20-216,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,0,0,0,0,Tottenham Hotspur
+Micky van de Ven,37.0,nl NED,CB,24-224,90,0,0,0,0,1,0,1,0,83,2,2,1,0.1,0.1,0.0,1,0,67,75,89.3,3,60,1,1,1,Tottenham Hotspur
+Kevin Danso,4.0,at AUT,CB,27-071,90,0,0,0,0,0,0,0,0,113,3,0,1,0.0,0.0,0.0,2,0,84,99,84.8,8,71,2,0,0,Tottenham Hotspur
+Pedro Porro,23.0,es ESP,RB,26-077,90,0,0,0,0,2,0,0,0,112,3,3,2,0.1,0.1,0.1,5,0,74,99,74.7,16,64,5,2,0,Tottenham Hotspur
+Guglielmo Vicario,1.0,it ITA,GK,29-053,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,22,25,88.0,0,16,0,0,0,Tottenham Hotspur
+16 Players,,,,,990,1,1,0,0,14,1,3,0,704,14,13,14,0.9,0.9,0.4,26,1,470,579,81.2,54,434,24,20,7,Tottenham Hotspur
+Raúl Jiménez,7.0,mx MEX,FW,34-208,90,0,0,0,0,0,0,1,0,43,1,0,1,0.0,0.0,0.0,0,0,18,31,58.1,4,19,1,1,1,Fulham
+Samuel Chukwueze,19.0,ng NGA,LW,26-191,80,0,1,0,0,2,0,0,0,31,0,1,1,0.1,0.1,0.1,4,2,15,19,78.9,0,21,1,3,2,Fulham
+Kevin,22.0,br BRA,LW,22-329,10,0,0,0,0,1,1,0,0,7,1,1,0,0.0,0.0,0.0,1,0,2,2,100.0,0,4,1,2,1,Fulham
+Harry Wilson,8.0,wls WAL,RW,28-252,67,1,0,0,0,2,1,0,0,27,2,0,0,0.1,0.1,0.0,1,0,13,19,68.4,3,13,0,1,0,Fulham
+Saša Lukić,20.0,rs SRB,"RW,DM",29-108,23,0,0,0,0,0,0,0,0,13,3,0,1,0.0,0.0,0.0,1,0,5,7,71.4,0,4,1,0,0,Fulham
+Joshua King,24.0,eng ENG,AM,18-330,67,0,1,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.1,1,1,13,15,86.7,0,12,0,0,0,Fulham
+Emile Smith Rowe,32.0,eng ENG,AM,25-124,23,0,0,0,0,1,0,0,0,16,3,0,1,0.1,0.1,0.0,0,0,10,10,100.0,2,7,0,0,0,Fulham
+Alex Iwobi,17.0,ng NGA,DM,29-210,86,0,0,0,0,0,0,0,0,44,2,0,2,0.0,0.0,0.0,1,0,26,34,76.5,6,19,0,2,1,Fulham
+Timothy Castagne,21.0,be BEL,RW,29-359,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Fulham
+Sander Berge,16.0,no NOR,DM,27-288,90,0,0,0,0,0,0,0,0,29,1,2,0,0.0,0.0,0.0,1,0,20,24,83.3,2,8,0,0,0,Fulham
+Ryan Sessegnon,30.0,eng ENG,LB,25-195,90,0,0,0,0,0,0,0,0,59,4,2,3,0.0,0.0,0.0,1,0,23,36,63.9,4,16,2,1,0,Fulham
+Calvin Bassey,3.0,ng NGA,CB,25-333,90,0,0,0,0,0,0,0,0,41,4,0,1,0.0,0.0,0.0,1,0,22,28,78.6,0,11,0,0,0,Fulham
+Joachim Andersen,5.0,dk DEN,CB,29-182,90,0,0,0,0,0,0,0,0,64,1,0,2,0.0,0.0,0.0,0,0,38,47,80.9,0,20,0,0,0,Fulham
+Kenny Tete,2.0,nl NED,RB,30-051,90,1,0,0,0,1,1,0,0,62,6,3,1,0.1,0.1,0.0,1,1,28,39,71.8,0,13,0,1,0,Fulham
+Bernd Leno,1.0,de GER,GK,33-270,90,0,0,0,0,0,0,1,0,45,0,0,0,0.0,0.0,0.0,0,0,25,45,55.6,0,23,0,0,0,Fulham
+15 Players,,,,,990,2,2,0,0,7,3,2,0,501,29,9,13,0.4,0.4,0.2,13,4,258,356,72.5,21,190,6,11,5,Fulham

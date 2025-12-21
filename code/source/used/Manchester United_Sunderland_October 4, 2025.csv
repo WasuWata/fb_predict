@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Benjamin Šeško,30.0,si SVN,FW,22-126,90,1,0,0,0,1,1,0,0,35,3,1,1,0.3,0.3,0.1,3,0,14,22,63.6,2,11,1,4,1,Manchester United
+Mason Mount,7.0,eng ENG,AM,26-267,64,1,0,0,0,1,1,0,0,35,0,1,0,0.2,0.2,0.1,1,0,21,25,84.0,4,18,2,3,1,Manchester United
+Matheus Cunha,10.0,br BRA,AM,26-130,26,0,0,0,0,3,1,0,0,16,0,1,0,0.4,0.4,0.0,1,0,5,6,83.3,0,11,2,5,1,Manchester United
+Bryan Mbeumo,19.0,cm CMR,AM,26-058,76,0,1,0,0,2,1,0,0,43,0,0,1,0.1,0.1,0.2,2,1,26,31,83.9,1,24,2,2,0,Manchester United
+Kobbie Mainoo,37.0,eng ENG,CM,20-168,14,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,1,1,0,1,0,Manchester United
+Bruno Fernandes,8.0,pt POR,"CM,AM",31-026,90,0,0,0,0,3,1,0,0,62,0,2,1,0.2,0.2,0.4,6,0,40,53,75.5,8,28,2,1,0,Manchester United
+Casemiro,18.0,br BRA,CM,33-223,84,0,0,0,0,1,0,1,0,69,3,0,2,0.1,0.1,0.0,3,1,49,60,81.7,7,32,0,1,1,Manchester United
+Manuel Ugarte,25.0,uy URU,CM,24-176,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,1,0,0,0,Manchester United
+Diogo Dalot,2.0,pt POR,WB,26-200,63,0,0,0,0,1,0,0,0,42,1,0,0,0.1,0.1,0.0,2,0,26,36,72.2,2,19,3,0,0,Manchester United
+Patrick Dorgu,13.0,dk DEN,WB,20-343,27,0,0,0,0,0,0,0,0,17,1,1,2,0.0,0.0,0.0,0,0,5,9,55.6,0,5,1,0,0,Manchester United
+Amad Diallo,16.0,ci CIV,WB,23-085,90,0,0,0,0,2,1,0,0,54,2,0,0,0.6,0.6,0.1,7,2,43,44,97.7,3,32,9,6,3,Manchester United
+Luke Shaw,23.0,eng ENG,CB,30-084,90,0,0,0,0,0,0,0,0,52,2,1,1,0.0,0.0,0.0,0,0,35,43,81.4,2,24,0,1,0,Manchester United
+Matthijs de Ligt,4.0,nl NED,CB,26-053,90,0,0,0,0,0,0,0,0,57,2,1,0,0.0,0.0,0.0,0,0,38,45,84.4,1,24,0,0,0,Manchester United
+Leny Yoro,15.0,fr FRA,CB,19-325,84,0,0,0,0,1,0,0,0,60,2,2,1,0.0,0.0,0.0,1,0,41,52,78.8,2,26,0,0,0,Manchester United
+Harry Maguire,5.0,eng ENG,CB,32-213,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,0,0,0,0,Manchester United
+Senne Lammens,31.0,be BEL,GK,23-089,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,19,46,41.3,0,32,0,0,0,Manchester United
+16 Players,,,,,990,2,1,0,0,15,6,1,0,603,17,10,9,1.9,1.9,0.9,26,4,370,481,76.9,35,288,22,24,7,Manchester United
+Wilson Isidor,18.0,fr FRA,FW,25-038,58,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,1,1,Sunderland
+Brian Brobbey,9.0,nl NED,FW,23-245,32,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,Sunderland
+Simon Adingra,24.0,ci CIV,LW,23-276,36,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.1,1,0,3,3,100.0,0,5,0,2,1,Sunderland
+Daniel Ballard,5.0,nir NIR,CB,26-012,54,0,0,0,0,1,0,0,0,58,3,0,0,0.1,0.1,0.0,0,0,33,36,91.7,4,28,0,0,0,Sunderland
+Bertrand Traoré,25.0,bf BFA,RW,30-028,57,0,0,0,0,2,1,1,0,33,1,0,0,0.2,0.2,0.0,1,0,18,25,72.0,1,22,1,2,2,Sunderland
+Eliezer Mayenda,12.0,es ESP,RW,20-149,33,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.2,3,0,5,5,100.0,2,7,1,2,1,Sunderland
+Enzo Le Fée,28.0,fr FRA,"LW,AM",25-243,90,0,0,0,0,0,0,0,0,53,1,0,2,0.0,0.0,0.0,1,0,27,38,71.1,5,25,2,3,0,Sunderland
+Noah Sadiki,27.0,cd COD,"CM,DM",20-291,90,0,0,0,0,0,0,1,0,65,3,4,1,0.0,0.0,0.0,0,0,43,52,82.7,4,36,1,3,1,Sunderland
+Granit Xhaka,34.0,ch SUI,"CM,DM",33-007,90,0,0,0,0,1,1,1,0,85,0,2,5,0.0,0.0,0.1,2,0,56,69,81.2,8,44,0,2,2,Sunderland
+Arthur Masuaku,26.0,cd COD,"LB,LM",31-331,57,0,0,0,0,0,0,0,0,34,2,1,0,0.0,0.0,0.1,2,0,20,28,71.4,3,21,1,1,1,Sunderland
+Chemsdine Talbi,7.0,ma MAR,LM,20-148,33,0,0,0,0,2,1,0,0,19,0,0,1,0.3,0.3,0.1,1,0,10,14,71.4,0,10,0,0,0,Sunderland
+Omar Alderete,15.0,py PAR,CB,28-282,90,0,0,0,0,0,0,1,0,56,1,0,1,0.0,0.0,0.0,1,0,43,49,87.8,6,36,2,1,1,Sunderland
+Nordi Mukiele,20.0,fr FRA,"CB,RM",27-337,90,0,0,0,0,0,0,0,0,75,6,1,0,0.0,0.0,0.0,1,0,43,59,72.9,3,35,0,1,0,Sunderland
+Trai Hume,32.0,nir NIR,"RM,RB",23-200,78,0,0,0,0,1,0,0,0,45,1,2,0,0.0,0.0,0.0,0,0,27,36,75.0,1,26,2,1,0,Sunderland
+Lutsharel Geertruida,6.0,nl NED,CB,25-078,12,0,0,0,0,0,0,0,0,9,2,0,0,0.0,0.0,0.0,0,0,3,7,42.9,1,4,0,1,1,Sunderland
+Robin Roefs,22.0,nl NED,GK,22-260,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,29,47,61.7,0,36,0,0,0,Sunderland
+16 Players,,,,,990,0,0,0,0,8,3,4,0,608,21,10,11,0.7,0.7,0.6,13,0,364,475,76.6,38,341,10,20,11,Sunderland

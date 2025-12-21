@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Richarlison,9.0,br BRA,FW,28-098,70,2,0,0,0,5,3,0,0,21,0,0,1,0.7,0.7,0.0,4,1,6,7,85.7,0,12,0,2,2,Tottenham Hotspur
+Dominic Solanke,19.0,eng ENG,FW,27-336,20,0,0,0,0,1,0,0,0,6,1,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,3,0,0,0,Tottenham Hotspur
+Brennan Johnson,22.0,wls WAL,LW,24-085,79,1,0,0,0,2,1,0,0,27,1,0,0,0.5,0.5,0.1,2,0,14,21,66.7,0,17,4,0,0,Tottenham Hotspur
+Wilson Odobert,28.0,fr FRA,"RW,LW",20-261,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,1,0,3,3,100.0,1,2,0,0,0,Tottenham Hotspur
+Mohammed Kudus,20.0,gh GHA,RW,25-014,84,0,2,0,0,2,0,0,0,40,1,0,0,0.1,0.1,0.9,8,3,27,34,79.4,0,24,1,3,2,Tottenham Hotspur
+Mathys Tel,11.0,fr FRA,LW,20-111,6,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Tottenham Hotspur
+Lucas Bergvall,15.0,se SWE,LM,19-195,79,0,0,0,0,1,1,0,0,30,2,0,0,0.1,0.1,0.0,3,0,19,26,73.1,2,18,2,2,2,Tottenham Hotspur
+João Palhinha,6.0,pt POR,"DM,LM",30-038,11,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,0,12,0,0,0,Tottenham Hotspur
+Archie Gray,14.0,eng ENG,CM,19-157,70,0,0,0,0,0,0,0,0,46,1,0,1,0.0,0.0,0.0,1,0,38,41,92.7,6,32,2,0,0,Tottenham Hotspur
+Rodrigo Bentancur,30.0,uy URU,"DM,CM",28-052,20,0,0,0,0,0,0,0,0,16,1,0,1,0.0,0.0,0.0,1,0,14,14,100.0,2,9,0,0,0,Tottenham Hotspur
+Pape Matar Sarr,29.0,sn SEN,"RM,AM",22-336,90,0,1,0,0,0,0,0,0,61,2,0,0,0.0,0.0,0.4,3,2,43,52,82.7,4,34,1,5,3,Tottenham Hotspur
+Djed Spence,24.0,eng ENG,LB,25-007,90,0,0,0,0,2,1,0,0,61,0,0,0,0.2,0.2,0.0,2,0,51,56,91.1,7,44,4,1,1,Tottenham Hotspur
+Micky van de Ven,37.0,nl NED,CB,24-119,90,0,0,0,0,2,0,0,0,82,1,1,0,0.6,0.6,0.0,0,0,63,68,92.6,0,55,1,2,0,Tottenham Hotspur
+Cristian Romero,17.0,ar ARG,CB,27-111,90,0,0,0,0,0,0,0,0,94,0,0,2,0.0,0.0,0.0,0,0,78,88,88.6,3,67,0,0,0,Tottenham Hotspur
+Pedro Porro,23.0,es ESP,RB,25-337,90,0,0,0,0,1,0,0,0,91,2,0,0,0.0,0.0,0.2,3,0,59,81,72.8,6,54,2,1,1,Tottenham Hotspur
+Guglielmo Vicario,1.0,it ITA,GK,28-313,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,1,0,47,50,94.0,0,36,0,0,0,Tottenham Hotspur
+16 Players,,,,,990,3,3,0,0,16,6,0,0,649,12,1,6,2.3,2.3,1.8,29,6,477,559,85.3,31,422,17,16,11,Tottenham Hotspur
+Lyle Foster,9.0,za RSA,FW,24-347,73,0,0,0,0,2,0,0,0,21,0,0,0,0.2,0.2,0.4,3,0,12,13,92.3,2,10,1,2,2,Burnley
+Zian Flemming,19.0,nl NED,FW,27-015,17,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,2,1,0,0,Burnley
+Jaidon Anthony,11.0,eng ENG,"LM,RM",25-258,84,0,0,0,0,4,1,0,0,36,0,0,3,0.4,0.4,0.1,3,0,16,22,72.7,2,19,0,4,0,Burnley
+Marcus Edwards,10.0,eng ENG,FW,26-256,6,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Burnley
+Josh Cullen,24.0,ie IRL,CM,29-131,90,0,0,0,0,0,0,0,0,47,3,3,0,0.0,0.0,0.2,8,0,31,38,81.6,3,22,0,0,0,Burnley
+Josh Laurent,29.0,eng ENG,CM,30-102,62,0,0,0,0,3,2,0,0,22,1,0,0,0.1,0.1,0.2,3,0,8,14,57.1,2,11,1,0,0,Burnley
+Lesley Ugochukwu,8.0,fr FRA,CM,21-143,28,0,0,0,0,1,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,4,0,0,0,Burnley
+Hannibal Mejbri,28.0,tn TUN,RM,22-207,62,0,0,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,1,7,0,3,2,Burnley
+Jacob Bruun Larsen,7.0,dk DEN,"LM,FW",26-331,28,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,5,10,50.0,2,7,0,1,1,Burnley
+Quilindschy Hartman,3.0,nl NED,LB,23-275,90,0,0,0,0,0,0,0,0,43,1,2,2,0.0,0.0,0.0,2,0,19,32,59.4,2,9,0,0,0,Burnley
+Maxime Estève,5.0,fr FRA,CB,23-082,90,0,0,0,0,1,1,0,0,35,0,1,2,0.0,0.0,0.0,0,0,18,23,78.3,0,12,0,0,0,Burnley
+Hjalmar Ekdal,18.0,se SWE,CB,26-299,90,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.0,0,0,17,21,81.0,0,11,0,0,0,Burnley
+Kyle Walker,2.0,eng ENG,"CB,RB",35-080,90,0,0,0,0,1,0,0,0,44,0,1,0,0.0,0.0,0.0,1,0,30,39,76.9,0,20,0,0,0,Burnley
+Oliver Sonne,22.0,pe PER,"RB,RM",24-279,73,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.0,2,0,11,16,68.8,2,5,0,1,1,Burnley
+Loum Tchaouna,17.0,fr FRA,"FW,RM",21-342,17,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,4,1,1,1,Burnley
+Martin Dúbravka,1.0,sk SVK,GK,36-213,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,14,32,43.8,0,14,0,0,0,Burnley
+16 Players,,,,,990,0,0,0,0,14,4,0,0,380,6,7,8,0.9,0.9,0.9,24,0,197,282,69.9,17,158,4,12,7,Burnley

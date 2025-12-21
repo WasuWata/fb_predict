@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Dominic Calvert-Lewin,9.0,eng ENG,FW,28-222,86,0,0,0,0,1,0,0,0,29,1,0,1,0.1,0.1,0.1,1,0,8,16,50.0,0,14,2,1,0,Leeds United
+Lukas Nmecha,14.0,de GER,FW,26-314,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,Leeds United
+Noah Okafor,19.0,ch SUI,LW,25-153,45,0,0,0,0,2,1,0,0,18,0,0,0,0.2,0.2,0.0,2,1,11,14,78.6,1,12,1,1,1,Leeds United
+Jack Harrison,20.0,eng ENG,LW,28-338,45,0,0,0,0,2,1,0,0,22,1,0,0,0.1,0.1,0.0,0,0,12,17,70.6,1,10,0,0,0,Leeds United
+Brenden Aaronson,11.0,us USA,RW,25-002,86,1,0,0,0,3,1,0,0,30,3,2,2,0.6,0.6,0.1,6,0,13,19,68.4,4,18,6,3,3,Leeds United
+Daniel James,7.0,wls WAL,RW,27-348,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Leeds United
+Ao Tanaka,22.0,jp JPN,LM,27-044,71,0,0,0,0,1,0,0,0,36,0,1,1,0.1,0.1,0.0,1,0,25,29,86.2,3,19,0,0,0,Leeds United
+Ilia Gruev,44.0,bg BUL,LM,25-171,19,0,0,0,0,0,0,1,0,6,1,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,3,0,0,0,Leeds United
+Ethan Ampadu,4.0,wls WAL,CM,25-040,90,0,0,0,0,2,0,0,0,64,2,1,2,0.2,0.2,0.0,2,0,36,44,81.8,2,25,3,1,1,Leeds United
+Sean Longstaff,8.0,eng ENG,RM,27-359,90,0,1,0,0,0,0,0,0,43,4,0,1,0.0,0.0,0.3,3,1,26,35,74.3,4,17,0,0,0,Leeds United
+Gabriel Gudmundsson,3.0,se SWE,LB,26-178,43,0,0,0,0,0,0,0,0,18,0,2,0,0.0,0.0,0.1,1,0,10,11,90.9,3,6,2,1,0,Leeds United
+James Justin,24.0,eng ENG,LB,27-243,47,0,0,0,0,0,0,1,0,41,1,3,0,0.0,0.0,0.0,0,0,25,29,86.2,2,17,0,2,0,Leeds United
+Jaka Bijol,15.0,si SVN,CB,26-261,90,0,0,0,0,0,0,0,0,74,2,2,0,0.0,0.0,0.1,0,0,53,57,93.0,1,39,0,0,0,Leeds United
+Joe Rodon,6.0,wls WAL,CB,28-002,90,1,0,0,0,1,1,0,0,63,1,0,1,0.3,0.3,0.1,1,0,44,48,91.7,1,28,0,0,0,Leeds United
+Jayden Bogle,2.0,eng ENG,RB,25-089,90,0,0,0,0,1,1,0,0,47,5,1,1,0.0,0.0,0.1,2,0,21,33,63.6,1,12,0,1,0,Leeds United
+Lucas Perri,1.0,br BRA,GK,27-318,90,0,0,0,0,0,0,1,0,48,0,0,0,0.0,0.0,0.0,0,0,29,45,64.4,0,29,0,0,0,Leeds United
+16 Players,,,,,990,2,1,0,0,13,5,3,0,542,21,12,9,1.5,1.5,0.9,19,2,320,404,79.2,24,251,14,10,5,Leeds United
+Lucas Paquetá,10.0,br BRA,"AM,FW,LW,RM",28-058,90,0,0,0,0,1,0,1,0,76,1,0,1,0.1,0.1,0.1,3,0,47,68,69.1,3,53,0,2,1,West Ham United
+Jarrod Bowen,20.0,eng ENG,"RW,LW",28-308,90,0,1,0,0,2,1,0,0,42,0,0,0,0.1,0.1,0.4,4,1,25,32,78.1,2,25,2,2,1,West Ham United
+Crysencio Summerville,7.0,nl NED,"LW,RW",23-359,78,0,0,0,0,0,0,1,0,33,2,0,0,0.0,0.0,0.0,0,0,16,20,80.0,3,19,0,5,2,West Ham United
+Soungoutou Magassa,27.0,fr FRA,RM,22-016,12,0,0,0,0,0,0,0,0,12,3,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,7,1,0,0,West Ham United
+El Hadji Malick Diouf,12.0,sn SEN,"LB,LM",20-300,90,0,0,0,0,2,0,0,0,68,1,0,2,0.0,0.0,0.0,1,0,45,59,76.3,3,36,1,3,1,West Ham United
+Andy Irving,39.0,sct SCO,"DM,CM",25-164,63,0,0,0,0,0,0,0,0,48,1,1,0,0.0,0.0,0.0,0,0,37,42,88.1,4,32,1,0,0,West Ham United
+Freddie Potts,32.0,eng ENG,CM,22-042,27,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,33,37,89.2,4,25,0,0,0,West Ham United
+Tomáš Souček,28.0,cz CZE,"DM,CM",30-239,64,0,0,0,0,1,0,0,0,38,0,0,1,0.2,0.2,0.0,1,0,26,32,81.3,4,18,0,0,0,West Ham United
+Mateus Fernandes,18.0,pt POR,LM,21-106,26,1,0,0,0,2,1,0,0,34,1,0,1,0.1,0.1,0.0,2,0,20,29,69.0,2,14,0,1,0,West Ham United
+Oliver Scarles,30.0,eng ENG,RM,19-316,24,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,0,1,0,West Ham United
+Callum Wilson,9.0,eng ENG,FW,33-239,66,0,0,0,0,1,1,0,0,19,0,0,1,0.1,0.1,0.0,0,0,5,8,62.5,0,9,0,0,0,West Ham United
+Aaron Wan-Bissaka,29.0,cd COD,"RB,CB",27-332,78,0,0,0,0,0,0,0,0,69,1,3,0,0.0,0.0,0.1,1,0,49,61,80.3,4,37,2,2,0,West Ham United
+Kyle Walker-Peters,2.0,eng ENG,RB,28-194,12,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,1,10,10,100.0,1,6,0,0,0,West Ham United
+Max Kilman,3.0,eng ENG,CB,28-154,90,0,0,0,0,0,0,0,0,77,0,0,1,0.0,0.0,0.0,0,0,61,69,88.4,3,56,0,0,0,West Ham United
+Jean-Clair Todibo,25.0,fr FRA,CB,25-298,90,0,0,0,0,0,0,1,0,85,2,0,0,0.0,0.0,0.0,1,0,63,76,82.9,6,59,2,1,1,West Ham United
+Alphonse Areola,23.0,fr FRA,GK,32-239,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,17,27,63.0,0,19,0,0,0,West Ham United
+16 Players,,,,,990,1,1,0,0,9,3,3,0,684,12,4,7,0.6,0.6,0.6,14,2,465,584,79.6,39,419,9,17,6,West Ham United

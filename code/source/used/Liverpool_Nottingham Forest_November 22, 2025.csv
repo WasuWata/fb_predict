@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Alexander Isak,9.0,se SWE,FW,26-062,67,0,0,0,0,1,0,0,0,12,0,0,0,0.2,0.2,0.0,1,0,5,8,62.5,1,8,1,1,0,Liverpool
+Federico Chiesa,14.0,it ITA,"CM,FW",28-028,23,0,0,0,0,3,0,1,0,24,2,0,1,0.3,0.3,0.0,1,0,11,16,68.8,2,12,2,1,0,Liverpool
+Cody Gakpo,18.0,nl NED,"LW,LM,FW",26-199,90,0,0,0,0,3,0,0,0,46,2,0,2,0.4,0.4,0.1,6,0,23,35,65.7,4,32,5,4,2,Liverpool
+Mohamed Salah,11.0,eg EGY,"RW,RM",33-160,90,0,0,0,0,4,1,0,0,85,0,0,0,0.2,0.2,0.5,5,0,40,62,64.5,10,65,7,14,4,Liverpool
+Alexis Mac Allister,10.0,ar ARG,"LM,CM",26-333,90,0,0,0,0,5,1,0,0,66,1,0,3,0.5,0.5,0.0,4,0,44,52,84.6,6,37,1,1,1,Liverpool
+Ryan Gravenberch,38.0,nl NED,"CM,CB",23-190,90,0,0,0,0,0,0,1,0,81,2,2,0,0.0,0.0,0.0,3,0,68,71,95.8,6,62,1,1,0,Liverpool
+Curtis Jones,17.0,eng ENG,"RM,RB",24-296,77,0,0,0,0,1,0,0,0,81,4,0,2,0.0,0.0,0.0,3,0,65,68,95.6,11,62,2,0,0,Liverpool
+Rio Ngumoha,73.0,eng ENG,LM,17-085,13,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,0,5,1,3,3,Liverpool
+Milos Kerkez,6.0,hu HUN,LB,22-015,67,0,0,0,0,1,0,0,0,51,1,0,1,0.2,0.2,0.2,3,0,37,43,86.0,4,34,1,0,0,Liverpool
+Andrew Robertson,26.0,sct SCO,LB,31-256,23,0,0,0,0,0,0,0,0,21,1,0,1,0.0,0.0,0.0,3,0,16,18,88.9,2,15,0,0,0,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,34-137,90,0,0,0,0,1,0,0,0,119,1,2,0,0.0,0.0,0.1,3,0,98,106,92.5,22,82,0,0,0,Liverpool
+Ibrahima Konaté,5.0,fr FRA,CB,26-181,54,0,0,0,0,0,0,0,0,61,1,0,1,0.0,0.0,0.0,1,0,50,56,89.3,4,47,0,0,0,Liverpool
+Hugo Ekitike,22.0,fr FRA,FW,23-155,36,0,0,0,0,0,0,0,0,18,0,0,2,0.0,0.0,0.1,0,0,6,11,54.5,0,12,3,3,1,Liverpool
+Dominik Szoboszlai,8.0,hu HUN,"RB,CM",25-028,90,0,0,0,0,2,1,0,0,129,0,0,1,0.1,0.1,0.3,7,0,106,120,88.3,18,87,3,4,3,Liverpool
+Alisson,1.0,br BRA,GK,33-051,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,26,28,92.9,0,24,0,0,0,Liverpool
+15 Players,,,,,990,0,0,0,0,21,3,2,0,834,15,4,14,1.9,1.9,1.4,41,0,601,702,85.6,90,584,27,32,14,Liverpool
+Igor Jesus,19.0,br BRA,FW,24-270,85,0,0,0,0,2,1,0,0,33,2,0,0,0.1,0.1,0.0,2,0,7,12,58.3,0,20,0,3,0,Nottingham Forest
+Ryan Yates,22.0,eng ENG,CM,28-001,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Nottingham Forest
+Nicolás Domínguez,16.0,ar ARG,LW,27-147,60,0,0,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.0,1,1,8,12,66.7,1,5,0,2,1,Nottingham Forest
+Omari Hutchinson,21.0,eng ENG,RW,22-023,30,0,0,0,0,3,1,0,0,12,1,0,0,0.4,0.4,0.0,3,1,2,3,66.7,1,5,2,3,2,Nottingham Forest
+Dan Ndoye,14.0,ch SUI,"RW,LW",25-028,85,0,0,0,0,1,0,0,0,28,1,0,0,0.1,0.1,0.0,3,0,13,16,81.3,3,12,1,2,0,Nottingham Forest
+Callum Hudson-Odoi,7.0,eng ENG,LW,25-015,5,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.2,1,0,1,3,33.3,0,2,1,0,0,Nottingham Forest
+Morgan Gibbs-White,10.0,eng ENG,"AM,FW",25-299,90,1,0,0,0,2,1,0,0,31,0,0,0,0.3,0.3,0.0,2,1,19,23,82.6,3,9,2,2,2,Nottingham Forest
+Elliot Anderson,8.0,eng ENG,"DM,LM",23-016,90,0,0,0,0,2,1,0,0,59,4,2,2,0.1,0.1,0.1,3,0,33,41,80.5,3,17,0,2,0,Nottingham Forest
+Ibrahim Sangaré,6.0,ci CIV,"DM,RM",27-355,90,0,0,0,0,0,0,0,0,31,5,0,1,0.0,0.0,0.0,0,0,13,17,76.5,2,7,0,1,0,Nottingham Forest
+Neco Williams,3.0,wls WAL,LB,24-223,90,0,1,0,0,0,0,0,0,48,11,3,2,0.0,0.0,0.4,1,1,17,24,70.8,0,11,0,4,2,Nottingham Forest
+Murillo,5.0,br BRA,CB,23-141,90,1,0,0,0,3,2,0,0,40,2,1,4,0.2,0.2,0.2,4,0,15,17,88.2,3,7,0,0,0,Nottingham Forest
+Nikola Milenković,31.0,rs SRB,CB,28-041,90,0,0,0,0,0,0,0,0,39,0,1,5,0.0,0.0,0.0,0,0,16,23,69.6,1,14,0,0,0,Nottingham Forest
+Nicolò Savona,37.0,it ITA,RB,22-248,90,1,0,0,0,1,1,0,0,35,1,0,0,0.4,0.4,0.0,0,0,15,26,57.7,2,2,1,0,0,Nottingham Forest
+Matz Sels,26.0,be BEL,GK,33-269,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.1,1,0,11,33,33.3,0,17,0,0,0,Nottingham Forest
+14 Players,,,,,990,3,1,0,0,15,7,0,0,418,27,7,14,1.6,1.6,1.0,21,4,170,251,67.7,19,128,7,19,7,Nottingham Forest

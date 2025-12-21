@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Eli Junior Kroupi,22.0,fr FRA,FW,19-162,60,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,6,9,66.7,0,4,1,1,0,Bournemouth
+Evanilson,9.0,br BRA,FW,26-057,30,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.2,3,0,10,10,100.0,2,7,0,0,0,Bournemouth
+Antoine Semenyo,24.0,gh GHA,"LW,AM",25-329,90,0,0,0,0,3,2,0,0,48,3,0,2,0.3,0.3,0.0,1,0,27,31,87.1,5,19,3,7,2,Bournemouth
+Amine Adli,21.0,ma MAR,RW,25-206,59,0,0,0,0,0,0,0,0,26,2,0,1,0.0,0.0,0.0,0,0,11,17,64.7,2,9,1,0,0,Bournemouth
+Marcus Tavernier,16.0,eng ENG,RW,26-255,31,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,1,0,19,24,79.2,5,12,1,2,0,Bournemouth
+Justin Kluivert,19.0,nl NED,AM,26-211,69,0,0,0,0,0,0,1,0,31,1,0,1,0.0,0.0,0.2,2,0,16,21,76.2,4,15,1,2,1,Bournemouth
+Julio Soler,6.0,ar ARG,"DM,LW",20-289,21,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,14,17,82.4,1,14,1,0,0,Bournemouth
+Alex Scott,8.0,eng ENG,DM,22-103,79,0,0,0,0,0,0,0,0,63,0,1,3,0.0,0.0,0.0,1,0,48,53,90.6,5,29,2,0,0,Bournemouth
+Enes Ünal,26.0,tr TUR,AM,28-206,11,0,0,0,0,0,0,1,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Bournemouth
+Tyler Adams,12.0,us USA,DM,26-291,90,0,0,0,0,0,0,1,0,73,1,1,2,0.0,0.0,0.0,0,0,50,56,89.3,5,22,0,0,0,Bournemouth
+Adrien Truffert,3.0,fr FRA,LB,24-012,90,0,0,0,0,0,0,0,0,87,3,0,0,0.0,0.0,0.0,0,0,56,67,83.6,5,34,7,3,3,Bournemouth
+Bafodé Diakité,18.0,fr FRA,CB,24-330,90,0,0,0,0,0,0,0,0,79,1,1,1,0.0,0.0,0.0,1,0,60,67,89.6,1,41,0,0,0,Bournemouth
+Veljko Milosavljević,44.0,rs SRB,CB,18-157,90,0,0,0,0,1,0,0,0,72,0,0,2,0.2,0.2,0.0,1,0,50,60,83.3,6,34,3,1,1,Bournemouth
+Álex Jiménez,20.0,es ESP,RB,20-208,90,0,0,0,0,1,0,0,0,69,2,0,2,0.1,0.1,0.0,0,0,37,50,74.0,4,29,4,2,1,Bournemouth
+Đorđe Petrović,1.0,rs SRB,GK,26-055,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,23,36,63.9,0,19,0,0,0,Bournemouth
+15 Players,,,,,990,0,0,0,0,5,2,3,0,664,15,3,15,0.5,0.5,0.4,10,0,427,518,82.4,45,289,24,18,8,Bournemouth
+Thierno Barry,11.0,fr FRA,FW,23-042,79,0,0,0,0,4,1,0,0,29,0,0,0,0.8,0.8,0.3,2,0,8,15,53.3,0,15,2,2,1,Everton
+Beto,9.0,gw GNB,FW,27-305,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,1,0,1,0,Everton
+Jack Grealish,18.0,eng ENG,LW,30-083,90,1,0,0,0,2,1,0,0,40,0,1,2,0.1,0.1,0.1,2,0,22,33,66.7,7,32,4,2,0,Everton
+Iliman Ndiaye,10.0,sn SEN,RW,25-271,90,0,0,0,0,1,1,0,0,57,3,0,1,0.1,0.1,0.0,2,0,31,40,77.5,0,35,4,6,1,Everton
+Carlos Alcaraz,24.0,ar ARG,AM,23-002,79,0,1,0,0,3,0,1,0,41,0,1,0,0.3,0.3,0.2,3,1,22,34,64.7,2,22,2,1,0,Everton
+Dwight McNeil,7.0,eng ENG,AM,26-010,11,0,0,0,0,0,0,0,0,14,0,0,2,0.0,0.0,0.0,0,0,9,10,90.0,0,8,0,0,0,Everton
+Kiernan Dewsbury-Hall,22.0,eng ENG,DM,27-087,90,0,0,0,0,0,0,0,0,58,1,1,1,0.0,0.0,0.0,2,0,39,55,70.9,7,36,3,0,0,Everton
+Tim Iroegbunam,42.0,eng ENG,DM,22-155,90,0,0,0,0,1,0,1,0,46,7,0,1,0.0,0.0,0.0,0,0,30,35,85.7,4,25,1,0,0,Everton
+Vitaliy Mykolenko,16.0,ua UKR,LB,26-187,90,0,0,0,0,0,0,1,0,43,3,0,0,0.0,0.0,0.0,2,0,25,36,69.4,2,16,1,0,0,Everton
+Jake O'Brien,15.0,ie IRL,CB,24-201,90,0,0,0,0,1,0,0,0,43,0,0,0,0.2,0.2,0.0,2,0,28,33,84.8,1,17,0,0,0,Everton
+James Tarkowski,6.0,eng ENG,CB,33-013,90,0,0,0,0,0,0,0,0,53,2,1,1,0.0,0.0,0.1,2,0,27,39,69.2,3,27,0,0,0,Everton
+James Garner,37.0,eng ENG,RB,24-264,90,0,0,0,0,1,0,0,0,73,2,0,0,0.0,0.0,0.2,3,0,40,64,62.5,5,37,1,0,0,Everton
+Jordan Pickford,1.0,eng ENG,GK,31-270,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,20,35,57.1,0,22,0,0,0,Everton
+13 Players,,,,,990,1,1,0,0,13,3,3,0,541,18,4,8,1.4,1.4,1.0,20,1,303,434,69.8,31,293,18,12,2,Everton

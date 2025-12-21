@@ -1,0 +1,31 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Wilson Isidor,18.0,fr FRA,FW,25-073,62,0,0,0,0,2,0,0,0,18,0,0,0,0.1,0.1,0.0,0,0,3,8,37.5,1,6,0,1,0,Sunderland
+Brian Brobbey,9.0,nl NED,FW,23-280,28,1,0,0,0,1,1,0,0,6,1,0,0,0.1,0.1,0.0,0,0,1,2,50.0,0,2,0,0,0,Sunderland
+Enzo Le Fée,28.0,fr FRA,LM,25-278,63,0,0,0,0,1,0,0,0,33,1,1,2,0.1,0.1,0.0,2,0,17,20,85.0,0,17,2,1,0,Sunderland
+Simon Adingra,24.0,ci CIV,LM,23-311,27,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,0,10,1,1,0,Sunderland
+Noah Sadiki,27.0,cd COD,CM,20-326,90,0,0,0,0,0,0,0,0,42,2,2,2,0.0,0.0,0.1,3,0,25,29,86.2,4,19,5,1,0,Sunderland
+Granit Xhaka,34.0,ch SUI,CM,33-042,90,0,0,0,0,0,0,1,0,54,3,1,2,0.0,0.0,0.0,1,1,35,42,83.3,1,26,1,0,0,Sunderland
+Bertrand Traoré,25.0,bf BFA,RM,30-063,63,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,9,0,0,0,Sunderland
+Chemsdine Talbi,7.0,ma MAR,"RM,RB",20-183,27,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,6,0,1,1,Sunderland
+Reinildo Mandava,17.0,mz MOZ,LB,31-291,90,0,0,0,0,0,0,1,0,40,2,0,0,0.0,0.0,0.0,1,0,24,30,80.0,0,21,0,1,0,Sunderland
+Lutsharel Geertruida,6.0,nl NED,CB,25-113,86,0,0,0,0,0,0,0,0,40,3,1,1,0.0,0.0,0.1,1,0,29,30,96.7,1,25,0,1,1,Sunderland
+Eliezer Mayenda,12.0,es ESP,"RM,CB",20-184,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Sunderland
+Daniel Ballard,5.0,nir NIR,CB,26-047,90,1,0,0,0,1,1,0,0,43,0,0,1,0.1,0.1,0.0,0,0,26,34,76.5,0,27,0,0,0,Sunderland
+Nordi Mukiele,20.0,fr FRA,CB,28-007,90,0,1,0,0,1,0,0,0,46,2,1,0,0.0,0.0,0.1,1,1,18,37,48.6,2,15,0,0,0,Sunderland
+Trai Hume,32.0,nir NIR,"RB,CB",23-235,90,0,0,0,0,0,0,0,0,24,2,0,1,0.0,0.0,0.0,1,1,11,17,64.7,2,10,0,0,0,Sunderland
+Robin Roefs,22.0,nl NED,GK,22-295,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,1,1,24,45,53.3,0,29,0,0,0,Sunderland
+15 Players,,,,,990,2,1,0,0,6,2,2,0,427,16,6,9,0.4,0.4,0.3,11,4,235,320,73.4,12,222,9,7,2,Sunderland
+Mikel Merino,23.0,es ESP,FW,29-139,90,0,1,0,0,1,0,0,0,38,0,0,0,0.4,0.4,0.2,3,1,20,28,71.4,4,20,0,4,2,Arsenal
+Leandro Trossard,19.0,be BEL,"LW,LM",30-339,90,1,0,0,0,1,1,0,0,53,0,0,2,0.0,0.0,0.2,4,0,37,45,82.2,3,30,4,1,0,Arsenal
+Bukayo Saka,7.0,eng ENG,"RW,RM",24-064,90,1,0,0,0,3,2,0,0,68,2,0,0,0.5,0.5,0.4,3,0,40,48,83.3,4,34,3,6,1,Arsenal
+Eberechi Eze,10.0,eng ENG,AM,27-132,87,0,0,0,0,4,1,0,0,39,0,0,0,0.3,0.3,0.0,2,1,28,33,84.8,4,23,1,1,1,Arsenal
+Cristhian Mosquera,3.0,es ESP,CB,21-134,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,0,0,Arsenal
+Declan Rice,41.0,eng ENG,"DM,CM",26-298,90,0,0,0,0,3,1,0,0,89,3,1,0,0.1,0.1,0.1,4,1,65,75,86.7,11,46,3,0,0,Arsenal
+Martín Zubimendi,36.0,es ESP,"DM,CM",26-279,90,0,1,0,0,3,1,1,0,88,3,1,0,0.3,0.3,0.2,3,1,69,76,90.8,8,43,2,2,1,Arsenal
+Riccardo Calafiori,33.0,it ITA,LB,23-173,90,0,0,0,0,1,1,0,0,47,0,1,1,0.2,0.2,0.0,3,0,32,38,84.2,1,18,0,2,2,Arsenal
+Gabriel Magalhães,6.0,br BRA,CB,27-324,90,0,0,0,0,0,0,0,0,73,1,0,2,0.0,0.0,0.1,2,0,53,64,82.8,3,35,0,0,0,Arsenal
+William Saliba,2.0,fr FRA,CB,24-229,90,0,0,0,0,1,0,0,0,84,0,0,0,0.2,0.2,0.0,1,0,73,76,96.1,3,44,1,0,0,Arsenal
+Jurriën Timber,12.0,nl NED,RB,24-144,90,0,0,0,0,0,0,0,0,68,3,0,0,0.0,0.0,0.0,2,0,51,64,79.7,6,36,2,1,1,Arsenal
+David Raya,1.0,es ESP,GK,30-054,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,13,24,54.2,0,11,0,0,0,Arsenal
+12 Players,,,,,990,2,2,0,0,17,7,1,0,674,12,3,5,2.0,2.0,1.2,27,4,484,574,84.3,48,343,16,17,8,Arsenal
