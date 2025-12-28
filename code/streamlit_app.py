@@ -13,7 +13,7 @@ for team in teams:
     player_dict[team] = team_players
 
 premier_league_data = {}
-premier_league_data['Team'] = teams
+premier_league_data['teams'] = teams
 premier_league_data['players'] = player_dict
 premier_league_data['venues'] = ['Home','Away','Neutral']
 
