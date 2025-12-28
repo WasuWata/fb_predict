@@ -3,6 +3,20 @@ import pandas as pd
 import numpy as np
 from datetime import date
 
+# premier league data
+url = 'https://raw.githubusercontent.com/WasuWata/fb_predict/main/code/source/summary.csv'
+data = pd.read_csv(url)
+teams = data['Team_Team'].unique().tolist()
+player_dict = {}
+for team in teams:
+    team_players = data[data['Team_Team'] == team]['Unnamed: 0_level_0_Player'].unique().tolist()
+    player_dict[team] = team_players
+
+premier_league_data = {}
+premier_league_data['Team'] = teams
+premier_league_data['players'] = player_dict
+premier_league_data['venues'] = ['Home','Away','Neutral']
+
 # Set page configuration
 st.set_page_config(
     page_title="Premier League Match Predictor",
@@ -39,39 +53,6 @@ st.markdown("""
     }
     </style>
     """, unsafe_allow_html=True)
-
-# Premier League data
-premier_league_data = {
-    "teams": [
-        "Arsenal", "Manchester City", "Liverpool", "Chelsea", 
-        "Manchester United", "Tottenham Hotspur", "Newcastle United",
-        "Aston Villa", "West Ham United", "Brighton & Hove Albion",
-        "Wolverhampton Wanderers", "Crystal Palace", "Everton",
-        "Leicester City", "Leeds United", "Southampton", "Nottingham Forest",
-        "Fulham", "Brentford", "Bournemouth"
-    ],
-    "players": {
-        "Arsenal": ["Bukayo Saka", "Martin Ødegaard", "Gabriel Jesus", "Gabriel Martinelli", 
-                   "Declan Rice", "William Saliba", "Aaron Ramsdale", "Kai Havertz"],
-        "Manchester City": ["Erling Haaland", "Kevin De Bruyne", "Phil Foden", "Rodri", 
-                          "Bernardo Silva", "John Stones", "Ederson", "Jack Grealish"],
-        "Liverpool": ["Mohamed Salah", "Virgil van Dijk", "Alisson Becker", "Trent Alexander-Arnold",
-                     "Darwin Núñez", "Luis Díaz", "Diogo Jota", "Dominik Szoboszlai"],
-        "Chelsea": ["Raheem Sterling", "Enzo Fernández", "Thiago Silva", "Reece James",
-                   "Cole Palmer", "Nicolas Jackson", "Moisés Caicedo", "Robert Sánchez"],
-        "Manchester United": ["Bruno Fernandes", "Marcus Rashford", "Rasmus Højlund", "Casemiro",
-                            "Harry Maguire", "André Onana", "Alejandro Garnacho", "Kobbie Mainoo"],
-        "Tottenham Hotspur": ["Son Heung-min", "James Maddison", "Cristian Romero", "Richarlison",
-                             "Dejan Kulusevski", "Pedro Porro", "Guglielmo Vicario", "Micky van de Ven"],
-        "Newcastle United": ["Alexander Isak", "Bruno Guimarães", "Kieran Trippier", "Anthony Gordon",
-                            "Sven Botman", "Nick Pope", "Joelinton", "Miguel Almirón"],
-        "Aston Villa": ["Ollie Watkins", "Douglas Luiz", "Emiliano Martínez", "John McGinn",
-                       "Leon Bailey", "Moussa Diaby", "Pau Torres", "Lucas Digne"],
-        "West Ham United": ["Jarrod Bowen", "Mohammed Kudus", "Lucas Paquetá", "Tomáš Souček",
-                           "Alphonse Areola", "Kurt Zouma", "Emerson Palmieri", "Michail Antonio"]
-    },
-    "venues": ["Home", "Away", "Neutral"]
-}
 
 def predict_match(home_team, away_team, home_players, away_players, venue, form):
     """Simple prediction function without ML dependencies"""
