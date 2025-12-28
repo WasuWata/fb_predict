@@ -382,6 +382,7 @@ st.markdown("""
         min-height: 80px;
         text-align: center;
         box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        width: 100px;
     }
     .position-label {
         font-weight: bold;
@@ -399,6 +400,7 @@ st.markdown("""
         justify-content: center;
         align-items: center;
         margin: 10px 0;
+        flex-wrap: wrap;
     }
     .gk-row {
         justify-content: center;
@@ -410,20 +412,47 @@ st.markdown("""
         border-radius: 10px;
         margin: 10px 0;
     }
+    .clear-btn {
+        background-color: #ff6b6b;
+        color: white;
+        border: none;
+        padding: 5px 10px;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 0.8rem;
+        margin-top: 5px;
+    }
+    .clear-btn:hover {
+        background-color: #ff5252;
+    }
     </style>
     """, unsafe_allow_html=True)
 
-def create_formation_layout(team_name, formation_name, team_players, key):
+def create_formation_layout(team_name, formation_name, team_players, key_prefix):
     """Create a visual formation layout for team selection"""
     
     formation = formations[formation_name]
     positions = formation["positions"]
     
     # Initialize session state for player positions if not exists
-    if f'{key}_lineup' not in st.session_state:
-        st.session_state[f'{key}_lineup'] = {pos: "" for pos in positions}
+    if f'{key_prefix}_lineup' not in st.session_state:
+        st.session_state[f'{key_prefix}_lineup'] = {}
+        # Initialize with unique keys for each position
+        for i, pos in enumerate(positions):
+            st.session_state[f'{key_prefix}_lineup'][f"{pos}_{i}"] = ""
     
     st.markdown(f"### {team_name} Formation: {formation_name}")
+    
+    # Create a copy of positions with unique indices for duplicate positions
+    unique_positions = []
+    position_count = {}
+    for i, pos in enumerate(positions):
+        if pos in position_count:
+            position_count[pos] += 1
+            unique_positions.append(f"{pos}_{position_count[pos]}")
+        else:
+            position_count[pos] = 1
+            unique_positions.append(f"{pos}_1")
     
     # Pitch background
     with st.container():
@@ -434,47 +463,143 @@ def create_formation_layout(team_name, formation_name, team_players, key):
         with st.container():
             col1, col2, col3 = st.columns([1, 2, 1])
             with col2:
-                create_position_box("GK", team_name, team_players, key)
+                # Find the goalkeeper position
+                for i, pos in enumerate(positions):
+                    if pos == "GK":
+                        unique_key = unique_positions[i]
+                        create_position_box("GK", team_name, team_players, key_prefix, unique_key, i)
         st.markdown('</div>', unsafe_allow_html=True)
         
-        # Defenders row
-        defender_count = formation["defenders"]
-        st.markdown('<div class="formation-row">', unsafe_allow_html=True)
-        for i in range(defender_count):
-            pos_idx = 1 + i  # Skip GK (index 0)
-            create_position_box(positions[pos_idx], team_name, team_players, key)
-        st.markdown('</div>', unsafe_allow_html=True)
+        # Group positions by row based on formation
+        position_groups = group_positions_by_row(formation_name, positions, unique_positions)
         
-        # Midfielders row
-        midfielder_count = formation["midfielders"]
-        st.markdown('<div class="formation-row">', unsafe_allow_html=True)
-        for i in range(midfielder_count):
-            pos_idx = 1 + defender_count + i
-            create_position_box(positions[pos_idx], team_name, team_players, key)
-        st.markdown('</div>', unsafe_allow_html=True)
-        
-        # Forwards row
-        forward_count = formation["forwards"]
-        st.markdown('<div class="formation-row">', unsafe_allow_html=True)
-        for i in range(forward_count):
-            pos_idx = 1 + defender_count + midfielder_count + i
-            create_position_box(positions[pos_idx], team_name, team_players, key)
-        st.markdown('</div>', unsafe_allow_html=True)
+        # Create each row
+        for row_idx, row_positions in enumerate(position_groups):
+            if row_positions:  # Skip empty rows
+                st.markdown('<div class="formation-row">', unsafe_allow_html=True)
+                cols = st.columns(len(row_positions))
+                
+                for col_idx, (pos, unique_key, orig_idx) in enumerate(row_positions):
+                    with cols[col_idx]:
+                        create_position_box(pos, team_name, team_players, key_prefix, unique_key, orig_idx)
+                
+                st.markdown('</div>', unsafe_allow_html=True)
         
         st.markdown('</div>', unsafe_allow_html=True)
     
-    # Display selected lineup
+    # Display selected lineup with clear buttons
     st.markdown("**Selected Lineup:**")
-    lineup_cols = st.columns(4)
-    col_idx = 0
     
-    for pos, player in st.session_state[f'{key}_lineup'].items():
-        if player:
-            with lineup_cols[col_idx % 4]:
-                st.caption(f"**{pos}:** {player}")
-            col_idx += 1
+    # Create a container for the lineup with columns
+    lineup_container = st.container()
+    with lineup_container:
+        # Group positions by type
+        gks = []
+        defenders = []
+        midfielders = []
+        forwards = []
+        
+        for unique_key, player in st.session_state[f'{key_prefix}_lineup'].items():
+            if player:  # Only show filled positions
+                pos_type = unique_key.split('_')[0]
+                if pos_type == "GK":
+                    gks.append((unique_key, player))
+                elif pos_type in ["LB", "RB", "CB", "LWB", "RWB"]:
+                    defenders.append((unique_key, player))
+                elif pos_type in ["LM", "RM", "CM", "CDM", "CAM"]:
+                    midfielders.append((unique_key, player))
+                else:
+                    forwards.append((unique_key, player))
+        
+        # Display in organized columns
+        col1, col2, col3, col4 = st.columns(4)
+        
+        with col1:
+            if gks:
+                st.markdown("**Goalkeeper**")
+                for unique_key, player in gks:
+                    pos_label = unique_key.split('_')[0]
+                    st.write(f"• {pos_label}: {player}")
+                    if st.button("Clear", key=f"clear_{key_prefix}_{unique_key}", 
+                               help=f"Clear {player} from {pos_label}"):
+                        st.session_state[f'{key_prefix}_lineup'][unique_key] = ""
+                        st.rerun()
+        
+        with col2:
+            if defenders:
+                st.markdown("**Defenders**")
+                for unique_key, player in defenders:
+                    pos_label = unique_key.split('_')[0]
+                    st.write(f"• {pos_label}: {player}")
+                    if st.button("Clear", key=f"clear_{key_prefix}_{unique_key}_def",
+                               help=f"Clear {player} from {pos_label}"):
+                        st.session_state[f'{key_prefix}_lineup'][unique_key] = ""
+                        st.rerun()
+        
+        with col3:
+            if midfielders:
+                st.markdown("**Midfielders**")
+                for unique_key, player in midfielders:
+                    pos_label = unique_key.split('_')[0]
+                    st.write(f"• {pos_label}: {player}")
+                    if st.button("Clear", key=f"clear_{key_prefix}_{unique_key}_mid",
+                               help=f"Clear {player} from {pos_label}"):
+                        st.session_state[f'{key_prefix}_lineup'][unique_key] = ""
+                        st.rerun()
+        
+        with col4:
+            if forwards:
+                st.markdown("**Forwards**")
+                for unique_key, player in forwards:
+                    pos_label = unique_key.split('_')[0]
+                    st.write(f"• {pos_label}: {player}")
+                    if st.button("Clear", key=f"clear_{key_prefix}_{unique_key}_fwd",
+                               help=f"Clear {player} from {pos_label}"):
+                        st.session_state[f'{key_prefix}_lineup'][unique_key] = ""
+                        st.rerun()
+        
+        # Clear all button
+        if st.button("Clear All Players", key=f"clear_all_{key_prefix}"):
+            for unique_key in st.session_state[f'{key_prefix}_lineup']:
+                st.session_state[f'{key_prefix}_lineup'][unique_key] = ""
+            st.rerun()
 
-def create_position_box(position, team_name, team_players, key):
+def group_positions_by_row(formation_name, positions, unique_positions):
+    """Group positions into rows based on formation"""
+    formation = formations[formation_name]
+    defenders = formation["defenders"]
+    midfielders = formation["midfielders"]
+    forwards = formation["forwards"]
+    
+    position_groups = []
+    
+    # Skip GK (position 0)
+    idx = 1
+    
+    # Defenders row
+    defender_group = []
+    for i in range(defenders):
+        defender_group.append((positions[idx], unique_positions[idx], idx))
+        idx += 1
+    position_groups.append(defender_group)
+    
+    # Midfielders row
+    midfielder_group = []
+    for i in range(midfielders):
+        midfielder_group.append((positions[idx], unique_positions[idx], idx))
+        idx += 1
+    position_groups.append(midfielder_group)
+    
+    # Forwards row
+    forward_group = []
+    for i in range(forwards):
+        forward_group.append((positions[idx], unique_positions[idx], idx))
+        idx += 1
+    position_groups.append(forward_group)
+    
+    return position_groups
+
+def create_position_box(position, team_name, team_players, key_prefix, unique_key, index):
     """Create a single position box with player dropdown"""
     
     st.markdown(f"""
@@ -485,16 +610,22 @@ def create_position_box(position, team_name, team_players, key):
     
     # Create a dropdown for this position
     available_players = [""] + team_players
+    
+    # Get current selection from session state
+    current_selection = st.session_state[f'{key_prefix}_lineup'].get(unique_key, "")
+    
+    # Create dropdown with unique key
     selected_player = st.selectbox(
         f"Select player for {position}",
         available_players,
-        key=f"{key}_{position}",
+        index=available_players.index(current_selection) if current_selection in available_players else 0,
+        key=f"{key_prefix}_{unique_key}",
         label_visibility="collapsed"
     )
     
     # Update session state
-    if selected_player:
-        st.session_state[f'{key}_lineup'][position] = selected_player
+    if selected_player != st.session_state[f'{key_prefix}_lineup'].get(unique_key):
+        st.session_state[f'{key_prefix}_lineup'][unique_key] = selected_player
 
 def predict_match(home_team, away_team, home_players, away_players, venue, form):
     """Simple prediction function without ML dependencies"""
@@ -574,24 +705,25 @@ def main():
                 key="home_team"
             )
             
-            # Formation selection for home team
-            home_formation = st.selectbox(
-                "Select Formation",
-                list(formations.keys()),
-                key="home_formation"
-            )
-            
-            home_players_list = premier_league_data["players"].get(home_team, ["No player data available"])
-            
-            # Create formation layout for home team
-            create_formation_layout(home_team, home_formation, home_players_list, "home")
-            
-            home_form = st.select_slider(
-                f"{home_team} Recent Form",
-                options=["Terrible", "Poor", "Average", "Good", "Excellent"],
-                value="Average",
-                key="home_form"
-            )
+            if home_team:
+                # Formation selection for home team
+                home_formation = st.selectbox(
+                    "Select Formation",
+                    list(formations.keys()),
+                    key="home_formation"
+                )
+                
+                home_players_list = premier_league_data["players"].get(home_team, ["No player data available"])
+                
+                # Create formation layout for home team
+                create_formation_layout(home_team, home_formation, home_players_list, "home")
+                
+                home_form = st.select_slider(
+                    f"{home_team} Recent Form",
+                    options=["Terrible", "Poor", "Average", "Good", "Excellent"],
+                    value="Average",
+                    key="home_form"
+                )
             st.markdown('</div>', unsafe_allow_html=True)
         
         with col2:
@@ -603,24 +735,25 @@ def main():
                 key="away_team"
             )
             
-            # Formation selection for away team
-            away_formation = st.selectbox(
-                "Select Formation",
-                list(formations.keys()),
-                key="away_formation"
-            )
-            
-            away_players_list = premier_league_data["players"].get(away_team, ["No player data available"])
-            
-            # Create formation layout for away team
-            create_formation_layout(away_team, away_formation, away_players_list, "away")
-            
-            away_form = st.select_slider(
-                f"{away_team} Recent Form",
-                options=["Terrible", "Poor", "Average", "Good", "Excellent"],
-                value="Average",
-                key="away_form"
-            )
+            if away_team:
+                # Formation selection for away team
+                away_formation = st.selectbox(
+                    "Select Formation",
+                    list(formations.keys()),
+                    key="away_formation"
+                )
+                
+                away_players_list = premier_league_data["players"].get(away_team, ["No player data available"])
+                
+                # Create formation layout for away team
+                create_formation_layout(away_team, away_formation, away_players_list, "away")
+                
+                away_form = st.select_slider(
+                    f"{away_team} Recent Form",
+                    options=["Terrible", "Poor", "Average", "Good", "Excellent"],
+                    value="Average",
+                    key="away_form"
+                )
             st.markdown('</div>', unsafe_allow_html=True)
         
         # Additional match details
@@ -668,14 +801,16 @@ def main():
             col_formation1, col_formation2 = st.columns(2)
             with col_formation1:
                 st.markdown(f"**{home_team} Formation:** {home_formation}")
-                for pos, player in home_lineup.items():
+                for unique_key, player in home_lineup.items():
                     if player:
+                        pos = unique_key.split('_')[0]
                         st.write(f"• {pos}: {player}")
             
             with col_formation2:
                 st.markdown(f"**{away_team} Formation:** {away_formation}")
-                for pos, player in away_lineup.items():
+                for unique_key, player in away_lineup.items():
                     if player:
+                        pos = unique_key.split('_')[0]
                         st.write(f"• {pos}: {player}")
             
             st.markdown("---")
