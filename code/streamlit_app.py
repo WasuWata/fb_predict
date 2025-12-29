@@ -167,13 +167,6 @@ def get_lineup_data(key_prefix, formation_name):
             lineup_data["positions"].append(base_position)
             lineup_data["position_categories"].append(position_categories.get(base_position, "unknown"))
     
-    # Calculate counts for ML features
-    for position in lineup_data["positions"]:
-        lineup_data["count_by_position"][position] = lineup_data["count_by_position"].get(position, 0) + 1
-    
-    for category in lineup_data["position_categories"]:
-        lineup_data["count_by_category"][category] = lineup_data["count_by_category"].get(category, 0) + 1
-    
     return lineup_data
 
 def create_ml_features(home_lineup_data, away_lineup_data, home_team, away_team, venue, home_form, away_form):
@@ -419,9 +412,9 @@ def predict_match(home_team, away_team, home_lineup_data, away_lineup_data, venu
         return predict_with_lineup_data(home_team, away_team, home_lineup_data, away_lineup_data, venue, form)
     else:
         # Fall back to simple heuristic
-        return simple_predict(home_team, away_team, home_lineup_data, away_lineup_data, venue, form)
+        return simple_predict(home_team, away_team, home_lineup_data, away_lineup_data, venue, form) # WILL NOT USE IT
 
-def simple_predict(home_team, away_team, home_lineup_data, away_lineup_data, venue, form):
+def simple_predict(home_team, away_team, home_lineup_data, away_lineup_data, venue, form): # WILL NOT USE IT
     """Simple prediction function"""
     np.random.seed(hash(home_team + away_team) % 10000)
     
@@ -465,7 +458,7 @@ def simple_predict(home_team, away_team, home_lineup_data, away_lineup_data, ven
         'method': 'heuristic'
     }
 
-def predict_with_lineup_data(home_team, away_team, home_lineup_data, away_lineup_data, venue, form):
+def predict_with_lineup_data(home_team, away_team, home_lineup_data, away_lineup_data, venue, form): # Need to be changed
     """More sophisticated prediction using lineup data"""
     
     # Start with base scores
@@ -561,17 +554,11 @@ def main():
         st.markdown("### 📊 Navigation")
         menu_option = st.radio(
             "Choose an option:",
-            ["Match Prediction", "Historical Predictions", "Team Statistics", "ML Data Export"]
+            ["Match Prediction"]
         )
-        
-        st.markdown("---")
-        st.markdown("### ⚙️ Settings")
-        use_ml_prediction = st.checkbox("Use lineup-based prediction", value=True)
-        show_ml_features = st.checkbox("Show ML features", value=True)
-        
         st.markdown("---")
         st.markdown("### ℹ️ About")
-        st.info("This is a demonstration app for Premier League match predictions.")
+        st.info("App for predicting the Premier League's match outcome, based on player performance")
     
     if menu_option == "Match Prediction":
         # Main content - Match prediction form
@@ -599,12 +586,6 @@ def main():
                 # Create formation layout for home team
                 create_formation_layout(home_team, home_formation, home_players_list, "home")
                 
-                home_form = st.select_slider(
-                    f"{home_team} Recent Form",
-                    options=["Terrible", "Poor", "Average", "Good", "Excellent"],
-                    value="Average",
-                    key="home_form"
-                )
             st.markdown('</div>', unsafe_allow_html=True)
         
         with col2:
@@ -629,12 +610,6 @@ def main():
                 # Create formation layout for away team
                 create_formation_layout(away_team, away_formation, away_players_list, "away")
                 
-                away_form = st.select_slider(
-                    f"{away_team} Recent Form",
-                    options=["Terrible", "Poor", "Average", "Good", "Excellent"],
-                    value="Average",
-                    key="away_form"
-                )
             st.markdown('</div>', unsafe_allow_html=True)
         
         # Additional match details
@@ -752,146 +727,5 @@ def main():
             
             st.markdown('</div>', unsafe_allow_html=True)
     
-    elif menu_option == "Historical Predictions":
-        st.markdown("## 📜 Historical Predictions")
-        st.info("Historical predictions feature would require database integration.")
-        
-        # Create sample data
-        sample_data = pd.DataFrame({
-            'Date': pd.date_range(start='2024-01-01', periods=10, freq='D'),
-            'Home Team': ['Arsenal', 'Liverpool', 'Chelsea', 'Man United', 'Man City'] * 2,
-            'Away Team': ['Tottenham', 'Everton', 'West Ham', 'Newcastle', 'Aston Villa'] * 2,
-            'Prediction': ['Home Win', 'Draw', 'Away Win', 'Home Win', 'Draw'] * 2,
-            'Accuracy': ['✓', '✓', '✗', '✓', '✓'] * 2
-        })
-        
-        st.dataframe(sample_data, use_container_width=True)
-    
-    elif menu_option == "Team Statistics":
-        st.markdown("## 📊 Team Statistics")
-        
-        selected_team = st.selectbox(
-            "Select a team to view statistics",
-            premier_league_data["teams"]
-        )
-        
-        if selected_team:
-            st.markdown(f"### {selected_team} Overview")
-            st.write(f"**Available Players:**")
-            players = premier_league_data["players"].get(selected_team, ["No data available"])
-            for player in players:
-                st.write(f"• {player}")
-            
-            # Show formation options
-            st.markdown(f"**Common Formations for {selected_team}:**")
-            for formation_name, formation_data in formations.items():
-                st.write(f"• {formation_name}: {formation_data['defenders']}-{formation_data['midfielders']}-{formation_data['forwards']}")
-    
-    elif menu_option == "ML Data Export":
-        st.markdown("## 📤 ML Data Export")
-        st.info("Export lineup data for ML model training")
-        
-        col1, col2 = st.columns(2)
-        
-        with col1:
-            st.markdown("### Home Team Data")
-            home_team = st.selectbox(
-                "Select Home Team for export",
-                premier_league_data["teams"],
-                key="export_home"
-            )
-            
-            if home_team:
-                home_formation = st.selectbox(
-                    "Select Formation",
-                    list(formations.keys()),
-                    key="export_home_formation"
-                )
-                
-                # Get home lineup data
-                home_lineup_data = get_lineup_data("home", home_formation)
-                if home_lineup_data:
-                    st.markdown("**Home Lineup Data:**")
-                    st.code(json.dumps(home_lineup_data, indent=2), language='json')
-                    
-                    # Download button
-                    home_json = json.dumps(home_lineup_data, indent=2)
-                    st.download_button(
-                        label="Download Home Lineup JSON",
-                        data=home_json,
-                        file_name=f"{home_team}_lineup_{home_formation}.json",
-                        mime="application/json"
-                    )
-        
-        with col2:
-            st.markdown("### Away Team Data")
-            away_team = st.selectbox(
-                "Select Away Team for export",
-                [team for team in premier_league_data["teams"] if team != home_team],
-                key="export_away"
-            )
-            
-            if away_team:
-                away_formation = st.selectbox(
-                    "Select Formation",
-                    list(formations.keys()),
-                    key="export_away_formation"
-                )
-                
-                # Get away lineup data
-                away_lineup_data = get_lineup_data("away", away_formation)
-                if away_lineup_data:
-                    st.markdown("**Away Lineup Data:**")
-                    st.code(json.dumps(away_lineup_data, indent=2), language='json')
-                    
-                    # Download button
-                    away_json = json.dumps(away_lineup_data, indent=2)
-                    st.download_button(
-                        label="Download Away Lineup JSON",
-                        data=away_json,
-                        file_name=f"{away_team}_lineup_{away_formation}.json",
-                        mime="application/json"
-                    )
-        
-        # Export combined match data
-        st.markdown("---")
-        st.markdown("### Combined Match Data Export")
-        
-        if st.button("Generate Complete Match Data"):
-            home_lineup_data = get_lineup_data("home", home_formation)
-            away_lineup_data = get_lineup_data("away", away_formation)
-            
-            if home_lineup_data and away_lineup_data:
-                # Create complete match data
-                match_data = {
-                    "match_info": {
-                        "home_team": home_team,
-                        "away_team": away_team,
-                        "venue": venue,
-                        "date": str(date.today())
-                    },
-                    "home_lineup": home_lineup_data,
-                    "away_lineup": away_lineup_data,
-                    "ml_features": create_ml_features(
-                        home_lineup_data, away_lineup_data,
-                        home_team, away_team,
-                        venue, "Average", "Average"  # Default forms
-                    )
-                }
-                
-                st.markdown("**Complete Match Data:**")
-                st.code(json.dumps(match_data, indent=2), language='json')
-                
-                # Download button
-                match_json = json.dumps(match_data, indent=2)
-                st.download_button(
-                    label="Download Complete Match Data",
-                    data=match_json,
-                    file_name=f"match_data_{home_team}_vs_{away_team}.json",
-                    mime="application/json"
-                )
-            else:
-                st.warning("Please select players in both lineups to generate complete match data.")
-
 if __name__ == "__main__":
     main()
