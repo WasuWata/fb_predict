@@ -13,11 +13,7 @@ with tempfile.NamedTemporaryFile(mode='w', suffix='.json', delete=False) as tmp:
             tmp.write(response.text)
             tmp_path = tmp.name
 
-model = xgb.XGBClassifier(
-    n_estimators=100,
-    max_depth=6,
-    learning_rate=0.3
-)
+model = xgb.XGBClassifier()
 model.load_model(tmp_path)
 
 # Premier league data
