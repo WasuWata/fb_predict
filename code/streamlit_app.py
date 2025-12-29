@@ -3,6 +3,17 @@ import pandas as pd
 import numpy as np
 from datetime import date
 import json
+import requests
+import tempfile
+import xgboost as xgb
+
+# ML Model
+response = requests.get('https://raw.githubusercontent.com/WasuWata/fb_predict/main/code/model/model.json')
+with tempfile.NamedTemporaryFile(mode='w', suffix='.json', delete=False) as tmp:
+            tmp.write(response.text)
+            tmp_path = tmp.name
+model = xgb.XGBClassifier()
+model.load_model(tmp_path)
 
 # Premier league data
 url = 'https://raw.githubusercontent.com/WasuWata/fb_predict/main/code/source/summary.csv'
@@ -558,7 +569,7 @@ def main():
         )
         st.markdown("---")
         st.markdown("### ℹ️ About")
-        st.info("App for predicting the Premier League's match outcome, based on player performance")
+        st.info("App for predicting the Premier League's match outcome, based on player performance. (Using the data from 2017-Now)")
     
     if menu_option == "Match Prediction":
         # Main content - Match prediction form
