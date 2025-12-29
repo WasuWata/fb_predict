@@ -21,6 +21,7 @@ model = xgb.XGBClassifier(
     num_class=3,
     random_state=42
 )
+model._estimator_type = 'classifier'
 model.load_model(tmp_path)
 
 # Premier league data
