@@ -12,7 +12,12 @@ response = requests.get('https://raw.githubusercontent.com/WasuWata/fb_predict/m
 with tempfile.NamedTemporaryFile(mode='w', suffix='.json', delete=False) as tmp:
             tmp.write(response.text)
             tmp_path = tmp.name
-model = xgb.XGBClassifier()
+
+model = xgb.XGBClassifier(
+    n_estimators=100,
+    max_depth=6,
+    learning_rate=0.3
+)
 model.load_model(tmp_path)
 
 # Premier league data
