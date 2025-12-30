@@ -344,7 +344,7 @@ def create_ml_features(home_lineup_data, away_lineup_data, home_team, away_team,
             "home_striker_count": home_lineup_data["count_by_position"].get("ST", 0),
             
             # Player count
-            "home_player_count": len(home_lineup_data["players"]),
+            "home_player_count": len(home_lineup_data["Unnamed: 0_level_0_Player"]),
         })
     
     if away_lineup_data:
@@ -364,7 +364,7 @@ def create_ml_features(home_lineup_data, away_lineup_data, home_team, away_team,
             "away_striker_count": away_lineup_data["count_by_position"].get("ST", 0),
             
             # Player count
-            "away_player_count": len(away_lineup_data["players"]),
+            "away_player_count": len(away_lineup_data["Unnamed: 0_level_0_Player"]),
         })
     
     # Calculate differences for comparative features
@@ -441,24 +441,17 @@ def create_formation_layout(team_name, formation_name, team_players, key_prefix)
     # Display data preview for debugging/verification
     with st.expander(f"View {team_name} Lineup Data (for ML model)"):
         lineup_data = get_lineup_data(key_prefix)
-        if lineup_data and len(lineup_data["players"]) > 0:
+        if lineup_data and len(lineup_data["Unnamed: 0_level_0_Player"]) > 0:
             st.markdown("**Structured Lineup Data:**")
             st.markdown('<div class="data-preview">', unsafe_allow_html=True)
             
             # Display player-position mapping
             st.write("Player-Position Mapping:")
-            for i, (player, position) in enumerate(zip(lineup_data["players"], lineup_data["positions"])):
+            for i, (player, position) in enumerate(zip(lineup_data["Unnamed: 0_level_0_Player"], lineup_data["Unnamed: 3_level_0_Pos"])):
                 st.write(f"  {i+1}. {position}: {player}")
+
             
-            st.write("\nPosition Counts:")
-            for position, count in lineup_data["count_by_position"].items():
-                st.write(f"  {position}: {count}")
-            
-            st.write("\nCategory Counts:")
-            for category, count in lineup_data["count_by_category"].items():
-                st.write(f"  {category}: {count}")
-            
-            st.write(f"\nTotal Players Selected: {len(lineup_data['players'])}")
+            st.write(f"\nTotal Players Selected: {len(lineup_data['Unnamed: 0_level_0_Player'])}")
             st.markdown('</div>', unsafe_allow_html=True)
             
             # Show JSON format (for API/ML model)
@@ -667,13 +660,13 @@ def main():
             with col_formation1:
                 st.markdown(f"**{home_team} Formation:** {home_formation}")
                 if home_lineup_data:
-                    for player, position in zip(home_lineup_data["players"], home_lineup_data["positions"]):
+                    for player, position in zip(home_lineup_data["Unnamed: 0_level_0_Player"], home_lineup_data["Unnamed: 3_level_0_Pos"]):
                         st.write(f"• {position}: {player}")
             
             with col_formation2:
                 st.markdown(f"**{away_team} Formation:** {away_formation}")
                 if away_lineup_data:
-                    for player, position in zip(away_lineup_data["players"], away_lineup_data["positions"]):
+                    for player, position in zip(away_lineup_data["Unnamed: 0_level_0_Player"], away_lineup_data["Unnamed: 3_level_0_Pos"]):
                         st.write(f"• {position}: {player}")
             
             st.markdown("---")
