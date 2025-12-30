@@ -90,37 +90,37 @@ formations = {
         "defenders": 4,
         "midfielders": 4,
         "forwards": 2,
-        "positions": ["GK", "LB", "CB", "CB", "RB", "LM", "CM", "CM", "RM", "ST", "ST"]
+        "positions": ["GK", "LB", "CB", "CB", "RB", "LM", "CM", "CM", "RM", "FW", "FW"]
     },
     "4-3-3": {
         "defenders": 4,
         "midfielders": 3,
         "forwards": 3,
-        "positions": ["GK", "LB", "CB", "CB", "RB", "CM", "CM", "CM", "LW", "ST", "RW"]
+        "positions": ["GK", "LB", "CB", "CB", "RB", "CM", "CM", "CM", "LW", "FW", "RW"]
     },
     "3-4-3": {
         "defenders": 3,
         "midfielders": 4,
         "forwards": 3,
-        "positions": ["GK", "CB", "CB", "CB", "LB", "CM", "CM", "WB", "LW", "ST", "RW"]
+        "positions": ["GK", "CB", "CB", "CB", "LB", "CM", "CM", "WB", "LW", "FW", "RW"]
     },
     "4-2-3-1": {
         "defenders": 4,
         "midfielders": 5,
         "forwards": 1,
-        "positions": ["GK", "LB", "CB", "CB", "RB", "CM", "CM", "CM", "LW", "RW", "ST"]
+        "positions": ["GK", "LB", "CB", "CB", "RB", "CM", "CM", "CM", "LW", "RW", "FW"]
     },
     "3-5-2": {
         "defenders": 3,
         "midfielders": 5,
         "forwards": 2,
-        "positions": ["GK", "CB", "CB", "CB", "WB", "CM", "CM", "CM", "WB", "ST", "ST"]
+        "positions": ["GK", "CB", "CB", "CB", "WB", "CM", "CM", "CM", "WB", "FW", "FW"]
     },
     "5-3-2": {
         "defenders": 5,
         "midfielders": 3,
         "forwards": 2,
-        "positions": ["GK", "WB", "CB", "CB", "CB", "WB", "CM", "CM", "CM", "ST", "ST"]
+        "positions": ["GK", "WB", "CB", "CB", "CB", "WB", "CM", "CM", "CM", "FW", "FW"]
     }
 }
 # Position categories for ML features
@@ -128,7 +128,7 @@ position_categories = {
     "GK": "goalkeeper",
     "LB": "defender", "RB": "defender", "CB": "defender", "LWB": "defender", "RWB": "defender",
     "LM": "midfielder", "RM": "midfielder", "CM": "midfielder", "CDM": "midfielder", "CAM": "midfielder",
-    "LW": "forward", "RW": "forward", "ST": "forward"
+    "LW": "forward", "RW": "forward", "FW": "forward"
 }
 
 # Set page configuration
@@ -233,10 +233,19 @@ def extract_team_features(df, is_home = True): # Done (maybe)
     team_df = []
     for i in range(len(df)):
         player_df = data[(data['Unnamed: 0_level_0_Player'] == df['Unnamed: 0_level_0_Player'][i]) & (data['Unnamed: 3_level_0_Pos'] == df['Unnamed: 3_level_0_Pos'][i])].iloc[-3:,:]
+        player_position = player_df['Unnamed: 3_level_0_Pos'].iloc[0] if not player_df.empty else None
+        player_df_average['Unnamed: 3_level_0_Pos'] = player_position
         player_df_average = player_df.groupby('Unnamed: 0_level_0_Player').mean(numeric_only = True)
         player_df_average['Team_Team'] = player_df['Team_Team'].unique()[-1]
         team_df.append(player_df_average)
     team_df = pd.concat(team_df)
+
+    team_df['Performance.4_Sh'] = team_df['Performance.4_Sh'].astype('float32')*90/team_df['Unnamed: 5_level_0_Min']
+    team_df['Performance.5_SoT'] = team_df['Performance.5_SoT'].astype('float32')*90/team_df['Unnamed: 5_level_0_Min']
+    team_df['SCA_SCA'] = team_df['SCA_SCA'].astype('float32')*90/team_df['Unnamed: 5_level_0_Min']
+    team_df['Performance.9_Tkl'] = team_df['Performance.9_Tkl'].astype('float32')*90/team_df['Unnamed: 5_level_0_Min']
+    team_df['Performance.10_Int'] = team_df['Performance.10_Int'].astype('float32')*90/team_df['Unnamed: 5_level_0_Min']
+    team_df['Performance.11_Blocks'] = team_df['Performance.11_Blocks'].astype('float32')*90/team_df['Unnamed: 5_level_0_Min']
 
     features = {}
     features['avg_minutes'] = team_df['Unnamed: 5_level_0_Min'].astype('float32').mean()
