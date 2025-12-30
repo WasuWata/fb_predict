@@ -6,6 +6,8 @@ import json
 import requests
 import tempfile
 import xgboost as xgb
+import joblib
+from io import BytesIO
 
 # ML Model
 response = requests.get('https://raw.githubusercontent.com/WasuWata/fb_predict/main/code/model/model.json')
@@ -24,6 +26,11 @@ model = xgb.XGBClassifier(
 model._estimator_type = 'classifier'
 model.load_model(tmp_path)
 
+# Scaler
+scaler_url = 'https://raw.githubusercontent.com/WasuWata/fb_predict/main/code/scaler/scaler.pkl'
+response = requests.get(scaler_url)
+scaler = joblib.load(BytesIO(response.content))
+
 # Premier league data
 url = 'https://raw.githubusercontent.com/WasuWata/fb_predict/main/code/source/summary.csv'
 data = pd.read_csv(url)
@@ -39,44 +46,44 @@ premier_league_data['players'] = player_dict
 premier_league_data['venues'] = ['Home','Away','Neutral']
 
 # Common football formations with positions
-formations = {
-    "4-4-2": {
-        "defenders": 4,
-        "midfielders": 4,
-        "forwards": 2,
-        "positions": ["GK", "LB", "CB", "CB", "RB", "LM", "CM", "CM", "RM", "ST", "ST"]
-    },
-    "4-3-3": {
-        "defenders": 4,
-        "midfielders": 3,
-        "forwards": 3,
-        "positions": ["GK", "LB", "CB", "CB", "RB", "CM", "CM", "CM", "LW", "ST", "RW"]
-    },
-    "3-4-3": {
-        "defenders": 3,
-        "midfielders": 4,
-        "forwards": 3,
-        "positions": ["GK", "CB", "CB", "CB", "LWB", "CM", "CM", "RWB", "LW", "ST", "RW"]
-    },
-    "4-2-3-1": {
-        "defenders": 4,
-        "midfielders": 5,
-        "forwards": 1,
-        "positions": ["GK", "LB", "CB", "CB", "RB", "CDM", "CDM", "CAM", "LW", "RW", "ST"]
-    },
-    "3-5-2": {
-        "defenders": 3,
-        "midfielders": 5,
-        "forwards": 2,
-        "positions": ["GK", "CB", "CB", "CB", "LWB", "CM", "CM", "CM", "RWB", "ST", "ST"]
-    },
-    "5-3-2": {
-        "defenders": 5,
-        "midfielders": 3,
-        "forwards": 2,
-        "positions": ["GK", "LWB", "CB", "CB", "CB", "RWB", "CM", "CM", "CM", "ST", "ST"]
-    }
-}
+# formations = {
+#     "4-4-2": {
+#         "defenders": 4,
+#         "midfielders": 4,
+#         "forwards": 2,
+#         "positions": ["GK", "LB", "CB", "CB", "RB", "LM", "CM", "CM", "RM", "ST", "ST"]
+#     },
+#     "4-3-3": {
+#         "defenders": 4,
+#         "midfielders": 3,
+#         "forwards": 3,
+#         "positions": ["GK", "LB", "CB", "CB", "RB", "CM", "CM", "CM", "LW", "ST", "RW"]
+#     },
+#     "3-4-3": {
+#         "defenders": 3,
+#         "midfielders": 4,
+#         "forwards": 3,
+#         "positions": ["GK", "CB", "CB", "CB", "LWB", "CM", "CM", "RWB", "LW", "ST", "RW"]
+#     },
+#     "4-2-3-1": {
+#         "defenders": 4,
+#         "midfielders": 5,
+#         "forwards": 1,
+#         "positions": ["GK", "LB", "CB", "CB", "RB", "CDM", "CDM", "CAM", "LW", "RW", "ST"]
+#     },
+#     "3-5-2": {
+#         "defenders": 3,
+#         "midfielders": 5,
+#         "forwards": 2,
+#         "positions": ["GK", "CB", "CB", "CB", "LWB", "CM", "CM", "CM", "RWB", "ST", "ST"]
+#     },
+#     "5-3-2": {
+#         "defenders": 5,
+#         "midfielders": 3,
+#         "forwards": 2,
+#         "positions": ["GK", "LWB", "CB", "CB", "CB", "RWB", "CM", "CM", "CM", "ST", "ST"]
+#     }
+# }
 
 formations = {
     "4-4-2": {
@@ -198,7 +205,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-def get_lineup_data(key_prefix, formation_name): # Done (maybe)
+def get_lineup_data(key_prefix): # Done (maybe)
     """Extract and structure lineup data for ML model input"""
     if f'{key_prefix}_lineup' not in st.session_state:
         return None
@@ -224,14 +231,13 @@ def get_lineup_data(key_prefix, formation_name): # Done (maybe)
 
 def extract_team_features(df, is_home = True): # Done (maybe)
     team_df = []
-    for player in df['Unnamed: 0_level_0_Player']:
-        player_df = data[data['Unnamed: 0_level_0_Player'] == player].iloc[-3:,:]
+    for i in range(len(df)):
+        player_df = data[(data['Unnamed: 0_level_0_Player'] == df['Unnamed: 0_level_0_Player'][i]) & (data['Unnamed: 3_level_0_Pos'] == df['Unnamed: 3_level_0_Pos'][i])].iloc[-3:,:]
         player_df_average = player_df.groupby('Unnamed: 0_level_0_Player').mean(numeric_only = True)
         player_df_average['Team_Team'] = player_df['Team_Team'].unique()[-1]
-        player_df_average['Unnamed: 3_level_0_Pos'] = player_df['Unnamed: 3_level_0_Pos'].unique()[-1]
         team_df.append(player_df_average)
     team_df = pd.concat(team_df)
-    
+
     features = {}
     features['avg_minutes'] = team_df['Unnamed: 5_level_0_Min'].astype('float32').mean()
     # Shooting
@@ -275,7 +281,7 @@ def extract_team_features(df, is_home = True): # Done (maybe)
 
     return features
 
-def process_match_file(home_df, away_df):
+def process_match_file(home_df, away_df): # Done (maybe)
     home_data = home_df
     away_data = away_df
     home_features = extract_team_features(home_data, is_home = True)
@@ -371,7 +377,7 @@ def create_ml_features(home_lineup_data, away_lineup_data, home_team, away_team,
     
     return features
 
-def create_formation_layout(team_name, formation_name, team_players, key_prefix):
+def create_formation_layout(team_name, formation_name, team_players, key_prefix): # Done
     """Create a visual formation layout for team selection"""
     
     formation = formations[formation_name]
@@ -529,145 +535,23 @@ def create_position_box(position, team_name, team_players, key_prefix, unique_ke
         if selected_player != st.session_state[f'{key_prefix}_lineup'].get(unique_key):
             st.session_state[f'{key_prefix}_lineup'][unique_key] = selected_player
 
-def predict_match(home_team, away_team, home_lineup_data, away_lineup_data, venue, form, use_ml=False):
+def predict_match():
     """Prediction function that can use either simple heuristic or ML model"""
-    
-    if use_ml and home_lineup_data and away_lineup_data:
-        # This is where you would call your ML model
-        # For now, we'll use a more sophisticated heuristic based on lineup data
-        return predict_with_lineup_data(home_team, away_team, home_lineup_data, away_lineup_data, venue, form)
-    else:
-        # Fall back to simple heuristic
-        return simple_predict(home_team, away_team, home_lineup_data, away_lineup_data, venue, form) # WILL NOT USE IT
+    return predict_with_lineup_data()
 
-def simple_predict(home_team, away_team, home_lineup_data, away_lineup_data, venue, form): # WILL NOT USE IT
-    """Simple prediction function"""
-    np.random.seed(hash(home_team + away_team) % 10000)
-    
-    home_base = np.random.randint(60, 90)
-    away_base = np.random.randint(60, 90)
-    
-    # Venue advantage
-    if venue == "Home":
-        home_base += 10
-    elif venue == "Away":
-        away_base += 5
-    
-    # Form factor
-    form_bonus = {"Excellent": 10, "Good": 5, "Average": 0, "Poor": -5, "Terrible": -10}
-    home_base += form_bonus.get(form['home'], 0)
-    away_base += form_bonus.get(form['away'], 0)
-    
-    # Calculate probabilities
-    total = home_base + away_base + 30
-    home_win_prob = home_base / total * 100
-    away_win_prob = away_base / total * 100
-    draw_prob = 100 - home_win_prob - away_win_prob
-    
-    # Determine winner
-    if home_win_prob > away_win_prob and home_win_prob > 35:
-        winner = home_team
-        confidence = home_win_prob
-    elif away_win_prob > home_win_prob and away_win_prob > 35:
-        winner = away_team
-        confidence = away_win_prob
-    else:
-        winner = "Draw"
-        confidence = draw_prob
-    
-    return {
-        'home_win_prob': round(home_win_prob, 1),
-        'away_win_prob': round(away_win_prob, 1),
-        'draw_prob': round(draw_prob, 1),
-        'predicted_winner': winner,
-        'confidence': round(confidence, 1),
-        'method': 'heuristic'
-    }
-
-def predict_with_lineup_data(home_team, away_team, home_lineup_data, away_lineup_data, venue, form): # Need to be changed
+def predict_with_lineup_data(): # Need to be changed
     """More sophisticated prediction using lineup data"""
-    
-    # Start with base scores
-    home_score = 50
-    away_score = 50
-    
-    # Venue advantage
-    venue_bonus = {"Home": 15, "Away": 5, "Neutral": 0}
-    home_score += venue_bonus.get(venue, 0)
-    
-    # Form factor
-    form_value = {"Excellent": 20, "Good": 10, "Average": 0, "Poor": -10, "Terrible": -20}
-    home_score += form_value.get(form['home'], 0)
-    away_score += form_value.get(form['away'], 0)
-    
-    # Analyze formations (certain formations counter others)
-    formation_matchup = {
-        ("4-4-2", "4-3-3"): 5,  # 4-3-3 generally counters 4-4-2
-        ("3-5-2", "4-4-2"): 10, # 3-5-2 overloads midfield against 4-4-2
-        ("4-2-3-1", "4-3-3"): -5, # 4-3-3 presses high against 4-2-3-1
-    }
-    
-    matchup_key = (home_lineup_data["formation"], away_lineup_data["formation"])
-    if matchup_key in formation_matchup:
-        home_score += formation_matchup[matchup_key]
-    elif (matchup_key[1], matchup_key[0]) in formation_matchup:
-        away_score += formation_matchup[(matchup_key[1], matchup_key[0])]
-    
-    # Defensive strength bonus
-    home_def_count = home_lineup_data["count_by_category"].get("defender", 0)
-    away_def_count = away_lineup_data["count_by_category"].get("defender", 0)
-    
-    if home_def_count >= 4:
-        home_score += 5
-    if away_def_count >= 4:
-        away_score += 5
-    
-    # Attacking strength bonus
-    home_fwd_count = home_lineup_data["count_by_category"].get("forward", 0)
-    away_fwd_count = away_lineup_data["count_by_category"].get("forward", 0)
-    
-    if home_fwd_count >= 3:
-        home_score += 8
-    elif home_fwd_count == 2:
-        home_score += 5
-    
-    if away_fwd_count >= 3:
-        away_score += 8
-    elif away_fwd_count == 2:
-        away_score += 5
-    
-    # Midfield control bonus
-    home_mid_count = home_lineup_data["count_by_category"].get("midfielder", 0)
-    away_mid_count = away_lineup_data["count_by_category"].get("midfielder", 0)
-    
-    if home_mid_count > away_mid_count:
-        home_score += (home_mid_count - away_mid_count) * 3
-    
-    # Calculate final probabilities
-    total = home_score + away_score + 40  # Extra for draw possibility
-    home_win_prob = home_score / total * 100
-    away_win_prob = away_score / total * 100
-    draw_prob = 100 - home_win_prob - away_win_prob
-    
-    # Determine winner
-    if home_win_prob > away_win_prob and home_win_prob > 40:
-        winner = home_team
-        confidence = home_win_prob
-    elif away_win_prob > home_win_prob and away_win_prob > 40:
-        winner = away_team
-        confidence = away_win_prob
-    else:
-        winner = "Draw"
-        confidence = draw_prob
-    
+    home_df = get_lineup_data('home')
+    away_df = get_lineup_data('away')
+    X = process_match_file(home_df,away_df)
+    X = pd.DataFrame([X])
+    X_scaled = scaler.transform(X)
+    match_result = model.predict(X_scaled)
+    prob = model.predict_proba(X_scaled)
     return {
-        'home_win_prob': round(home_win_prob, 1),
-        'away_win_prob': round(away_win_prob, 1),
-        'draw_prob': round(draw_prob, 1),
-        'predicted_winner': winner,
-        'confidence': round(confidence, 1),
-        'method': 'lineup_analysis',
-        'features': create_ml_features(home_lineup_data, away_lineup_data, home_team, away_team, venue, form['home'], form['away'])
+        'home_win_prob': round(prob[0][0], 1),
+        'away_win_prob': round(prob[0][2], 1),
+        'draw_prob': round(prob[0][1], 1),
     }
 
 def main():
@@ -769,13 +653,7 @@ def main():
             away_lineup_data = get_lineup_data("away", away_formation)
             
             # Get prediction
-            form_data = {'home': home_form, 'away': away_form}
-            prediction = predict_match(
-                home_team, away_team, 
-                home_lineup_data, away_lineup_data, 
-                venue, form_data, 
-                use_ml=use_ml_prediction
-            )
+            prediction = predict_match()
             
             # Display prediction results
             st.markdown('<div class="prediction-card">', unsafe_allow_html=True)
@@ -833,23 +711,6 @@ def main():
                 ]
             })
             st.bar_chart(prob_data.set_index('Outcome'))
-            
-            # Show ML features if requested
-            if show_ml_features and 'features' in prediction:
-                with st.expander("View ML Features Used"):
-                    st.markdown('<div class="data-preview">', unsafe_allow_html=True)
-                    for key, value in prediction['features'].items():
-                        st.write(f"{key}: {value}")
-                    st.markdown('</div>', unsafe_allow_html=True)
-                    
-                    # Download features as JSON
-                    features_json = json.dumps(prediction['features'], indent=2)
-                    st.download_button(
-                        label="Download Features as JSON",
-                        data=features_json,
-                        file_name=f"match_features_{home_team}_vs_{away_team}.json",
-                        mime="application/json"
-                    )
             
             st.markdown('</div>', unsafe_allow_html=True)
     
