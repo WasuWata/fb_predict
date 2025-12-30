@@ -509,7 +509,7 @@ def create_position_box(position, team_name, team_players, key_prefix, unique_ke
     
     # Create a container for centered content
     container = st.container()
-    
+    widget_key = f"{key_prefix}_{unique_key}"
     with container:
         # Position box
         st.markdown(f"""
@@ -532,10 +532,14 @@ def create_position_box(position, team_name, team_players, key_prefix, unique_ke
             key=f"{key_prefix}_{unique_key}",
             label_visibility="collapsed"
         )
-        
-        # Update session state
-        if selected_player != st.session_state[f'{key_prefix}_lineup'].get(unique_key):
-            st.session_state[f'{key_prefix}_lineup'][unique_key] = selected_player
+        if f'{key_prefix}_lineup' not in st.session_state:
+            st.session_state[f'{key_prefix}_lineup'] = {}
+    
+        # Update the dictionary with the widget's value
+        st.session_state[f'{key_prefix}_lineup'][unique_key] = selected_player
+        # # Update session state
+        # if selected_player != st.session_state[f'{key_prefix}_lineup'].get(unique_key):
+        #     st.session_state[f'{key_prefix}_lineup'][unique_key] = selected_player
 
 def predict_match():
     """Prediction function that can use either simple heuristic or ML model"""
@@ -681,22 +685,15 @@ def main():
             st.markdown("---")
             
             # Winner prediction
-            col_a, col_b, col_c = st.columns(3)
-            
+            col_a, col_b= st.columns(2)
+
             with col_a:
-                st.metric(
-                    label=f"🏆 Predicted Winner",
-                    value=prediction['predicted_winner'],
-                    delta=f"{prediction['confidence']}% confidence"
-                )
-            
-            with col_b:
                 st.metric(
                     label=f"📈 {home_team} Win Probability",
                     value=f"{prediction['home_win_prob']}%"
                 )
             
-            with col_c:
+            with col_b:
                 st.metric(
                     label=f"📈 {away_team} Win Probability",
                     value=f"{prediction['away_win_prob']}%"
