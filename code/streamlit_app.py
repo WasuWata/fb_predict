@@ -642,8 +642,8 @@ def main():
         
         if predict_button:
             # Get lineup data for ML model
-            home_lineup_data = get_lineup_data("home", home_formation)
-            away_lineup_data = get_lineup_data("away", away_formation)
+            home_lineup_data = get_lineup_data("home")
+            away_lineup_data = get_lineup_data("away")
             
             # Get prediction
             prediction = predict_match()
