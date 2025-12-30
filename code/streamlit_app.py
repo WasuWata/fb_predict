@@ -440,7 +440,7 @@ def create_formation_layout(team_name, formation_name, team_players, key_prefix)
     
     # Display data preview for debugging/verification
     with st.expander(f"View {team_name} Lineup Data (for ML model)"):
-        lineup_data = get_lineup_data(key_prefix, formation_name)
+        lineup_data = get_lineup_data(key_prefix)
         if lineup_data and len(lineup_data["players"]) > 0:
             st.markdown("**Structured Lineup Data:**")
             st.markdown('<div class="data-preview">', unsafe_allow_html=True)
