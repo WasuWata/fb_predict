@@ -78,6 +78,44 @@ formations = {
     }
 }
 
+formations = {
+    "4-4-2": {
+        "defenders": 4,
+        "midfielders": 4,
+        "forwards": 2,
+        "positions": ["GK", "LB", "CB", "CB", "RB", "LM", "CM", "CM", "RM", "ST", "ST"]
+    },
+    "4-3-3": {
+        "defenders": 4,
+        "midfielders": 3,
+        "forwards": 3,
+        "positions": ["GK", "LB", "CB", "CB", "RB", "CM", "CM", "CM", "LW", "ST", "RW"]
+    },
+    "3-4-3": {
+        "defenders": 3,
+        "midfielders": 4,
+        "forwards": 3,
+        "positions": ["GK", "CB", "CB", "CB", "LB", "CM", "CM", "WB", "LW", "ST", "RW"]
+    },
+    "4-2-3-1": {
+        "defenders": 4,
+        "midfielders": 5,
+        "forwards": 1,
+        "positions": ["GK", "LB", "CB", "CB", "RB", "CM", "CM", "CM", "LW", "RW", "ST"]
+    },
+    "3-5-2": {
+        "defenders": 3,
+        "midfielders": 5,
+        "forwards": 2,
+        "positions": ["GK", "CB", "CB", "CB", "WB", "CM", "CM", "CM", "WB", "ST", "ST"]
+    },
+    "5-3-2": {
+        "defenders": 5,
+        "midfielders": 3,
+        "forwards": 2,
+        "positions": ["GK", "WB", "CB", "CB", "CB", "WB", "CM", "CM", "CM", "ST", "ST"]
+    }
+}
 # Position categories for ML features
 position_categories = {
     "GK": "goalkeeper",
@@ -160,22 +198,18 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-def get_lineup_data(key_prefix, formation_name):
+def get_lineup_data(key_prefix, formation_name): # Done (maybe)
     """Extract and structure lineup data for ML model input"""
     if f'{key_prefix}_lineup' not in st.session_state:
         return None
     
     lineup_dict = st.session_state.get(f'{key_prefix}_lineup', {})
-    formation_positions = formations[formation_name]["positions"]
+    # formation_positions = formations[formation_name]["positions"]
     
     # Create structured lineup data
     lineup_data = {
-        "formation": formation_name,
-        "players": [],
-        "positions": [],
-        "position_categories": [],
-        "count_by_position": {},
-        "count_by_category": {}
+        "Unnamed: 0_level_0_Player": [],
+        "Unnamed: 3_level_0_Pos": []
     }
     
     # Extract player-position pairs
@@ -183,11 +217,83 @@ def get_lineup_data(key_prefix, formation_name):
         if player_name:  # Only include selected players
             # Extract base position (remove suffix like "_1", "_2")
             base_position = unique_key.split('_')[0]
-            lineup_data["players"].append(player_name)
-            lineup_data["positions"].append(base_position)
-            lineup_data["position_categories"].append(position_categories.get(base_position, "unknown"))
+            lineup_data["Unnamed: 0_level_0_Player"].append(player_name)
+            lineup_data["Unnamed: 3_level_0_Pos"].append(base_position)
     
     return lineup_data
+
+def extract_team_features(df, is_home = True): # Done (maybe)
+    team_df = []
+    for player in df['Unnamed: 0_level_0_Player']:
+        player_df = data[data['Unnamed: 0_level_0_Player'] == player].iloc[-3:,:]
+        player_df_average = player_df.groupby('Unnamed: 0_level_0_Player').mean(numeric_only = True)
+        player_df_average['Team_Team'] = player_df['Team_Team'].unique()[-1]
+        player_df_average['Unnamed: 3_level_0_Pos'] = player_df['Unnamed: 3_level_0_Pos'].unique()[-1]
+        team_df.append(player_df_average)
+    team_df = pd.concat(team_df)
+    
+    features = {}
+    features['avg_minutes'] = team_df['Unnamed: 5_level_0_Min'].astype('float32').mean()
+    # Shooting
+    features['total_shots'] = team_df['Performance.4_Sh'].astype('float32').sum()
+    features['shots_on_target'] = team_df['Performance.5_SoT'].astype('float32').sum()
+    features['xG'] = team_df['Expected_xG'].astype('float32').sum()
+    features['xAG'] = team_df['Expected.2_xAG'].astype('float32').sum()
+    # Passing
+    features['key_passes'] = team_df['SCA_SCA'].astype('float32').sum() # Shot creating action
+    features['pass_completion'] = team_df['Passes_Cmp'].astype('float32').sum()/team_df['Passes.1_Att'].astype('float32').sum()*100
+
+    # Defensive
+    features['tackles'] = team_df['Performance.9_Tkl'].astype('float32').sum()
+    features['interception'] = team_df['Performance.10_Int'].astype('float32').sum()
+    features['blocks'] = team_df['Performance.11_Blocks'].astype('float32').sum()
+
+    # Cards
+    features['yellow_cards'] = team_df['Performance.6_CrdY'].astype('float32').sum()
+    features['red_cards'] = team_df['Performance.7_CrdR'].astype('float32').sum()
+
+    # Position-specific
+    positions = team_df['Unnamed: 3_level_0_Pos'].astype(str)
+
+    # Attackers (FW, LW, RW, ST)
+    attackers = team_df[positions.str.contains('FW|LW|RW|ST|AM')]
+
+    if len(attackers) > 0:
+        features['attackers_xG'] = attackers['Expected_xG'].astype('float32').sum()
+        features['attackers_shots'] = attackers['Performance.4_Sh'].astype('float32').sum()
+
+    midfielders = team_df[positions.str.contains('CM|DM|LM|RM|AM')]
+    
+    if len(midfielders) > 0:
+        features['midfielders_passes'] = midfielders['Passes_Cmp'].astype('float32').sum()/midfielders['Passes.1_Att'].astype('float32').sum()*100
+
+    defenders = team_df[positions.str.contains('CB|RB|LB|WB|DF')]
+
+    if len(defenders) > 0:
+        features['defenders_tackles'] = defenders['Performance.9_Tkl'].astype('float32').sum()
+        features['defenders_blocks'] = defenders['Performance.11_Blocks'].astype('float32').sum()
+
+    return features
+
+def process_match_file(home_df, away_df):
+    home_data = home_df
+    away_data = away_df
+    home_features = extract_team_features(home_data, is_home = True)
+    away_features = extract_team_features(away_data, is_home = False)
+
+    match_features = {}
+    for key, value in home_features.items():
+        match_features[f'home_{key}'] = value
+
+    for key, value in away_features.items():
+        match_features[f'away_{key}'] = value
+
+    for key in home_features.keys():
+        if key in away_features:
+            match_features[f'diff_{key}'] = home_features[key] - away_features[key]
+            match_features[f'ratio_{key}'] = home_features[key]/(away_features[key] + 0.00001) # avoid dividing by zero
+
+    return match_features 
 
 def create_ml_features(home_lineup_data, away_lineup_data, home_team, away_team, venue, home_form, away_form):
     """Create feature vector for ML model prediction"""
