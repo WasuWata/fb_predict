@@ -221,7 +221,7 @@ def get_lineup_data(key_prefix): # Done (maybe)
     
     # Extract player-position pairs
     for unique_key, player_name in lineup_dict.items():
-        if player_name:  # Only include selected players
+        if player_name and player_name.strip():  # Only include selected players
             # Extract base position (remove suffix like "_1", "_2")
             base_position = unique_key.split('_')[0]
             lineup_data["Unnamed: 0_level_0_Player"].append(player_name)
