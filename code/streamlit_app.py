@@ -289,8 +289,8 @@ def extract_team_features(df, is_home = True): # Done (maybe)
     if len(defenders) > 0:
         features['defenders_tackles'] = defenders['Performance.9_Tkl'].astype('float32').sum()
         features['defenders_blocks'] = defenders['Performance.11_Blocks'].astype('float32').sum()
-
-    return features
+    return team_df
+    # return features
 
 def process_match_file(home_df, away_df): # Done (maybe)
     home_data = home_df
@@ -661,29 +661,13 @@ def main():
             away_lineup_data = get_lineup_data("away")
             
             st.write("### 🐛 DEBUG: Session State Before Prediction")
-            st.write(f"Keys in session_state: {list(st.session_state.keys())}")
-            
-            # Check specifically for lineup keys
-            home_lineup_exists = 'home_lineup' in st.session_state
-            away_lineup_exists = 'away_lineup' in st.session_state
-            
-            st.write(f"home_lineup exists: {home_lineup_exists}")
-            st.write(f"away_lineup exists: {away_lineup_exists}")
-            
-            if home_lineup_exists:
-                st.write(f"home_lineup content: {st.session_state['home_lineup']}")
-            if away_lineup_exists:
-                st.write(f"away_lineup content: {st.session_state['away_lineup']}")
-            
-            # Also check for widget keys
-            home_widget_keys = [k for k in st.session_state.keys() if 'home_' in k]
-            away_widget_keys = [k for k in st.session_state.keys() if 'away_' in k]
-            st.write(f"Home widget keys: {home_widget_keys}")
-            st.write(f"Away widget keys: {away_widget_keys}")
-            
+            st.write(f"Keys in session_state: {list(st.session_state.keys())}")    
             st.write(f'home_lineup_data: {home_lineup_data}')
             st.write(f'away_lineup_data: {away_lineup_data}')
             # Get lineup data for ML model
+            team_df = extract_team_features(home_lineup_data)
+            st.write(f"DEBUG: All positions in team_df: {team_df['Unnamed: 3_level_0_Pos'].unique()}")
+    
             X = process_match_file(home_lineup_data,away_lineup_data) 
             st.write(f'X: {X}')
             # Get prediction
