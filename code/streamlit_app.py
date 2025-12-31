@@ -395,11 +395,11 @@ def create_formation_layout(team_name, formation_name, team_players, key_prefix)
     positions = formation["positions"]
     
     # Initialize session state for player positions if not exists
-    if f'{key_prefix}_lineup' not in st.session_state:
-        st.session_state[f'{key_prefix}_lineup'] = {}
-        # Initialize with unique keys for each position
-        for i, pos in enumerate(positions):
-            st.session_state[f'{key_prefix}_lineup'][f"{pos}_{i}"] = ""
+    # if f'{key_prefix}_lineup' not in st.session_state:
+    st.session_state[f'{key_prefix}_lineup'] = {}
+    # Initialize with unique keys for each position
+    for i, pos in enumerate(positions):
+        st.session_state[f'{key_prefix}_lineup'][f"{pos}_{i}"] = ""
     
     st.markdown(f"### {team_name} Formation: {formation_name}")
     
@@ -590,7 +590,6 @@ def main():
                 premier_league_data["teams"],
                 key="home_team"
             )
-            
             if home_team:
                 # Formation selection for home team
                 home_formation = st.selectbox(
