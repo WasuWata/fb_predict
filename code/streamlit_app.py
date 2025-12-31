@@ -553,7 +553,6 @@ def predict_with_lineup_data(): # Need to be changed
     X = process_match_file(home_df,away_df)
     X = pd.DataFrame([X])
     X_scaled = scaler.transform(X)
-    st.write(f"X_scaled: {X_scaled}")
     match_result = model.predict(X_scaled)
     prob = model.predict_proba(X_scaled)
     return {
@@ -684,9 +683,8 @@ def main():
             st.write(f'home_lineup_data: {home_lineup_data}')
             st.write(f'away_lineup_data: {away_lineup_data}')
             # Get lineup data for ML model
-            home_lineup_data = get_lineup_data("home")
-            away_lineup_data = get_lineup_data("away")
-
+            X = process_match_file(home_lineup_data,away_lineup_data) 
+            st.write(f'X: {X}')
             # Get prediction
             prediction = predict_match()
             
