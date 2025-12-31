@@ -289,8 +289,7 @@ def extract_team_features(df, is_home = True): # Done (maybe)
     if len(defenders) > 0:
         features['defenders_tackles'] = defenders['Performance.9_Tkl'].astype('float32').sum()
         features['defenders_blocks'] = defenders['Performance.11_Blocks'].astype('float32').sum()
-    return team_df
-    # return features
+    return features
 
 def process_match_file(home_df, away_df): # Done (maybe)
     home_data = home_df
