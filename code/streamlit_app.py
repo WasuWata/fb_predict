@@ -553,14 +553,6 @@ def predict_with_lineup_data(): # Need to be changed
     X = process_match_file(home_df,away_df)
     X = pd.DataFrame([X])
     X_scaled = scaler.transform(X)
-    # DEBUG: Show scaled values
-    st.write("### 🐛 DEBUG: Scaled Features (X_scaled)")
-    st.write(f"Shape: {X_scaled.shape}")
-    
-    # Create a DataFrame for better display
-    X_scaled_df = pd.DataFrame(X_scaled, columns=X.columns)
-    st.dataframe(X_scaled_df)
-    
     match_result = model.predict(X_scaled)
     prob = model.predict_proba(X_scaled)
     return {
@@ -667,6 +659,31 @@ def main():
             home_lineup_data = get_lineup_data("home")
             away_lineup_data = get_lineup_data("away")
             
+            st.write("### 🐛 DEBUG: Session State Before Prediction")
+            st.write(f"Keys in session_state: {list(st.session_state.keys())}")
+            
+            # Check specifically for lineup keys
+            home_lineup_exists = 'home_lineup' in st.session_state
+            away_lineup_exists = 'away_lineup' in st.session_state
+            
+            st.write(f"home_lineup exists: {home_lineup_exists}")
+            st.write(f"away_lineup exists: {away_lineup_exists}")
+            
+            if home_lineup_exists:
+                st.write(f"home_lineup content: {st.session_state['home_lineup']}")
+            if away_lineup_exists:
+                st.write(f"away_lineup content: {st.session_state['away_lineup']}")
+            
+            # Also check for widget keys
+            home_widget_keys = [k for k in st.session_state.keys() if 'home_' in k]
+            away_widget_keys = [k for k in st.session_state.keys() if 'away_' in k]
+            st.write(f"Home widget keys: {home_widget_keys}")
+            st.write(f"Away widget keys: {away_widget_keys}")
+            
+            # Get lineup data for ML model
+            home_lineup_data = get_lineup_data("home")
+            away_lineup_data = get_lineup_data("away")
+
             # Get prediction
             prediction = predict_match()
             
