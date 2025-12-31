@@ -664,8 +664,8 @@ def main():
             st.write(f'home_lineup_data: {home_lineup_data}')
             st.write(f'away_lineup_data: {away_lineup_data}')
             # Get lineup data for ML model
-            team_df = extract_team_features(home_lineup_data)
-            st.write(f"DEBUG: All positions in team_df: {team_df['Unnamed: 3_level_0_Pos'].unique()}")
+            # team_df = extract_team_features(home_lineup_data)
+            # st.write(f"DEBUG: All positions in team_df: {team_df['Unnamed: 3_level_0_Pos'].unique()}")
     
             X = process_match_file(home_lineup_data,away_lineup_data) 
             st.write(f'X: {X}')
