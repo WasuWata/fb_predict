@@ -702,13 +702,13 @@ def main():
             with col_a:
                 st.metric(
                     label=f"📈 {home_team} Win Probability",
-                    value=f"{prediction['home_win_prob']}%"
+                    value=f"{round(prediction['home_win_prob']*100,2)}%"
                 )
             
             with col_b:
                 st.metric(
                     label=f"📈 {away_team} Win Probability",
-                    value=f"{prediction['away_win_prob']}%"
+                    value=f"{round(prediction['away_win_prob']*100,2)}%"
                 )
             
             # Probability bars
