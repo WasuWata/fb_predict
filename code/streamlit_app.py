@@ -249,6 +249,7 @@ def extract_team_features(df, is_home = True): # Done (maybe)
     team_df['Performance.9_Tkl'] = team_df['Performance.9_Tkl'].astype('float32')*90/team_df['Unnamed: 5_level_0_Min']
     team_df['Performance.10_Int'] = team_df['Performance.10_Int'].astype('float32')*90/team_df['Unnamed: 5_level_0_Min']
     team_df['Performance.11_Blocks'] = team_df['Performance.11_Blocks'].astype('float32')*90/team_df['Unnamed: 5_level_0_Min']
+    team_df['Unnamed: 5_level_0_Min'] = 90.0
 
     features = {}
     features['avg_minutes'] = team_df['Unnamed: 5_level_0_Min'].astype('float32').mean()
