@@ -553,6 +553,7 @@ def predict_with_lineup_data(): # Need to be changed
     X = process_match_file(home_df,away_df)
     X = pd.DataFrame([X])
     X_scaled = scaler.transform(X)
+    st.write(f"X_scaled: {X_scaled}")
     match_result = model.predict(X_scaled)
     prob = model.predict_proba(X_scaled)
     return {
