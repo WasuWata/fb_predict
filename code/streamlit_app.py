@@ -25,7 +25,8 @@ model = xgb.XGBClassifier(
 )
 model._estimator_type = 'classifier'
 model.load_model(tmp_path)
-
+model.n_classes_ = 3  # Set this based on your actual number of classes
+model.classes_ = np.array([0, 1, 2])  # Assuming classes are 0, 1, 2 (Home, Draw, Away)
 # Scaler
 scaler_url = 'https://raw.githubusercontent.com/WasuWata/fb_predict/main/code/scaler/scaler.pkl'
 response = requests.get(scaler_url)
