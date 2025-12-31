@@ -553,7 +553,14 @@ def predict_with_lineup_data(): # Need to be changed
     X = process_match_file(home_df,away_df)
     X = pd.DataFrame([X])
     X_scaled = scaler.transform(X)
-    print(X_scaled)
+    # DEBUG: Show scaled values
+    st.write("### 🐛 DEBUG: Scaled Features (X_scaled)")
+    st.write(f"Shape: {X_scaled.shape}")
+    
+    # Create a DataFrame for better display
+    X_scaled_df = pd.DataFrame(X_scaled, columns=X.columns)
+    st.dataframe(X_scaled_df)
+    
     match_result = model.predict(X_scaled)
     prob = model.predict_proba(X_scaled)
     return {
