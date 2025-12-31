@@ -680,6 +680,8 @@ def main():
             st.write(f"Home widget keys: {home_widget_keys}")
             st.write(f"Away widget keys: {away_widget_keys}")
             
+            st.write(f'home_lineup_data: {home_lineup_data}')
+            st.write(f'away_lineup_data: {away_lineup_data}')
             # Get lineup data for ML model
             home_lineup_data = get_lineup_data("home")
             away_lineup_data = get_lineup_data("away")
