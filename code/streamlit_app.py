@@ -233,7 +233,7 @@ def extract_team_features(df, is_home = True): # Done (maybe)
     team_df = []
     for i in range(len(df)):
         # player_df = data[(data['Unnamed: 0_level_0_Player'] == df['Unnamed: 0_level_0_Player'][i]) & (data['Unnamed: 3_level_0_Pos'] == df['Unnamed: 3_level_0_Pos'][i])].iloc[-3:,:]
-        player_df = data[data['Unnamed: 0_level_0_Player'] == df['Unnamed: 0_level_0_Player'][i]].iloc[-3:,:]
+        player_df = data[data['Unnamed: 0_level_0_Player'] == df['Unnamed: 0_level_0_Player'].iloc[i]].iloc[-3:,:]
         # player_position = player_df['Unnamed: 3_level_0_Pos'].iloc[0] if not player_df.empty else None
         player_position = df['Unnamed: 3_level_0_Pos'].iloc[i]
         player_df_average = player_df.groupby('Unnamed: 0_level_0_Player').mean(numeric_only = True)
