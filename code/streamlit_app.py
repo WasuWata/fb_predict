@@ -660,16 +660,16 @@ def main():
             home_lineup_data = get_lineup_data("home")
             away_lineup_data = get_lineup_data("away")
             
-            st.write("### 🐛 DEBUG: Session State Before Prediction")
-            st.write(f"Keys in session_state: {list(st.session_state.keys())}")    
+            # st.write("### 🐛 DEBUG: Session State Before Prediction")
+            # st.write(f"Keys in session_state: {list(st.session_state.keys())}")    
             st.write(f'home_lineup_data: {home_lineup_data}')
             st.write(f'away_lineup_data: {away_lineup_data}')
             # Get lineup data for ML model
             # team_df = extract_team_features(home_lineup_data)
             # st.write(f"DEBUG: All positions in team_df: {team_df['Unnamed: 3_level_0_Pos'].unique()}")
     
-            X = process_match_file(home_lineup_data,away_lineup_data) 
-            st.write(f'X: {X}')
+            # X = process_match_file(home_lineup_data,away_lineup_data) 
+            # st.write(f'X: {X}')
             # Get prediction
             prediction = predict_match()
             
