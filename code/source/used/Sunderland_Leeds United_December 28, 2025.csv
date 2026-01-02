@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Brian Brobbey,9.0,nl NED,FW,23-330,67,0,0,0,0,2,0,0,0,10,0,0,1,0.4,0.4,0.0,0,0,4,6,66.7,1,3,0,0,0,Sunderland
+Wilson Isidor,18.0,fr FRA,FW,25-123,23,0,0,0,0,1,1,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Sunderland
+Simon Adingra,24.0,ci CIV,LW,23-361,84,1,0,0,0,2,1,0,0,44,2,0,5,0.1,0.1,0.2,1,0,16,26,61.5,1,24,5,6,2,Sunderland
+Romaine Mundle,14.0,eng ENG,LW,22-248,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Sunderland
+Chris Rigg,11.0,eng ENG,RW,18-193,67,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.2,1,0,16,20,80.0,3,15,0,1,0,Sunderland
+Eliezer Mayenda,12.0,es ESP,AM,20-234,23,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,1,0,4,5,80.0,0,4,0,2,1,Sunderland
+Enzo Le Fée,28.0,fr FRA,"AM,RW",25-328,90,0,0,0,0,0,0,0,0,49,2,1,1,0.0,0.0,0.2,5,0,24,33,72.7,3,14,0,2,1,Sunderland
+Lutsharel Geertruida,6.0,nl NED,DM,25-163,90,0,0,0,0,0,0,0,0,52,2,0,1,0.0,0.0,0.0,2,0,40,43,93.0,8,22,0,1,1,Sunderland
+Granit Xhaka,34.0,ch SUI,DM,33-092,90,0,1,0,0,0,0,0,0,79,1,1,3,0.0,0.0,0.1,3,1,59,67,88.1,11,27,2,2,0,Sunderland
+Dennis Cirkin,3.0,eng ENG,LB,23-266,90,0,0,0,0,0,0,0,0,45,1,2,1,0.0,0.0,0.0,0,0,24,32,75.0,2,17,2,0,0,Sunderland
+Omar Alderete,15.0,py PAR,CB,29-002,90,0,0,0,0,1,0,0,0,68,2,0,2,0.0,0.0,0.0,0,0,39,51,76.5,3,37,1,0,0,Sunderland
+Nordi Mukiele,20.0,fr FRA,CB,28-057,90,0,0,0,0,1,1,0,0,89,2,1,1,0.0,0.0,0.0,1,0,51,67,76.1,4,39,0,1,0,Sunderland
+Trai Hume,32.0,nir NIR,RB,23-285,90,0,0,0,0,0,0,1,0,53,1,0,2,0.0,0.0,0.0,1,0,32,43,74.4,1,24,1,1,0,Sunderland
+Robin Roefs,22.0,nl NED,GK,22-345,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,34,40,85.0,0,25,0,0,0,Sunderland
+14 Players,,,,,990,1,1,0,0,8,3,1,0,570,14,5,18,0.7,0.7,0.7,15,1,346,437,79.2,37,254,11,16,5,Sunderland
+Noah Okafor,19.0,ch SUI,"LM,FW",25-218,72,0,0,0,0,3,0,0,0,37,0,1,0,0.2,0.2,0.1,3,0,19,23,82.6,3,25,5,5,1,Leeds United
+Lukas Nmecha,14.0,de GER,"LM,FW",27-014,18,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,1,0,Leeds United
+Dominic Calvert-Lewin,9.0,eng ENG,FW,28-287,84,1,0,0,0,1,1,0,0,20,1,0,0,0.4,0.4,0.1,1,0,7,14,50.0,0,11,0,1,0,Leeds United
+Wilfried Gnonto,29.0,it ITA,LM,22-053,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Leeds United
+Anton Stach,18.0,de GER,CM,27-043,90,0,0,0,0,3,1,0,0,77,5,0,2,0.1,0.1,0.4,8,1,47,60,78.3,6,30,4,2,1,Leeds United
+Ethan Ampadu,4.0,wls WAL,"DM,CM",25-105,90,0,0,0,0,3,1,0,0,84,2,1,3,0.3,0.3,0.0,1,0,55,67,82.1,5,46,2,0,0,Leeds United
+Brenden Aaronson,11.0,us USA,"RM,CM",25-067,90,0,1,0,0,3,0,0,0,52,0,0,2,0.2,0.2,1.1,5,1,32,39,82.1,3,34,1,1,0,Leeds United
+Gabriel Gudmundsson,3.0,se SWE,"LB,WB",26-243,90,0,0,0,0,0,0,0,0,58,1,1,1,0.0,0.0,0.1,3,0,38,49,77.6,2,34,1,3,2,Leeds United
+Jayden Bogle,2.0,eng ENG,"RB,WB",25-154,90,0,0,0,0,1,0,0,0,56,3,1,0,0.4,0.4,0.0,2,0,34,42,81.0,4,29,2,2,0,Leeds United
+Pascal Struijk,5.0,nl NED,CB,26-139,90,0,0,0,0,0,0,0,0,83,0,1,0,0.0,0.0,0.2,3,0,72,78,92.3,6,59,0,0,0,Leeds United
+Jaka Bijol,15.0,si SVN,CB,26-326,90,0,0,0,0,2,2,0,0,75,0,1,0,0.2,0.2,0.0,1,0,62,68,91.2,6,54,2,0,0,Leeds United
+Joe Rodon,6.0,wls WAL,CB,28-067,30,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.0,0,0,17,21,81.0,0,16,0,0,0,Leeds United
+Ao Tanaka,22.0,jp JPN,CM,27-109,60,0,0,0,0,1,0,0,0,45,2,0,2,0.2,0.2,0.1,3,0,30,40,75.0,3,27,1,1,0,Leeds United
+Lucas Perri,1.0,br BRA,GK,28-018,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,0,0,39,54,72.2,0,37,0,0,0,Leeds United
+14 Players,,,,,990,1,1,0,0,17,5,0,0,674,14,6,12,2.2,2.2,2.1,30,2,455,561,81.1,38,409,18,16,4,Leeds United

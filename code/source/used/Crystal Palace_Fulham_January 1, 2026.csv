@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Jean-Philippe Mateta,14.0,fr FRA,FW,28-187,90,1,0,0,0,1,1,0,0,18,1,0,0,0.7,0.7,0.0,0,0,6,10,60.0,0,9,0,3,0,Crystal Palace
+Yeremi Pino,10.0,es ESP,AM,23-073,81,0,0,0,0,3,0,0,0,39,1,0,2,0.1,0.1,0.0,2,0,18,29,62.1,1,14,3,3,0,Crystal Palace
+Christantus Uche,12.0,ng NGA,AM,22-227,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,0,0,0,0,Crystal Palace
+Justin Devenny,55.0,nir NIR,AM,22-082,81,0,0,0,0,1,0,0,0,34,2,0,1,0.2,0.2,0.0,3,0,14,20,70.0,2,15,1,2,0,Crystal Palace
+Romain Esse,21.0,eng ENG,AM,20-233,9,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,1,0,0,Crystal Palace
+Will Hughes,19.0,eng ENG,CM,30-259,56,0,0,0,0,1,0,0,0,31,0,2,0,0.0,0.0,0.0,4,0,18,26,69.2,2,17,0,2,1,Crystal Palace
+Jaydee Canvot,23.0,fr FRA,CB,19-156,34,0,0,0,0,0,0,0,0,25,1,0,2,0.0,0.0,0.0,1,0,15,17,88.2,1,10,0,0,0,Crystal Palace
+Adam Wharton,20.0,eng ENG,CM,21-329,90,0,0,0,0,0,0,0,0,50,2,2,0,0.0,0.0,0.0,3,0,32,44,72.7,6,24,2,0,0,Crystal Palace
+Tyrick Mitchell,3.0,eng ENG,WB,26-122,90,0,0,0,0,0,0,0,0,49,4,2,1,0.0,0.0,0.2,2,0,23,32,71.9,4,19,1,1,1,Crystal Palace
+Nathaniel Clyne,17.0,eng ENG,WB,34-271,89,0,1,0,0,1,0,0,0,45,2,1,2,0.1,0.1,0.7,4,2,26,34,76.5,2,25,2,5,3,Crystal Palace
+Borna Sosa,24.0,hr CRO,WB,27-345,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Crystal Palace
+Marc Guéhi,6.0,eng ENG,CB,25-172,90,0,0,0,0,2,1,0,0,73,0,1,4,0.4,0.4,0.0,2,0,47,58,81.0,6,44,2,1,1,Crystal Palace
+Maxence Lacroix,5.0,fr FRA,CB,25-270,90,0,0,0,0,1,0,0,0,65,0,1,2,0.3,0.3,0.0,0,0,48,55,87.3,2,44,0,1,1,Crystal Palace
+Jefferson Lerma,8.0,co COL,"CB,CM",31-068,90,0,0,0,0,1,0,0,0,68,1,0,1,0.0,0.0,0.0,0,0,44,60,73.3,4,37,1,2,0,Crystal Palace
+Dean Henderson,1.0,eng ENG,GK,28-295,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,23,34,67.6,0,16,0,0,0,Crystal Palace
+15 Players,,,,,990,1,1,0,0,11,2,0,0,540,14,9,15,1.9,1.9,1.1,21,2,314,424,74.1,30,276,13,20,7,Crystal Palace
+Raúl Jiménez,7.0,mx MEX,FW,34-241,90,0,0,0,0,4,0,0,0,40,0,0,0,0.3,0.3,0.1,1,0,16,27,59.3,2,19,1,0,0,Fulham
+Kevin,22.0,br BRA,LW,22-362,84,0,0,0,0,1,1,0,0,39,1,1,1,0.0,0.0,0.4,7,0,24,32,75.0,3,22,3,6,4,Fulham
+Harrison Reed,6.0,eng ENG,DM,30-339,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,2,0,6,6,100.0,0,4,0,0,0,Fulham
+Harry Wilson,8.0,wls WAL,RW,28-285,84,0,0,0,0,2,1,0,0,42,1,0,0,0.1,0.1,0.0,1,0,23,29,79.3,1,22,2,1,0,Fulham
+Adama Traoré,11.0,es ESP,RW,29-341,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Fulham
+Emile Smith Rowe,32.0,eng ENG,"AM,LW",25-157,90,0,0,0,0,3,0,1,0,61,1,2,1,0.4,0.4,0.2,5,0,43,47,91.5,8,33,3,1,0,Fulham
+Sander Berge,16.0,no NOR,DM,27-321,67,0,0,0,0,0,0,0,0,72,0,2,3,0.0,0.0,0.0,0,0,53,60,88.3,3,34,2,3,0,Fulham
+Tom Cairney,10.0,sct SCO,"DM,AM",34-346,23,1,0,0,0,2,1,1,0,35,0,0,0,0.2,0.2,0.0,3,0,29,30,96.7,5,22,0,1,0,Fulham
+Saša Lukić,20.0,rs SRB,DM,29-141,90,0,1,0,0,1,0,0,0,55,4,1,1,0.0,0.0,0.1,2,1,38,44,86.4,6,27,1,1,1,Fulham
+Antonee Robinson,33.0,us USA,LB,28-146,90,0,0,0,0,0,0,0,0,79,3,0,0,0.0,0.0,0.1,6,1,59,72,81.9,7,34,3,0,0,Fulham
+Jorge Cuenca,15.0,es ESP,CB,26-045,90,0,0,0,0,0,0,1,0,83,2,0,3,0.0,0.0,0.0,0,0,56,63,88.9,6,34,1,1,0,Fulham
+Joachim Andersen,5.0,dk DEN,CB,29-215,90,0,0,0,0,1,0,1,0,126,2,1,1,0.2,0.2,0.0,0,0,89,109,81.7,3,76,0,0,0,Fulham
+Kenny Tete,2.0,nl NED,RB,30-084,50,0,0,0,0,1,0,0,0,33,1,2,0,0.0,0.0,0.0,0,0,26,31,83.9,1,19,1,0,0,Fulham
+Timothy Castagne,21.0,be BEL,RB,30-027,40,0,0,0,0,2,2,1,0,34,1,0,1,0.4,0.4,0.0,1,0,24,28,85.7,1,16,3,0,0,Fulham
+Bernd Leno,1.0,de GER,GK,33-303,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,1,0,40,45,88.9,0,28,0,0,0,Fulham
+15 Players,,,,,990,1,1,0,0,17,5,5,0,755,16,9,11,1.8,1.8,0.9,29,2,527,625,84.3,46,391,20,14,5,Fulham

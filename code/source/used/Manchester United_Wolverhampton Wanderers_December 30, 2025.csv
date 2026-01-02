@@ -1,0 +1,32 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Benjamin Šeško,30.0,si SVN,FW,22-213,90,0,0,0,0,6,4,0,0,28,1,0,1,0.4,0.4,0.0,2,0,9,13,69.2,0,12,0,4,2,Manchester United
+Patrick Dorgu,13.0,dk DEN,LW,21-065,90,0,0,0,0,2,0,0,0,55,2,0,1,0.1,0.1,0.1,3,0,32,40,80.0,4,28,3,2,0,Manchester United
+Joshua Zirkzee,11.0,nl NED,RW,24-222,45,1,0,0,0,1,1,0,0,21,1,0,0,0.1,0.1,0.0,2,1,14,17,82.4,1,7,1,1,1,Manchester United
+Jack Fletcher,38.0,eng ENG,"RW,DM",18-286,45,0,0,0,0,1,0,0,0,31,2,0,0,0.0,0.0,0.0,3,0,24,28,85.7,4,18,0,0,0,Manchester United
+Matheus Cunha,10.0,br BRA,AM,26-217,90,0,0,0,0,2,0,0,0,48,1,0,1,0.1,0.1,0.0,0,0,27,36,75.0,2,24,2,4,0,Manchester United
+Casemiro,18.0,br BRA,DM,33-310,90,0,0,0,0,0,0,0,0,64,6,1,1,0.0,0.0,0.2,4,0,42,50,84.0,8,33,2,0,0,Manchester United
+Manuel Ugarte,25.0,uy URU,DM,24-263,74,0,0,0,0,1,1,0,0,51,1,2,0,0.0,0.0,0.0,5,0,37,46,80.4,7,28,0,0,0,Manchester United
+Bendito Mantato,70.0,eng ENG,RW,17-339,16,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,5,6,83.3,0,2,0,1,0,Manchester United
+Luke Shaw,23.0,eng ENG,LB,30-171,90,0,0,0,0,0,0,0,0,86,1,0,0,0.0,0.0,0.2,4,0,73,84,86.9,7,50,2,1,1,Manchester United
+Lisandro Martínez,6.0,ar ARG,CB,27-346,90,0,0,0,0,0,0,0,0,104,0,0,1,0.0,0.0,0.0,2,0,89,97,91.8,6,66,2,1,1,Manchester United
+Ayden Heaven,26.0,eng ENG,CB,19-099,74,0,0,0,0,1,0,0,0,70,4,0,0,0.0,0.0,0.0,2,1,57,60,95.0,4,46,1,0,0,Manchester United
+Leny Yoro,15.0,fr FRA,CB,20-047,16,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,1,0,13,13,100.0,3,7,1,0,0,Manchester United
+Diogo Dalot,2.0,pt POR,RB,26-287,90,0,0,0,0,1,0,0,0,50,1,1,1,0.0,0.0,0.1,1,0,32,43,74.4,2,19,2,0,0,Manchester United
+Senne Lammens,31.0,be BEL,GK,23-176,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,18,19,94.7,0,10,0,0,0,Manchester United
+14 Players,,,,,990,1,0,0,0,15,6,0,0,652,21,4,6,0.8,0.8,0.7,30,2,472,552,85.5,48,350,16,14,5,Manchester United
+Hwang Hee-chan,11.0,kr KOR,FW,29-338,87,0,0,0,0,2,0,0,0,40,0,2,1,0.1,0.1,0.0,2,0,23,28,82.1,2,22,1,6,2,Wolverhampton Wanderers
+Fer López,28.0,es ESP,FW,21-220,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Wolverhampton Wanderers
+Tolu Arokodare,14.0,ng NGA,FW,25-037,63,0,0,0,0,1,0,0,0,22,0,0,1,0.1,0.1,0.1,2,0,12,18,66.7,2,10,2,1,0,Wolverhampton Wanderers
+Jørgen Strand Larsen,9.0,no NOR,FW,25-327,27,0,0,0,0,0,0,1,0,14,0,0,1,0.0,0.0,0.0,0,0,3,7,42.9,0,7,0,0,0,Wolverhampton Wanderers
+Mateus Mane,36.0,pt POR,CM,18-105,90,0,0,0,0,1,1,0,0,30,1,1,0,0.0,0.0,0.0,1,0,15,17,88.2,3,18,3,7,2,Wolverhampton Wanderers
+João Gomes,8.0,br BRA,CM,24-321,90,0,0,0,0,0,0,0,0,75,3,2,1,0.0,0.0,0.0,1,0,57,65,87.7,0,45,1,4,3,Wolverhampton Wanderers
+Jhon Arias,10.0,co COL,CM,28-100,89,0,0,0,0,1,0,0,0,64,6,1,3,0.0,0.0,0.0,1,1,45,49,91.8,3,29,2,2,0,Wolverhampton Wanderers
+David Møller Wolfe,6.0,no NOR,CM,23-251,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Wolverhampton Wanderers
+Hugo Bueno,3.0,es ESP,WB,23-103,90,0,0,0,0,1,1,0,0,58,2,1,1,0.1,0.1,0.0,2,0,39,48,81.3,2,27,2,2,0,Wolverhampton Wanderers
+Jackson Tchatchoua,38.0,cm CMR,WB,24-107,90,0,0,0,0,0,0,1,0,43,0,0,0,0.0,0.0,0.2,3,0,32,37,86.5,3,20,3,1,1,Wolverhampton Wanderers
+Ladislav Krejčí,37.0,cz CZE,CB,26-254,90,1,0,0,0,3,2,0,0,63,0,0,2,0.3,0.3,0.0,2,1,49,56,87.5,5,39,1,0,0,Wolverhampton Wanderers
+Matt Doherty,2.0,ie IRL,CB,33-348,90,0,0,0,0,0,0,0,0,46,1,1,3,0.0,0.0,0.2,2,0,32,37,86.5,3,25,1,1,1,Wolverhampton Wanderers
+Yerson Mosquera,15.0,co COL,CB,24-242,90,0,0,0,0,2,0,0,0,49,7,2,0,0.5,0.5,0.0,3,0,27,32,84.4,3,16,2,1,1,Wolverhampton Wanderers
+José Sá,1.0,pt POR,GK,32-347,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,21,35,60.0,0,18,0,0,0,Wolverhampton Wanderers
+14 Players,,,,,990,1,0,0,0,11,4,2,0,546,20,10,13,1.3,1.3,0.6,19,2,355,430,82.6,26,276,18,25,10,Wolverhampton Wanderers

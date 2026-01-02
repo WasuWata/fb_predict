@@ -1,0 +1,35 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Benjamin Šeško,30.0,si SVN,FW,22-209,59,0,0,0,0,2,0,0,0,23,1,1,1,0.3,0.3,0.0,1,0,9,12,75.0,0,13,3,1,0,Manchester United
+Joshua Zirkzee,11.0,nl NED,FW,24-218,31,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,1,0,Manchester United
+Matheus Cunha,10.0,br BRA,"LW,FW,AM,RM",26-213,90,0,0,0,0,3,1,1,0,45,0,3,4,0.1,0.1,0.0,5,1,22,27,81.5,3,24,6,6,4,Manchester United
+Patrick Dorgu,13.0,dk DEN,"RW,CM,LM",21-061,90,1,0,0,0,3,3,0,0,52,2,2,3,0.2,0.2,0.1,2,0,18,25,72.0,2,25,5,3,1,Manchester United
+Mason Mount,7.0,eng ENG,AM,26-350,45,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.2,2,0,15,23,65.2,4,14,1,0,0,Manchester United
+Jack Fletcher,38.0,eng ENG,"CM,LW",18-282,45,0,0,0,0,0,0,0,0,14,1,1,1,0.0,0.0,0.1,1,0,7,9,77.8,2,4,0,0,0,Manchester United
+Manuel Ugarte,25.0,uy URU,"DM,CM",24-259,90,0,0,0,0,0,0,0,0,59,6,2,1,0.0,0.0,0.2,1,0,27,37,73.0,3,25,1,2,2,Manchester United
+Casemiro,18.0,br BRA,DM,33-306,60,0,0,0,0,1,0,0,0,44,3,2,1,0.2,0.2,0.0,0,0,29,32,90.6,0,17,0,0,0,Manchester United
+Leny Yoro,15.0,fr FRA,CB,20-043,30,0,0,0,0,0,0,0,0,13,0,2,0,0.0,0.0,0.0,0,0,5,7,71.4,0,4,0,0,0,Manchester United
+Luke Shaw,23.0,eng ENG,LB,30-167,87,0,0,0,0,0,0,1,0,49,2,3,0,0.0,0.0,0.1,2,0,31,39,79.5,1,22,3,0,0,Manchester United
+Tyrell Malacia,12.0,nl NED,LB,26-131,3,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Manchester United
+Lisandro Martínez,6.0,ar ARG,CB,27-342,87,0,0,0,0,0,0,0,0,48,0,1,1,0.0,0.0,0.5,1,0,34,38,89.5,0,28,0,0,0,Manchester United
+Tyler Fredricson,33.0,eng ENG,CB,20-306,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Manchester United
+Ayden Heaven,26.0,eng ENG,CB,19-095,90,0,0,0,0,0,0,0,0,48,1,0,1,0.0,0.0,0.0,0,0,34,36,94.4,3,28,0,0,0,Manchester United
+Diogo Dalot,2.0,pt POR,RB,26-283,90,0,0,0,0,1,0,0,0,51,2,1,3,0.5,0.5,0.0,0,0,25,34,73.5,1,19,0,0,0,Manchester United
+Senne Lammens,31.0,be BEL,GK,23-172,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,10,33,30.3,0,22,0,0,0,Manchester United
+16 Players,,,,,990,1,0,0,0,10,4,2,0,524,20,18,16,1.3,1.3,1.2,15,1,271,359,75.5,19,250,19,13,7,Manchester United
+Nick Woltemade,27.0,de GER,FW,23-315,67,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,8,14,57.1,1,7,0,3,0,Newcastle United
+Yoane Wissa,9.0,cd COD,FW,29-114,23,0,0,0,0,1,0,0,0,8,0,0,1,0.1,0.1,0.2,1,0,2,3,66.7,0,2,0,1,0,Newcastle United
+Anthony Gordon,10.0,eng ENG,LW,24-305,90,0,0,0,0,2,0,0,0,52,1,0,0,0.2,0.2,0.3,6,0,31,45,68.9,7,40,5,5,2,Newcastle United
+Jacob Murphy,23.0,eng ENG,RW,30-305,67,0,0,0,0,1,0,0,0,51,0,0,3,0.0,0.0,0.1,3,0,31,44,70.5,7,34,2,0,0,Newcastle United
+Harvey Barnes,11.0,eng ENG,RW,28-017,23,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,1,0,10,15,66.7,0,10,0,1,0,Newcastle United
+Jacob Ramsey,41.0,eng ENG,LM,24-212,67,0,0,0,0,0,0,0,0,40,3,1,1,0.0,0.0,0.0,0,0,28,31,90.3,3,20,0,2,1,Newcastle United
+Joelinton,7.0,br BRA,LM,29-134,23,0,0,0,0,3,2,0,0,24,2,0,0,0.2,0.2,0.0,0,0,12,16,75.0,0,9,1,1,0,Newcastle United
+Bruno Guimarães,39.0,br BRA,CM,28-040,90,0,0,0,0,1,1,0,0,98,1,1,2,0.1,0.1,0.0,3,0,75,88,85.2,15,76,5,3,0,Newcastle United
+Sandro Tonali,8.0,it ITA,RM,25-232,76,0,0,0,0,0,0,1,0,72,1,1,4,0.0,0.0,0.1,2,0,50,61,82.0,5,39,0,1,1,Newcastle United
+Joe Willock,28.0,eng ENG,RM,26-128,14,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,10,14,71.4,2,9,1,0,0,Newcastle United
+Lewis Hall,3.0,eng ENG,LB,21-109,90,0,0,0,0,3,0,0,0,91,1,0,1,0.1,0.1,0.0,8,0,60,76,78.9,6,42,6,9,7,Newcastle United
+Fabian Schär,5.0,ch SUI,CB,34-006,90,0,0,0,0,3,0,0,0,96,1,1,1,0.3,0.3,0.0,2,0,74,85,87.1,6,59,0,0,0,Newcastle United
+Malick Thiaw,12.0,de GER,CB,24-140,90,0,0,0,0,1,0,0,0,90,2,1,0,0.0,0.0,0.0,2,0,72,79,91.1,6,49,3,0,0,Newcastle United
+Lewis Miley,67.0,eng ENG,RB,19-239,90,0,0,0,0,1,0,0,0,105,1,1,0,0.2,0.2,0.0,2,0,88,96,91.7,4,63,1,0,0,Newcastle United
+Aaron Ramsdale,32.0,eng ENG,GK,27-226,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,24,29,82.8,0,16,0,0,0,Newcastle United
+15 Players,,,,,990,0,0,0,0,16,3,1,0,815,14,6,13,1.2,1.2,0.9,30,0,575,696,82.6,62,475,24,26,11,Newcastle United
