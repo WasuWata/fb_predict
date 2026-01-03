@@ -55,7 +55,7 @@ aq-train:
 	ipython notebooks/airquality/3_air_quality_training_pipeline.ipynb
 
 fb-inference:
-	python -m ipython code/3.weekly_pipeline.ipynb
+	ipython code/3.weekly_pipeline.ipynb
 
 aq-llm:
 	ipython notebooks/airquality/5_function_calling.ipynb
