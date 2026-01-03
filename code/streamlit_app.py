@@ -630,23 +630,6 @@ def main():
                 
             st.markdown('</div>', unsafe_allow_html=True)
         
-        # Additional match details
-        st.markdown("---")
-        col3, col4 = st.columns(2)
-        
-        with col3:
-            venue = st.selectbox(
-                "Match Venue",
-                premier_league_data["venues"],
-                help="Select where the match is being played"
-            )
-        
-        with col4:
-            match_date = st.date_input(
-                "Match Date",
-                value=date.today()
-            )
-        
         # Prediction button
         st.markdown("---")
         predict_button = st.button(

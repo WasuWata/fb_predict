@@ -30,8 +30,7 @@ We used the XGBoost model to train the acquired data, and we used each match dat
 ## Match Forecasting
 In the prediction, we will receive the input from the users by dropdown lists of player in each position. After that, we will use the averaged stat of the selected players from the application, and convert them to the features to be the input of the predictions.
 
-
-
+![alt text](https://raw.githubusercontent.com/WasuWata/fb_predict/main/photo/dropdown.png)
 
 ## Conclusion
 To be concluded, there are a open source data of football matches all over the place and we can use them for training, prediction, and create it as applicatioin, however, the data and the features are not enough. For the amount of data, we have just from 2017 to the present, it is not enough. Furthermore, current features cannot explain all the reasons for the match outcomes, there are still a plenty of external factors, such as environment, mental state, and many other things.
