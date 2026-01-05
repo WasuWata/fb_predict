@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Ollie Watkins,11.0,eng ENG,FW,30-004,82,1,0,0,0,2,2,0,0,20,2,0,0,0.7,0.7,0.0,0,0,6,12,50.0,0,12,1,0,0,Aston Villa
+Donyell Malen,17.0,nl NED,FW,26-359,8,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Aston Villa
+Emi Buendía,10.0,ar ARG,LW,29-009,68,0,0,0,0,2,0,0,0,43,1,1,0,0.2,0.2,0.1,2,0,24,31,77.4,1,26,2,1,0,Aston Villa
+Jadon Sancho,19.0,eng ENG,"LW,RW",25-284,22,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,8,0,1,0,Aston Villa
+John McGinn,7.0,sct SCO,RW,31-077,82,2,0,0,0,2,2,0,0,60,2,1,1,0.5,0.5,0.0,2,0,35,46,76.1,4,32,1,3,0,Aston Villa
+Lamare Bogarde,26.0,nl NED,DM,21-363,8,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,5,0,3,0,Aston Villa
+Morgan Rogers,27.0,eng ENG,"AM,LW",23-161,90,0,1,0,0,2,0,0,0,63,0,0,1,0.2,0.2,0.7,2,1,37,46,80.4,5,41,7,3,0,Aston Villa
+Youri Tielemans,8.0,be BEL,"DM,AM",28-241,90,0,1,0,0,0,0,0,0,119,4,0,1,0.0,0.0,0.5,4,2,99,112,88.4,20,83,3,0,0,Aston Villa
+Boubacar Kamara,44.0,fr FRA,DM,26-041,90,0,0,0,0,0,0,0,0,110,6,4,2,0.0,0.0,0.1,4,1,86,93,92.5,15,70,0,5,2,Aston Villa
+Ian Maatsen,22.0,nl NED,LB,23-299,68,0,0,0,0,2,0,0,0,55,1,2,0,0.1,0.1,0.0,1,0,36,41,87.8,2,33,0,2,1,Aston Villa
+Lucas Digne,12.0,fr FRA,LB,32-167,22,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,2,1,5,5,100.0,0,6,1,0,0,Aston Villa
+Victor Lindelöf,3.0,se SWE,CB,31-170,90,0,0,0,0,0,0,0,0,77,1,1,1,0.0,0.0,0.0,1,0,68,70,97.1,3,54,1,0,0,Aston Villa
+Ezri Konsa,4.0,eng ENG,CB,28-072,90,0,0,0,0,0,0,0,0,103,1,1,0,0.0,0.0,0.0,0,0,92,99,92.9,7,85,1,0,0,Aston Villa
+Matty Cash,2.0,pl POL,RB,28-149,89,0,1,0,0,0,0,0,0,84,0,1,0,0.0,0.0,0.1,1,1,68,77,88.3,6,56,1,1,1,Aston Villa
+Andrés García,16.0,es ESP,RB,22-330,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,Aston Villa
+Emiliano Martínez,23.0,ar ARG,GK,33-123,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,34,40,85.0,0,33,0,0,0,Aston Villa
+16 Players,,,,,990,3,3,0,0,11,4,1,0,803,18,11,6,1.7,1.7,1.4,19,6,600,684,87.7,63,544,18,19,4,Aston Villa
+Igor Jesus,19.0,br BRA,FW,24-312,83,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,10,1,1,1,Nottingham Forest
+Arnaud Kalimuendo,15.0,fr FRA,FW,23-348,7,0,0,0,0,1,1,0,0,1,0,0,0,0.1,0.1,0.0,0,0,0,0,,0,1,1,0,0,Nottingham Forest
+Dilane Bakwa,29.0,fr FRA,"RW,LW",23-130,68,0,1,0,0,2,0,1,0,24,0,0,0,0.2,0.2,0.4,1,1,10,18,55.6,1,13,0,1,0,Nottingham Forest
+James Mcatee,24.0,eng ENG,"RW,RM",23-077,22,0,0,0,0,0,0,1,0,5,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,0,0,Nottingham Forest
+Omari Hutchinson,21.0,eng ENG,"LW,RW,LM",22-065,90,0,0,0,0,1,1,0,0,29,1,0,1,0.0,0.0,0.2,2,0,13,22,59.1,1,13,2,2,1,Nottingham Forest
+Nicolás Domínguez,16.0,ar ARG,CM,27-189,83,0,0,0,0,1,0,0,0,32,5,2,4,0.0,0.0,0.0,2,0,16,20,80.0,2,7,0,0,0,Nottingham Forest
+Douglas Luiz,12.0,br BRA,CM,27-239,7,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,5,7,71.4,0,4,0,0,0,Nottingham Forest
+Elliot Anderson,8.0,eng ENG,CM,23-058,90,0,0,0,0,0,0,0,0,45,2,3,5,0.0,0.0,0.0,2,0,24,33,72.7,2,17,0,3,2,Nottingham Forest
+Morgan Gibbs-White,10.0,eng ENG,"CM,FW",25-341,90,1,0,0,0,2,2,0,0,30,2,2,1,0.5,0.5,0.0,2,0,16,22,72.7,5,10,2,1,0,Nottingham Forest
+Neco Williams,3.0,wls WAL,LB,24-265,90,0,0,0,0,1,0,0,0,40,3,0,1,0.0,0.0,0.0,2,0,19,28,67.9,2,14,1,1,1,Nottingham Forest
+Murillo,5.0,br BRA,CB,23-183,90,0,0,0,0,0,0,0,0,43,1,2,2,0.0,0.0,0.0,0,0,20,28,71.4,1,19,0,3,3,Nottingham Forest
+Nikola Milenković,31.0,rs SRB,CB,28-083,90,0,0,0,0,0,0,0,0,31,2,1,0,0.0,0.0,0.0,0,0,10,17,58.8,0,10,0,0,0,Nottingham Forest
+Ola Aina,34.0,ng NGA,RB,29-087,68,0,0,0,0,1,1,0,0,30,2,3,0,0.0,0.0,0.0,3,1,12,17,70.6,0,8,0,0,0,Nottingham Forest
+Nicolò Savona,37.0,it ITA,RB,22-290,22,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,5,1,0,0,Nottingham Forest
+John,13.0,br BRA,GK,29-324,77,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,12,22,54.5,0,10,0,0,0,Nottingham Forest
+Matz Sels,26.0,be BEL,GK,33-311,13,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,6,0,0,0,Nottingham Forest
+16 Players,,,,,990,1,1,0,0,10,5,2,0,372,19,14,14,0.9,0.9,0.7,14,2,178,262,67.9,14,149,8,12,8,Nottingham Forest

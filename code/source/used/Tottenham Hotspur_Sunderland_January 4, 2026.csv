@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Richarlison,9.0,br BRA,FW,28-239,90,0,0,0,0,3,1,0,0,30,0,0,0,0.2,0.2,0.0,2,0,10,14,71.4,2,19,4,2,1,Tottenham Hotspur
+Mathys Tel,11.0,fr FRA,LW,20-252,87,0,0,0,0,2,1,0,0,39,1,0,1,0.1,0.1,0.0,1,0,20,27,74.1,1,26,5,3,1,Tottenham Hotspur
+Dane Scarlett,44.0,eng ENG,LW,21-286,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,0,0,Tottenham Hotspur
+Mohammed Kudus,20.0,gh GHA,RW,25-155,18,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,2,0,0,Tottenham Hotspur
+Randal Kolo Muani,39.0,fr FRA,RW,27-030,72,0,0,0,0,1,0,0,0,24,0,0,1,0.1,0.1,0.1,3,0,13,18,72.2,1,19,6,6,5,Tottenham Hotspur
+Wilson Odobert,28.0,fr FRA,AM,21-037,71,0,0,0,0,0,0,0,0,26,0,0,4,0.0,0.0,0.1,4,0,14,19,73.7,1,17,1,0,0,Tottenham Hotspur
+Lucas Bergvall,15.0,se SWE,AM,19-336,19,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,2,0,7,8,87.5,0,3,0,1,1,Tottenham Hotspur
+Archie Gray,14.0,eng ENG,DM,19-298,71,0,0,0,0,1,0,0,0,31,1,2,1,0.0,0.0,0.0,0,0,18,22,81.8,1,18,1,0,0,Tottenham Hotspur
+João Palhinha,6.0,pt POR,DM,30-179,19,0,0,0,0,2,0,1,0,14,1,0,0,0.1,0.1,0.0,0,0,4,8,50.0,1,6,0,0,0,Tottenham Hotspur
+Rodrigo Bentancur,30.0,uy URU,DM,28-193,90,0,0,0,0,0,0,1,0,64,3,3,1,0.0,0.0,0.0,2,0,43,57,75.4,0,42,0,1,1,Tottenham Hotspur
+Ben Davies,33.0,wls WAL,LB,32-255,87,1,0,0,0,2,2,0,0,58,1,0,1,0.5,0.5,0.1,1,0,40,50,80.0,3,29,1,0,0,Tottenham Hotspur
+Djed Spence,24.0,eng ENG,LB,25-148,3,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,2,1,Tottenham Hotspur
+Micky van de Ven,37.0,nl NED,CB,24-260,90,0,1,0,0,1,0,0,0,44,2,1,1,0.1,0.1,0.5,1,1,30,33,90.9,0,25,1,0,0,Tottenham Hotspur
+Cristian Romero,17.0,ar ARG,CB,27-252,90,0,0,0,0,0,0,0,0,55,0,1,0,0.0,0.0,0.1,1,0,41,47,87.2,4,35,0,0,0,Tottenham Hotspur
+Pedro Porro,23.0,es ESP,RB,26-113,90,0,0,0,0,1,0,0,0,80,5,1,3,0.0,0.0,0.2,5,0,44,64,68.8,6,39,8,2,0,Tottenham Hotspur
+Guglielmo Vicario,1.0,it ITA,GK,29-089,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,24,39,61.5,0,32,0,0,0,Tottenham Hotspur
+16 Players,,,,,990,1,1,0,0,13,4,2,0,529,15,8,13,1.2,1.2,1.1,22,1,314,415,75.7,20,319,29,17,10,Tottenham Hotspur
+Brian Brobbey,9.0,nl NED,FW,23-337,90,1,0,0,0,3,1,0,0,17,0,0,1,0.1,0.1,0.0,3,1,6,8,75.0,2,6,0,0,0,Sunderland
+Eliezer Mayenda,12.0,es ESP,"FW,RW",20-241,81,0,0,0,0,1,1,0,0,14,1,0,0,0.1,0.1,0.0,1,0,4,7,57.1,1,14,0,2,1,Sunderland
+Chris Rigg,11.0,eng ENG,RW,18-200,9,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,Sunderland
+Simon Adingra,24.0,ci CIV,"LM,RM",24-003,65,0,0,0,0,1,0,0,0,33,0,1,3,0.1,0.1,0.0,0,0,19,24,79.2,2,16,0,3,0,Sunderland
+Daniel Ballard,5.0,nir NIR,CB,26-104,25,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,11,17,64.7,2,11,0,0,0,Sunderland
+Enzo Le Fée,28.0,fr FRA,"CM,AM",25-335,90,0,1,0,0,2,0,1,0,57,5,1,1,0.1,0.1,0.1,3,1,35,49,71.4,4,30,3,2,1,Sunderland
+Granit Xhaka,34.0,ch SUI,"CM,DM",33-099,90,0,0,0,0,0,0,0,0,79,3,1,1,0.0,0.0,0.0,3,0,52,69,75.4,11,44,3,1,1,Sunderland
+Trai Hume,32.0,nir NIR,"RM,LB",23-292,90,0,0,0,0,2,1,0,0,53,2,1,0,0.0,0.0,0.1,3,0,27,42,64.3,2,23,0,1,0,Sunderland
+Dennis Cirkin,3.0,eng ENG,LB,23-273,58,0,0,0,0,0,0,1,0,28,1,0,1,0.0,0.0,0.0,0,0,17,23,73.9,0,17,1,1,1,Sunderland
+Romaine Mundle,14.0,eng ENG,"LW,LM",22-255,32,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,10,1,2,1,Sunderland
+Omar Alderete,15.0,py PAR,CB,29-009,90,0,0,0,0,1,0,1,0,61,0,1,3,0.0,0.0,0.0,1,0,40,49,81.6,3,33,1,1,1,Sunderland
+Nordi Mukiele,20.0,fr FRA,"CB,RB",28-064,90,0,0,0,0,0,0,0,0,68,2,2,0,0.0,0.0,0.1,3,0,43,58,74.1,2,37,1,2,1,Sunderland
+Lutsharel Geertruida,6.0,nl NED,"RB,DM",25-170,90,0,0,0,0,0,0,0,0,44,2,2,0,0.0,0.0,0.0,2,0,30,37,81.1,3,19,0,0,0,Sunderland
+Robin Roefs,22.0,nl NED,GK,22-352,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,29,40,72.5,0,27,0,0,0,Sunderland
+14 Players,,,,,990,1,1,0,0,10,3,3,0,536,17,9,10,0.4,0.4,0.4,19,2,320,431,74.2,33,287,10,15,7,Sunderland

@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons,Team
+Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,
+Raúl Jiménez,7.0,mx MEX,FW,34-244,84,0,1,0,0,3,0,0,0,31,2,1,1,0.2,0.2,0.1,1,1,9,17,52.9,2,15,1,3,1,Fulham
+Jonah Kusi-Asare,18.0,se SWE,FW,18-184,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Fulham
+Emile Smith Rowe,32.0,eng ENG,AM,25-160,73,0,0,0,0,0,0,0,0,42,0,4,1,0.0,0.0,0.0,0,0,30,35,85.7,6,27,3,1,1,Fulham
+Kevin,22.0,br BRA,AM,23-000,17,0,1,0,0,1,0,0,0,13,2,0,1,0.1,0.1,0.0,1,1,4,4,100.0,0,6,1,1,0,Fulham
+Harry Wilson,8.0,wls WAL,AM,28-288,84,1,0,0,0,3,1,1,0,33,0,0,0,0.4,0.4,0.0,2,0,21,26,80.8,2,18,2,1,1,Fulham
+Adama Traoré,11.0,es ESP,AM,29-344,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,1,0,0,Fulham
+Tom Cairney,10.0,sct SCO,CM,34-349,73,0,0,0,0,0,0,0,0,73,1,1,0,0.0,0.0,0.1,1,0,62,67,92.5,3,36,0,2,1,Fulham
+Sander Berge,16.0,no NOR,CM,27-324,17,0,0,0,0,0,0,0,0,12,2,0,0,0.0,0.0,0.0,1,0,8,10,80.0,2,7,0,0,0,Fulham
+Saša Lukić,20.0,rs SRB,CM,29-144,89,0,0,0,0,0,0,0,0,51,0,1,0,0.0,0.0,0.0,1,0,40,46,87.0,2,28,5,0,0,Fulham
+Harrison Reed,6.0,eng ENG,CM,30-342,1,1,0,0,0,1,1,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Fulham
+Antonee Robinson,33.0,us USA,WB,28-149,90,0,0,0,0,0,0,0,0,77,2,1,3,0.0,0.0,0.1,5,1,45,64,70.3,6,38,4,1,1,Fulham
+Timothy Castagne,21.0,be BEL,WB,30-030,90,0,0,0,0,0,0,0,0,52,1,1,1,0.0,0.0,0.1,2,0,39,41,95.1,1,24,2,0,0,Fulham
+Jorge Cuenca,15.0,es ESP,CB,26-048,90,0,0,0,0,0,0,0,0,55,3,0,1,0.0,0.0,0.0,1,1,32,40,80.0,3,24,0,0,0,Fulham
+Joachim Andersen,5.0,dk DEN,CB,29-218,90,0,0,0,0,0,0,0,0,81,0,1,1,0.0,0.0,0.0,0,0,54,67,80.6,2,44,0,0,0,Fulham
+Issa Diop,31.0,fr FRA,CB,28-360,90,0,0,0,0,0,0,0,0,52,1,0,1,0.0,0.0,0.0,0,0,32,38,84.2,1,26,1,0,0,Fulham
+Bernd Leno,1.0,de GER,GK,33-306,90,0,0,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.0,0,0,28,39,71.8,0,26,0,0,0,Fulham
+16 Players,,,,,990,2,2,0,0,8,2,1,0,623,15,10,11,0.7,0.7,0.5,15,4,408,499,81.8,30,324,20,9,5,Fulham
+Cody Gakpo,18.0,nl NED,"FW,LW",26-242,89,1,0,0,0,5,1,1,0,26,0,0,0,0.6,0.6,0.0,2,0,13,17,76.5,4,19,4,1,1,Liverpool
+Joe Gomez,2.0,eng ENG,CB,28-226,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Liverpool
+Curtis Jones,17.0,eng ENG,LW,24-339,84,0,0,0,0,1,0,0,0,63,0,0,1,0.3,0.3,0.2,3,0,54,60,90.0,3,45,1,1,1,Liverpool
+Federico Chiesa,14.0,it ITA,FW,28-071,6,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Liverpool
+Dominik Szoboszlai,8.0,hu HUN,"RW,AM,LM",25-071,90,0,0,0,0,1,0,0,0,71,0,0,0,0.1,0.1,0.1,2,0,47,65,72.3,5,36,2,1,0,Liverpool
+Florian Wirtz,7.0,de GER,AM,22-246,75,1,0,0,0,2,1,0,0,72,1,0,0,0.4,0.4,0.3,3,0,49,61,80.3,5,43,1,1,0,Liverpool
+Jeremie Frimpong,30.0,nl NED,"RW,RM",25-025,15,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,4,10,40.0,0,9,0,2,1,Liverpool
+Alexis Mac Allister,10.0,ar ARG,"DM,CM",27-011,90,0,0,0,0,1,0,0,0,88,1,2,0,0.1,0.1,0.0,1,0,69,78,88.5,8,60,2,1,0,Liverpool
+Ryan Gravenberch,38.0,nl NED,"DM,CM",23-233,90,0,0,0,0,0,0,0,0,90,1,1,0,0.0,0.0,0.0,4,1,69,76,90.8,3,55,1,2,0,Liverpool
+Milos Kerkez,6.0,hu HUN,LB,22-058,90,0,0,0,0,0,0,0,0,66,1,1,1,0.0,0.0,0.0,1,0,52,62,83.9,6,41,1,0,0,Liverpool
+Virgil van Dijk,4.0,nl NED,CB,34-180,90,0,0,0,0,0,0,0,0,94,0,0,1,0.0,0.0,0.0,0,0,77,88,87.5,8,68,1,0,0,Liverpool
+Ibrahima Konaté,5.0,fr FRA,CB,26-224,90,0,0,0,0,0,0,0,0,90,0,0,1,0.0,0.0,0.0,0,0,74,81,91.4,10,57,1,1,1,Liverpool
+Conor Bradley,12.0,nir NIR,RB,22-179,90,0,1,0,0,0,0,0,0,88,3,1,2,0.0,0.0,0.4,2,2,60,70,85.7,4,51,4,1,0,Liverpool
+Alisson,1.0,br BRA,GK,33-094,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,27,28,96.4,0,19,0,0,0,Liverpool
+14 Players,,,,,990,2,1,0,0,10,2,1,0,794,7,5,7,1.4,1.4,0.9,18,3,595,697,85.4,56,503,18,11,4,Liverpool
